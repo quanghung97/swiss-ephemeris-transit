@@ -358,7 +358,7 @@ def main():
     
     # Cấu hình tính toán
     year = 2025
-    month = 8
+    month = 9
     timezone_offset = 7.0  # UTC+7 cho Việt Nam
     
     print(f"📅 Tháng: {month}/{year}")
