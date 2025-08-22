@@ -1,0 +1,17 @@
+﻿datetime,event,planet,from_sign,to_sign,degree,longitude
+2025-08-03 01:30:00,Ingress,Moon,Libra,Scorpio,"0°03'36""",210.060167
+2025-08-05 13:00:00,Ingress,Moon,Scorpio,Sagittarius,"0°03'34""",240.059708
+2025-08-07 21:45:00,Ingress,Moon,Sagittarius,Capricorn,"0°02'00""",270.033441
+2025-08-10 03:45:00,Ingress,Moon,Capricorn,Aquarius,"0°02'06""",300.035076
+2025-08-12 07:45:00,Ingress,Moon,Aquarius,Pisces,"0°02'36""",330.043509
+2025-08-14 10:45:00,Ingress,Moon,Pisces,Aries,"0°05'16""",0.087889
+2025-08-16 13:15:00,Ingress,Moon,Aries,Taurus,"0°00'41""",30.011413
+2025-08-17 03:30:00,Ingress,Sun,Cancer,Leo,"0°00'17""",120.004724
+2025-08-18 16:15:00,Ingress,Moon,Taurus,Gemini,"0°02'37""",60.043763
+2025-08-20 20:15:00,Ingress,Moon,Gemini,Cancer,"0°05'24""",90.090235
+2025-08-21 03:00:00,Ingress,Venus,Gemini,Cancer,"0°00'30""",90.008384
+2025-08-23 02:00:00,Ingress,Moon,Cancer,Leo,"0°07'13""",120.120389
+2025-08-25 10:00:00,Ingress,Moon,Leo,Virgo,"0°00'33""",150.009437
+2025-08-27 21:00:00,Ingress,Moon,Virgo,Libra,"0°04'14""",180.07079
+2025-08-30 09:30:00,Ingress,Moon,Libra,Scorpio,"0°03'20""",210.055647
+2025-08-30 18:30:00,Ingress,Mercury,Cancer,Leo,"0°01'05""",120.018323

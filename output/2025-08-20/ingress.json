@@ -1,0 +1,11 @@
+[
+  {
+    "datetime": "2025-08-20 20:15:00",
+    "event": "Ingress",
+    "planet": "Moon",
+    "from_sign": "Gemini",
+    "to_sign": "Cancer",
+    "degree": "0°05'24\"",
+    "longitude": 90.090235
+  }
+]
