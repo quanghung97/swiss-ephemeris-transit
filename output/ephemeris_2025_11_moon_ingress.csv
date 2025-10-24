@@ -1,0 +1,14 @@
+﻿datetime,event,planet,from_sign,to_sign,degree,longitude
+2025-11-02 13:00:00,Ingress,Moon,Aquarius,Pisces,"0°01'39.88""",330.027745
+2025-11-04 14:15:00,Ingress,Moon,Pisces,Aries,"0°06'26.15""",0.107263
+2025-11-06 13:30:00,Ingress,Moon,Aries,Taurus,"0°08'11.70""",30.136584
+2025-11-08 12:45:00,Ingress,Moon,Taurus,Gemini,"0°00'18.70""",60.005195
+2025-11-10 14:45:00,Ingress,Moon,Gemini,Cancer,"0°06'51.12""",90.1142
+2025-11-12 20:15:00,Ingress,Moon,Cancer,Leo,"0°05'04.78""",120.084661
+2025-11-15 05:30:00,Ingress,Moon,Leo,Virgo,"0°04'16.18""",150.071161
+2025-11-17 17:15:00,Ingress,Moon,Virgo,Libra,"0°04'54.46""",180.081794
+2025-11-20 05:45:00,Ingress,Moon,Libra,Scorpio,"0°00'26.87""",210.007463
+2025-11-22 18:30:00,Ingress,Moon,Scorpio,Sagittarius,"0°06'26.26""",240.107296
+2025-11-25 06:00:00,Ingress,Moon,Sagittarius,Capricorn,"0°01'28.62""",270.024616
+2025-11-27 15:45:00,Ingress,Moon,Capricorn,Aquarius,"0°04'00.04""",300.066678
+2025-11-29 22:15:00,Ingress,Moon,Aquarius,Pisces,"0°06'28.36""",330.107878

@@ -1,0 +1,15 @@
+﻿datetime,event,type,planet1,planet1_sign,planet1_degree,planet2,planet2_sign,planet2_degree,exact_angle,difference,orb
+2025-11-03 03:45:00,Aspect,Trine,Moon,Pisces,"8°50'44.46""",Mercury,Scorpio,"9°43'56.87""",120,119.1132,0.8868
+2025-11-03 04:00:00,Aspect,Trine,Moon,Pisces,"8°59'47.96""",Mercury,Scorpio,"9°44'25.19""",120,119.2563,0.7437
+2025-11-03 04:15:00,Aspect,Trine,Moon,Pisces,"9°08'51.64""",Mercury,Scorpio,"9°44'53.48""",120,119.3995,0.6005
+2025-11-03 04:30:00,Aspect,Trine,Moon,Pisces,"9°17'55.49""",Mercury,Scorpio,"9°45'21.74""",120,119.5427,0.4573
+2025-11-03 04:45:00,Aspect,Trine,Moon,Pisces,"9°26'59.52""",Mercury,Scorpio,"9°45'49.97""",120,119.686,0.314
+2025-11-03 05:00:00,Aspect,Trine,Moon,Pisces,"9°36'03.73""",Mercury,Scorpio,"9°46'18.17""",120,119.8293,0.1707
+2025-11-03 05:15:00,Aspect,Trine,Moon,Pisces,"9°45'08.11""",Mercury,Scorpio,"9°46'46.34""",120,119.9727,0.0273
+2025-11-03 05:30:00,Aspect,Trine,Moon,Pisces,"9°54'12.67""",Mercury,Scorpio,"9°47'14.48""",120,120.1162,0.1162
+2025-11-03 05:45:00,Aspect,Trine,Moon,Pisces,"10°03'17.41""",Mercury,Scorpio,"9°47'42.60""",120,120.2597,0.2597
+2025-11-03 06:00:00,Aspect,Trine,Moon,Pisces,"10°12'22.32""",Mercury,Scorpio,"9°48'10.68""",120,120.4032,0.4032
+2025-11-03 06:15:00,Aspect,Trine,Moon,Pisces,"10°21'27.41""",Mercury,Scorpio,"9°48'38.73""",120,120.5469,0.5469
+2025-11-03 06:30:00,Aspect,Trine,Moon,Pisces,"10°30'32.67""",Mercury,Scorpio,"9°49'06.76""",120,120.6905,0.6905
+2025-11-03 06:45:00,Aspect,Trine,Moon,Pisces,"10°39'38.11""",Mercury,Scorpio,"9°49'34.75""",120,120.8343,0.8343
+2025-11-03 07:00:00,Aspect,Trine,Moon,Pisces,"10°48'43.72""",Mercury,Scorpio,"9°50'02.72""",120,120.9781,0.9781

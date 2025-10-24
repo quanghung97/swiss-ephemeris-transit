@@ -1,0 +1,168 @@
+{
+  "metadata": {
+    "year": 2025,
+    "month": 11,
+    "timezone_offset": 7.0,
+    "calculation_time": "2025-10-23T11:50:53.476003",
+    "ephemeris_type": "Swiss Ephemeris",
+    "coordinate_system": "Sidereal Zodiac (Lahiri)",
+    "node_type": "Mean Node",
+    "description": "Hourly planetary positions calculated using Swiss Ephemeris"
+  },
+  "total_records": 17,
+  "data": [
+    {
+      "datetime": "2025-11-02 13:00:00",
+      "event": "Ingress",
+      "planet": "Moon",
+      "from_sign": "Aquarius",
+      "to_sign": "Pisces",
+      "degree": "0°01'39.88\"",
+      "longitude": 330.027745
+    },
+    {
+      "datetime": "2025-11-02 15:00:00",
+      "event": "Ingress",
+      "planet": "Venus",
+      "from_sign": "Virgo",
+      "to_sign": "Libra",
+      "degree": "0°00'44.33\"",
+      "longitude": 180.012315
+    },
+    {
+      "datetime": "2025-11-04 14:15:00",
+      "event": "Ingress",
+      "planet": "Moon",
+      "from_sign": "Pisces",
+      "to_sign": "Aries",
+      "degree": "0°06'26.15\"",
+      "longitude": 0.107263
+    },
+    {
+      "datetime": "2025-11-06 13:30:00",
+      "event": "Ingress",
+      "planet": "Moon",
+      "from_sign": "Aries",
+      "to_sign": "Taurus",
+      "degree": "0°08'11.70\"",
+      "longitude": 30.136584
+    },
+    {
+      "datetime": "2025-11-08 12:45:00",
+      "event": "Ingress",
+      "planet": "Moon",
+      "from_sign": "Taurus",
+      "to_sign": "Gemini",
+      "degree": "0°00'18.70\"",
+      "longitude": 60.005195
+    },
+    {
+      "datetime": "2025-11-10 14:45:00",
+      "event": "Ingress",
+      "planet": "Moon",
+      "from_sign": "Gemini",
+      "to_sign": "Cancer",
+      "degree": "0°06'51.12\"",
+      "longitude": 90.1142
+    },
+    {
+      "datetime": "2025-11-12 20:15:00",
+      "event": "Ingress",
+      "planet": "Moon",
+      "from_sign": "Cancer",
+      "to_sign": "Leo",
+      "degree": "0°05'04.78\"",
+      "longitude": 120.084661
+    },
+    {
+      "datetime": "2025-11-15 05:30:00",
+      "event": "Ingress",
+      "planet": "Moon",
+      "from_sign": "Leo",
+      "to_sign": "Virgo",
+      "degree": "0°04'16.18\"",
+      "longitude": 150.071161
+    },
+    {
+      "datetime": "2025-11-16 15:15:00",
+      "event": "Ingress",
+      "planet": "Sun",
+      "from_sign": "Libra",
+      "to_sign": "Scorpio",
+      "degree": "0°00'18.57\"",
+      "longitude": 210.005158
+    },
+    {
+      "datetime": "2025-11-17 17:15:00",
+      "event": "Ingress",
+      "planet": "Moon",
+      "from_sign": "Virgo",
+      "to_sign": "Libra",
+      "degree": "0°04'54.46\"",
+      "longitude": 180.081794
+    },
+    {
+      "datetime": "2025-11-20 05:45:00",
+      "event": "Ingress",
+      "planet": "Moon",
+      "from_sign": "Libra",
+      "to_sign": "Scorpio",
+      "degree": "0°00'26.87\"",
+      "longitude": 210.007463
+    },
+    {
+      "datetime": "2025-11-22 18:30:00",
+      "event": "Ingress",
+      "planet": "Moon",
+      "from_sign": "Scorpio",
+      "to_sign": "Sagittarius",
+      "degree": "0°06'26.26\"",
+      "longitude": 240.107296
+    },
+    {
+      "datetime": "2025-11-23 21:45:00",
+      "event": "Ingress",
+      "planet": "Mercury",
+      "from_sign": "Scorpio",
+      "to_sign": "Libra",
+      "degree": "29°59'37.79\"",
+      "longitude": 209.993831
+    },
+    {
+      "datetime": "2025-11-25 06:00:00",
+      "event": "Ingress",
+      "planet": "Moon",
+      "from_sign": "Sagittarius",
+      "to_sign": "Capricorn",
+      "degree": "0°01'28.62\"",
+      "longitude": 270.024616
+    },
+    {
+      "datetime": "2025-11-26 13:00:00",
+      "event": "Ingress",
+      "planet": "Venus",
+      "from_sign": "Libra",
+      "to_sign": "Scorpio",
+      "degree": "0°00'24.43\"",
+      "longitude": 210.006786
+    },
+    {
+      "datetime": "2025-11-27 15:45:00",
+      "event": "Ingress",
+      "planet": "Moon",
+      "from_sign": "Capricorn",
+      "to_sign": "Aquarius",
+      "degree": "0°04'00.04\"",
+      "longitude": 300.066678
+    },
+    {
+      "datetime": "2025-11-29 22:15:00",
+      "event": "Ingress",
+      "planet": "Moon",
+      "from_sign": "Aquarius",
+      "to_sign": "Pisces",
+      "degree": "0°06'28.36\"",
+      "longitude": 330.107878
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+﻿datetime,event,type,planet1,planet1_sign,planet1_degree,planet2,planet2_sign,planet2_degree,exact_angle,difference,orb
+2025-11-28 12:00:00,Aspect,Square,Sun,Scorpio,"11°59'32.81""",Moon,Aquarius,"10°59'37.62""",90,89.0013,0.9987
+2025-11-28 12:15:00,Aspect,Square,Sun,Scorpio,"12°00'10.77""",Moon,Aquarius,"11°07'49.05""",90,89.1273,0.8727
+2025-11-28 12:30:00,Aspect,Square,Sun,Scorpio,"12°00'48.74""",Moon,Aquarius,"11°16'00.63""",90,89.2533,0.7467
+2025-11-28 12:45:00,Aspect,Square,Sun,Scorpio,"12°01'26.70""",Moon,Aquarius,"11°24'12.36""",90,89.3794,0.6206
+2025-11-28 13:00:00,Aspect,Square,Sun,Scorpio,"12°02'04.66""",Moon,Aquarius,"11°32'24.24""",90,89.5054,0.4946
+2025-11-28 13:15:00,Aspect,Square,Sun,Scorpio,"12°02'42.63""",Moon,Aquarius,"11°40'36.26""",90,89.6316,0.3684
+2025-11-28 13:30:00,Aspect,Square,Sun,Scorpio,"12°03'20.59""",Moon,Aquarius,"11°48'48.44""",90,89.7577,0.2423
+2025-11-28 13:45:00,Aspect,Square,Sun,Scorpio,"12°03'58.55""",Moon,Aquarius,"11°57'00.76""",90,89.8839,0.1161
+2025-11-28 14:00:00,Aspect,Square,Sun,Scorpio,"12°04'36.52""",Moon,Aquarius,"12°05'13.24""",90,90.0102,0.0102
+2025-11-28 14:15:00,Aspect,Square,Sun,Scorpio,"12°05'14.48""",Moon,Aquarius,"12°13'25.86""",90,90.1365,0.1365
+2025-11-28 14:30:00,Aspect,Square,Sun,Scorpio,"12°05'52.45""",Moon,Aquarius,"12°21'38.64""",90,90.2628,0.2628
+2025-11-28 14:45:00,Aspect,Square,Sun,Scorpio,"12°06'30.41""",Moon,Aquarius,"12°29'51.56""",90,90.3892,0.3892
+2025-11-28 15:00:00,Aspect,Square,Sun,Scorpio,"12°07'08.38""",Moon,Aquarius,"12°38'04.64""",90,90.5156,0.5156
+2025-11-28 15:15:00,Aspect,Square,Sun,Scorpio,"12°07'46.34""",Moon,Aquarius,"12°46'17.87""",90,90.6421,0.6421
+2025-11-28 15:30:00,Aspect,Square,Sun,Scorpio,"12°08'24.30""",Moon,Aquarius,"12°54'31.25""",90,90.7686,0.7686
+2025-11-28 15:45:00,Aspect,Square,Sun,Scorpio,"12°09'02.27""",Moon,Aquarius,"13°02'44.79""",90,90.8951,0.8951
