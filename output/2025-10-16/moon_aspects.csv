@@ -1,0 +1,21 @@
+﻿datetime,event,type,planet1,planet1_sign,planet1_degree,planet2,planet2_sign,planet2_degree,exact_angle,difference,orb
+2025-10-16 00:00:00,Aspect,Square,Moon,Cancer,"22°22'18.15""",Mars,Libra,"21°46'17.26""",90,89.3998,0.6002
+2025-10-16 00:15:00,Aspect,Square,Moon,Cancer,"22°30'24.64""",Mars,Libra,"21°46'43.36""",90,89.2719,0.7281
+2025-10-16 00:30:00,Aspect,Square,Moon,Cancer,"22°38'31.02""",Mars,Libra,"21°47'09.46""",90,89.144,0.856
+2025-10-16 00:45:00,Aspect,Square,Moon,Cancer,"22°46'37.28""",Mars,Libra,"21°47'35.57""",90,89.0162,0.9838
+2025-10-16 10:15:00,Aspect,Sextile,Sun,Virgo,"28°48'01.40""",Moon,Cancer,"27°53'09.65""",60,60.9144,0.9144
+2025-10-16 10:30:00,Aspect,Sextile,Sun,Virgo,"28°48'38.59""",Moon,Cancer,"28°01'11.46""",60,60.7909,0.7909
+2025-10-16 10:45:00,Aspect,Sextile,Sun,Virgo,"28°49'15.77""",Moon,Cancer,"28°09'13.17""",60,60.6674,0.6674
+2025-10-16 11:00:00,Aspect,Sextile,Sun,Virgo,"28°49'52.96""",Moon,Cancer,"28°17'14.76""",60,60.5439,0.5439
+2025-10-16 11:15:00,Aspect,Sextile,Sun,Virgo,"28°50'30.15""",Moon,Cancer,"28°25'16.25""",60,60.4205,0.4205
+2025-10-16 11:30:00,Aspect,Sextile,Sun,Virgo,"28°51'07.34""",Moon,Cancer,"28°33'17.63""",60,60.2971,0.2971
+2025-10-16 11:45:00,Aspect,Sextile,Sun,Virgo,"28°51'44.53""",Moon,Cancer,"28°41'18.89""",60,60.1738,0.1738
+2025-10-16 12:00:00,Aspect,Sextile,Sun,Virgo,"28°52'21.72""",Moon,Cancer,"28°49'20.05""",60,60.0505,0.0505
+2025-10-16 12:15:00,Aspect,Sextile,Sun,Virgo,"28°52'58.91""",Moon,Cancer,"28°57'21.10""",60,59.9272,0.0728
+2025-10-16 12:30:00,Aspect,Sextile,Sun,Virgo,"28°53'36.10""",Moon,Cancer,"29°05'22.05""",60,59.8039,0.1961
+2025-10-16 12:45:00,Aspect,Sextile,Sun,Virgo,"28°54'13.29""",Moon,Cancer,"29°13'22.88""",60,59.6807,0.3193
+2025-10-16 13:00:00,Aspect,Sextile,Sun,Virgo,"28°54'50.48""",Moon,Cancer,"29°21'23.61""",60,59.5575,0.4425
+2025-10-16 13:15:00,Aspect,Sextile,Sun,Virgo,"28°55'27.67""",Moon,Cancer,"29°29'24.22""",60,59.4343,0.5657
+2025-10-16 13:30:00,Aspect,Sextile,Sun,Virgo,"28°56'04.86""",Moon,Cancer,"29°37'24.74""",60,59.3111,0.6889
+2025-10-16 13:45:00,Aspect,Sextile,Sun,Virgo,"28°56'42.05""",Moon,Cancer,"29°45'25.14""",60,59.188,0.812
+2025-10-16 14:00:00,Aspect,Sextile,Sun,Virgo,"28°57'19.24""",Moon,Cancer,"29°53'25.44""",60,59.0649,0.9351

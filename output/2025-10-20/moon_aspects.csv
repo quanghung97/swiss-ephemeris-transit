@@ -1,0 +1,16 @@
+﻿datetime,event,type,planet1,planet1_sign,planet1_degree,planet2,planet2_sign,planet2_degree,exact_angle,difference,orb
+2025-10-20 00:00:00,Aspect,Conjunction,Moon,Virgo,"12°21'51.34""",Venus,Virgo,"13°00'50.97""",0,0.6499,0.6499
+2025-10-20 00:15:00,Aspect,Conjunction,Moon,Virgo,"12°29'26.56""",Venus,Virgo,"13°01'37.64""",0,0.5364,0.5364
+2025-10-20 00:30:00,Aspect,Conjunction,Moon,Virgo,"12°37'01.73""",Venus,Virgo,"13°02'24.30""",0,0.4229,0.4229
+2025-10-20 00:45:00,Aspect,Conjunction,Moon,Virgo,"12°44'36.85""",Venus,Virgo,"13°03'10.96""",0,0.3095,0.3095
+2025-10-20 01:00:00,Aspect,Conjunction,Moon,Virgo,"12°52'11.92""",Venus,Virgo,"13°03'57.63""",0,0.196,0.196
+2025-10-20 01:15:00,Aspect,Conjunction,Moon,Virgo,"12°59'46.94""",Venus,Virgo,"13°04'44.29""",0,0.0826,0.0826
+2025-10-20 01:30:00,Aspect,Conjunction,Moon,Virgo,"13°07'21.92""",Venus,Virgo,"13°05'30.96""",0,0.0308,0.0308
+2025-10-20 01:45:00,Aspect,Conjunction,Moon,Virgo,"13°14'56.84""",Venus,Virgo,"13°06'17.62""",0,0.1442,0.1442
+2025-10-20 02:00:00,Aspect,Conjunction,Moon,Virgo,"13°22'31.71""",Venus,Virgo,"13°07'04.29""",0,0.2576,0.2576
+2025-10-20 02:15:00,Aspect,Conjunction,Moon,Virgo,"13°30'06.54""",Venus,Virgo,"13°07'50.95""",0,0.371,0.371
+2025-10-20 02:30:00,Aspect,Conjunction,Moon,Virgo,"13°37'41.31""",Venus,Virgo,"13°08'37.62""",0,0.4844,0.4844
+2025-10-20 02:45:00,Aspect,Conjunction,Moon,Virgo,"13°45'16.04""",Venus,Virgo,"13°09'24.28""",0,0.5977,0.5977
+2025-10-20 03:00:00,Aspect,Conjunction,Moon,Virgo,"13°52'50.71""",Venus,Virgo,"13°10'10.95""",0,0.711,0.711
+2025-10-20 03:15:00,Aspect,Conjunction,Moon,Virgo,"14°00'25.34""",Venus,Virgo,"13°10'57.61""",0,0.8244,0.8244
+2025-10-20 03:30:00,Aspect,Conjunction,Moon,Virgo,"14°07'59.92""",Venus,Virgo,"13°11'44.28""",0,0.9377,0.9377

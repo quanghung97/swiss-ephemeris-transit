@@ -1,0 +1,15 @@
+﻿datetime,event,type,planet1,planet1_sign,planet1_degree,planet2,planet2_sign,planet2_degree,exact_angle,difference,orb
+2025-10-07 09:15:00,Aspect,Opposition,Sun,Virgo,"19°51'36.58""",Moon,Pisces,"18°58'00.13""",180,179.1065,0.8935
+2025-10-07 09:30:00,Aspect,Opposition,Sun,Virgo,"19°52'13.55""",Moon,Pisces,"19°07'17.84""",180,179.2512,0.7488
+2025-10-07 09:45:00,Aspect,Opposition,Sun,Virgo,"19°52'50.53""",Moon,Pisces,"19°16'35.64""",180,179.3959,0.6041
+2025-10-07 10:00:00,Aspect,Opposition,Sun,Virgo,"19°53'27.50""",Moon,Pisces,"19°25'53.53""",180,179.5406,0.4594
+2025-10-07 10:15:00,Aspect,Opposition,Sun,Virgo,"19°54'04.48""",Moon,Pisces,"19°35'11.51""",180,179.6853,0.3147
+2025-10-07 10:30:00,Aspect,Opposition,Sun,Virgo,"19°54'41.45""",Moon,Pisces,"19°44'29.57""",180,179.83,0.17
+2025-10-07 10:45:00,Aspect,Opposition,Sun,Virgo,"19°55'18.43""",Moon,Pisces,"19°53'47.72""",180,179.9748,0.0252
+2025-10-07 11:00:00,Aspect,Opposition,Sun,Virgo,"19°55'55.41""",Moon,Pisces,"20°03'05.96""",180,179.8804,0.1196
+2025-10-07 11:15:00,Aspect,Opposition,Sun,Virgo,"19°56'32.38""",Moon,Pisces,"20°12'24.29""",180,179.7356,0.2644
+2025-10-07 11:30:00,Aspect,Opposition,Sun,Virgo,"19°57'09.36""",Moon,Pisces,"20°21'42.70""",180,179.5907,0.4093
+2025-10-07 11:45:00,Aspect,Opposition,Sun,Virgo,"19°57'46.34""",Moon,Pisces,"20°31'01.19""",180,179.4459,0.5541
+2025-10-07 12:00:00,Aspect,Opposition,Sun,Virgo,"19°58'23.31""",Moon,Pisces,"20°40'19.77""",180,179.301,0.699
+2025-10-07 12:15:00,Aspect,Opposition,Sun,Virgo,"19°59'00.29""",Moon,Pisces,"20°49'38.44""",180,179.1561,0.8439
+2025-10-07 12:30:00,Aspect,Opposition,Sun,Virgo,"19°59'37.27""",Moon,Pisces,"20°58'57.18""",180,179.0111,0.9889

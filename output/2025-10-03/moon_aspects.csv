@@ -1,0 +1,3 @@
+﻿datetime,event,type,planet1,planet1_sign,planet1_degree,planet2,planet2_sign,planet2_degree,exact_angle,difference,orb
+2025-10-03 23:30:00,Aspect,Trine,Moon,Aquarius,"0°18'14.86""",Mercury,Libra,"1°11'01.48""",120,119.1204,0.8796
+2025-10-03 23:45:00,Aspect,Trine,Moon,Aquarius,"0°26'44.22""",Mercury,Libra,"1°11'59.59""",120,119.2457,0.7543

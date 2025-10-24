@@ -1,0 +1,30 @@
+[
+  {
+    "datetime": "2025-10-03 23:30:00",
+    "event": "Aspect",
+    "type": "Trine",
+    "planet1": "Moon",
+    "planet1_sign": "Aquarius",
+    "planet1_degree": "0°18'14.86\"",
+    "planet2": "Mercury",
+    "planet2_sign": "Libra",
+    "planet2_degree": "1°11'01.48\"",
+    "exact_angle": 120,
+    "difference": 119.1204,
+    "orb": 0.8796
+  },
+  {
+    "datetime": "2025-10-03 23:45:00",
+    "event": "Aspect",
+    "type": "Trine",
+    "planet1": "Moon",
+    "planet1_sign": "Aquarius",
+    "planet1_degree": "0°26'44.22\"",
+    "planet2": "Mercury",
+    "planet2_sign": "Libra",
+    "planet2_degree": "1°11'59.59\"",
+    "exact_angle": 120,
+    "difference": 119.2457,
+    "orb": 0.7543
+  }
+]

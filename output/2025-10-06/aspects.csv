@@ -1,0 +1,22 @@
+﻿datetime,event,type,planet1,planet1_sign,planet1_degree,planet2,planet2_sign,planet2_degree,exact_angle,difference,orb
+2025-10-06 00:00:00,Aspect,Trine,Moon,Aquarius,"28°38'18.76""",Jupiter,Gemini,"28°47'35.75""",120,120.1547,0.1547
+2025-10-06 00:15:00,Aspect,Trine,Moon,Aquarius,"28°47'20.35""",Jupiter,Gemini,"28°47'39.90""",120,120.0054,0.0054
+2025-10-06 00:30:00,Aspect,Trine,Moon,Aquarius,"28°56'22.08""",Jupiter,Gemini,"28°47'44.04""",120,119.8561,0.1439
+2025-10-06 00:45:00,Aspect,Trine,Moon,Aquarius,"29°05'23.97""",Jupiter,Gemini,"28°47'48.19""",120,119.7067,0.2933
+2025-10-06 01:00:00,Aspect,Trine,Moon,Aquarius,"29°14'26.00""",Jupiter,Gemini,"28°47'52.33""",120,119.5573,0.4427
+2025-10-06 01:15:00,Aspect,Trine,Moon,Aquarius,"29°23'28.18""",Jupiter,Gemini,"28°47'56.47""",120,119.4079,0.5921
+2025-10-06 01:30:00,Aspect,Trine,Moon,Aquarius,"29°32'30.50""",Jupiter,Gemini,"28°48'00.61""",120,119.2584,0.7416
+2025-10-06 01:45:00,Aspect,Trine,Moon,Aquarius,"29°41'32.97""",Jupiter,Gemini,"28°48'04.75""",120,119.1088,0.8912
+2025-10-06 06:00:00,Aspect,Conjunction,Moon,Pisces,"2°15'36.96""",Saturn,Pisces,"3°10'15.70""",0,0.9108,0.9108
+2025-10-06 06:15:00,Aspect,Conjunction,Moon,Pisces,"2°24'42.00""",Saturn,Pisces,"3°10'12.96""",0,0.7586,0.7586
+2025-10-06 06:30:00,Aspect,Conjunction,Moon,Pisces,"2°33'47.18""",Saturn,Pisces,"3°10'10.22""",0,0.6064,0.6064
+2025-10-06 06:45:00,Aspect,Conjunction,Moon,Pisces,"2°42'52.50""",Saturn,Pisces,"3°10'07.47""",0,0.4542,0.4542
+2025-10-06 07:00:00,Aspect,Conjunction,Moon,Pisces,"2°51'57.96""",Saturn,Pisces,"3°10'04.73""",0,0.3019,0.3019
+2025-10-06 07:15:00,Aspect,Conjunction,Moon,Pisces,"3°01'03.55""",Saturn,Pisces,"3°10'01.99""",0,0.1496,0.1496
+2025-10-06 07:30:00,Aspect,Conjunction,Moon,Pisces,"3°10'09.28""",Saturn,Pisces,"3°09'59.25""",0,0.0028,0.0028
+2025-10-06 07:45:00,Aspect,Conjunction,Moon,Pisces,"3°19'15.15""",Saturn,Pisces,"3°09'56.51""",0,0.1552,0.1552
+2025-10-06 08:00:00,Aspect,Conjunction,Moon,Pisces,"3°28'21.16""",Saturn,Pisces,"3°09'53.77""",0,0.3076,0.3076
+2025-10-06 08:15:00,Aspect,Conjunction,Moon,Pisces,"3°37'27.31""",Saturn,Pisces,"3°09'51.03""",0,0.4601,0.4601
+2025-10-06 08:30:00,Aspect,Conjunction,Moon,Pisces,"3°46'33.59""",Saturn,Pisces,"3°09'48.29""",0,0.6126,0.6126
+2025-10-06 08:45:00,Aspect,Conjunction,Moon,Pisces,"3°55'40.00""",Saturn,Pisces,"3°09'45.55""",0,0.7651,0.7651
+2025-10-06 09:00:00,Aspect,Conjunction,Moon,Pisces,"4°04'46.56""",Saturn,Pisces,"3°09'42.81""",0,0.9177,0.9177

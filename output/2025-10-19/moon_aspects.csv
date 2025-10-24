@@ -1,0 +1,27 @@
+﻿datetime,event,type,planet1,planet1_sign,planet1_degree,planet2,planet2_sign,planet2_degree,exact_angle,difference,orb
+2025-10-19 00:00:00,Aspect,Sextile,Moon,Virgo,"0°09'17.38""",Jupiter,Cancer,"0°00'30.67""",60,60.1463,0.1463
+2025-10-19 00:15:00,Aspect,Sextile,Moon,Virgo,"0°16'58.03""",Jupiter,Cancer,"0°00'33.50""",60,60.2735,0.2735
+2025-10-19 00:30:00,Aspect,Sextile,Moon,Virgo,"0°24'38.62""",Jupiter,Cancer,"0°00'36.33""",60,60.4006,0.4006
+2025-10-19 00:45:00,Aspect,Sextile,Moon,Virgo,"0°32'19.14""",Jupiter,Cancer,"0°00'39.16""",60,60.5278,0.5278
+2025-10-19 01:00:00,Aspect,Sextile,Moon,Virgo,"0°39'59.60""",Jupiter,Cancer,"0°00'41.99""",60,60.6549,0.6549
+2025-10-19 01:15:00,Aspect,Sextile,Moon,Virgo,"0°47'40.00""",Jupiter,Cancer,"0°00'44.81""",60,60.782,0.782
+2025-10-19 01:30:00,Aspect,Sextile,Moon,Virgo,"0°55'20.33""",Jupiter,Cancer,"0°00'47.64""",60,60.9091,0.9091
+2025-10-19 02:15:00,Aspect,Opposition,Moon,Virgo,"1°18'20.96""",Saturn,Pisces,"2°17'39.90""",180,179.0114,0.9886
+2025-10-19 02:30:00,Aspect,Opposition,Moon,Virgo,"1°26'01.04""",Saturn,Pisces,"2°17'37.57""",180,179.1399,0.8601
+2025-10-19 02:45:00,Aspect,Opposition,Moon,Virgo,"1°33'41.06""",Saturn,Pisces,"2°17'35.23""",180,179.2683,0.7317
+2025-10-19 03:00:00,Aspect,Opposition,Moon,Virgo,"1°41'21.02""",Saturn,Pisces,"2°17'32.89""",180,179.3967,0.6033
+2025-10-19 03:15:00,Aspect,Opposition,Moon,Virgo,"1°49'00.92""",Saturn,Pisces,"2°17'30.55""",180,179.5251,0.4749
+2025-10-19 03:30:00,Aspect,Opposition,Moon,Virgo,"1°56'40.75""",Saturn,Pisces,"2°17'28.22""",180,179.6535,0.3465
+2025-10-19 03:45:00,Aspect,Opposition,Moon,Virgo,"2°04'20.53""",Saturn,Pisces,"2°17'25.88""",180,179.7818,0.2182
+2025-10-19 04:00:00,Aspect,Opposition,Moon,Virgo,"2°12'00.24""",Saturn,Pisces,"2°17'23.55""",180,179.9102,0.0898
+2025-10-19 04:15:00,Aspect,Opposition,Moon,Virgo,"2°19'39.89""",Saturn,Pisces,"2°17'21.21""",180,179.9615,0.0385
+2025-10-19 04:30:00,Aspect,Opposition,Moon,Virgo,"2°27'19.48""",Saturn,Pisces,"2°17'18.88""",180,179.8332,0.1668
+2025-10-19 04:45:00,Aspect,Opposition,Moon,Virgo,"2°34'59.01""",Saturn,Pisces,"2°17'16.54""",180,179.7049,0.2951
+2025-10-19 05:00:00,Aspect,Opposition,Moon,Virgo,"2°42'38.48""",Saturn,Pisces,"2°17'14.21""",180,179.5766,0.4234
+2025-10-19 05:15:00,Aspect,Opposition,Moon,Virgo,"2°50'17.89""",Saturn,Pisces,"2°17'11.87""",180,179.4483,0.5517
+2025-10-19 05:30:00,Aspect,Opposition,Moon,Virgo,"2°57'57.24""",Saturn,Pisces,"2°17'09.54""",180,179.3201,0.6799
+2025-10-19 05:45:00,Aspect,Opposition,Moon,Virgo,"3°05'36.52""",Saturn,Pisces,"2°17'07.21""",180,179.1919,0.8081
+2025-10-19 06:00:00,Aspect,Opposition,Moon,Virgo,"3°13'15.75""",Saturn,Pisces,"2°17'04.88""",180,179.0636,0.9364
+2025-10-19 23:15:00,Aspect,Conjunction,Moon,Virgo,"11°59'05.39""",Venus,Virgo,"12°58'30.98""",0,0.9904,0.9904
+2025-10-19 23:30:00,Aspect,Conjunction,Moon,Virgo,"12°06'40.76""",Venus,Virgo,"12°59'17.65""",0,0.8769,0.8769
+2025-10-19 23:45:00,Aspect,Conjunction,Moon,Virgo,"12°14'16.08""",Venus,Virgo,"13°00'04.31""",0,0.7634,0.7634

@@ -1,0 +1,19 @@
+﻿datetime,event,type,planet1,planet1_sign,planet1_degree,planet2,planet2_sign,planet2_degree,exact_angle,difference,orb
+2025-10-27 05:30:00,Aspect,Sextile,Sun,Libra,"9°32'47.13""",Moon,Sagittarius,"8°35'12.10""",60,59.0403,0.9597
+2025-10-27 05:45:00,Aspect,Sextile,Sun,Libra,"9°33'24.55""",Moon,Sagittarius,"8°42'42.53""",60,59.155,0.845
+2025-10-27 06:00:00,Aspect,Sextile,Sun,Libra,"9°34'01.96""",Moon,Sagittarius,"8°50'13.01""",60,59.2697,0.7303
+2025-10-27 06:15:00,Aspect,Sextile,Sun,Libra,"9°34'39.37""",Moon,Sagittarius,"8°57'43.54""",60,59.3845,0.6155
+2025-10-27 06:30:00,Aspect,Sextile,Sun,Libra,"9°35'16.78""",Moon,Sagittarius,"9°05'14.12""",60,59.4993,0.5007
+2025-10-27 06:45:00,Aspect,Sextile,Sun,Libra,"9°35'54.20""",Moon,Sagittarius,"9°12'44.76""",60,59.614,0.386
+2025-10-27 07:00:00,Aspect,Sextile,Sun,Libra,"9°36'31.61""",Moon,Sagittarius,"9°20'15.46""",60,59.7288,0.2712
+2025-10-27 07:15:00,Aspect,Sextile,Sun,Libra,"9°37'09.02""",Moon,Sagittarius,"9°27'46.20""",60,59.8437,0.1563
+2025-10-27 07:30:00,Aspect,Sextile,Sun,Libra,"9°37'46.44""",Moon,Sagittarius,"9°35'17.01""",60,59.9585,0.0415
+2025-10-27 07:45:00,Aspect,Sextile,Sun,Libra,"9°38'23.85""",Moon,Sagittarius,"9°42'47.86""",60,60.0733,0.0733
+2025-10-27 08:00:00,Aspect,Sextile,Sun,Libra,"9°39'01.26""",Moon,Sagittarius,"9°50'18.78""",60,60.1882,0.1882
+2025-10-27 08:15:00,Aspect,Sextile,Sun,Libra,"9°39'38.68""",Moon,Sagittarius,"9°57'49.74""",60,60.3031,0.3031
+2025-10-27 08:30:00,Aspect,Sextile,Sun,Libra,"9°40'16.09""",Moon,Sagittarius,"10°05'20.77""",60,60.418,0.418
+2025-10-27 08:45:00,Aspect,Sextile,Sun,Libra,"9°40'53.51""",Moon,Sagittarius,"10°12'51.85""",60,60.5329,0.5329
+2025-10-27 09:00:00,Aspect,Sextile,Sun,Libra,"9°41'30.92""",Moon,Sagittarius,"10°20'22.98""",60,60.6478,0.6478
+2025-10-27 09:15:00,Aspect,Sextile,Sun,Libra,"9°42'08.34""",Moon,Sagittarius,"10°27'54.17""",60,60.7627,0.7627
+2025-10-27 09:30:00,Aspect,Sextile,Sun,Libra,"9°42'45.75""",Moon,Sagittarius,"10°35'25.42""",60,60.8777,0.8777
+2025-10-27 09:45:00,Aspect,Sextile,Sun,Libra,"9°43'23.17""",Moon,Sagittarius,"10°42'56.73""",60,60.9927,0.9927

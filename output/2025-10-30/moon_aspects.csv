@@ -1,0 +1,7 @@
+﻿datetime,event,type,planet1,planet1_sign,planet1_degree,planet2,planet2_sign,planet2_degree,exact_angle,difference,orb
+2025-10-30 00:00:00,Aspect,Square,Sun,Libra,"12°18'45.19""",Moon,Capricorn,"12°37'46.92""",90,90.3171,0.3171
+2025-10-30 00:15:00,Aspect,Square,Sun,Libra,"12°19'22.65""",Moon,Capricorn,"12°45'41.56""",90,90.4386,0.4386
+2025-10-30 00:30:00,Aspect,Square,Sun,Libra,"12°20'00.11""",Moon,Capricorn,"12°53'36.33""",90,90.5601,0.5601
+2025-10-30 00:45:00,Aspect,Square,Sun,Libra,"12°20'37.57""",Moon,Capricorn,"13°01'31.24""",90,90.6816,0.6816
+2025-10-30 01:00:00,Aspect,Square,Sun,Libra,"12°21'15.03""",Moon,Capricorn,"13°09'26.28""",90,90.8031,0.8031
+2025-10-30 01:15:00,Aspect,Square,Sun,Libra,"12°21'52.50""",Moon,Capricorn,"13°17'21.44""",90,90.9247,0.9247
