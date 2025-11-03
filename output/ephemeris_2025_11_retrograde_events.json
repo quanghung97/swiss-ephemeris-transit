@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "year": 2025,
+    "month": 11,
+    "timezone_offset": 7.0,
+    "calculation_time": "2025-11-03T10:30:39.587870",
+    "ephemeris_type": "Swiss Ephemeris",
+    "coordinate_system": "Sidereal Zodiac (Lahiri)",
+    "node_type": "Mean Node",
+    "description": "Hourly planetary positions calculated using Swiss Ephemeris"
+  },
+  "total_records": 4,
+  "data": [
+    {
+      "datetime": "2025-11-10 02:15:00",
+      "event": "Station Retrograde",
+      "planet": "Mercury",
+      "from_motion": "D",
+      "to_motion": "R",
+      "sign": "Scorpio",
+      "sign_vi": "Thần Nông",
+      "degree": "12°38'33.70\"",
+      "longitude": 222.642695
+    },
+    {
+      "datetime": "2025-11-11 23:30:00",
+      "event": "Station Retrograde",
+      "planet": "Jupiter",
+      "from_motion": "D",
+      "to_motion": "R",
+      "sign": "Cancer",
+      "sign_vi": "Cự Giải",
+      "degree": "0°55'59.85\"",
+      "longitude": 90.933293
+    },
+    {
+      "datetime": "2025-11-28 11:30:00",
+      "event": "Station Direct",
+      "planet": "Saturn",
+      "from_motion": "R",
+      "to_motion": "D",
+      "sign": "Pisces",
+      "sign_vi": "Song Ngư",
+      "degree": "0°56'15.19\"",
+      "longitude": 330.937552
+    },
+    {
+      "datetime": "2025-11-30 00:45:00",
+      "event": "Station Direct",
+      "planet": "Mercury",
+      "from_motion": "R",
+      "to_motion": "D",
+      "sign": "Libra",
+      "sign_vi": "Thiên Bình",
+      "degree": "26°29'12.47\"",
+      "longitude": 206.486797
+    }
+  ]
+}

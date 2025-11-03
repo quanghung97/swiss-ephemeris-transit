@@ -1,0 +1,13 @@
+[
+  {
+    "datetime": "2025-11-30 00:45:00",
+    "event": "Station Direct",
+    "planet": "Mercury",
+    "from_motion": "R",
+    "to_motion": "D",
+    "sign": "Libra",
+    "sign_vi": "Thiên Bình",
+    "degree": "26°29'12.47\"",
+    "longitude": 206.486797
+  }
+]
