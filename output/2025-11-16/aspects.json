@@ -2,20 +2,6 @@
   {
     "datetime": "2025-11-16 00:00:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Moon",
-    "planet1_sign": "Virgo",
-    "planet1_degree": "9°27'23.38\"",
-    "planet2": "Mercury",
-    "planet2_sign": "Scorpio",
-    "planet2_degree": "9°49'19.12\"",
-    "exact_angle": 60,
-    "difference": 60.3655,
-    "orb": 0.3655
-  },
-  {
-    "datetime": "2025-11-16 00:00:00",
-    "event": "Aspect",
     "type": "Trine",
     "planet1": "Jupiter",
     "planet1_sign": "Cancer",
@@ -26,20 +12,6 @@
     "exact_angle": 120,
     "difference": 119.8299,
     "orb": 0.1701
-  },
-  {
-    "datetime": "2025-11-16 00:15:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Moon",
-    "planet1_sign": "Virgo",
-    "planet1_degree": "9°34'57.40\"",
-    "planet2": "Mercury",
-    "planet2_sign": "Scorpio",
-    "planet2_degree": "9°48'42.96\"",
-    "exact_angle": 60,
-    "difference": 60.2293,
-    "orb": 0.2293
   },
   {
     "datetime": "2025-11-16 00:15:00",
@@ -58,20 +30,6 @@
   {
     "datetime": "2025-11-16 00:30:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Moon",
-    "planet1_sign": "Virgo",
-    "planet1_degree": "9°42'31.36\"",
-    "planet2": "Mercury",
-    "planet2_sign": "Scorpio",
-    "planet2_degree": "9°48'06.75\"",
-    "exact_angle": 60,
-    "difference": 60.0932,
-    "orb": 0.0932
-  },
-  {
-    "datetime": "2025-11-16 00:30:00",
-    "event": "Aspect",
     "type": "Trine",
     "planet1": "Jupiter",
     "planet1_sign": "Cancer",
@@ -82,20 +40,6 @@
     "exact_angle": 120,
     "difference": 119.8301,
     "orb": 0.1699
-  },
-  {
-    "datetime": "2025-11-16 00:45:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Moon",
-    "planet1_sign": "Virgo",
-    "planet1_degree": "9°50'05.25\"",
-    "planet2": "Mercury",
-    "planet2_sign": "Scorpio",
-    "planet2_degree": "9°47'30.48\"",
-    "exact_angle": 60,
-    "difference": 59.957,
-    "orb": 0.043
   },
   {
     "datetime": "2025-11-16 00:45:00",
@@ -114,20 +58,6 @@
   {
     "datetime": "2025-11-16 01:00:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Moon",
-    "planet1_sign": "Virgo",
-    "planet1_degree": "9°57'39.08\"",
-    "planet2": "Mercury",
-    "planet2_sign": "Scorpio",
-    "planet2_degree": "9°46'54.14\"",
-    "exact_angle": 60,
-    "difference": 59.8208,
-    "orb": 0.1792
-  },
-  {
-    "datetime": "2025-11-16 01:00:00",
-    "event": "Aspect",
     "type": "Trine",
     "planet1": "Jupiter",
     "planet1_sign": "Cancer",
@@ -138,20 +68,6 @@
     "exact_angle": 120,
     "difference": 119.8303,
     "orb": 0.1697
-  },
-  {
-    "datetime": "2025-11-16 01:15:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Moon",
-    "planet1_sign": "Virgo",
-    "planet1_degree": "10°05'12.86\"",
-    "planet2": "Mercury",
-    "planet2_sign": "Scorpio",
-    "planet2_degree": "9°46'17.75\"",
-    "exact_angle": 60,
-    "difference": 59.6847,
-    "orb": 0.3153
   },
   {
     "datetime": "2025-11-16 01:15:00",
@@ -170,20 +86,6 @@
   {
     "datetime": "2025-11-16 01:30:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Moon",
-    "planet1_sign": "Virgo",
-    "planet1_degree": "10°12'46.57\"",
-    "planet2": "Mercury",
-    "planet2_sign": "Scorpio",
-    "planet2_degree": "9°45'41.30\"",
-    "exact_angle": 60,
-    "difference": 59.5485,
-    "orb": 0.4515
-  },
-  {
-    "datetime": "2025-11-16 01:30:00",
-    "event": "Aspect",
     "type": "Trine",
     "planet1": "Jupiter",
     "planet1_sign": "Cancer",
@@ -194,20 +96,6 @@
     "exact_angle": 120,
     "difference": 119.8304,
     "orb": 0.1696
-  },
-  {
-    "datetime": "2025-11-16 01:45:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Moon",
-    "planet1_sign": "Virgo",
-    "planet1_degree": "10°20'20.22\"",
-    "planet2": "Mercury",
-    "planet2_sign": "Scorpio",
-    "planet2_degree": "9°45'04.79\"",
-    "exact_angle": 60,
-    "difference": 59.4124,
-    "orb": 0.5876
   },
   {
     "datetime": "2025-11-16 01:45:00",
@@ -226,20 +114,6 @@
   {
     "datetime": "2025-11-16 02:00:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Moon",
-    "planet1_sign": "Virgo",
-    "planet1_degree": "10°27'53.81\"",
-    "planet2": "Mercury",
-    "planet2_sign": "Scorpio",
-    "planet2_degree": "9°44'28.22\"",
-    "exact_angle": 60,
-    "difference": 59.2762,
-    "orb": 0.7238
-  },
-  {
-    "datetime": "2025-11-16 02:00:00",
-    "event": "Aspect",
     "type": "Trine",
     "planet1": "Jupiter",
     "planet1_sign": "Cancer",
@@ -254,20 +128,6 @@
   {
     "datetime": "2025-11-16 02:15:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Moon",
-    "planet1_sign": "Virgo",
-    "planet1_degree": "10°35'27.34\"",
-    "planet2": "Mercury",
-    "planet2_sign": "Scorpio",
-    "planet2_degree": "9°43'51.59\"",
-    "exact_angle": 60,
-    "difference": 59.1401,
-    "orb": 0.8599
-  },
-  {
-    "datetime": "2025-11-16 02:15:00",
-    "event": "Aspect",
     "type": "Trine",
     "planet1": "Jupiter",
     "planet1_sign": "Cancer",
@@ -278,20 +138,6 @@
     "exact_angle": 120,
     "difference": 119.8307,
     "orb": 0.1693
-  },
-  {
-    "datetime": "2025-11-16 02:30:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Moon",
-    "planet1_sign": "Virgo",
-    "planet1_degree": "10°43'00.81\"",
-    "planet2": "Mercury",
-    "planet2_sign": "Scorpio",
-    "planet2_degree": "9°43'14.90\"",
-    "exact_angle": 60,
-    "difference": 59.0039,
-    "orb": 0.9961
   },
   {
     "datetime": "2025-11-16 02:30:00",
@@ -562,20 +408,6 @@
   {
     "datetime": "2025-11-16 07:15:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Moon",
-    "planet1_sign": "Virgo",
-    "planet1_degree": "13°06'25.75\"",
-    "planet2": "Mars",
-    "planet2_sign": "Scorpio",
-    "planet2_degree": "14°03'36.77\"",
-    "exact_angle": 60,
-    "difference": 60.9531,
-    "orb": 0.9531
-  },
-  {
-    "datetime": "2025-11-16 07:15:00",
-    "event": "Aspect",
     "type": "Trine",
     "planet1": "Jupiter",
     "planet1_sign": "Cancer",
@@ -586,20 +418,6 @@
     "exact_angle": 120,
     "difference": 119.8323,
     "orb": 0.1677
-  },
-  {
-    "datetime": "2025-11-16 07:30:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Moon",
-    "planet1_sign": "Virgo",
-    "planet1_degree": "13°13'58.08\"",
-    "planet2": "Mars",
-    "planet2_sign": "Scorpio",
-    "planet2_degree": "14°04'04.05\"",
-    "exact_angle": 60,
-    "difference": 60.835,
-    "orb": 0.835
   },
   {
     "datetime": "2025-11-16 07:30:00",
@@ -618,20 +436,6 @@
   {
     "datetime": "2025-11-16 07:45:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Moon",
-    "planet1_sign": "Virgo",
-    "planet1_degree": "13°21'30.36\"",
-    "planet2": "Mars",
-    "planet2_sign": "Scorpio",
-    "planet2_degree": "14°04'31.34\"",
-    "exact_angle": 60,
-    "difference": 60.7169,
-    "orb": 0.7169
-  },
-  {
-    "datetime": "2025-11-16 07:45:00",
-    "event": "Aspect",
     "type": "Trine",
     "planet1": "Jupiter",
     "planet1_sign": "Cancer",
@@ -642,20 +446,6 @@
     "exact_angle": 120,
     "difference": 119.8324,
     "orb": 0.1676
-  },
-  {
-    "datetime": "2025-11-16 08:00:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Moon",
-    "planet1_sign": "Virgo",
-    "planet1_degree": "13°29'02.58\"",
-    "planet2": "Mars",
-    "planet2_sign": "Scorpio",
-    "planet2_degree": "14°04'58.63\"",
-    "exact_angle": 60,
-    "difference": 60.5989,
-    "orb": 0.5989
   },
   {
     "datetime": "2025-11-16 08:00:00",
@@ -674,20 +464,6 @@
   {
     "datetime": "2025-11-16 08:15:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Moon",
-    "planet1_sign": "Virgo",
-    "planet1_degree": "13°36'34.74\"",
-    "planet2": "Mars",
-    "planet2_sign": "Scorpio",
-    "planet2_degree": "14°05'25.92\"",
-    "exact_angle": 60,
-    "difference": 60.4809,
-    "orb": 0.4809
-  },
-  {
-    "datetime": "2025-11-16 08:15:00",
-    "event": "Aspect",
     "type": "Trine",
     "planet1": "Jupiter",
     "planet1_sign": "Cancer",
@@ -698,20 +474,6 @@
     "exact_angle": 120,
     "difference": 119.8326,
     "orb": 0.1674
-  },
-  {
-    "datetime": "2025-11-16 08:30:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Moon",
-    "planet1_sign": "Virgo",
-    "planet1_degree": "13°44'06.86\"",
-    "planet2": "Mars",
-    "planet2_sign": "Scorpio",
-    "planet2_degree": "14°05'53.21\"",
-    "exact_angle": 60,
-    "difference": 60.3629,
-    "orb": 0.3629
   },
   {
     "datetime": "2025-11-16 08:30:00",
@@ -730,20 +492,6 @@
   {
     "datetime": "2025-11-16 08:45:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Moon",
-    "planet1_sign": "Virgo",
-    "planet1_degree": "13°51'38.92\"",
-    "planet2": "Mars",
-    "planet2_sign": "Scorpio",
-    "planet2_degree": "14°06'20.50\"",
-    "exact_angle": 60,
-    "difference": 60.2449,
-    "orb": 0.2449
-  },
-  {
-    "datetime": "2025-11-16 08:45:00",
-    "event": "Aspect",
     "type": "Trine",
     "planet1": "Jupiter",
     "planet1_sign": "Cancer",
@@ -754,20 +502,6 @@
     "exact_angle": 120,
     "difference": 119.8327,
     "orb": 0.1673
-  },
-  {
-    "datetime": "2025-11-16 09:00:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Moon",
-    "planet1_sign": "Virgo",
-    "planet1_degree": "13°59'10.92\"",
-    "planet2": "Mars",
-    "planet2_sign": "Scorpio",
-    "planet2_degree": "14°06'47.80\"",
-    "exact_angle": 60,
-    "difference": 60.1269,
-    "orb": 0.1269
   },
   {
     "datetime": "2025-11-16 09:00:00",
@@ -786,20 +520,6 @@
   {
     "datetime": "2025-11-16 09:15:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Moon",
-    "planet1_sign": "Virgo",
-    "planet1_degree": "14°06'42.88\"",
-    "planet2": "Mars",
-    "planet2_sign": "Scorpio",
-    "planet2_degree": "14°07'15.09\"",
-    "exact_angle": 60,
-    "difference": 60.0089,
-    "orb": 0.0089
-  },
-  {
-    "datetime": "2025-11-16 09:15:00",
-    "event": "Aspect",
     "type": "Trine",
     "planet1": "Jupiter",
     "planet1_sign": "Cancer",
@@ -810,20 +530,6 @@
     "exact_angle": 120,
     "difference": 119.8328,
     "orb": 0.1672
-  },
-  {
-    "datetime": "2025-11-16 09:30:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Moon",
-    "planet1_sign": "Virgo",
-    "planet1_degree": "14°14'14.78\"",
-    "planet2": "Mars",
-    "planet2_sign": "Scorpio",
-    "planet2_degree": "14°07'42.38\"",
-    "exact_angle": 60,
-    "difference": 59.891,
-    "orb": 0.109
   },
   {
     "datetime": "2025-11-16 09:30:00",
@@ -842,20 +548,6 @@
   {
     "datetime": "2025-11-16 09:45:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Moon",
-    "planet1_sign": "Virgo",
-    "planet1_degree": "14°21'46.62\"",
-    "planet2": "Mars",
-    "planet2_sign": "Scorpio",
-    "planet2_degree": "14°08'09.67\"",
-    "exact_angle": 60,
-    "difference": 59.7731,
-    "orb": 0.2269
-  },
-  {
-    "datetime": "2025-11-16 09:45:00",
-    "event": "Aspect",
     "type": "Trine",
     "planet1": "Jupiter",
     "planet1_sign": "Cancer",
@@ -866,20 +558,6 @@
     "exact_angle": 120,
     "difference": 119.833,
     "orb": 0.167
-  },
-  {
-    "datetime": "2025-11-16 10:00:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Moon",
-    "planet1_sign": "Virgo",
-    "planet1_degree": "14°29'18.42\"",
-    "planet2": "Mars",
-    "planet2_sign": "Scorpio",
-    "planet2_degree": "14°08'36.96\"",
-    "exact_angle": 60,
-    "difference": 59.6552,
-    "orb": 0.3448
   },
   {
     "datetime": "2025-11-16 10:00:00",
@@ -898,20 +576,6 @@
   {
     "datetime": "2025-11-16 10:15:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Moon",
-    "planet1_sign": "Virgo",
-    "planet1_degree": "14°36'50.16\"",
-    "planet2": "Mars",
-    "planet2_sign": "Scorpio",
-    "planet2_degree": "14°09'04.26\"",
-    "exact_angle": 60,
-    "difference": 59.5372,
-    "orb": 0.4628
-  },
-  {
-    "datetime": "2025-11-16 10:15:00",
-    "event": "Aspect",
     "type": "Trine",
     "planet1": "Jupiter",
     "planet1_sign": "Cancer",
@@ -922,20 +586,6 @@
     "exact_angle": 120,
     "difference": 119.8331,
     "orb": 0.1669
-  },
-  {
-    "datetime": "2025-11-16 10:30:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Moon",
-    "planet1_sign": "Virgo",
-    "planet1_degree": "14°44'21.85\"",
-    "planet2": "Mars",
-    "planet2_sign": "Scorpio",
-    "planet2_degree": "14°09'31.55\"",
-    "exact_angle": 60,
-    "difference": 59.4194,
-    "orb": 0.5806
   },
   {
     "datetime": "2025-11-16 10:30:00",
@@ -954,20 +604,6 @@
   {
     "datetime": "2025-11-16 10:45:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Moon",
-    "planet1_sign": "Virgo",
-    "planet1_degree": "14°51'53.49\"",
-    "planet2": "Mars",
-    "planet2_sign": "Scorpio",
-    "planet2_degree": "14°09'58.84\"",
-    "exact_angle": 60,
-    "difference": 59.3015,
-    "orb": 0.6985
-  },
-  {
-    "datetime": "2025-11-16 10:45:00",
-    "event": "Aspect",
     "type": "Trine",
     "planet1": "Jupiter",
     "planet1_sign": "Cancer",
@@ -982,20 +618,6 @@
   {
     "datetime": "2025-11-16 11:00:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Moon",
-    "planet1_sign": "Virgo",
-    "planet1_degree": "14°59'25.08\"",
-    "planet2": "Mars",
-    "planet2_sign": "Scorpio",
-    "planet2_degree": "14°10'26.14\"",
-    "exact_angle": 60,
-    "difference": 59.1836,
-    "orb": 0.8164
-  },
-  {
-    "datetime": "2025-11-16 11:00:00",
-    "event": "Aspect",
     "type": "Trine",
     "planet1": "Jupiter",
     "planet1_sign": "Cancer",
@@ -1006,20 +628,6 @@
     "exact_angle": 120,
     "difference": 119.8333,
     "orb": 0.1667
-  },
-  {
-    "datetime": "2025-11-16 11:15:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Moon",
-    "planet1_sign": "Virgo",
-    "planet1_degree": "15°06'56.62\"",
-    "planet2": "Mars",
-    "planet2_sign": "Scorpio",
-    "planet2_degree": "14°10'53.43\"",
-    "exact_angle": 60,
-    "difference": 59.0658,
-    "orb": 0.9342
   },
   {
     "datetime": "2025-11-16 11:15:00",

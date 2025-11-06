@@ -184,20 +184,6 @@
   {
     "datetime": "2025-11-05 21:45:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Moon",
-    "planet1_sign": "Aries",
-    "planet1_degree": "20°04'25.42\"",
-    "planet2": "Rahu",
-    "planet2_sign": "Aquarius",
-    "planet2_degree": "20°56'12.78\"",
-    "exact_angle": 60,
-    "difference": 59.1368,
-    "orb": 0.8632
-  },
-  {
-    "datetime": "2025-11-05 21:45:00",
-    "event": "Aspect",
     "type": "Trine",
     "planet1": "Moon",
     "planet1_sign": "Aries",
@@ -208,20 +194,6 @@
     "exact_angle": 120,
     "difference": 120.8632,
     "orb": 0.8632
-  },
-  {
-    "datetime": "2025-11-05 22:00:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Moon",
-    "planet1_sign": "Aries",
-    "planet1_degree": "20°13'59.95\"",
-    "planet2": "Rahu",
-    "planet2_sign": "Aquarius",
-    "planet2_degree": "20°56'10.79\"",
-    "exact_angle": 60,
-    "difference": 59.297,
-    "orb": 0.703
   },
   {
     "datetime": "2025-11-05 22:00:00",
@@ -240,20 +212,6 @@
   {
     "datetime": "2025-11-05 22:15:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Moon",
-    "planet1_sign": "Aries",
-    "planet1_degree": "20°23'34.50\"",
-    "planet2": "Rahu",
-    "planet2_sign": "Aquarius",
-    "planet2_degree": "20°56'08.80\"",
-    "exact_angle": 60,
-    "difference": 59.4571,
-    "orb": 0.5429
-  },
-  {
-    "datetime": "2025-11-05 22:15:00",
-    "event": "Aspect",
     "type": "Trine",
     "planet1": "Moon",
     "planet1_sign": "Aries",
@@ -264,20 +222,6 @@
     "exact_angle": 120,
     "difference": 120.5429,
     "orb": 0.5429
-  },
-  {
-    "datetime": "2025-11-05 22:30:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Moon",
-    "planet1_sign": "Aries",
-    "planet1_degree": "20°33'09.09\"",
-    "planet2": "Rahu",
-    "planet2_sign": "Aquarius",
-    "planet2_degree": "20°56'06.81\"",
-    "exact_angle": 60,
-    "difference": 59.6173,
-    "orb": 0.3827
   },
   {
     "datetime": "2025-11-05 22:30:00",
@@ -296,20 +240,6 @@
   {
     "datetime": "2025-11-05 22:45:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Moon",
-    "planet1_sign": "Aries",
-    "planet1_degree": "20°42'43.71\"",
-    "planet2": "Rahu",
-    "planet2_sign": "Aquarius",
-    "planet2_degree": "20°56'04.83\"",
-    "exact_angle": 60,
-    "difference": 59.7775,
-    "orb": 0.2225
-  },
-  {
-    "datetime": "2025-11-05 22:45:00",
-    "event": "Aspect",
     "type": "Trine",
     "planet1": "Moon",
     "planet1_sign": "Aries",
@@ -320,20 +250,6 @@
     "exact_angle": 120,
     "difference": 120.2225,
     "orb": 0.2225
-  },
-  {
-    "datetime": "2025-11-05 23:00:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Moon",
-    "planet1_sign": "Aries",
-    "planet1_degree": "20°52'18.36\"",
-    "planet2": "Rahu",
-    "planet2_sign": "Aquarius",
-    "planet2_degree": "20°56'02.84\"",
-    "exact_angle": 60,
-    "difference": 59.9376,
-    "orb": 0.0624
   },
   {
     "datetime": "2025-11-05 23:00:00",
@@ -352,20 +268,6 @@
   {
     "datetime": "2025-11-05 23:15:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Moon",
-    "planet1_sign": "Aries",
-    "planet1_degree": "21°01'53.04\"",
-    "planet2": "Rahu",
-    "planet2_sign": "Aquarius",
-    "planet2_degree": "20°56'00.85\"",
-    "exact_angle": 60,
-    "difference": 60.0978,
-    "orb": 0.0978
-  },
-  {
-    "datetime": "2025-11-05 23:15:00",
-    "event": "Aspect",
     "type": "Trine",
     "planet1": "Moon",
     "planet1_sign": "Aries",
@@ -380,20 +282,6 @@
   {
     "datetime": "2025-11-05 23:30:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Moon",
-    "planet1_sign": "Aries",
-    "planet1_degree": "21°11'27.75\"",
-    "planet2": "Rahu",
-    "planet2_sign": "Aquarius",
-    "planet2_degree": "20°55'58.86\"",
-    "exact_angle": 60,
-    "difference": 60.258,
-    "orb": 0.258
-  },
-  {
-    "datetime": "2025-11-05 23:30:00",
-    "event": "Aspect",
     "type": "Trine",
     "planet1": "Moon",
     "planet1_sign": "Aries",
@@ -404,20 +292,6 @@
     "exact_angle": 120,
     "difference": 119.742,
     "orb": 0.258
-  },
-  {
-    "datetime": "2025-11-05 23:45:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Moon",
-    "planet1_sign": "Aries",
-    "planet1_degree": "21°21'02.48\"",
-    "planet2": "Rahu",
-    "planet2_sign": "Aquarius",
-    "planet2_degree": "20°55'56.88\"",
-    "exact_angle": 60,
-    "difference": 60.4182,
-    "orb": 0.4182
   },
   {
     "datetime": "2025-11-05 23:45:00",

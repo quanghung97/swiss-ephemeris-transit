@@ -1,8 +1,4 @@
 ﻿datetime,event,type,planet1,planet1_sign,planet1_degree,planet2,planet2_sign,planet2_degree,exact_angle,difference,orb
-2025-11-14 00:00:00,Aspect,Sextile,Moon,Leo,"14°49'57.70""",Venus,Libra,"14°15'27.98""",60,59.4251,0.5749
-2025-11-14 00:15:00,Aspect,Sextile,Moon,Leo,"14°57'48.78""",Venus,Libra,"14°16'15.02""",60,59.3073,0.6927
-2025-11-14 00:30:00,Aspect,Sextile,Moon,Leo,"15°05'39.75""",Venus,Libra,"14°17'02.05""",60,59.1895,0.8105
-2025-11-14 00:45:00,Aspect,Sextile,Moon,Leo,"15°13'30.59""",Venus,Libra,"14°17'49.09""",60,59.0718,0.9282
 2025-11-14 09:00:00,Aspect,Opposition,Moon,Leo,"19°31'24.80""",Rahu,Aquarius,"20°29'17.18""",180,179.0354,0.9646
 2025-11-14 09:00:00,Aspect,Conjunction,Moon,Leo,"19°31'24.80""",Ketu,Leo,"20°29'17.18""",0,0.9646,0.9646
 2025-11-14 09:15:00,Aspect,Opposition,Moon,Leo,"19°39'11.84""",Rahu,Aquarius,"20°29'15.19""",180,179.1657,0.8343

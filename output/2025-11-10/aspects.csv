@@ -1,9 +1,7 @@
 ﻿datetime,event,type,planet1,planet1_sign,planet1_degree,planet2,planet2_sign,planet2_degree,exact_angle,difference,orb
 2025-11-10 00:00:00,Aspect,Trine,Moon,Gemini,"21°26'26.20""",Rahu,Aquarius,"20°43'11.81""",120,120.7207,0.7207
-2025-11-10 00:00:00,Aspect,Sextile,Moon,Gemini,"21°26'26.20""",Ketu,Leo,"20°43'11.81""",60,59.2793,0.7207
 2025-11-10 00:00:00,Aspect,Trine,Jupiter,Cancer,"0°55'36.55""",Saturn,Pisces,"1°14'20.39""",120,119.6878,0.3122
 2025-11-10 00:15:00,Aspect,Trine,Moon,Gemini,"21°35'20.90""",Rahu,Aquarius,"20°43'09.82""",120,120.8697,0.8697
-2025-11-10 00:15:00,Aspect,Sextile,Moon,Gemini,"21°35'20.90""",Ketu,Leo,"20°43'09.82""",60,59.1303,0.8697
 2025-11-10 00:15:00,Aspect,Trine,Jupiter,Cancer,"0°55'36.80""",Saturn,Pisces,"1°14'19.19""",120,119.6882,0.3118
 2025-11-10 00:30:00,Aspect,Trine,Jupiter,Cancer,"0°55'37.04""",Saturn,Pisces,"1°14'17.99""",120,119.6886,0.3114
 2025-11-10 00:45:00,Aspect,Trine,Jupiter,Cancer,"0°55'37.28""",Saturn,Pisces,"1°14'16.78""",120,119.689,0.311

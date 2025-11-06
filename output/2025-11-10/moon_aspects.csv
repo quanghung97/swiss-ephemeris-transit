@@ -1,8 +1,6 @@
 ﻿datetime,event,type,planet1,planet1_sign,planet1_degree,planet2,planet2_sign,planet2_degree,exact_angle,difference,orb
 2025-11-10 00:00:00,Aspect,Trine,Moon,Gemini,"21°26'26.20""",Rahu,Aquarius,"20°43'11.81""",120,120.7207,0.7207
-2025-11-10 00:00:00,Aspect,Sextile,Moon,Gemini,"21°26'26.20""",Ketu,Leo,"20°43'11.81""",60,59.2793,0.7207
 2025-11-10 00:15:00,Aspect,Trine,Moon,Gemini,"21°35'20.90""",Rahu,Aquarius,"20°43'09.82""",120,120.8697,0.8697
-2025-11-10 00:15:00,Aspect,Sextile,Moon,Gemini,"21°35'20.90""",Ketu,Leo,"20°43'09.82""",60,59.1303,0.8697
 2025-11-10 01:45:00,Aspect,Trine,Sun,Libra,"23°24'08.27""",Moon,Gemini,"22°28'45.19""",120,120.9231,0.9231
 2025-11-10 02:00:00,Aspect,Trine,Sun,Libra,"23°24'45.94""",Moon,Gemini,"22°37'38.58""",120,120.7854,0.7854
 2025-11-10 02:15:00,Aspect,Trine,Sun,Libra,"23°25'23.60""",Moon,Gemini,"22°46'31.79""",120,120.6477,0.6477

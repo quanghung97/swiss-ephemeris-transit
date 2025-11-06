@@ -1,14 +1,10 @@
 ﻿datetime,event,type,planet1,planet1_sign,planet1_degree,planet2,planet2_sign,planet2_degree,exact_angle,difference,orb
-2025-11-14 00:00:00,Aspect,Sextile,Moon,Leo,"14°49'57.70""",Venus,Libra,"14°15'27.98""",60,59.4251,0.5749
 2025-11-14 00:00:00,Aspect,Conjunction,Mercury,Scorpio,"11°25'39.52""",Mars,Scorpio,"12°23'15.49""",0,0.96,0.96
 2025-11-14 00:00:00,Aspect,Trine,Jupiter,Cancer,"0°55'35.17""",Saturn,Pisces,"1°07'25.85""",120,119.8026,0.1974
-2025-11-14 00:15:00,Aspect,Sextile,Moon,Leo,"14°57'48.78""",Venus,Libra,"14°16'15.02""",60,59.3073,0.6927
 2025-11-14 00:15:00,Aspect,Conjunction,Mercury,Scorpio,"11°25'15.62""",Mars,Scorpio,"12°23'42.70""",0,0.9742,0.9742
 2025-11-14 00:15:00,Aspect,Trine,Jupiter,Cancer,"0°55'34.92""",Saturn,Pisces,"1°07'24.90""",120,119.8028,0.1972
-2025-11-14 00:30:00,Aspect,Sextile,Moon,Leo,"15°05'39.75""",Venus,Libra,"14°17'02.05""",60,59.1895,0.8105
 2025-11-14 00:30:00,Aspect,Conjunction,Mercury,Scorpio,"11°24'51.65""",Mars,Scorpio,"12°24'09.90""",0,0.9884,0.9884
 2025-11-14 00:30:00,Aspect,Trine,Jupiter,Cancer,"0°55'34.66""",Saturn,Pisces,"1°07'23.94""",120,119.803,0.197
-2025-11-14 00:45:00,Aspect,Sextile,Moon,Leo,"15°13'30.59""",Venus,Libra,"14°17'49.09""",60,59.0718,0.9282
 2025-11-14 00:45:00,Aspect,Trine,Jupiter,Cancer,"0°55'34.41""",Saturn,Pisces,"1°07'22.99""",120,119.8032,0.1968
 2025-11-14 01:00:00,Aspect,Trine,Jupiter,Cancer,"0°55'34.15""",Saturn,Pisces,"1°07'22.04""",120,119.8034,0.1966
 2025-11-14 01:15:00,Aspect,Trine,Jupiter,Cancer,"0°55'33.89""",Saturn,Pisces,"1°07'21.08""",120,119.8036,0.1964

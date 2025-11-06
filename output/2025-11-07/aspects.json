@@ -16,20 +16,6 @@
   {
     "datetime": "2025-11-07 00:00:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°19'06.98\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°52'44.12\"",
-    "exact_angle": 60,
-    "difference": 59.4397,
-    "orb": 0.5603
-  },
-  {
-    "datetime": "2025-11-07 00:00:00",
-    "event": "Aspect",
     "type": "Opposition",
     "planet1": "Moon",
     "planet1_sign": "Taurus",
@@ -67,20 +53,6 @@
     "planet2_degree": "20°52'42.13\"",
     "exact_angle": 120,
     "difference": 120.5493,
-    "orb": 0.5493
-  },
-  {
-    "datetime": "2025-11-07 00:15:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°19'44.58\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°52'42.13\"",
-    "exact_angle": 60,
-    "difference": 59.4507,
     "orb": 0.5493
   },
   {
@@ -128,20 +100,6 @@
   {
     "datetime": "2025-11-07 00:30:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°20'22.18\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°52'40.15\"",
-    "exact_angle": 60,
-    "difference": 59.4617,
-    "orb": 0.5383
-  },
-  {
-    "datetime": "2025-11-07 00:30:00",
-    "event": "Aspect",
     "type": "Opposition",
     "planet1": "Moon",
     "planet1_sign": "Taurus",
@@ -179,20 +137,6 @@
     "planet2_degree": "20°52'38.16\"",
     "exact_angle": 120,
     "difference": 120.5273,
-    "orb": 0.5273
-  },
-  {
-    "datetime": "2025-11-07 00:45:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°20'59.78\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°52'38.16\"",
-    "exact_angle": 60,
-    "difference": 59.4727,
     "orb": 0.5273
   },
   {
@@ -240,20 +184,6 @@
   {
     "datetime": "2025-11-07 01:00:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°21'37.38\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°52'36.17\"",
-    "exact_angle": 60,
-    "difference": 59.4837,
-    "orb": 0.5163
-  },
-  {
-    "datetime": "2025-11-07 01:00:00",
-    "event": "Aspect",
     "type": "Opposition",
     "planet1": "Moon",
     "planet1_sign": "Taurus",
@@ -291,20 +221,6 @@
     "planet2_degree": "20°52'34.18\"",
     "exact_angle": 120,
     "difference": 120.5053,
-    "orb": 0.5053
-  },
-  {
-    "datetime": "2025-11-07 01:15:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°22'14.99\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°52'34.18\"",
-    "exact_angle": 60,
-    "difference": 59.4947,
     "orb": 0.5053
   },
   {
@@ -352,20 +268,6 @@
   {
     "datetime": "2025-11-07 01:30:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°22'52.59\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°52'32.20\"",
-    "exact_angle": 60,
-    "difference": 59.5057,
-    "orb": 0.4943
-  },
-  {
-    "datetime": "2025-11-07 01:30:00",
-    "event": "Aspect",
     "type": "Opposition",
     "planet1": "Moon",
     "planet1_sign": "Taurus",
@@ -403,20 +305,6 @@
     "planet2_degree": "20°52'30.21\"",
     "exact_angle": 120,
     "difference": 120.4833,
-    "orb": 0.4833
-  },
-  {
-    "datetime": "2025-11-07 01:45:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°23'30.19\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°52'30.21\"",
-    "exact_angle": 60,
-    "difference": 59.5167,
     "orb": 0.4833
   },
   {
@@ -464,20 +352,6 @@
   {
     "datetime": "2025-11-07 02:00:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°24'07.79\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°52'28.22\"",
-    "exact_angle": 60,
-    "difference": 59.5277,
-    "orb": 0.4723
-  },
-  {
-    "datetime": "2025-11-07 02:00:00",
-    "event": "Aspect",
     "type": "Opposition",
     "planet1": "Moon",
     "planet1_sign": "Taurus",
@@ -515,20 +389,6 @@
     "planet2_degree": "20°52'26.23\"",
     "exact_angle": 120,
     "difference": 120.4613,
-    "orb": 0.4613
-  },
-  {
-    "datetime": "2025-11-07 02:15:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°24'45.39\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°52'26.23\"",
-    "exact_angle": 60,
-    "difference": 59.5387,
     "orb": 0.4613
   },
   {
@@ -576,20 +436,6 @@
   {
     "datetime": "2025-11-07 02:30:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°25'23.00\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°52'24.25\"",
-    "exact_angle": 60,
-    "difference": 59.5497,
-    "orb": 0.4503
-  },
-  {
-    "datetime": "2025-11-07 02:30:00",
-    "event": "Aspect",
     "type": "Trine",
     "planet1": "Jupiter",
     "planet1_sign": "Cancer",
@@ -613,20 +459,6 @@
     "planet2_degree": "20°52'22.26\"",
     "exact_angle": 120,
     "difference": 120.4394,
-    "orb": 0.4394
-  },
-  {
-    "datetime": "2025-11-07 02:45:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°26'00.60\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°52'22.26\"",
-    "exact_angle": 60,
-    "difference": 59.5606,
     "orb": 0.4394
   },
   {
@@ -660,20 +492,6 @@
   {
     "datetime": "2025-11-07 03:00:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°26'38.20\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°52'20.27\"",
-    "exact_angle": 60,
-    "difference": 59.5716,
-    "orb": 0.4284
-  },
-  {
-    "datetime": "2025-11-07 03:00:00",
-    "event": "Aspect",
     "type": "Trine",
     "planet1": "Jupiter",
     "planet1_sign": "Cancer",
@@ -697,20 +515,6 @@
     "planet2_degree": "20°52'18.29\"",
     "exact_angle": 120,
     "difference": 120.4174,
-    "orb": 0.4174
-  },
-  {
-    "datetime": "2025-11-07 03:15:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°27'15.80\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°52'18.29\"",
-    "exact_angle": 60,
-    "difference": 59.5826,
     "orb": 0.4174
   },
   {
@@ -744,20 +548,6 @@
   {
     "datetime": "2025-11-07 03:30:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°27'53.41\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°52'16.30\"",
-    "exact_angle": 60,
-    "difference": 59.5936,
-    "orb": 0.4064
-  },
-  {
-    "datetime": "2025-11-07 03:30:00",
-    "event": "Aspect",
     "type": "Trine",
     "planet1": "Jupiter",
     "planet1_sign": "Cancer",
@@ -781,20 +571,6 @@
     "planet2_degree": "20°52'14.31\"",
     "exact_angle": 120,
     "difference": 120.3954,
-    "orb": 0.3954
-  },
-  {
-    "datetime": "2025-11-07 03:45:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°28'31.01\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°52'14.31\"",
-    "exact_angle": 60,
-    "difference": 59.6046,
     "orb": 0.3954
   },
   {
@@ -828,20 +604,6 @@
   {
     "datetime": "2025-11-07 04:00:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°29'08.61\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°52'12.32\"",
-    "exact_angle": 60,
-    "difference": 59.6156,
-    "orb": 0.3844
-  },
-  {
-    "datetime": "2025-11-07 04:00:00",
-    "event": "Aspect",
     "type": "Trine",
     "planet1": "Jupiter",
     "planet1_sign": "Cancer",
@@ -865,20 +627,6 @@
     "planet2_degree": "20°52'10.34\"",
     "exact_angle": 120,
     "difference": 120.3734,
-    "orb": 0.3734
-  },
-  {
-    "datetime": "2025-11-07 04:15:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°29'46.22\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°52'10.34\"",
-    "exact_angle": 60,
-    "difference": 59.6266,
     "orb": 0.3734
   },
   {
@@ -912,20 +660,6 @@
   {
     "datetime": "2025-11-07 04:30:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°30'23.82\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°52'08.35\"",
-    "exact_angle": 60,
-    "difference": 59.6376,
-    "orb": 0.3624
-  },
-  {
-    "datetime": "2025-11-07 04:30:00",
-    "event": "Aspect",
     "type": "Trine",
     "planet1": "Jupiter",
     "planet1_sign": "Cancer",
@@ -949,20 +683,6 @@
     "planet2_degree": "20°52'06.36\"",
     "exact_angle": 120,
     "difference": 120.3514,
-    "orb": 0.3514
-  },
-  {
-    "datetime": "2025-11-07 04:45:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°31'01.43\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°52'06.36\"",
-    "exact_angle": 60,
-    "difference": 59.6486,
     "orb": 0.3514
   },
   {
@@ -996,20 +716,6 @@
   {
     "datetime": "2025-11-07 05:00:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°31'39.03\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°52'04.38\"",
-    "exact_angle": 60,
-    "difference": 59.6596,
-    "orb": 0.3404
-  },
-  {
-    "datetime": "2025-11-07 05:00:00",
-    "event": "Aspect",
     "type": "Trine",
     "planet1": "Jupiter",
     "planet1_sign": "Cancer",
@@ -1033,20 +739,6 @@
     "planet2_degree": "20°52'02.39\"",
     "exact_angle": 120,
     "difference": 120.3294,
-    "orb": 0.3294
-  },
-  {
-    "datetime": "2025-11-07 05:15:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°32'16.64\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°52'02.39\"",
-    "exact_angle": 60,
-    "difference": 59.6706,
     "orb": 0.3294
   },
   {
@@ -1080,20 +772,6 @@
   {
     "datetime": "2025-11-07 05:30:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°32'54.24\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°52'00.40\"",
-    "exact_angle": 60,
-    "difference": 59.6816,
-    "orb": 0.3184
-  },
-  {
-    "datetime": "2025-11-07 05:30:00",
-    "event": "Aspect",
     "type": "Trine",
     "planet1": "Jupiter",
     "planet1_sign": "Cancer",
@@ -1117,20 +795,6 @@
     "planet2_degree": "20°51'58.41\"",
     "exact_angle": 120,
     "difference": 120.3074,
-    "orb": 0.3074
-  },
-  {
-    "datetime": "2025-11-07 05:45:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°33'31.85\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°51'58.41\"",
-    "exact_angle": 60,
-    "difference": 59.6926,
     "orb": 0.3074
   },
   {
@@ -1164,20 +828,6 @@
   {
     "datetime": "2025-11-07 06:00:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°34'09.45\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°51'56.43\"",
-    "exact_angle": 60,
-    "difference": 59.7036,
-    "orb": 0.2964
-  },
-  {
-    "datetime": "2025-11-07 06:00:00",
-    "event": "Aspect",
     "type": "Trine",
     "planet1": "Jupiter",
     "planet1_sign": "Cancer",
@@ -1201,20 +851,6 @@
     "planet2_degree": "20°51'54.44\"",
     "exact_angle": 120,
     "difference": 120.2854,
-    "orb": 0.2854
-  },
-  {
-    "datetime": "2025-11-07 06:15:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°34'47.06\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°51'54.44\"",
-    "exact_angle": 60,
-    "difference": 59.7146,
     "orb": 0.2854
   },
   {
@@ -1248,20 +884,6 @@
   {
     "datetime": "2025-11-07 06:30:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°35'24.66\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°51'52.45\"",
-    "exact_angle": 60,
-    "difference": 59.7256,
-    "orb": 0.2744
-  },
-  {
-    "datetime": "2025-11-07 06:30:00",
-    "event": "Aspect",
     "type": "Trine",
     "planet1": "Jupiter",
     "planet1_sign": "Cancer",
@@ -1285,20 +907,6 @@
     "planet2_degree": "20°51'50.47\"",
     "exact_angle": 120,
     "difference": 120.2634,
-    "orb": 0.2634
-  },
-  {
-    "datetime": "2025-11-07 06:45:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°36'02.27\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°51'50.47\"",
-    "exact_angle": 60,
-    "difference": 59.7366,
     "orb": 0.2634
   },
   {
@@ -1346,20 +954,6 @@
   {
     "datetime": "2025-11-07 07:00:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°36'39.87\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°51'48.48\"",
-    "exact_angle": 60,
-    "difference": 59.7476,
-    "orb": 0.2524
-  },
-  {
-    "datetime": "2025-11-07 07:00:00",
-    "event": "Aspect",
     "type": "Opposition",
     "planet1": "Moon",
     "planet1_sign": "Taurus",
@@ -1397,20 +991,6 @@
     "planet2_degree": "20°51'46.49\"",
     "exact_angle": 120,
     "difference": 120.2414,
-    "orb": 0.2414
-  },
-  {
-    "datetime": "2025-11-07 07:15:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°37'17.48\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°51'46.49\"",
-    "exact_angle": 60,
-    "difference": 59.7586,
     "orb": 0.2414
   },
   {
@@ -1458,20 +1038,6 @@
   {
     "datetime": "2025-11-07 07:30:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°37'55.09\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°51'44.50\"",
-    "exact_angle": 60,
-    "difference": 59.7696,
-    "orb": 0.2304
-  },
-  {
-    "datetime": "2025-11-07 07:30:00",
-    "event": "Aspect",
     "type": "Opposition",
     "planet1": "Moon",
     "planet1_sign": "Taurus",
@@ -1509,20 +1075,6 @@
     "planet2_degree": "20°51'42.52\"",
     "exact_angle": 120,
     "difference": 120.2194,
-    "orb": 0.2194
-  },
-  {
-    "datetime": "2025-11-07 07:45:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°38'32.69\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°51'42.52\"",
-    "exact_angle": 60,
-    "difference": 59.7806,
     "orb": 0.2194
   },
   {
@@ -1570,20 +1122,6 @@
   {
     "datetime": "2025-11-07 08:00:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°39'10.30\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°51'40.53\"",
-    "exact_angle": 60,
-    "difference": 59.7916,
-    "orb": 0.2084
-  },
-  {
-    "datetime": "2025-11-07 08:00:00",
-    "event": "Aspect",
     "type": "Opposition",
     "planet1": "Moon",
     "planet1_sign": "Taurus",
@@ -1621,20 +1159,6 @@
     "planet2_degree": "20°51'38.54\"",
     "exact_angle": 120,
     "difference": 120.1974,
-    "orb": 0.1974
-  },
-  {
-    "datetime": "2025-11-07 08:15:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°39'47.91\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°51'38.54\"",
-    "exact_angle": 60,
-    "difference": 59.8026,
     "orb": 0.1974
   },
   {
@@ -1682,20 +1206,6 @@
   {
     "datetime": "2025-11-07 08:30:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°40'25.51\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°51'36.55\"",
-    "exact_angle": 60,
-    "difference": 59.8136,
-    "orb": 0.1864
-  },
-  {
-    "datetime": "2025-11-07 08:30:00",
-    "event": "Aspect",
     "type": "Opposition",
     "planet1": "Moon",
     "planet1_sign": "Taurus",
@@ -1733,20 +1243,6 @@
     "planet2_degree": "20°51'34.57\"",
     "exact_angle": 120,
     "difference": 120.1754,
-    "orb": 0.1754
-  },
-  {
-    "datetime": "2025-11-07 08:45:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°41'03.12\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°51'34.57\"",
-    "exact_angle": 60,
-    "difference": 59.8246,
     "orb": 0.1754
   },
   {
@@ -1794,20 +1290,6 @@
   {
     "datetime": "2025-11-07 09:00:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°41'40.73\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°51'32.58\"",
-    "exact_angle": 60,
-    "difference": 59.8356,
-    "orb": 0.1644
-  },
-  {
-    "datetime": "2025-11-07 09:00:00",
-    "event": "Aspect",
     "type": "Opposition",
     "planet1": "Moon",
     "planet1_sign": "Taurus",
@@ -1845,20 +1327,6 @@
     "planet2_degree": "20°51'30.59\"",
     "exact_angle": 120,
     "difference": 120.1534,
-    "orb": 0.1534
-  },
-  {
-    "datetime": "2025-11-07 09:15:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°42'18.34\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°51'30.59\"",
-    "exact_angle": 60,
-    "difference": 59.8466,
     "orb": 0.1534
   },
   {
@@ -1906,20 +1374,6 @@
   {
     "datetime": "2025-11-07 09:30:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°42'55.95\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°51'28.61\"",
-    "exact_angle": 60,
-    "difference": 59.8576,
-    "orb": 0.1424
-  },
-  {
-    "datetime": "2025-11-07 09:30:00",
-    "event": "Aspect",
     "type": "Opposition",
     "planet1": "Moon",
     "planet1_sign": "Taurus",
@@ -1957,20 +1411,6 @@
     "planet2_degree": "20°51'26.62\"",
     "exact_angle": 120,
     "difference": 120.1314,
-    "orb": 0.1314
-  },
-  {
-    "datetime": "2025-11-07 09:45:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°43'33.55\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°51'26.62\"",
-    "exact_angle": 60,
-    "difference": 59.8686,
     "orb": 0.1314
   },
   {
@@ -2018,20 +1458,6 @@
   {
     "datetime": "2025-11-07 10:00:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°44'11.16\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°51'24.63\"",
-    "exact_angle": 60,
-    "difference": 59.8796,
-    "orb": 0.1204
-  },
-  {
-    "datetime": "2025-11-07 10:00:00",
-    "event": "Aspect",
     "type": "Trine",
     "planet1": "Jupiter",
     "planet1_sign": "Cancer",
@@ -2055,20 +1481,6 @@
     "planet2_degree": "20°51'22.64\"",
     "exact_angle": 120,
     "difference": 120.1094,
-    "orb": 0.1094
-  },
-  {
-    "datetime": "2025-11-07 10:15:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°44'48.77\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°51'22.64\"",
-    "exact_angle": 60,
-    "difference": 59.8906,
     "orb": 0.1094
   },
   {
@@ -2102,20 +1514,6 @@
   {
     "datetime": "2025-11-07 10:30:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°45'26.38\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°51'20.66\"",
-    "exact_angle": 60,
-    "difference": 59.9016,
-    "orb": 0.0984
-  },
-  {
-    "datetime": "2025-11-07 10:30:00",
-    "event": "Aspect",
     "type": "Trine",
     "planet1": "Jupiter",
     "planet1_sign": "Cancer",
@@ -2139,20 +1537,6 @@
     "planet2_degree": "20°51'18.67\"",
     "exact_angle": 120,
     "difference": 120.0874,
-    "orb": 0.0874
-  },
-  {
-    "datetime": "2025-11-07 10:45:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°46'03.99\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°51'18.67\"",
-    "exact_angle": 60,
-    "difference": 59.9126,
     "orb": 0.0874
   },
   {
@@ -2186,20 +1570,6 @@
   {
     "datetime": "2025-11-07 11:00:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°46'41.60\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°51'16.68\"",
-    "exact_angle": 60,
-    "difference": 59.9236,
-    "orb": 0.0764
-  },
-  {
-    "datetime": "2025-11-07 11:00:00",
-    "event": "Aspect",
     "type": "Trine",
     "planet1": "Jupiter",
     "planet1_sign": "Cancer",
@@ -2223,20 +1593,6 @@
     "planet2_degree": "20°51'14.70\"",
     "exact_angle": 120,
     "difference": 120.0654,
-    "orb": 0.0654
-  },
-  {
-    "datetime": "2025-11-07 11:15:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°47'19.21\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°51'14.70\"",
-    "exact_angle": 60,
-    "difference": 59.9346,
     "orb": 0.0654
   },
   {
@@ -2270,20 +1626,6 @@
   {
     "datetime": "2025-11-07 11:30:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°47'56.82\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°51'12.71\"",
-    "exact_angle": 60,
-    "difference": 59.9456,
-    "orb": 0.0544
-  },
-  {
-    "datetime": "2025-11-07 11:30:00",
-    "event": "Aspect",
     "type": "Trine",
     "planet1": "Jupiter",
     "planet1_sign": "Cancer",
@@ -2307,20 +1649,6 @@
     "planet2_degree": "20°51'10.72\"",
     "exact_angle": 120,
     "difference": 120.0434,
-    "orb": 0.0434
-  },
-  {
-    "datetime": "2025-11-07 11:45:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°48'34.43\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°51'10.72\"",
-    "exact_angle": 60,
-    "difference": 59.9566,
     "orb": 0.0434
   },
   {
@@ -2354,20 +1682,6 @@
   {
     "datetime": "2025-11-07 12:00:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°49'12.04\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°51'08.73\"",
-    "exact_angle": 60,
-    "difference": 59.9676,
-    "orb": 0.0324
-  },
-  {
-    "datetime": "2025-11-07 12:00:00",
-    "event": "Aspect",
     "type": "Trine",
     "planet1": "Jupiter",
     "planet1_sign": "Cancer",
@@ -2391,20 +1705,6 @@
     "planet2_degree": "20°51'06.75\"",
     "exact_angle": 120,
     "difference": 120.0214,
-    "orb": 0.0214
-  },
-  {
-    "datetime": "2025-11-07 12:15:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°49'49.65\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°51'06.75\"",
-    "exact_angle": 60,
-    "difference": 59.9786,
     "orb": 0.0214
   },
   {
@@ -2438,20 +1738,6 @@
   {
     "datetime": "2025-11-07 12:30:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°50'27.26\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°51'04.76\"",
-    "exact_angle": 60,
-    "difference": 59.9896,
-    "orb": 0.0104
-  },
-  {
-    "datetime": "2025-11-07 12:30:00",
-    "event": "Aspect",
     "type": "Trine",
     "planet1": "Jupiter",
     "planet1_sign": "Cancer",
@@ -2475,20 +1761,6 @@
     "planet2_degree": "20°51'02.77\"",
     "exact_angle": 120,
     "difference": 119.9994,
-    "orb": 0.0006
-  },
-  {
-    "datetime": "2025-11-07 12:45:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°51'04.87\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°51'02.77\"",
-    "exact_angle": 60,
-    "difference": 60.0006,
     "orb": 0.0006
   },
   {
@@ -2522,20 +1794,6 @@
   {
     "datetime": "2025-11-07 13:00:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°51'42.48\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°51'00.79\"",
-    "exact_angle": 60,
-    "difference": 60.0116,
-    "orb": 0.0116
-  },
-  {
-    "datetime": "2025-11-07 13:00:00",
-    "event": "Aspect",
     "type": "Trine",
     "planet1": "Jupiter",
     "planet1_sign": "Cancer",
@@ -2559,20 +1817,6 @@
     "planet2_degree": "20°50'58.80\"",
     "exact_angle": 120,
     "difference": 119.9774,
-    "orb": 0.0226
-  },
-  {
-    "datetime": "2025-11-07 13:15:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°52'20.09\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°50'58.80\"",
-    "exact_angle": 60,
-    "difference": 60.0226,
     "orb": 0.0226
   },
   {
@@ -2606,20 +1850,6 @@
   {
     "datetime": "2025-11-07 13:30:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°52'57.71\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°50'56.81\"",
-    "exact_angle": 60,
-    "difference": 60.0336,
-    "orb": 0.0336
-  },
-  {
-    "datetime": "2025-11-07 13:30:00",
-    "event": "Aspect",
     "type": "Trine",
     "planet1": "Jupiter",
     "planet1_sign": "Cancer",
@@ -2643,20 +1873,6 @@
     "planet2_degree": "20°50'54.82\"",
     "exact_angle": 120,
     "difference": 119.9554,
-    "orb": 0.0446
-  },
-  {
-    "datetime": "2025-11-07 13:45:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°53'35.32\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°50'54.82\"",
-    "exact_angle": 60,
-    "difference": 60.0446,
     "orb": 0.0446
   },
   {
@@ -2690,20 +1906,6 @@
   {
     "datetime": "2025-11-07 14:00:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°54'12.93\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°50'52.84\"",
-    "exact_angle": 60,
-    "difference": 60.0556,
-    "orb": 0.0556
-  },
-  {
-    "datetime": "2025-11-07 14:00:00",
-    "event": "Aspect",
     "type": "Trine",
     "planet1": "Jupiter",
     "planet1_sign": "Cancer",
@@ -2727,20 +1929,6 @@
     "planet2_degree": "20°50'50.85\"",
     "exact_angle": 120,
     "difference": 119.9334,
-    "orb": 0.0666
-  },
-  {
-    "datetime": "2025-11-07 14:15:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°54'50.54\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°50'50.85\"",
-    "exact_angle": 60,
-    "difference": 60.0666,
     "orb": 0.0666
   },
   {
@@ -2774,20 +1962,6 @@
   {
     "datetime": "2025-11-07 14:30:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°55'28.15\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°50'48.86\"",
-    "exact_angle": 60,
-    "difference": 60.0776,
-    "orb": 0.0776
-  },
-  {
-    "datetime": "2025-11-07 14:30:00",
-    "event": "Aspect",
     "type": "Trine",
     "planet1": "Jupiter",
     "planet1_sign": "Cancer",
@@ -2811,20 +1985,6 @@
     "planet2_degree": "20°50'46.87\"",
     "exact_angle": 120,
     "difference": 119.9114,
-    "orb": 0.0886
-  },
-  {
-    "datetime": "2025-11-07 14:45:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°56'05.77\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°50'46.87\"",
-    "exact_angle": 60,
-    "difference": 60.0886,
     "orb": 0.0886
   },
   {
@@ -2858,20 +2018,6 @@
   {
     "datetime": "2025-11-07 15:00:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°56'43.38\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°50'44.89\"",
-    "exact_angle": 60,
-    "difference": 60.0996,
-    "orb": 0.0996
-  },
-  {
-    "datetime": "2025-11-07 15:00:00",
-    "event": "Aspect",
     "type": "Trine",
     "planet1": "Jupiter",
     "planet1_sign": "Cancer",
@@ -2895,20 +2041,6 @@
     "planet2_degree": "20°50'42.90\"",
     "exact_angle": 120,
     "difference": 119.8894,
-    "orb": 0.1106
-  },
-  {
-    "datetime": "2025-11-07 15:15:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°57'20.99\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°50'42.90\"",
-    "exact_angle": 60,
-    "difference": 60.1106,
     "orb": 0.1106
   },
   {
@@ -2942,20 +2074,6 @@
   {
     "datetime": "2025-11-07 15:30:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°57'58.60\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°50'40.91\"",
-    "exact_angle": 60,
-    "difference": 60.1216,
-    "orb": 0.1216
-  },
-  {
-    "datetime": "2025-11-07 15:30:00",
-    "event": "Aspect",
     "type": "Trine",
     "planet1": "Jupiter",
     "planet1_sign": "Cancer",
@@ -2979,20 +2097,6 @@
     "planet2_degree": "20°50'38.93\"",
     "exact_angle": 120,
     "difference": 119.8674,
-    "orb": 0.1326
-  },
-  {
-    "datetime": "2025-11-07 15:45:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°58'36.22\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°50'38.93\"",
-    "exact_angle": 60,
-    "difference": 60.1326,
     "orb": 0.1326
   },
   {
@@ -3026,20 +2130,6 @@
   {
     "datetime": "2025-11-07 16:00:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°59'13.83\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°50'36.94\"",
-    "exact_angle": 60,
-    "difference": 60.1436,
-    "orb": 0.1436
-  },
-  {
-    "datetime": "2025-11-07 16:00:00",
-    "event": "Aspect",
     "type": "Trine",
     "planet1": "Jupiter",
     "planet1_sign": "Cancer",
@@ -3063,20 +2153,6 @@
     "planet2_degree": "20°50'34.95\"",
     "exact_angle": 120,
     "difference": 119.8454,
-    "orb": 0.1546
-  },
-  {
-    "datetime": "2025-11-07 16:15:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "20°59'51.45\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°50'34.95\"",
-    "exact_angle": 60,
-    "difference": 60.1546,
     "orb": 0.1546
   },
   {
@@ -3110,20 +2186,6 @@
   {
     "datetime": "2025-11-07 16:30:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "21°00'29.06\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°50'32.96\"",
-    "exact_angle": 60,
-    "difference": 60.1656,
-    "orb": 0.1656
-  },
-  {
-    "datetime": "2025-11-07 16:30:00",
-    "event": "Aspect",
     "type": "Trine",
     "planet1": "Jupiter",
     "planet1_sign": "Cancer",
@@ -3147,20 +2209,6 @@
     "planet2_degree": "20°50'30.98\"",
     "exact_angle": 120,
     "difference": 119.8234,
-    "orb": 0.1766
-  },
-  {
-    "datetime": "2025-11-07 16:45:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "21°01'06.67\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°50'30.98\"",
-    "exact_angle": 60,
-    "difference": 60.1766,
     "orb": 0.1766
   },
   {
@@ -3194,20 +2242,6 @@
   {
     "datetime": "2025-11-07 17:00:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "21°01'44.29\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°50'28.99\"",
-    "exact_angle": 60,
-    "difference": 60.1876,
-    "orb": 0.1876
-  },
-  {
-    "datetime": "2025-11-07 17:00:00",
-    "event": "Aspect",
     "type": "Trine",
     "planet1": "Jupiter",
     "planet1_sign": "Cancer",
@@ -3231,20 +2265,6 @@
     "planet2_degree": "20°50'27.00\"",
     "exact_angle": 120,
     "difference": 119.8014,
-    "orb": 0.1986
-  },
-  {
-    "datetime": "2025-11-07 17:15:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "21°02'21.90\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°50'27.00\"",
-    "exact_angle": 60,
-    "difference": 60.1986,
     "orb": 0.1986
   },
   {
@@ -3278,20 +2298,6 @@
   {
     "datetime": "2025-11-07 17:30:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "21°02'59.52\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°50'25.02\"",
-    "exact_angle": 60,
-    "difference": 60.2096,
-    "orb": 0.2096
-  },
-  {
-    "datetime": "2025-11-07 17:30:00",
-    "event": "Aspect",
     "type": "Trine",
     "planet1": "Jupiter",
     "planet1_sign": "Cancer",
@@ -3315,20 +2321,6 @@
     "planet2_degree": "20°50'23.03\"",
     "exact_angle": 120,
     "difference": 119.7794,
-    "orb": 0.2206
-  },
-  {
-    "datetime": "2025-11-07 17:45:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "21°03'37.13\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°50'23.03\"",
-    "exact_angle": 60,
-    "difference": 60.2206,
     "orb": 0.2206
   },
   {
@@ -3362,20 +2354,6 @@
   {
     "datetime": "2025-11-07 18:00:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "21°04'14.75\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°50'21.04\"",
-    "exact_angle": 60,
-    "difference": 60.2316,
-    "orb": 0.2316
-  },
-  {
-    "datetime": "2025-11-07 18:00:00",
-    "event": "Aspect",
     "type": "Trine",
     "planet1": "Jupiter",
     "planet1_sign": "Cancer",
@@ -3399,20 +2377,6 @@
     "planet2_degree": "20°50'19.05\"",
     "exact_angle": 120,
     "difference": 119.7574,
-    "orb": 0.2426
-  },
-  {
-    "datetime": "2025-11-07 18:15:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "21°04'52.36\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°50'19.05\"",
-    "exact_angle": 60,
-    "difference": 60.2426,
     "orb": 0.2426
   },
   {
@@ -3446,20 +2410,6 @@
   {
     "datetime": "2025-11-07 18:30:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "21°05'29.98\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°50'17.07\"",
-    "exact_angle": 60,
-    "difference": 60.2536,
-    "orb": 0.2536
-  },
-  {
-    "datetime": "2025-11-07 18:30:00",
-    "event": "Aspect",
     "type": "Trine",
     "planet1": "Jupiter",
     "planet1_sign": "Cancer",
@@ -3483,20 +2433,6 @@
     "planet2_degree": "20°50'15.08\"",
     "exact_angle": 120,
     "difference": 119.7354,
-    "orb": 0.2646
-  },
-  {
-    "datetime": "2025-11-07 18:45:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "21°06'07.60\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°50'15.08\"",
-    "exact_angle": 60,
-    "difference": 60.2646,
     "orb": 0.2646
   },
   {
@@ -3530,20 +2466,6 @@
   {
     "datetime": "2025-11-07 19:00:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "21°06'45.21\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°50'13.09\"",
-    "exact_angle": 60,
-    "difference": 60.2756,
-    "orb": 0.2756
-  },
-  {
-    "datetime": "2025-11-07 19:00:00",
-    "event": "Aspect",
     "type": "Trine",
     "planet1": "Jupiter",
     "planet1_sign": "Cancer",
@@ -3567,20 +2489,6 @@
     "planet2_degree": "20°50'11.11\"",
     "exact_angle": 120,
     "difference": 119.7134,
-    "orb": 0.2866
-  },
-  {
-    "datetime": "2025-11-07 19:15:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "21°07'22.83\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°50'11.11\"",
-    "exact_angle": 60,
-    "difference": 60.2866,
     "orb": 0.2866
   },
   {
@@ -3614,20 +2522,6 @@
   {
     "datetime": "2025-11-07 19:30:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "21°08'00.44\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°50'09.12\"",
-    "exact_angle": 60,
-    "difference": 60.2976,
-    "orb": 0.2976
-  },
-  {
-    "datetime": "2025-11-07 19:30:00",
-    "event": "Aspect",
     "type": "Trine",
     "planet1": "Jupiter",
     "planet1_sign": "Cancer",
@@ -3651,20 +2545,6 @@
     "planet2_degree": "20°50'07.13\"",
     "exact_angle": 120,
     "difference": 119.6914,
-    "orb": 0.3086
-  },
-  {
-    "datetime": "2025-11-07 19:45:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "21°08'38.06\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°50'07.13\"",
-    "exact_angle": 60,
-    "difference": 60.3086,
     "orb": 0.3086
   },
   {
@@ -3698,20 +2578,6 @@
   {
     "datetime": "2025-11-07 20:00:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "21°09'15.68\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°50'05.14\"",
-    "exact_angle": 60,
-    "difference": 60.3196,
-    "orb": 0.3196
-  },
-  {
-    "datetime": "2025-11-07 20:00:00",
-    "event": "Aspect",
     "type": "Trine",
     "planet1": "Jupiter",
     "planet1_sign": "Cancer",
@@ -3740,20 +2606,6 @@
   {
     "datetime": "2025-11-07 20:15:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "21°09'53.29\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°50'03.16\"",
-    "exact_angle": 60,
-    "difference": 60.3306,
-    "orb": 0.3306
-  },
-  {
-    "datetime": "2025-11-07 20:15:00",
-    "event": "Aspect",
     "type": "Trine",
     "planet1": "Jupiter",
     "planet1_sign": "Cancer",
@@ -3777,20 +2629,6 @@
     "planet2_degree": "20°50'01.17\"",
     "exact_angle": 120,
     "difference": 119.6584,
-    "orb": 0.3416
-  },
-  {
-    "datetime": "2025-11-07 20:30:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "21°10'30.91\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°50'01.17\"",
-    "exact_angle": 60,
-    "difference": 60.3416,
     "orb": 0.3416
   },
   {
@@ -3852,20 +2690,6 @@
   {
     "datetime": "2025-11-07 20:45:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "21°11'08.53\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°49'59.18\"",
-    "exact_angle": 60,
-    "difference": 60.3526,
-    "orb": 0.3526
-  },
-  {
-    "datetime": "2025-11-07 20:45:00",
-    "event": "Aspect",
     "type": "Square",
     "planet1": "Moon",
     "planet1_sign": "Taurus",
@@ -3917,20 +2741,6 @@
     "planet2_degree": "20°49'57.19\"",
     "exact_angle": 120,
     "difference": 119.6364,
-    "orb": 0.3636
-  },
-  {
-    "datetime": "2025-11-07 21:00:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "21°11'46.15\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°49'57.19\"",
-    "exact_angle": 60,
-    "difference": 60.3636,
     "orb": 0.3636
   },
   {
@@ -3992,20 +2802,6 @@
   {
     "datetime": "2025-11-07 21:15:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "21°12'23.77\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°49'55.21\"",
-    "exact_angle": 60,
-    "difference": 60.3746,
-    "orb": 0.3746
-  },
-  {
-    "datetime": "2025-11-07 21:15:00",
-    "event": "Aspect",
     "type": "Square",
     "planet1": "Moon",
     "planet1_sign": "Taurus",
@@ -4057,20 +2853,6 @@
     "planet2_degree": "20°49'53.22\"",
     "exact_angle": 120,
     "difference": 119.6144,
-    "orb": 0.3856
-  },
-  {
-    "datetime": "2025-11-07 21:30:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "21°13'01.38\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°49'53.22\"",
-    "exact_angle": 60,
-    "difference": 60.3856,
     "orb": 0.3856
   },
   {
@@ -4132,20 +2914,6 @@
   {
     "datetime": "2025-11-07 21:45:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "21°13'39.00\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°49'51.23\"",
-    "exact_angle": 60,
-    "difference": 60.3966,
-    "orb": 0.3966
-  },
-  {
-    "datetime": "2025-11-07 21:45:00",
-    "event": "Aspect",
     "type": "Square",
     "planet1": "Moon",
     "planet1_sign": "Taurus",
@@ -4197,20 +2965,6 @@
     "planet2_degree": "20°49'49.25\"",
     "exact_angle": 120,
     "difference": 119.5924,
-    "orb": 0.4076
-  },
-  {
-    "datetime": "2025-11-07 22:00:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "21°14'16.62\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°49'49.25\"",
-    "exact_angle": 60,
-    "difference": 60.4076,
     "orb": 0.4076
   },
   {
@@ -4272,20 +3026,6 @@
   {
     "datetime": "2025-11-07 22:15:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "21°14'54.24\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°49'47.26\"",
-    "exact_angle": 60,
-    "difference": 60.4186,
-    "orb": 0.4186
-  },
-  {
-    "datetime": "2025-11-07 22:15:00",
-    "event": "Aspect",
     "type": "Square",
     "planet1": "Moon",
     "planet1_sign": "Taurus",
@@ -4337,20 +3077,6 @@
     "planet2_degree": "20°49'45.27\"",
     "exact_angle": 120,
     "difference": 119.5704,
-    "orb": 0.4296
-  },
-  {
-    "datetime": "2025-11-07 22:30:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "21°15'31.86\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°49'45.27\"",
-    "exact_angle": 60,
-    "difference": 60.4296,
     "orb": 0.4296
   },
   {
@@ -4412,20 +3138,6 @@
   {
     "datetime": "2025-11-07 22:45:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "21°16'09.48\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°49'43.28\"",
-    "exact_angle": 60,
-    "difference": 60.4406,
-    "orb": 0.4406
-  },
-  {
-    "datetime": "2025-11-07 22:45:00",
-    "event": "Aspect",
     "type": "Square",
     "planet1": "Moon",
     "planet1_sign": "Taurus",
@@ -4477,20 +3189,6 @@
     "planet2_degree": "20°49'41.30\"",
     "exact_angle": 120,
     "difference": 119.5484,
-    "orb": 0.4516
-  },
-  {
-    "datetime": "2025-11-07 23:00:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "21°16'47.10\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°49'41.30\"",
-    "exact_angle": 60,
-    "difference": 60.4516,
     "orb": 0.4516
   },
   {
@@ -4552,20 +3250,6 @@
   {
     "datetime": "2025-11-07 23:15:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "21°17'24.72\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°49'39.31\"",
-    "exact_angle": 60,
-    "difference": 60.4626,
-    "orb": 0.4626
-  },
-  {
-    "datetime": "2025-11-07 23:15:00",
-    "event": "Aspect",
     "type": "Square",
     "planet1": "Moon",
     "planet1_sign": "Taurus",
@@ -4622,20 +3306,6 @@
   {
     "datetime": "2025-11-07 23:30:00",
     "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "21°18'02.34\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°49'37.32\"",
-    "exact_angle": 60,
-    "difference": 60.4736,
-    "orb": 0.4736
-  },
-  {
-    "datetime": "2025-11-07 23:30:00",
-    "event": "Aspect",
     "type": "Square",
     "planet1": "Moon",
     "planet1_sign": "Taurus",
@@ -4687,20 +3357,6 @@
     "planet2_degree": "20°49'35.34\"",
     "exact_angle": 120,
     "difference": 119.5154,
-    "orb": 0.4846
-  },
-  {
-    "datetime": "2025-11-07 23:45:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Sun",
-    "planet1_sign": "Libra",
-    "planet1_degree": "21°18'39.96\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°49'35.34\"",
-    "exact_angle": 60,
-    "difference": 60.4846,
     "orb": 0.4846
   },
   {

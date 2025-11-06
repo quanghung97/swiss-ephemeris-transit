@@ -210,20 +210,6 @@
     "orb": 0.9226
   },
   {
-    "datetime": "2025-11-09 21:15:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Moon",
-    "planet1_sign": "Gemini",
-    "planet1_degree": "19°48'12.15\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°43'33.67\"",
-    "exact_angle": 60,
-    "difference": 60.9226,
-    "orb": 0.9226
-  },
-  {
     "datetime": "2025-11-09 21:30:00",
     "event": "Aspect",
     "type": "Trine",
@@ -235,20 +221,6 @@
     "planet2_degree": "20°43'31.68\"",
     "exact_angle": 120,
     "difference": 119.227,
-    "orb": 0.773
-  },
-  {
-    "datetime": "2025-11-09 21:30:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Moon",
-    "planet1_sign": "Gemini",
-    "planet1_degree": "19°57'08.91\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°43'31.68\"",
-    "exact_angle": 60,
-    "difference": 60.773,
     "orb": 0.773
   },
   {
@@ -266,20 +238,6 @@
     "orb": 0.6234
   },
   {
-    "datetime": "2025-11-09 21:45:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Moon",
-    "planet1_sign": "Gemini",
-    "planet1_degree": "20°06'05.47\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°43'29.69\"",
-    "exact_angle": 60,
-    "difference": 60.6234,
-    "orb": 0.6234
-  },
-  {
     "datetime": "2025-11-09 22:00:00",
     "event": "Aspect",
     "type": "Trine",
@@ -291,20 +249,6 @@
     "planet2_degree": "20°43'27.70\"",
     "exact_angle": 120,
     "difference": 119.5262,
-    "orb": 0.4738
-  },
-  {
-    "datetime": "2025-11-09 22:00:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Moon",
-    "planet1_sign": "Gemini",
-    "planet1_degree": "20°15'01.85\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°43'27.70\"",
-    "exact_angle": 60,
-    "difference": 60.4738,
     "orb": 0.4738
   },
   {
@@ -322,20 +266,6 @@
     "orb": 0.3244
   },
   {
-    "datetime": "2025-11-09 22:15:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Moon",
-    "planet1_sign": "Gemini",
-    "planet1_degree": "20°23'58.05\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°43'25.72\"",
-    "exact_angle": 60,
-    "difference": 60.3244,
-    "orb": 0.3244
-  },
-  {
     "datetime": "2025-11-09 22:30:00",
     "event": "Aspect",
     "type": "Trine",
@@ -347,20 +277,6 @@
     "planet2_degree": "20°43'23.73\"",
     "exact_angle": 120,
     "difference": 119.8251,
-    "orb": 0.1749
-  },
-  {
-    "datetime": "2025-11-09 22:30:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Moon",
-    "planet1_sign": "Gemini",
-    "planet1_degree": "20°32'54.06\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°43'23.73\"",
-    "exact_angle": 60,
-    "difference": 60.1749,
     "orb": 0.1749
   },
   {
@@ -378,20 +294,6 @@
     "orb": 0.0255
   },
   {
-    "datetime": "2025-11-09 22:45:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Moon",
-    "planet1_sign": "Gemini",
-    "planet1_degree": "20°41'49.88\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°43'21.74\"",
-    "exact_angle": 60,
-    "difference": 60.0255,
-    "orb": 0.0255
-  },
-  {
     "datetime": "2025-11-09 23:00:00",
     "event": "Aspect",
     "type": "Trine",
@@ -403,20 +305,6 @@
     "planet2_degree": "20°43'19.75\"",
     "exact_angle": 120,
     "difference": 120.1238,
-    "orb": 0.1238
-  },
-  {
-    "datetime": "2025-11-09 23:00:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Moon",
-    "planet1_sign": "Gemini",
-    "planet1_degree": "20°50'45.52\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°43'19.75\"",
-    "exact_angle": 60,
-    "difference": 59.8762,
     "orb": 0.1238
   },
   {
@@ -434,20 +322,6 @@
     "orb": 0.2731
   },
   {
-    "datetime": "2025-11-09 23:15:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Moon",
-    "planet1_sign": "Gemini",
-    "planet1_degree": "20°59'40.97\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°43'17.77\"",
-    "exact_angle": 60,
-    "difference": 59.7269,
-    "orb": 0.2731
-  },
-  {
     "datetime": "2025-11-09 23:30:00",
     "event": "Aspect",
     "type": "Trine",
@@ -462,20 +336,6 @@
     "orb": 0.4223
   },
   {
-    "datetime": "2025-11-09 23:30:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Moon",
-    "planet1_sign": "Gemini",
-    "planet1_degree": "21°08'36.23\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°43'15.78\"",
-    "exact_angle": 60,
-    "difference": 59.5777,
-    "orb": 0.4223
-  },
-  {
     "datetime": "2025-11-09 23:45:00",
     "event": "Aspect",
     "type": "Trine",
@@ -487,20 +347,6 @@
     "planet2_degree": "20°43'13.79\"",
     "exact_angle": 120,
     "difference": 120.5715,
-    "orb": 0.5715
-  },
-  {
-    "datetime": "2025-11-09 23:45:00",
-    "event": "Aspect",
-    "type": "Sextile",
-    "planet1": "Moon",
-    "planet1_sign": "Gemini",
-    "planet1_degree": "21°17'31.31\"",
-    "planet2": "Ketu",
-    "planet2_sign": "Leo",
-    "planet2_degree": "20°43'13.79\"",
-    "exact_angle": 60,
-    "difference": 59.4285,
     "orb": 0.5715
   }
 ]
