@@ -1,0 +1,21 @@
+﻿datetime,event,planet,from_sign,to_sign,degree,longitude
+2025-12-02 01:00:00,Ingress,Moon,Pisces,Aries,"0°07'02.40""",0.117335
+2025-12-04 00:45:00,Ingress,Moon,Aries,Taurus,"0°00'19.19""",30.00533
+2025-12-05 19:00:00,Ingress,Jupiter,Cancer,Gemini,"29°59'59.21""",89.99978
+2025-12-06 00:00:00,Ingress,Moon,Taurus,Gemini,"0°09'08.29""",60.152303
+2025-12-06 22:30:00,Ingress,Mercury,Libra,Scorpio,"0°00'33.08""",210.009189
+2025-12-07 22:00:00,Ingress,Mars,Scorpio,Sagittarius,"0°00'22.77""",240.006325
+2025-12-08 00:15:00,Ingress,Moon,Gemini,Cancer,"0°03'50.95""",90.064153
+2025-12-10 04:00:00,Ingress,Moon,Cancer,Leo,"0°03'56.74""",120.065762
+2025-12-12 12:00:00,Ingress,Moon,Leo,Virgo,"0°04'49.72""",150.080477
+2025-12-14 23:15:00,Ingress,Moon,Virgo,Libra,"0°01'38.09""",180.027248
+2025-12-16 06:00:00,Ingress,Sun,Scorpio,Sagittarius,"0°00'25.18""",240.006995
+2025-12-17 12:00:00,Ingress,Moon,Libra,Scorpio,"0°01'42.96""",210.028599
+2025-12-20 00:30:00,Ingress,Moon,Scorpio,Sagittarius,"0°04'17.10""",240.071418
+2025-12-20 09:30:00,Ingress,Venus,Scorpio,Sagittarius,"0°00'45.72""",240.0127
+2025-12-22 11:45:00,Ingress,Moon,Sagittarius,Capricorn,"0°04'04.57""",270.067935
+2025-12-24 21:30:00,Ingress,Moon,Capricorn,Aquarius,"0°07'07.15""",300.118652
+2025-12-27 04:45:00,Ingress,Moon,Aquarius,Pisces,"0°02'20.42""",330.039004
+2025-12-29 09:00:00,Ingress,Mercury,Scorpio,Sagittarius,"0°00'22.82""",240.006339
+2025-12-29 09:15:00,Ingress,Moon,Pisces,Aries,"0°02'15.89""",0.037747
+2025-12-31 11:00:00,Ingress,Moon,Aries,Taurus,"0°04'11.48""",30.069856
