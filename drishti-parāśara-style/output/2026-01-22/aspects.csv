@@ -1,23 +1,243 @@
 ﻿datetime,event,aspecting_planet,aspecting_sign,aspecting_sign_vi,aspecting_degree,aspecting_nakshatra,aspecting_nakshatra_lord,aspecting_pada,aspected_planet,aspected_sign,aspected_sign_vi,aspected_degree,aspected_nakshatra,aspected_nakshatra_lord,aspected_pada,aspect_type,aspect_house,target_angle,actual_angle,orb,strength
+2026-01-22 00:00:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°26'30.90""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"7°28'28.64""",Uttara Ashadha,Sun,4,0th House,0,0,0.0327,0.0327,Combust
+2026-01-22 00:00:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"7°28'28.64""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°26'30.90""",Uttara Ashadha,Sun,4,0th House,0,0,359.9673,0.0327,Standard
+2026-01-22 00:15:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°27'09.07""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"7°29'31.66""",Uttara Ashadha,Sun,4,0th House,0,0,0.0396,0.0396,Combust
+2026-01-22 00:15:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"7°29'31.66""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°27'09.07""",Uttara Ashadha,Sun,4,0th House,0,0,359.9604,0.0396,Standard
+2026-01-22 00:30:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°27'47.23""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"7°30'34.68""",Uttara Ashadha,Sun,4,0th House,0,0,0.0465,0.0465,Combust
+2026-01-22 00:30:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"7°30'34.68""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°27'47.23""",Uttara Ashadha,Sun,4,0th House,0,0,359.9535,0.0465,Standard
+2026-01-22 00:45:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°28'25.40""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"7°31'37.71""",Uttara Ashadha,Sun,4,0th House,0,0,0.0534,0.0534,Combust
+2026-01-22 00:45:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"7°31'37.71""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°28'25.40""",Uttara Ashadha,Sun,4,0th House,0,0,359.9466,0.0534,Standard
+2026-01-22 01:00:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°29'03.57""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"7°32'40.74""",Uttara Ashadha,Sun,4,0th House,0,0,0.0603,0.0603,Combust
+2026-01-22 01:00:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"7°32'40.74""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°29'03.57""",Uttara Ashadha,Sun,4,0th House,0,0,359.9397,0.0603,Standard
+2026-01-22 01:15:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°29'41.73""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"7°33'43.78""",Uttara Ashadha,Sun,4,0th House,0,0,0.0672,0.0672,Combust
+2026-01-22 01:15:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"7°33'43.78""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°29'41.73""",Uttara Ashadha,Sun,4,0th House,0,0,359.9328,0.0672,Standard
+2026-01-22 01:30:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°30'19.90""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"7°34'46.81""",Uttara Ashadha,Sun,4,0th House,0,0,0.0741,0.0741,Combust
+2026-01-22 01:30:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"7°34'46.81""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°30'19.90""",Uttara Ashadha,Sun,4,0th House,0,0,359.9259,0.0741,Standard
+2026-01-22 01:45:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°30'58.07""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"7°35'49.86""",Uttara Ashadha,Sun,4,0th House,0,0,0.0811,0.0811,Combust
+2026-01-22 01:45:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"7°35'49.86""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°30'58.07""",Uttara Ashadha,Sun,4,0th House,0,0,359.9189,0.0811,Standard
+2026-01-22 02:00:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°31'36.23""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"7°36'52.90""",Uttara Ashadha,Sun,4,0th House,0,0,0.088,0.088,Combust
+2026-01-22 02:00:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"7°36'52.90""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°31'36.23""",Uttara Ashadha,Sun,4,0th House,0,0,359.912,0.088,Standard
+2026-01-22 02:15:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°32'14.40""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"7°37'55.95""",Uttara Ashadha,Sun,4,0th House,0,0,0.0949,0.0949,Combust
+2026-01-22 02:15:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"7°37'55.95""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°32'14.40""",Uttara Ashadha,Sun,4,0th House,0,0,359.9051,0.0949,Standard
+2026-01-22 02:30:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°32'52.57""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"7°38'59.00""",Uttara Ashadha,Sun,4,0th House,0,0,0.1018,0.1018,Combust
+2026-01-22 02:30:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"7°38'59.00""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°32'52.57""",Uttara Ashadha,Sun,4,0th House,0,0,359.8982,0.1018,Standard
+2026-01-22 02:45:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°33'30.73""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"7°40'02.06""",Uttara Ashadha,Sun,4,0th House,0,0,0.1087,0.1087,Combust
+2026-01-22 02:45:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"7°40'02.06""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°33'30.73""",Uttara Ashadha,Sun,4,0th House,0,0,359.8913,0.1087,Standard
+2026-01-22 03:00:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°34'08.90""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"7°41'05.12""",Uttara Ashadha,Sun,4,0th House,0,0,0.1156,0.1156,Combust
+2026-01-22 03:00:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"7°41'05.12""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°34'08.90""",Uttara Ashadha,Sun,4,0th House,0,0,359.8844,0.1156,Standard
+2026-01-22 03:15:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°34'47.06""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"7°42'08.19""",Uttara Ashadha,Sun,4,0th House,0,0,0.1225,0.1225,Combust
+2026-01-22 03:15:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"7°42'08.19""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°34'47.06""",Uttara Ashadha,Sun,4,0th House,0,0,359.8775,0.1225,Standard
+2026-01-22 03:30:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°35'25.23""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"7°43'11.25""",Uttara Ashadha,Sun,4,0th House,0,0,0.1295,0.1295,Combust
+2026-01-22 03:30:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"7°43'11.25""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°35'25.23""",Uttara Ashadha,Sun,4,0th House,0,0,359.8705,0.1295,Standard
+2026-01-22 03:45:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°36'03.40""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"7°44'14.33""",Uttara Ashadha,Sun,4,0th House,0,0,0.1364,0.1364,Combust
+2026-01-22 03:45:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"7°44'14.33""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°36'03.40""",Uttara Ashadha,Sun,4,0th House,0,0,359.8636,0.1364,Standard
+2026-01-22 04:00:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°36'41.56""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"7°45'17.40""",Uttara Ashadha,Sun,4,0th House,0,0,0.1433,0.1433,Combust
+2026-01-22 04:00:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"7°45'17.40""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°36'41.56""",Uttara Ashadha,Sun,4,0th House,0,0,359.8567,0.1433,Standard
+2026-01-22 04:15:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°37'19.73""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"7°46'20.48""",Uttara Ashadha,Sun,4,0th House,0,0,0.1502,0.1502,Combust
+2026-01-22 04:15:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"7°46'20.48""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°37'19.73""",Uttara Ashadha,Sun,4,0th House,0,0,359.8498,0.1502,Standard
+2026-01-22 04:30:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°37'57.89""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"7°47'23.56""",Uttara Ashadha,Sun,4,0th House,0,0,0.1571,0.1571,Combust
+2026-01-22 04:30:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"7°47'23.56""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°37'57.89""",Uttara Ashadha,Sun,4,0th House,0,0,359.8429,0.1571,Standard
+2026-01-22 04:45:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°38'36.06""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"7°48'26.65""",Uttara Ashadha,Sun,4,0th House,0,0,0.1641,0.1641,Combust
+2026-01-22 04:45:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"7°48'26.65""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°38'36.06""",Uttara Ashadha,Sun,4,0th House,0,0,359.8359,0.1641,Standard
+2026-01-22 05:00:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°39'14.22""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"7°49'29.74""",Uttara Ashadha,Sun,4,0th House,0,0,0.171,0.171,Combust
+2026-01-22 05:00:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"7°49'29.74""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°39'14.22""",Uttara Ashadha,Sun,4,0th House,0,0,359.829,0.171,Standard
+2026-01-22 05:15:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°39'52.39""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"7°50'32.83""",Uttara Ashadha,Sun,4,0th House,0,0,0.1779,0.1779,Combust
+2026-01-22 05:15:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"7°50'32.83""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°39'52.39""",Uttara Ashadha,Sun,4,0th House,0,0,359.8221,0.1779,Standard
+2026-01-22 05:30:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°40'30.55""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"7°51'35.93""",Uttara Ashadha,Sun,4,0th House,0,0,0.1848,0.1848,Combust
+2026-01-22 05:30:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"7°51'35.93""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°40'30.55""",Uttara Ashadha,Sun,4,0th House,0,0,359.8152,0.1848,Standard
+2026-01-22 05:45:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°41'08.72""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"7°52'39.03""",Uttara Ashadha,Sun,4,0th House,0,0,0.1918,0.1918,Combust
+2026-01-22 05:45:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"7°52'39.03""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°41'08.72""",Uttara Ashadha,Sun,4,0th House,0,0,359.8082,0.1918,Standard
+2026-01-22 06:00:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°41'46.88""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"7°53'42.14""",Uttara Ashadha,Sun,4,0th House,0,0,0.1987,0.1987,Combust
+2026-01-22 06:00:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"7°53'42.14""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°41'46.88""",Uttara Ashadha,Sun,4,0th House,0,0,359.8013,0.1987,Standard
+2026-01-22 06:15:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°42'25.05""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"7°54'45.25""",Uttara Ashadha,Sun,4,0th House,0,0,0.2056,0.2056,Combust
+2026-01-22 06:15:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"7°54'45.25""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°42'25.05""",Uttara Ashadha,Sun,4,0th House,0,0,359.7944,0.2056,Standard
+2026-01-22 06:30:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°43'03.21""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"7°55'48.36""",Uttara Ashadha,Sun,4,0th House,0,0,0.2125,0.2125,Combust
+2026-01-22 06:30:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"7°55'48.36""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°43'03.21""",Uttara Ashadha,Sun,4,0th House,0,0,359.7875,0.2125,Standard
+2026-01-22 06:45:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°43'41.38""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"7°56'51.47""",Uttara Ashadha,Sun,4,0th House,0,0,0.2195,0.2195,Combust
+2026-01-22 06:45:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"7°56'51.47""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°43'41.38""",Uttara Ashadha,Sun,4,0th House,0,0,359.7805,0.2195,Standard
+2026-01-22 07:00:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°44'19.54""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"7°57'54.59""",Uttara Ashadha,Sun,4,0th House,0,0,0.2264,0.2264,Combust
+2026-01-22 07:00:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"7°57'54.59""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°44'19.54""",Uttara Ashadha,Sun,4,0th House,0,0,359.7736,0.2264,Standard
+2026-01-22 07:15:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°44'57.71""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"7°58'57.72""",Uttara Ashadha,Sun,4,0th House,0,0,0.2333,0.2333,Combust
+2026-01-22 07:15:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"7°58'57.72""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°44'57.71""",Uttara Ashadha,Sun,4,0th House,0,0,359.7667,0.2333,Standard
+2026-01-22 07:30:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°45'35.87""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°00'00.85""",Uttara Ashadha,Sun,4,0th House,0,0,0.2403,0.2403,Combust
+2026-01-22 07:30:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°00'00.85""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°45'35.87""",Uttara Ashadha,Sun,4,0th House,0,0,359.7597,0.2403,Standard
+2026-01-22 07:45:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°46'14.03""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°01'03.98""",Uttara Ashadha,Sun,4,0th House,0,0,0.2472,0.2472,Combust
+2026-01-22 07:45:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°01'03.98""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°46'14.03""",Uttara Ashadha,Sun,4,0th House,0,0,359.7528,0.2472,Standard
+2026-01-22 08:00:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°46'52.20""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°02'07.11""",Uttara Ashadha,Sun,4,0th House,0,0,0.2541,0.2541,Combust
+2026-01-22 08:00:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°02'07.11""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°46'52.20""",Uttara Ashadha,Sun,4,0th House,0,0,359.7459,0.2541,Standard
+2026-01-22 08:15:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°47'30.36""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°03'10.25""",Uttara Ashadha,Sun,4,0th House,0,0,0.2611,0.2611,Combust
+2026-01-22 08:15:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°03'10.25""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°47'30.36""",Uttara Ashadha,Sun,4,0th House,0,0,359.7389,0.2611,Standard
+2026-01-22 08:30:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°48'08.53""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°04'13.39""",Uttara Ashadha,Sun,4,0th House,0,0,0.268,0.268,Combust
+2026-01-22 08:30:00,Parashara_Drishti,Moon,Aquarius,Bảo Bình,"15°55'07.09""",Shatabhisha,Rahu,3,Rahu,Aquarius,Bảo Bình,"16°49'57.95""",Shatabhisha,Rahu,4,0th House,0,0,0.9141,0.9141,Standard
 2026-01-22 08:30:00,Parashara_Drishti,Moon,Aquarius,Bảo Bình,"15°55'07.09""",Shatabhisha,Rahu,3,Ketu,Leo,Sư Tử,"16°49'57.95""",Purva Phalguni,Venus,2,7th House,7,180,180.9141,0.9141,Standard
+2026-01-22 08:30:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°04'13.39""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°48'08.53""",Uttara Ashadha,Sun,4,0th House,0,0,359.732,0.268,Standard
+2026-01-22 08:30:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"16°49'57.95""",Shatabhisha,Rahu,4,Moon,Aquarius,Bảo Bình,"15°55'07.09""",Shatabhisha,Rahu,3,0th House (Reverse),0,0,359.0859,0.9141,Standard
+2026-01-22 08:45:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°48'46.69""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°05'16.54""",Uttara Ashadha,Sun,4,0th House,0,0,0.275,0.275,Combust
+2026-01-22 08:45:00,Parashara_Drishti,Moon,Aquarius,Bảo Bình,"16°03'18.82""",Shatabhisha,Rahu,3,Rahu,Aquarius,Bảo Bình,"16°49'55.96""",Shatabhisha,Rahu,4,0th House,0,0,0.777,0.777,Standard
 2026-01-22 08:45:00,Parashara_Drishti,Moon,Aquarius,Bảo Bình,"16°03'18.82""",Shatabhisha,Rahu,3,Ketu,Leo,Sư Tử,"16°49'55.96""",Purva Phalguni,Venus,2,7th House,7,180,180.777,0.777,Standard
+2026-01-22 08:45:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°05'16.54""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°48'46.69""",Uttara Ashadha,Sun,4,0th House,0,0,359.725,0.275,Standard
+2026-01-22 08:45:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"16°49'55.96""",Shatabhisha,Rahu,4,Moon,Aquarius,Bảo Bình,"16°03'18.82""",Shatabhisha,Rahu,3,0th House (Reverse),0,0,359.223,0.777,Standard
+2026-01-22 09:00:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°49'24.85""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°06'19.69""",Uttara Ashadha,Sun,4,0th House,0,0,0.2819,0.2819,Combust
+2026-01-22 09:00:00,Parashara_Drishti,Moon,Aquarius,Bảo Bình,"16°11'30.63""",Shatabhisha,Rahu,3,Rahu,Aquarius,Bảo Bình,"16°49'53.97""",Shatabhisha,Rahu,4,0th House,0,0,0.6398,0.6398,Standard
 2026-01-22 09:00:00,Parashara_Drishti,Moon,Aquarius,Bảo Bình,"16°11'30.63""",Shatabhisha,Rahu,3,Ketu,Leo,Sư Tử,"16°49'53.97""",Purva Phalguni,Venus,2,7th House,7,180,180.6398,0.6398,Standard
+2026-01-22 09:00:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°06'19.69""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°49'24.85""",Uttara Ashadha,Sun,4,0th House,0,0,359.7181,0.2819,Standard
+2026-01-22 09:00:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"16°49'53.97""",Shatabhisha,Rahu,4,Moon,Aquarius,Bảo Bình,"16°11'30.63""",Shatabhisha,Rahu,3,0th House (Reverse),0,0,359.3602,0.6398,Standard
+2026-01-22 09:15:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°50'03.02""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°07'22.84""",Uttara Ashadha,Sun,4,0th House,0,0,0.2888,0.2888,Combust
+2026-01-22 09:15:00,Parashara_Drishti,Moon,Aquarius,Bảo Bình,"16°19'42.52""",Shatabhisha,Rahu,3,Rahu,Aquarius,Bảo Bình,"16°49'51.99""",Shatabhisha,Rahu,4,0th House,0,0,0.5026,0.5026,Standard
 2026-01-22 09:15:00,Parashara_Drishti,Moon,Aquarius,Bảo Bình,"16°19'42.52""",Shatabhisha,Rahu,3,Ketu,Leo,Sư Tử,"16°49'51.99""",Purva Phalguni,Venus,2,7th House,7,180,180.5026,0.5026,Standard
+2026-01-22 09:15:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°07'22.84""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°50'03.02""",Uttara Ashadha,Sun,4,0th House,0,0,359.7112,0.2888,Standard
+2026-01-22 09:15:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"16°49'51.99""",Shatabhisha,Rahu,4,Moon,Aquarius,Bảo Bình,"16°19'42.52""",Shatabhisha,Rahu,3,0th House (Reverse),0,0,359.4974,0.5026,Standard
+2026-01-22 09:30:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°50'41.18""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°08'26.00""",Uttara Ashadha,Sun,4,0th House,0,0,0.2958,0.2958,Combust
+2026-01-22 09:30:00,Parashara_Drishti,Moon,Aquarius,Bảo Bình,"16°27'54.49""",Shatabhisha,Rahu,3,Rahu,Aquarius,Bảo Bình,"16°49'50.00""",Shatabhisha,Rahu,4,0th House,0,0,0.3654,0.3654,Standard
 2026-01-22 09:30:00,Parashara_Drishti,Moon,Aquarius,Bảo Bình,"16°27'54.49""",Shatabhisha,Rahu,3,Ketu,Leo,Sư Tử,"16°49'50.00""",Purva Phalguni,Venus,2,7th House,7,180,180.3654,0.3654,Standard
+2026-01-22 09:30:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°08'26.00""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°50'41.18""",Uttara Ashadha,Sun,4,0th House,0,0,359.7042,0.2958,Standard
+2026-01-22 09:30:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"16°49'50.00""",Shatabhisha,Rahu,4,Moon,Aquarius,Bảo Bình,"16°27'54.49""",Shatabhisha,Rahu,3,0th House (Reverse),0,0,359.6346,0.3654,Standard
+2026-01-22 09:45:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°51'19.35""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°09'29.16""",Uttara Ashadha,Sun,4,0th House,0,0,0.3027,0.3027,Combust
+2026-01-22 09:45:00,Parashara_Drishti,Moon,Aquarius,Bảo Bình,"16°36'06.53""",Shatabhisha,Rahu,3,Rahu,Aquarius,Bảo Bình,"16°49'48.01""",Shatabhisha,Rahu,4,0th House,0,0,0.2282,0.2282,Standard
 2026-01-22 09:45:00,Parashara_Drishti,Moon,Aquarius,Bảo Bình,"16°36'06.53""",Shatabhisha,Rahu,3,Ketu,Leo,Sư Tử,"16°49'48.01""",Purva Phalguni,Venus,2,7th House,7,180,180.2282,0.2282,Standard
+2026-01-22 09:45:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°09'29.16""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°51'19.35""",Uttara Ashadha,Sun,4,0th House,0,0,359.6973,0.3027,Standard
+2026-01-22 09:45:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"16°49'48.01""",Shatabhisha,Rahu,4,Moon,Aquarius,Bảo Bình,"16°36'06.53""",Shatabhisha,Rahu,3,0th House (Reverse),0,0,359.7718,0.2282,Standard
+2026-01-22 10:00:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°51'57.51""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°10'32.32""",Uttara Ashadha,Sun,4,0th House,0,0,0.3097,0.3097,Combust
+2026-01-22 10:00:00,Parashara_Drishti,Moon,Aquarius,Bảo Bình,"16°44'18.66""",Shatabhisha,Rahu,4,Rahu,Aquarius,Bảo Bình,"16°49'46.02""",Shatabhisha,Rahu,4,0th House,0,0,0.0909,0.0909,Standard
 2026-01-22 10:00:00,Parashara_Drishti,Moon,Aquarius,Bảo Bình,"16°44'18.66""",Shatabhisha,Rahu,4,Ketu,Leo,Sư Tử,"16°49'46.02""",Purva Phalguni,Venus,2,7th House,7,180,180.0909,0.0909,Standard
+2026-01-22 10:00:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°10'32.32""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°51'57.51""",Uttara Ashadha,Sun,4,0th House,0,0,359.6903,0.3097,Standard
+2026-01-22 10:00:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"16°49'46.02""",Shatabhisha,Rahu,4,Moon,Aquarius,Bảo Bình,"16°44'18.66""",Shatabhisha,Rahu,4,0th House (Reverse),0,0,359.9091,0.0909,Standard
+2026-01-22 10:15:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°52'35.67""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°11'35.49""",Uttara Ashadha,Sun,4,0th House,0,0,0.3166,0.3166,Combust
+2026-01-22 10:15:00,Parashara_Drishti,Moon,Aquarius,Bảo Bình,"16°52'30.86""",Shatabhisha,Rahu,4,Rahu,Aquarius,Bảo Bình,"16°49'44.04""",Shatabhisha,Rahu,4,0th House,0,0,359.9537,0.0463,Standard
 2026-01-22 10:15:00,Parashara_Drishti,Moon,Aquarius,Bảo Bình,"16°52'30.86""",Shatabhisha,Rahu,4,Ketu,Leo,Sư Tử,"16°49'44.04""",Purva Phalguni,Venus,2,7th House,7,180,179.9537,0.0463,Standard
+2026-01-22 10:15:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°11'35.49""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°52'35.67""",Uttara Ashadha,Sun,4,0th House,0,0,359.6834,0.3166,Standard
+2026-01-22 10:15:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"16°49'44.04""",Shatabhisha,Rahu,4,Moon,Aquarius,Bảo Bình,"16°52'30.86""",Shatabhisha,Rahu,4,0th House (Reverse),0,0,0.0463,0.0463,Standard
+2026-01-22 10:30:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°53'13.84""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°12'38.66""",Uttara Ashadha,Sun,4,0th House,0,0,0.3236,0.3236,Combust
+2026-01-22 10:30:00,Parashara_Drishti,Moon,Aquarius,Bảo Bình,"17°00'43.14""",Shatabhisha,Rahu,4,Rahu,Aquarius,Bảo Bình,"16°49'42.05""",Shatabhisha,Rahu,4,0th House,0,0,359.8164,0.1836,Standard
 2026-01-22 10:30:00,Parashara_Drishti,Moon,Aquarius,Bảo Bình,"17°00'43.14""",Shatabhisha,Rahu,4,Ketu,Leo,Sư Tử,"16°49'42.05""",Purva Phalguni,Venus,2,7th House,7,180,179.8164,0.1836,Standard
+2026-01-22 10:30:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°12'38.66""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°53'13.84""",Uttara Ashadha,Sun,4,0th House,0,0,359.6764,0.3236,Standard
+2026-01-22 10:30:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"16°49'42.05""",Shatabhisha,Rahu,4,Moon,Aquarius,Bảo Bình,"17°00'43.14""",Shatabhisha,Rahu,4,0th House (Reverse),0,0,0.1836,0.1836,Standard
+2026-01-22 10:45:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°53'52.00""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°13'41.84""",Uttara Ashadha,Sun,4,0th House,0,0,0.3305,0.3305,Combust
+2026-01-22 10:45:00,Parashara_Drishti,Moon,Aquarius,Bảo Bình,"17°08'55.50""",Shatabhisha,Rahu,4,Rahu,Aquarius,Bảo Bình,"16°49'40.06""",Shatabhisha,Rahu,4,0th House,0,0,359.679,0.321,Standard
 2026-01-22 10:45:00,Parashara_Drishti,Moon,Aquarius,Bảo Bình,"17°08'55.50""",Shatabhisha,Rahu,4,Ketu,Leo,Sư Tử,"16°49'40.06""",Purva Phalguni,Venus,2,7th House,7,180,179.679,0.321,Standard
+2026-01-22 10:45:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°13'41.84""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°53'52.00""",Uttara Ashadha,Sun,4,0th House,0,0,359.6695,0.3305,Standard
+2026-01-22 10:45:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"16°49'40.06""",Shatabhisha,Rahu,4,Moon,Aquarius,Bảo Bình,"17°08'55.50""",Shatabhisha,Rahu,4,0th House (Reverse),0,0,0.321,0.321,Standard
+2026-01-22 11:00:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°54'30.16""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°14'45.02""",Uttara Ashadha,Sun,4,0th House,0,0,0.3375,0.3375,Combust
+2026-01-22 11:00:00,Parashara_Drishti,Moon,Aquarius,Bảo Bình,"17°17'07.93""",Shatabhisha,Rahu,4,Rahu,Aquarius,Bảo Bình,"16°49'38.08""",Shatabhisha,Rahu,4,0th House,0,0,359.5417,0.4583,Standard
 2026-01-22 11:00:00,Parashara_Drishti,Moon,Aquarius,Bảo Bình,"17°17'07.93""",Shatabhisha,Rahu,4,Ketu,Leo,Sư Tử,"16°49'38.08""",Purva Phalguni,Venus,2,7th House,7,180,179.5417,0.4583,Standard
+2026-01-22 11:00:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°14'45.02""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°54'30.16""",Uttara Ashadha,Sun,4,0th House,0,0,359.6625,0.3375,Standard
+2026-01-22 11:00:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"16°49'38.08""",Shatabhisha,Rahu,4,Moon,Aquarius,Bảo Bình,"17°17'07.93""",Shatabhisha,Rahu,4,0th House (Reverse),0,0,0.4583,0.4583,Standard
+2026-01-22 11:15:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°55'08.32""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°15'48.20""",Uttara Ashadha,Sun,4,0th House,0,0,0.3444,0.3444,Combust
+2026-01-22 11:15:00,Parashara_Drishti,Moon,Aquarius,Bảo Bình,"17°25'20.45""",Shatabhisha,Rahu,4,Rahu,Aquarius,Bảo Bình,"16°49'36.09""",Shatabhisha,Rahu,4,0th House,0,0,359.4043,0.5957,Standard
 2026-01-22 11:15:00,Parashara_Drishti,Moon,Aquarius,Bảo Bình,"17°25'20.45""",Shatabhisha,Rahu,4,Ketu,Leo,Sư Tử,"16°49'36.09""",Purva Phalguni,Venus,2,7th House,7,180,179.4043,0.5957,Standard
+2026-01-22 11:15:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°15'48.20""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°55'08.32""",Uttara Ashadha,Sun,4,0th House,0,0,359.6556,0.3444,Standard
+2026-01-22 11:15:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"16°49'36.09""",Shatabhisha,Rahu,4,Moon,Aquarius,Bảo Bình,"17°25'20.45""",Shatabhisha,Rahu,4,0th House (Reverse),0,0,0.5957,0.5957,Standard
+2026-01-22 11:30:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°55'46.49""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°16'51.39""",Uttara Ashadha,Sun,4,0th House,0,0,0.3514,0.3514,Combust
+2026-01-22 11:30:00,Parashara_Drishti,Moon,Aquarius,Bảo Bình,"17°33'33.04""",Shatabhisha,Rahu,4,Rahu,Aquarius,Bảo Bình,"16°49'34.10""",Shatabhisha,Rahu,4,0th House,0,0,359.267,0.733,Standard
 2026-01-22 11:30:00,Parashara_Drishti,Moon,Aquarius,Bảo Bình,"17°33'33.04""",Shatabhisha,Rahu,4,Ketu,Leo,Sư Tử,"16°49'34.10""",Purva Phalguni,Venus,2,7th House,7,180,179.267,0.733,Standard
+2026-01-22 11:30:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°16'51.39""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°55'46.49""",Uttara Ashadha,Sun,4,0th House,0,0,359.6486,0.3514,Standard
+2026-01-22 11:30:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"16°49'34.10""",Shatabhisha,Rahu,4,Moon,Aquarius,Bảo Bình,"17°33'33.04""",Shatabhisha,Rahu,4,0th House (Reverse),0,0,0.733,0.733,Standard
+2026-01-22 11:45:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°56'24.65""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°17'54.58""",Uttara Ashadha,Sun,4,0th House,0,0,0.3583,0.3583,Combust
+2026-01-22 11:45:00,Parashara_Drishti,Moon,Aquarius,Bảo Bình,"17°41'45.71""",Shatabhisha,Rahu,4,Rahu,Aquarius,Bảo Bình,"16°49'32.11""",Shatabhisha,Rahu,4,0th House,0,0,359.1296,0.8704,Standard
 2026-01-22 11:45:00,Parashara_Drishti,Moon,Aquarius,Bảo Bình,"17°41'45.71""",Shatabhisha,Rahu,4,Ketu,Leo,Sư Tử,"16°49'32.11""",Purva Phalguni,Venus,2,7th House,7,180,179.1296,0.8704,Standard
+2026-01-22 11:45:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°17'54.58""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°56'24.65""",Uttara Ashadha,Sun,4,0th House,0,0,359.6417,0.3583,Standard
+2026-01-22 11:45:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"16°49'32.11""",Shatabhisha,Rahu,4,Moon,Aquarius,Bảo Bình,"17°41'45.71""",Shatabhisha,Rahu,4,0th House (Reverse),0,0,0.8704,0.8704,Standard
+2026-01-22 12:00:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°57'02.81""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°18'57.77""",Uttara Ashadha,Sun,4,0th House,0,0,0.3653,0.3653,Combust
+2026-01-22 12:00:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°18'57.77""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°57'02.81""",Uttara Ashadha,Sun,4,0th House,0,0,359.6347,0.3653,Standard
+2026-01-22 12:15:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°57'40.97""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°20'00.97""",Uttara Ashadha,Sun,4,0th House,0,0,0.3722,0.3722,Combust
+2026-01-22 12:15:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°20'00.97""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°57'40.97""",Uttara Ashadha,Sun,4,0th House,0,0,359.6278,0.3722,Standard
+2026-01-22 12:30:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°58'19.14""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°21'04.17""",Uttara Ashadha,Sun,4,0th House,0,0,0.3792,0.3792,Combust
+2026-01-22 12:30:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°21'04.17""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°58'19.14""",Uttara Ashadha,Sun,4,0th House,0,0,359.6208,0.3792,Standard
+2026-01-22 12:45:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°58'57.30""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°22'07.38""",Uttara Ashadha,Sun,4,0th House,0,0,0.3861,0.3861,Combust
+2026-01-22 12:45:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°22'07.38""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°58'57.30""",Uttara Ashadha,Sun,4,0th House,0,0,359.6139,0.3861,Standard
+2026-01-22 13:00:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"7°59'35.46""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°23'10.59""",Uttara Ashadha,Sun,4,0th House,0,0,0.3931,0.3931,Combust
+2026-01-22 13:00:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°23'10.59""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"7°59'35.46""",Uttara Ashadha,Sun,4,0th House,0,0,359.6069,0.3931,Standard
+2026-01-22 13:15:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"8°00'13.62""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°24'13.80""",Uttara Ashadha,Sun,4,0th House,0,0,0.4,0.4,Combust
+2026-01-22 13:15:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°24'13.80""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"8°00'13.62""",Uttara Ashadha,Sun,4,0th House,0,0,359.6,0.4,Standard
+2026-01-22 13:30:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"8°00'51.79""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°25'17.02""",Uttara Ashadha,Sun,4,0th House,0,0,0.407,0.407,Combust
+2026-01-22 13:30:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°25'17.02""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"8°00'51.79""",Uttara Ashadha,Sun,4,0th House,0,0,359.593,0.407,Standard
+2026-01-22 13:45:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"8°01'29.95""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°26'20.24""",Uttara Ashadha,Sun,4,0th House,0,0,0.414,0.414,Combust
+2026-01-22 13:45:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°26'20.24""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"8°01'29.95""",Uttara Ashadha,Sun,4,0th House,0,0,359.586,0.414,Standard
+2026-01-22 14:00:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"8°02'08.11""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°27'23.46""",Uttara Ashadha,Sun,4,0th House,0,0,0.4209,0.4209,Combust
+2026-01-22 14:00:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°27'23.46""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"8°02'08.11""",Uttara Ashadha,Sun,4,0th House,0,0,359.5791,0.4209,Standard
+2026-01-22 14:15:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"8°02'46.27""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°28'26.69""",Uttara Ashadha,Sun,4,0th House,0,0,0.4279,0.4279,Combust
+2026-01-22 14:15:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°28'26.69""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"8°02'46.27""",Uttara Ashadha,Sun,4,0th House,0,0,359.5721,0.4279,Standard
+2026-01-22 14:30:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"8°03'24.43""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°29'29.92""",Uttara Ashadha,Sun,4,0th House,0,0,0.4349,0.4349,Combust
+2026-01-22 14:30:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°29'29.92""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"8°03'24.43""",Uttara Ashadha,Sun,4,0th House,0,0,359.5651,0.4349,Standard
+2026-01-22 14:45:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"8°04'02.59""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°30'33.16""",Uttara Ashadha,Sun,4,0th House,0,0,0.4418,0.4418,Combust
+2026-01-22 14:45:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°30'33.16""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"8°04'02.59""",Uttara Ashadha,Sun,4,0th House,0,0,359.5582,0.4418,Standard
+2026-01-22 15:00:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"8°04'40.76""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°31'36.39""",Uttara Ashadha,Sun,4,0th House,0,0,0.4488,0.4488,Combust
+2026-01-22 15:00:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°31'36.39""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"8°04'40.76""",Uttara Ashadha,Sun,4,0th House,0,0,359.5512,0.4488,Standard
+2026-01-22 15:15:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"8°05'18.92""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°32'39.64""",Uttara Ashadha,Sun,4,0th House,0,0,0.4558,0.4558,Combust
+2026-01-22 15:15:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°32'39.64""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"8°05'18.92""",Uttara Ashadha,Sun,4,0th House,0,0,359.5442,0.4558,Standard
+2026-01-22 15:30:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"8°05'57.08""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°33'42.88""",Uttara Ashadha,Sun,4,0th House,0,0,0.4627,0.4627,Combust
+2026-01-22 15:30:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°33'42.88""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"8°05'57.08""",Uttara Ashadha,Sun,4,0th House,0,0,359.5373,0.4627,Standard
+2026-01-22 15:45:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"8°06'35.24""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°34'46.13""",Uttara Ashadha,Sun,4,0th House,0,0,0.4697,0.4697,Combust
+2026-01-22 15:45:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°34'46.13""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"8°06'35.24""",Uttara Ashadha,Sun,4,0th House,0,0,359.5303,0.4697,Standard
+2026-01-22 16:00:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"8°07'13.40""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°35'49.39""",Uttara Ashadha,Sun,4,0th House,0,0,0.4767,0.4767,Combust
+2026-01-22 16:00:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°35'49.39""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"8°07'13.40""",Uttara Ashadha,Sun,4,0th House,0,0,359.5233,0.4767,Standard
+2026-01-22 16:15:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"8°07'51.56""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°36'52.64""",Uttara Ashadha,Sun,4,0th House,0,0,0.4836,0.4836,Combust
+2026-01-22 16:15:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°36'52.64""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"8°07'51.56""",Uttara Ashadha,Sun,4,0th House,0,0,359.5164,0.4836,Standard
+2026-01-22 16:30:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"8°08'29.72""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°37'55.91""",Uttara Ashadha,Sun,4,0th House,0,0,0.4906,0.4906,Combust
+2026-01-22 16:30:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°37'55.91""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"8°08'29.72""",Uttara Ashadha,Sun,4,0th House,0,0,359.5094,0.4906,Standard
+2026-01-22 16:45:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"8°09'07.88""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°38'59.17""",Uttara Ashadha,Sun,4,0th House,0,0,0.4976,0.4976,Combust
+2026-01-22 16:45:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°38'59.17""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"8°09'07.88""",Uttara Ashadha,Sun,4,0th House,0,0,359.5024,0.4976,Standard
+2026-01-22 17:00:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"8°09'46.04""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°40'02.44""",Uttara Ashadha,Sun,4,0th House,0,0,0.5046,0.5046,Combust
+2026-01-22 17:00:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°40'02.44""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"8°09'46.04""",Uttara Ashadha,Sun,4,0th House,0,0,359.4954,0.5046,Standard
+2026-01-22 17:15:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"8°10'24.21""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°41'05.71""",Uttara Ashadha,Sun,4,0th House,0,0,0.5115,0.5115,Combust
+2026-01-22 17:15:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°41'05.71""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"8°10'24.21""",Uttara Ashadha,Sun,4,0th House,0,0,359.4885,0.5115,Standard
+2026-01-22 17:30:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"8°11'02.37""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°42'08.99""",Uttara Ashadha,Sun,4,0th House,0,0,0.5185,0.5185,Combust
+2026-01-22 17:30:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°42'08.99""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"8°11'02.37""",Uttara Ashadha,Sun,4,0th House,0,0,359.4815,0.5185,Standard
+2026-01-22 17:45:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"8°11'40.53""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°43'12.27""",Uttara Ashadha,Sun,4,0th House,0,0,0.5255,0.5255,Combust
+2026-01-22 17:45:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°43'12.27""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"8°11'40.53""",Uttara Ashadha,Sun,4,0th House,0,0,359.4745,0.5255,Standard
+2026-01-22 18:00:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"8°12'18.69""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°44'15.55""",Uttara Ashadha,Sun,4,0th House,0,0,0.5325,0.5325,Combust
+2026-01-22 18:00:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°44'15.55""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"8°12'18.69""",Uttara Ashadha,Sun,4,0th House,0,0,359.4675,0.5325,Standard
+2026-01-22 18:15:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"8°12'56.85""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°45'18.84""",Uttara Ashadha,Sun,4,0th House,0,0,0.5394,0.5394,Combust
+2026-01-22 18:15:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°45'18.84""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"8°12'56.85""",Uttara Ashadha,Sun,4,0th House,0,0,359.4606,0.5394,Standard
+2026-01-22 18:30:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"8°13'35.01""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°46'22.13""",Uttara Ashadha,Sun,4,0th House,0,0,0.5464,0.5464,Combust
+2026-01-22 18:30:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°46'22.13""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"8°13'35.01""",Uttara Ashadha,Sun,4,0th House,0,0,359.4536,0.5464,Standard
+2026-01-22 18:45:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"8°14'13.17""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°47'25.42""",Uttara Ashadha,Sun,4,0th House,0,0,0.5534,0.5534,Combust
+2026-01-22 18:45:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°47'25.42""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"8°14'13.17""",Uttara Ashadha,Sun,4,0th House,0,0,359.4466,0.5534,Standard
+2026-01-22 19:00:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"8°14'51.33""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°48'28.72""",Uttara Ashadha,Sun,4,0th House,0,0,0.5604,0.5604,Combust
+2026-01-22 19:00:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°48'28.72""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"8°14'51.33""",Uttara Ashadha,Sun,4,0th House,0,0,359.4396,0.5604,Standard
+2026-01-22 19:15:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"8°15'29.49""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°49'32.03""",Uttara Ashadha,Sun,4,0th House,0,0,0.5674,0.5674,Combust
+2026-01-22 19:15:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°49'32.03""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"8°15'29.49""",Uttara Ashadha,Sun,4,0th House,0,0,359.4326,0.5674,Standard
+2026-01-22 19:30:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"8°16'07.65""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°50'35.33""",Uttara Ashadha,Sun,4,0th House,0,0,0.5744,0.5744,Combust
+2026-01-22 19:30:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°50'35.33""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"8°16'07.65""",Uttara Ashadha,Sun,4,0th House,0,0,359.4256,0.5744,Standard
+2026-01-22 19:45:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"8°16'45.81""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°51'38.64""",Uttara Ashadha,Sun,4,0th House,0,0,0.5813,0.5813,Combust
+2026-01-22 19:45:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°51'38.64""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"8°16'45.81""",Uttara Ashadha,Sun,4,0th House,0,0,359.4187,0.5813,Standard
+2026-01-22 20:00:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"8°17'23.97""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°52'41.95""",Uttara Ashadha,Sun,4,0th House,0,0,0.5883,0.5883,Combust
+2026-01-22 20:00:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°52'41.95""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"8°17'23.97""",Uttara Ashadha,Sun,4,0th House,0,0,359.4117,0.5883,Standard
+2026-01-22 20:15:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"8°18'02.13""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°53'45.27""",Uttara Ashadha,Sun,4,0th House,0,0,0.5953,0.5953,Combust
+2026-01-22 20:15:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°53'45.27""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"8°18'02.13""",Uttara Ashadha,Sun,4,0th House,0,0,359.4047,0.5953,Standard
+2026-01-22 20:30:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"8°18'40.28""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°54'48.59""",Uttara Ashadha,Sun,4,0th House,0,0,0.6023,0.6023,Combust
+2026-01-22 20:30:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°54'48.59""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"8°18'40.28""",Uttara Ashadha,Sun,4,0th House,0,0,359.3977,0.6023,Standard
+2026-01-22 20:45:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"8°19'18.44""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°55'51.92""",Uttara Ashadha,Sun,4,0th House,0,0,0.6093,0.6093,Combust
+2026-01-22 20:45:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°55'51.92""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"8°19'18.44""",Uttara Ashadha,Sun,4,0th House,0,0,359.3907,0.6093,Standard
+2026-01-22 21:00:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"8°19'56.60""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°56'55.24""",Uttara Ashadha,Sun,4,0th House,0,0,0.6163,0.6163,Combust
+2026-01-22 21:00:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°56'55.24""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"8°19'56.60""",Uttara Ashadha,Sun,4,0th House,0,0,359.3837,0.6163,Standard
+2026-01-22 21:15:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"8°20'34.76""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°57'58.58""",Uttara Ashadha,Sun,4,0th House,0,0,0.6233,0.6233,Combust
+2026-01-22 21:15:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°57'58.58""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"8°20'34.76""",Uttara Ashadha,Sun,4,0th House,0,0,359.3767,0.6233,Standard
+2026-01-22 21:30:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"8°21'12.92""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"8°59'01.91""",Uttara Ashadha,Sun,4,0th House,0,0,0.6303,0.6303,Combust
+2026-01-22 21:30:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"8°59'01.91""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"8°21'12.92""",Uttara Ashadha,Sun,4,0th House,0,0,359.3697,0.6303,Standard
+2026-01-22 21:45:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"8°21'51.08""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"9°00'05.25""",Uttara Ashadha,Sun,4,0th House,0,0,0.6373,0.6373,Combust
+2026-01-22 21:45:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"9°00'05.25""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"8°21'51.08""",Uttara Ashadha,Sun,4,0th House,0,0,359.3627,0.6373,Standard
+2026-01-22 22:00:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"8°22'29.24""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"9°01'08.60""",Uttara Ashadha,Sun,4,0th House,0,0,0.6443,0.6443,Combust
+2026-01-22 22:00:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"9°01'08.60""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"8°22'29.24""",Uttara Ashadha,Sun,4,0th House,0,0,359.3557,0.6443,Standard
 2026-01-22 22:00:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"24°15'42.61""",Punarvasu,Jupiter,2,Moon,Aquarius,Bảo Bình,"23°19'33.28""",Purva Bhadrapada,Jupiter,1,9th House,9,240,239.0641,0.9359,Strong
+2026-01-22 22:15:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"8°23'07.40""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"9°02'11.94""",Uttara Ashadha,Sun,4,0th House,0,0,0.6513,0.6513,Combust
+2026-01-22 22:15:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"9°02'11.94""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"8°23'07.40""",Uttara Ashadha,Sun,4,0th House,0,0,359.3487,0.6513,Standard
 2026-01-22 22:15:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"24°15'37.84""",Punarvasu,Jupiter,2,Moon,Aquarius,Bảo Bình,"23°27'49.28""",Purva Bhadrapada,Jupiter,2,9th House,9,240,239.2032,0.7968,Strong
+2026-01-22 22:30:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"8°23'45.56""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"9°03'15.29""",Uttara Ashadha,Sun,4,0th House,0,0,0.6583,0.6583,Combust
+2026-01-22 22:30:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"9°03'15.29""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"8°23'45.56""",Uttara Ashadha,Sun,4,0th House,0,0,359.3417,0.6583,Standard
 2026-01-22 22:30:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"24°15'33.07""",Punarvasu,Jupiter,2,Moon,Aquarius,Bảo Bình,"23°36'05.37""",Purva Bhadrapada,Jupiter,2,9th House,9,240,239.3423,0.6577,Strong
+2026-01-22 22:45:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"8°24'23.71""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"9°04'18.65""",Uttara Ashadha,Sun,4,0th House,0,0,0.6653,0.6653,Combust
+2026-01-22 22:45:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"9°04'18.65""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"8°24'23.71""",Uttara Ashadha,Sun,4,0th House,0,0,359.3347,0.6653,Standard
 2026-01-22 22:45:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"24°15'28.30""",Punarvasu,Jupiter,2,Moon,Aquarius,Bảo Bình,"23°44'21.53""",Purva Bhadrapada,Jupiter,2,9th House,9,240,239.4815,0.5185,Strong
+2026-01-22 23:00:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"8°25'01.87""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"9°05'22.01""",Uttara Ashadha,Sun,4,0th House,0,0,0.6723,0.6723,Combust
+2026-01-22 23:00:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"9°05'22.01""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"8°25'01.87""",Uttara Ashadha,Sun,4,0th House,0,0,359.3277,0.6723,Standard
 2026-01-22 23:00:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"24°15'23.54""",Punarvasu,Jupiter,2,Moon,Aquarius,Bảo Bình,"23°52'37.78""",Purva Bhadrapada,Jupiter,2,9th House,9,240,239.6206,0.3794,Strong
+2026-01-22 23:15:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"8°25'40.03""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"9°06'25.37""",Uttara Ashadha,Sun,4,0th House,0,0,0.6793,0.6793,Combust
+2026-01-22 23:15:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"9°06'25.37""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"8°25'40.03""",Uttara Ashadha,Sun,4,0th House,0,0,359.3207,0.6793,Standard
 2026-01-22 23:15:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"24°15'18.77""",Punarvasu,Jupiter,2,Moon,Aquarius,Bảo Bình,"24°00'54.10""",Purva Bhadrapada,Jupiter,2,9th House,9,240,239.7598,0.2402,Strong
+2026-01-22 23:30:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"8°26'18.19""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"9°07'28.73""",Uttara Ashadha,Sun,4,0th House,0,0,0.6863,0.6863,Combust
+2026-01-22 23:30:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"9°07'28.73""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"8°26'18.19""",Uttara Ashadha,Sun,4,0th House,0,0,359.3137,0.6863,Standard
 2026-01-22 23:30:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"24°15'14.00""",Punarvasu,Jupiter,2,Moon,Aquarius,Bảo Bình,"24°09'10.51""",Purva Bhadrapada,Jupiter,2,9th House,9,240,239.899,0.101,Strong
+2026-01-22 23:45:00,Parashara_Drishti,Sun,Capricorn,Ma Kết,"8°26'56.35""",Uttara Ashadha,Sun,4,Mercury,Capricorn,Ma Kết,"9°08'32.10""",Uttara Ashadha,Sun,4,0th House,0,0,0.6933,0.6933,Combust
+2026-01-22 23:45:00,Parashara_Drishti,Mercury,Capricorn,Ma Kết,"9°08'32.10""",Uttara Ashadha,Sun,4,Sun,Capricorn,Ma Kết,"8°26'56.35""",Uttara Ashadha,Sun,4,0th House,0,0,359.3067,0.6933,Standard
 2026-01-22 23:45:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"24°15'09.23""",Punarvasu,Jupiter,2,Moon,Aquarius,Bảo Bình,"24°17'27.00""",Purva Bhadrapada,Jupiter,2,9th House,9,240,240.0383,0.0383,Strong

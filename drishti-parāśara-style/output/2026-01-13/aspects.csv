@@ -1,17 +1,181 @@
 ﻿datetime,event,aspecting_planet,aspecting_sign,aspecting_sign_vi,aspecting_degree,aspecting_nakshatra,aspecting_nakshatra_lord,aspecting_pada,aspected_planet,aspected_sign,aspected_sign_vi,aspected_degree,aspected_nakshatra,aspected_nakshatra_lord,aspected_pada,aspect_type,aspect_house,target_angle,actual_angle,orb,strength
+2026-01-13 00:00:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°16'31.83""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°28'58.03""",Uttara Ashadha,Sun,1,0th House,0,0,359.2073,0.7927,Combust
+2026-01-13 00:00:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°28'58.03""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°16'31.83""",Uttara Ashadha,Sun,1,0th House,0,0,0.7927,0.7927,Standard
+2026-01-13 00:15:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°17'10.04""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°29'27.05""",Uttara Ashadha,Sun,1,0th House,0,0,359.2047,0.7953,Combust
+2026-01-13 00:15:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°29'27.05""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°17'10.04""",Uttara Ashadha,Sun,1,0th House,0,0,0.7953,0.7953,Standard
+2026-01-13 00:30:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°17'48.25""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°29'56.07""",Uttara Ashadha,Sun,1,0th House,0,0,359.2022,0.7978,Combust
+2026-01-13 00:30:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°29'56.07""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°17'48.25""",Uttara Ashadha,Sun,1,0th House,0,0,0.7978,0.7978,Standard
+2026-01-13 00:45:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°18'26.46""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°30'25.08""",Uttara Ashadha,Sun,1,0th House,0,0,359.1996,0.8004,Combust
+2026-01-13 00:45:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°30'25.08""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°18'26.46""",Uttara Ashadha,Sun,1,0th House,0,0,0.8004,0.8004,Standard
+2026-01-13 01:00:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°19'04.67""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°30'54.10""",Uttara Ashadha,Sun,1,0th House,0,0,359.1971,0.8029,Combust
+2026-01-13 01:00:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°30'54.10""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°19'04.67""",Uttara Ashadha,Sun,1,0th House,0,0,0.8029,0.8029,Standard
+2026-01-13 01:15:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°19'42.87""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°31'23.12""",Uttara Ashadha,Sun,1,0th House,0,0,359.1945,0.8055,Combust
+2026-01-13 01:15:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°31'23.12""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°19'42.87""",Uttara Ashadha,Sun,1,0th House,0,0,0.8055,0.8055,Standard
+2026-01-13 01:30:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°20'21.08""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°31'52.14""",Uttara Ashadha,Sun,1,0th House,0,0,359.192,0.808,Combust
+2026-01-13 01:30:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°31'52.14""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°20'21.08""",Uttara Ashadha,Sun,1,0th House,0,0,0.808,0.808,Standard
+2026-01-13 01:45:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°20'59.29""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°32'21.16""",Uttara Ashadha,Sun,1,0th House,0,0,359.1894,0.8106,Combust
+2026-01-13 01:45:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°32'21.16""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°20'59.29""",Uttara Ashadha,Sun,1,0th House,0,0,0.8106,0.8106,Standard
+2026-01-13 02:00:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°21'37.50""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°32'50.18""",Uttara Ashadha,Sun,1,0th House,0,0,359.1869,0.8131,Combust
+2026-01-13 02:00:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°32'50.18""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°21'37.50""",Uttara Ashadha,Sun,1,0th House,0,0,0.8131,0.8131,Standard
+2026-01-13 02:15:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°22'15.70""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°33'19.20""",Uttara Ashadha,Sun,1,0th House,0,0,359.1843,0.8157,Combust
+2026-01-13 02:15:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°33'19.20""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°22'15.70""",Uttara Ashadha,Sun,1,0th House,0,0,0.8157,0.8157,Standard
+2026-01-13 02:30:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°22'53.91""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°33'48.22""",Uttara Ashadha,Sun,1,0th House,0,0,359.1818,0.8182,Combust
+2026-01-13 02:30:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°33'48.22""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°22'53.91""",Uttara Ashadha,Sun,1,0th House,0,0,0.8182,0.8182,Standard
+2026-01-13 02:45:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°23'32.12""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°34'17.24""",Uttara Ashadha,Sun,1,0th House,0,0,359.1792,0.8208,Combust
+2026-01-13 02:45:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°34'17.24""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°23'32.12""",Uttara Ashadha,Sun,1,0th House,0,0,0.8208,0.8208,Standard
+2026-01-13 03:00:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°24'10.33""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°34'46.26""",Uttara Ashadha,Sun,1,0th House,0,0,359.1766,0.8234,Combust
+2026-01-13 03:00:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°34'46.26""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°24'10.33""",Uttara Ashadha,Sun,1,0th House,0,0,0.8234,0.8234,Standard
+2026-01-13 03:15:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°24'48.54""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°35'15.28""",Uttara Ashadha,Sun,1,0th House,0,0,359.1741,0.8259,Combust
+2026-01-13 03:15:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°35'15.28""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°24'48.54""",Uttara Ashadha,Sun,1,0th House,0,0,0.8259,0.8259,Standard
+2026-01-13 03:30:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°25'26.74""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°35'44.30""",Uttara Ashadha,Sun,1,0th House,0,0,359.1715,0.8285,Combust
+2026-01-13 03:30:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°35'44.30""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°25'26.74""",Uttara Ashadha,Sun,1,0th House,0,0,0.8285,0.8285,Standard
+2026-01-13 03:45:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°26'04.95""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°36'13.32""",Uttara Ashadha,Sun,1,0th House,0,0,359.169,0.831,Combust
+2026-01-13 03:45:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°36'13.32""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°26'04.95""",Uttara Ashadha,Sun,1,0th House,0,0,0.831,0.831,Standard
+2026-01-13 04:00:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°26'43.16""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°36'42.34""",Uttara Ashadha,Sun,1,0th House,0,0,359.1664,0.8336,Combust
+2026-01-13 04:00:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°36'42.34""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°26'43.16""",Uttara Ashadha,Sun,1,0th House,0,0,0.8336,0.8336,Standard
+2026-01-13 04:15:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°27'21.37""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°37'11.37""",Uttara Ashadha,Sun,1,0th House,0,0,359.1639,0.8361,Combust
+2026-01-13 04:15:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°37'11.37""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°27'21.37""",Uttara Ashadha,Sun,1,0th House,0,0,0.8361,0.8361,Standard
+2026-01-13 04:30:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°27'59.57""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°37'40.39""",Uttara Ashadha,Sun,1,0th House,0,0,359.1613,0.8387,Combust
+2026-01-13 04:30:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°37'40.39""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°27'59.57""",Uttara Ashadha,Sun,1,0th House,0,0,0.8387,0.8387,Standard
+2026-01-13 04:45:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°28'37.78""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°38'09.41""",Uttara Ashadha,Sun,1,0th House,0,0,359.1588,0.8412,Combust
+2026-01-13 04:45:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°38'09.41""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°28'37.78""",Uttara Ashadha,Sun,1,0th House,0,0,0.8412,0.8412,Standard
+2026-01-13 05:00:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°29'15.99""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°38'38.43""",Uttara Ashadha,Sun,1,0th House,0,0,359.1562,0.8438,Combust
+2026-01-13 05:00:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°38'38.43""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°29'15.99""",Uttara Ashadha,Sun,1,0th House,0,0,0.8438,0.8438,Standard
+2026-01-13 05:15:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°29'54.20""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°39'07.46""",Uttara Ashadha,Sun,1,0th House,0,0,359.1537,0.8463,Combust
+2026-01-13 05:15:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°39'07.46""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°29'54.20""",Uttara Ashadha,Sun,1,0th House,0,0,0.8463,0.8463,Standard
+2026-01-13 05:30:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°30'32.40""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°39'36.48""",Uttara Ashadha,Sun,1,0th House,0,0,359.1511,0.8489,Combust
+2026-01-13 05:30:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°39'36.48""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°30'32.40""",Uttara Ashadha,Sun,1,0th House,0,0,0.8489,0.8489,Standard
+2026-01-13 05:45:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°31'10.61""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°40'05.50""",Uttara Ashadha,Sun,1,0th House,0,0,359.1486,0.8514,Combust
+2026-01-13 05:45:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°40'05.50""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°31'10.61""",Uttara Ashadha,Sun,1,0th House,0,0,0.8514,0.8514,Standard
+2026-01-13 06:00:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°31'48.82""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°40'34.53""",Uttara Ashadha,Sun,1,0th House,0,0,359.146,0.854,Combust
+2026-01-13 06:00:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°40'34.53""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°31'48.82""",Uttara Ashadha,Sun,1,0th House,0,0,0.854,0.854,Standard
+2026-01-13 06:15:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°32'27.03""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°41'03.55""",Uttara Ashadha,Sun,1,0th House,0,0,359.1435,0.8565,Combust
+2026-01-13 06:15:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°41'03.55""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°32'27.03""",Uttara Ashadha,Sun,1,0th House,0,0,0.8565,0.8565,Standard
+2026-01-13 06:30:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°33'05.24""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°41'32.57""",Uttara Ashadha,Sun,1,0th House,0,0,359.1409,0.8591,Combust
+2026-01-13 06:30:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°41'32.57""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°33'05.24""",Uttara Ashadha,Sun,1,0th House,0,0,0.8591,0.8591,Standard
+2026-01-13 06:45:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°33'43.44""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°42'01.60""",Uttara Ashadha,Sun,1,0th House,0,0,359.1384,0.8616,Combust
+2026-01-13 06:45:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°42'01.60""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°33'43.44""",Uttara Ashadha,Sun,1,0th House,0,0,0.8616,0.8616,Standard
+2026-01-13 07:00:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°34'21.65""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°42'30.62""",Uttara Ashadha,Sun,1,0th House,0,0,359.1358,0.8642,Combust
+2026-01-13 07:00:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°42'30.62""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°34'21.65""",Uttara Ashadha,Sun,1,0th House,0,0,0.8642,0.8642,Standard
+2026-01-13 07:15:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°34'59.86""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°42'59.65""",Uttara Ashadha,Sun,1,0th House,0,0,359.1333,0.8667,Combust
+2026-01-13 07:15:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°42'59.65""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°34'59.86""",Uttara Ashadha,Sun,1,0th House,0,0,0.8667,0.8667,Standard
+2026-01-13 07:30:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°35'38.07""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°43'28.67""",Uttara Ashadha,Sun,1,0th House,0,0,359.1307,0.8693,Combust
+2026-01-13 07:30:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°43'28.67""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°35'38.07""",Uttara Ashadha,Sun,1,0th House,0,0,0.8693,0.8693,Standard
+2026-01-13 07:45:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°36'16.27""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°43'57.70""",Uttara Ashadha,Sun,1,0th House,0,0,359.1282,0.8718,Combust
+2026-01-13 07:45:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°43'57.70""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°36'16.27""",Uttara Ashadha,Sun,1,0th House,0,0,0.8718,0.8718,Standard
+2026-01-13 08:00:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°36'54.48""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°44'26.72""",Uttara Ashadha,Sun,1,0th House,0,0,359.1256,0.8744,Combust
+2026-01-13 08:00:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°44'26.72""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°36'54.48""",Uttara Ashadha,Sun,1,0th House,0,0,0.8744,0.8744,Standard
 2026-01-13 08:00:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"25°31'26.95""",Punarvasu,Jupiter,2,Moon,Libra,Thiên Bình,"24°38'39.46""",Vishakha,Jupiter,2,5th House,5,120,119.1201,0.8799,Medium
+2026-01-13 08:15:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°37'32.69""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°44'55.75""",Uttara Ashadha,Sun,1,0th House,0,0,359.1231,0.8769,Combust
+2026-01-13 08:15:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°44'55.75""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°37'32.69""",Uttara Ashadha,Sun,1,0th House,0,0,0.8769,0.8769,Standard
 2026-01-13 08:15:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"25°31'21.90""",Punarvasu,Jupiter,2,Moon,Libra,Thiên Bình,"24°46'03.54""",Vishakha,Jupiter,2,5th House,5,120,119.2449,0.7551,Medium
+2026-01-13 08:30:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°38'10.90""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°45'24.77""",Uttara Ashadha,Sun,1,0th House,0,0,359.1205,0.8795,Combust
+2026-01-13 08:30:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°45'24.77""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°38'10.90""",Uttara Ashadha,Sun,1,0th House,0,0,0.8795,0.8795,Standard
 2026-01-13 08:30:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"25°31'16.85""",Punarvasu,Jupiter,2,Moon,Libra,Thiên Bình,"24°53'27.62""",Vishakha,Jupiter,2,5th House,5,120,119.3697,0.6303,Medium
+2026-01-13 08:45:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°38'49.10""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°45'53.80""",Uttara Ashadha,Sun,1,0th House,0,0,359.118,0.882,Combust
+2026-01-13 08:45:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°45'53.80""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°38'49.10""",Uttara Ashadha,Sun,1,0th House,0,0,0.882,0.882,Standard
 2026-01-13 08:45:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"25°31'11.80""",Punarvasu,Jupiter,2,Moon,Libra,Thiên Bình,"25°00'51.68""",Vishakha,Jupiter,2,5th House,5,120,119.4944,0.5056,Medium
+2026-01-13 09:00:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°39'27.31""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°46'22.82""",Uttara Ashadha,Sun,1,0th House,0,0,359.1154,0.8846,Combust
+2026-01-13 09:00:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°46'22.82""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°39'27.31""",Uttara Ashadha,Sun,1,0th House,0,0,0.8846,0.8846,Standard
 2026-01-13 09:00:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"25°31'06.75""",Punarvasu,Jupiter,2,Moon,Libra,Thiên Bình,"25°08'15.74""",Vishakha,Jupiter,2,5th House,5,120,119.6192,0.3808,Medium
+2026-01-13 09:15:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°40'05.52""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°46'51.85""",Uttara Ashadha,Sun,1,0th House,0,0,359.1129,0.8871,Combust
+2026-01-13 09:15:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°46'51.85""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°40'05.52""",Uttara Ashadha,Sun,1,0th House,0,0,0.8871,0.8871,Standard
 2026-01-13 09:15:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"25°31'01.71""",Punarvasu,Jupiter,2,Moon,Libra,Thiên Bình,"25°15'39.79""",Vishakha,Jupiter,2,5th House,5,120,119.7439,0.2561,Medium
+2026-01-13 09:30:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°40'43.73""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°47'20.88""",Uttara Ashadha,Sun,1,0th House,0,0,359.1103,0.8897,Combust
+2026-01-13 09:30:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°47'20.88""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°40'43.73""",Uttara Ashadha,Sun,1,0th House,0,0,0.8897,0.8897,Standard
 2026-01-13 09:30:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"25°30'56.66""",Punarvasu,Jupiter,2,Moon,Libra,Thiên Bình,"25°23'03.84""",Vishakha,Jupiter,2,5th House,5,120,119.8687,0.1313,Medium
+2026-01-13 09:45:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°41'21.93""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°47'49.90""",Uttara Ashadha,Sun,1,0th House,0,0,359.1078,0.8922,Combust
+2026-01-13 09:45:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°47'49.90""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°41'21.93""",Uttara Ashadha,Sun,1,0th House,0,0,0.8922,0.8922,Standard
 2026-01-13 09:45:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"25°30'51.61""",Punarvasu,Jupiter,2,Moon,Libra,Thiên Bình,"25°30'27.87""",Vishakha,Jupiter,2,5th House,5,120,119.9934,0.0066,Medium
+2026-01-13 10:00:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°42'00.14""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°48'18.93""",Uttara Ashadha,Sun,1,0th House,0,0,359.1052,0.8948,Combust
+2026-01-13 10:00:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°48'18.93""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°42'00.14""",Uttara Ashadha,Sun,1,0th House,0,0,0.8948,0.8948,Standard
 2026-01-13 10:00:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"25°30'46.56""",Punarvasu,Jupiter,2,Moon,Libra,Thiên Bình,"25°37'51.91""",Vishakha,Jupiter,2,5th House,5,120,120.1182,0.1182,Medium
+2026-01-13 10:15:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°42'38.35""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°48'47.96""",Uttara Ashadha,Sun,1,0th House,0,0,359.1027,0.8973,Combust
+2026-01-13 10:15:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°48'47.96""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°42'38.35""",Uttara Ashadha,Sun,1,0th House,0,0,0.8973,0.8973,Standard
 2026-01-13 10:15:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"25°30'41.51""",Punarvasu,Jupiter,2,Moon,Libra,Thiên Bình,"25°45'15.93""",Vishakha,Jupiter,2,5th House,5,120,120.2429,0.2429,Medium
+2026-01-13 10:30:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°43'16.56""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°49'16.99""",Uttara Ashadha,Sun,1,0th House,0,0,359.1001,0.8999,Combust
+2026-01-13 10:30:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°49'16.99""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°43'16.56""",Uttara Ashadha,Sun,1,0th House,0,0,0.8999,0.8999,Standard
 2026-01-13 10:30:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"25°30'36.46""",Punarvasu,Jupiter,2,Moon,Libra,Thiên Bình,"25°52'39.95""",Vishakha,Jupiter,2,5th House,5,120,120.3676,0.3676,Medium
+2026-01-13 10:45:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°43'54.76""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°49'46.01""",Uttara Ashadha,Sun,1,0th House,0,0,359.0976,0.9024,Combust
+2026-01-13 10:45:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°49'46.01""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°43'54.76""",Uttara Ashadha,Sun,1,0th House,0,0,0.9024,0.9024,Standard
 2026-01-13 10:45:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"25°30'31.42""",Punarvasu,Jupiter,2,Moon,Libra,Thiên Bình,"26°00'03.96""",Vishakha,Jupiter,2,5th House,5,120,120.4924,0.4924,Medium
+2026-01-13 11:00:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°44'32.97""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°50'15.04""",Uttara Ashadha,Sun,1,0th House,0,0,359.095,0.905,Combust
+2026-01-13 11:00:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°50'15.04""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°44'32.97""",Uttara Ashadha,Sun,1,0th House,0,0,0.905,0.905,Standard
 2026-01-13 11:00:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"25°30'26.37""",Punarvasu,Jupiter,2,Moon,Libra,Thiên Bình,"26°07'27.97""",Vishakha,Jupiter,2,5th House,5,120,120.6171,0.6171,Medium
+2026-01-13 11:15:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°45'11.18""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°50'44.07""",Uttara Ashadha,Sun,1,0th House,0,0,359.0925,0.9075,Combust
+2026-01-13 11:15:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°50'44.07""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°45'11.18""",Uttara Ashadha,Sun,1,0th House,0,0,0.9075,0.9075,Standard
 2026-01-13 11:15:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"25°30'21.32""",Punarvasu,Jupiter,2,Moon,Libra,Thiên Bình,"26°14'51.97""",Vishakha,Jupiter,2,5th House,5,120,120.7418,0.7418,Medium
+2026-01-13 11:30:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°45'49.38""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°51'13.10""",Uttara Ashadha,Sun,1,0th House,0,0,359.0899,0.9101,Combust
+2026-01-13 11:30:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°51'13.10""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°45'49.38""",Uttara Ashadha,Sun,1,0th House,0,0,0.9101,0.9101,Standard
 2026-01-13 11:30:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"25°30'16.27""",Punarvasu,Jupiter,2,Moon,Libra,Thiên Bình,"26°22'15.97""",Vishakha,Jupiter,2,5th House,5,120,120.8666,0.8666,Medium
+2026-01-13 11:45:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°46'27.59""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°51'42.13""",Uttara Ashadha,Sun,1,0th House,0,0,359.0874,0.9126,Combust
+2026-01-13 11:45:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°51'42.13""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°46'27.59""",Uttara Ashadha,Sun,1,0th House,0,0,0.9126,0.9126,Standard
 2026-01-13 11:45:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"25°30'11.22""",Punarvasu,Jupiter,2,Moon,Libra,Thiên Bình,"26°29'39.96""",Vishakha,Jupiter,2,5th House,5,120,120.9913,0.9913,Medium
+2026-01-13 12:00:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°47'05.80""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°52'11.16""",Uttara Ashadha,Sun,1,0th House,0,0,359.0848,0.9152,Combust
+2026-01-13 12:00:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°52'11.16""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°47'05.80""",Uttara Ashadha,Sun,1,0th House,0,0,0.9152,0.9152,Standard
+2026-01-13 12:15:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°47'44.01""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°52'40.19""",Uttara Ashadha,Sun,1,0th House,0,0,359.0823,0.9177,Combust
+2026-01-13 12:15:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°52'40.19""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°47'44.01""",Uttara Ashadha,Sun,1,0th House,0,0,0.9177,0.9177,Standard
+2026-01-13 12:30:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°48'22.21""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°53'09.21""",Uttara Ashadha,Sun,1,0th House,0,0,359.0797,0.9203,Combust
+2026-01-13 12:30:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°53'09.21""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°48'22.21""",Uttara Ashadha,Sun,1,0th House,0,0,0.9203,0.9203,Standard
+2026-01-13 12:45:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°49'00.42""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°53'38.24""",Uttara Ashadha,Sun,1,0th House,0,0,359.0772,0.9228,Combust
+2026-01-13 12:45:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°53'38.24""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°49'00.42""",Uttara Ashadha,Sun,1,0th House,0,0,0.9228,0.9228,Standard
+2026-01-13 13:00:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°49'38.63""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°54'07.27""",Uttara Ashadha,Sun,1,0th House,0,0,359.0746,0.9254,Combust
+2026-01-13 13:00:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°54'07.27""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°49'38.63""",Uttara Ashadha,Sun,1,0th House,0,0,0.9254,0.9254,Standard
+2026-01-13 13:15:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°50'16.84""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°54'36.30""",Uttara Ashadha,Sun,1,0th House,0,0,359.0721,0.9279,Combust
+2026-01-13 13:15:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°54'36.30""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°50'16.84""",Uttara Ashadha,Sun,1,0th House,0,0,0.9279,0.9279,Standard
+2026-01-13 13:30:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°50'55.04""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°55'05.33""",Uttara Ashadha,Sun,1,0th House,0,0,359.0695,0.9305,Combust
+2026-01-13 13:30:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°55'05.33""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°50'55.04""",Uttara Ashadha,Sun,1,0th House,0,0,0.9305,0.9305,Standard
+2026-01-13 13:45:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°51'33.25""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°55'34.37""",Uttara Ashadha,Sun,1,0th House,0,0,359.067,0.933,Combust
+2026-01-13 13:45:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°55'34.37""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°51'33.25""",Uttara Ashadha,Sun,1,0th House,0,0,0.933,0.933,Standard
+2026-01-13 14:00:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°52'11.46""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°56'03.40""",Uttara Ashadha,Sun,1,0th House,0,0,359.0644,0.9356,Combust
+2026-01-13 14:00:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°56'03.40""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°52'11.46""",Uttara Ashadha,Sun,1,0th House,0,0,0.9356,0.9356,Standard
+2026-01-13 14:15:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°52'49.66""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°56'32.43""",Uttara Ashadha,Sun,1,0th House,0,0,359.0619,0.9381,Combust
+2026-01-13 14:15:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°56'32.43""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°52'49.66""",Uttara Ashadha,Sun,1,0th House,0,0,0.9381,0.9381,Standard
+2026-01-13 14:30:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°53'27.87""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°57'01.46""",Uttara Ashadha,Sun,1,0th House,0,0,359.0593,0.9407,Combust
+2026-01-13 14:30:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°57'01.46""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°53'27.87""",Uttara Ashadha,Sun,1,0th House,0,0,0.9407,0.9407,Standard
+2026-01-13 14:45:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°54'06.08""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°57'30.49""",Uttara Ashadha,Sun,1,0th House,0,0,359.0568,0.9432,Combust
+2026-01-13 14:45:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°57'30.49""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°54'06.08""",Uttara Ashadha,Sun,1,0th House,0,0,0.9432,0.9432,Standard
+2026-01-13 15:00:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°54'44.29""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°57'59.52""",Uttara Ashadha,Sun,1,0th House,0,0,359.0542,0.9458,Combust
+2026-01-13 15:00:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°57'59.52""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°54'44.29""",Uttara Ashadha,Sun,1,0th House,0,0,0.9458,0.9458,Standard
+2026-01-13 15:15:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°55'22.49""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°58'28.55""",Uttara Ashadha,Sun,1,0th House,0,0,359.0517,0.9483,Combust
+2026-01-13 15:15:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°58'28.55""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°55'22.49""",Uttara Ashadha,Sun,1,0th House,0,0,0.9483,0.9483,Standard
+2026-01-13 15:30:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°56'00.70""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°58'57.59""",Uttara Ashadha,Sun,1,0th House,0,0,359.0491,0.9509,Combust
+2026-01-13 15:30:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°58'57.59""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°56'00.70""",Uttara Ashadha,Sun,1,0th House,0,0,0.9509,0.9509,Standard
+2026-01-13 15:45:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°56'38.91""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°59'26.62""",Uttara Ashadha,Sun,1,0th House,0,0,359.0466,0.9534,Combust
+2026-01-13 15:45:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°59'26.62""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°56'38.91""",Uttara Ashadha,Sun,1,0th House,0,0,0.9534,0.9534,Standard
+2026-01-13 16:00:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°57'17.11""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"27°59'55.65""",Uttara Ashadha,Sun,1,0th House,0,0,359.044,0.956,Combust
+2026-01-13 16:00:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"27°59'55.65""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°57'17.11""",Uttara Ashadha,Sun,1,0th House,0,0,0.956,0.956,Standard
+2026-01-13 16:15:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°57'55.32""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"28°00'24.68""",Uttara Ashadha,Sun,1,0th House,0,0,359.0415,0.9585,Combust
+2026-01-13 16:15:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"28°00'24.68""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°57'55.32""",Uttara Ashadha,Sun,1,0th House,0,0,0.9585,0.9585,Standard
+2026-01-13 16:30:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°58'33.53""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"28°00'53.72""",Uttara Ashadha,Sun,1,0th House,0,0,359.0389,0.9611,Combust
+2026-01-13 16:30:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"28°00'53.72""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°58'33.53""",Uttara Ashadha,Sun,1,0th House,0,0,0.9611,0.9611,Standard
+2026-01-13 16:45:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°59'11.74""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"28°01'22.75""",Uttara Ashadha,Sun,1,0th House,0,0,359.0364,0.9636,Combust
+2026-01-13 16:45:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"28°01'22.75""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°59'11.74""",Uttara Ashadha,Sun,1,0th House,0,0,0.9636,0.9636,Standard
+2026-01-13 17:00:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"28°59'49.94""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"28°01'51.78""",Uttara Ashadha,Sun,1,0th House,0,0,359.0338,0.9662,Combust
+2026-01-13 17:00:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"28°01'51.78""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"28°59'49.94""",Uttara Ashadha,Sun,1,0th House,0,0,0.9662,0.9662,Standard
+2026-01-13 17:15:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"29°00'28.15""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"28°02'20.82""",Uttara Ashadha,Sun,1,0th House,0,0,359.0313,0.9687,Combust
+2026-01-13 17:15:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"28°02'20.82""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"29°00'28.15""",Uttara Ashadha,Sun,1,0th House,0,0,0.9687,0.9687,Standard
+2026-01-13 17:30:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"29°01'06.36""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"28°02'49.85""",Uttara Ashadha,Sun,1,0th House,0,0,359.0287,0.9713,Combust
+2026-01-13 17:30:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"28°02'49.85""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"29°01'06.36""",Uttara Ashadha,Sun,1,0th House,0,0,0.9713,0.9713,Standard
+2026-01-13 17:45:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"29°01'44.56""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"28°03'18.89""",Uttara Ashadha,Sun,1,0th House,0,0,359.0262,0.9738,Combust
+2026-01-13 17:45:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"28°03'18.89""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"29°01'44.56""",Uttara Ashadha,Sun,1,0th House,0,0,0.9738,0.9738,Standard
+2026-01-13 18:00:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"29°02'22.77""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"28°03'47.92""",Uttara Ashadha,Sun,1,0th House,0,0,359.0237,0.9763,Combust
+2026-01-13 18:00:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"28°03'47.92""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"29°02'22.77""",Uttara Ashadha,Sun,1,0th House,0,0,0.9763,0.9763,Standard
+2026-01-13 18:15:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"29°03'00.98""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"28°04'16.96""",Uttara Ashadha,Sun,1,0th House,0,0,359.0211,0.9789,Combust
+2026-01-13 18:15:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"28°04'16.96""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"29°03'00.98""",Uttara Ashadha,Sun,1,0th House,0,0,0.9789,0.9789,Standard
+2026-01-13 18:30:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"29°03'39.19""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"28°04'45.99""",Uttara Ashadha,Sun,1,0th House,0,0,359.0186,0.9814,Combust
+2026-01-13 18:30:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"28°04'45.99""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"29°03'39.19""",Uttara Ashadha,Sun,1,0th House,0,0,0.9814,0.9814,Standard
+2026-01-13 18:45:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"29°04'17.39""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"28°05'15.03""",Uttara Ashadha,Sun,1,0th House,0,0,359.016,0.984,Combust
+2026-01-13 18:45:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"28°05'15.03""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"29°04'17.39""",Uttara Ashadha,Sun,1,0th House,0,0,0.984,0.984,Standard
+2026-01-13 19:00:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"29°04'55.60""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"28°05'44.06""",Uttara Ashadha,Sun,1,0th House,0,0,359.0135,0.9865,Combust
+2026-01-13 19:00:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"28°05'44.06""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"29°04'55.60""",Uttara Ashadha,Sun,1,0th House,0,0,0.9865,0.9865,Standard
+2026-01-13 19:15:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"29°05'33.81""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"28°06'13.10""",Uttara Ashadha,Sun,1,0th House,0,0,359.0109,0.9891,Combust
+2026-01-13 19:15:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"28°06'13.10""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"29°05'33.81""",Uttara Ashadha,Sun,1,0th House,0,0,0.9891,0.9891,Standard
+2026-01-13 19:30:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"29°06'12.01""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"28°06'42.13""",Uttara Ashadha,Sun,1,0th House,0,0,359.0084,0.9916,Combust
+2026-01-13 19:30:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"28°06'42.13""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"29°06'12.01""",Uttara Ashadha,Sun,1,0th House,0,0,0.9916,0.9916,Standard
+2026-01-13 19:45:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"29°06'50.22""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"28°07'11.17""",Uttara Ashadha,Sun,1,0th House,0,0,359.0058,0.9942,Combust
+2026-01-13 19:45:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"28°07'11.17""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"29°06'50.22""",Uttara Ashadha,Sun,1,0th House,0,0,0.9942,0.9942,Standard
+2026-01-13 20:00:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"29°07'28.43""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"28°07'40.21""",Uttara Ashadha,Sun,1,0th House,0,0,359.0033,0.9967,Combust
+2026-01-13 20:00:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"28°07'40.21""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"29°07'28.43""",Uttara Ashadha,Sun,1,0th House,0,0,0.9967,0.9967,Standard
+2026-01-13 20:15:00,Parashara_Drishti,Sun,Sagittarius,Nhân Mã,"29°08'06.63""",Uttara Ashadha,Sun,1,Mars,Sagittarius,Nhân Mã,"28°08'09.24""",Uttara Ashadha,Sun,1,0th House,0,0,359.0007,0.9993,Combust
+2026-01-13 20:15:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"28°08'09.24""",Uttara Ashadha,Sun,1,Sun,Sagittarius,Nhân Mã,"29°08'06.63""",Uttara Ashadha,Sun,1,0th House,0,0,0.9993,0.9993,Standard

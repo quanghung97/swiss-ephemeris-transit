@@ -1,0 +1,27 @@
+﻿datetime,event,aspecting_planet,aspecting_sign,aspecting_sign_vi,aspecting_degree,aspecting_nakshatra,aspecting_nakshatra_lord,aspecting_pada,aspected_planet,aspected_sign,aspected_sign_vi,aspected_degree,aspected_nakshatra,aspected_nakshatra_lord,aspected_pada,aspect_type,aspect_house,target_angle,actual_angle,orb,strength
+2026-01-04 04:30:00,Parashara_Drishti,Moon,Gemini,Song Tử,"25°52'55.14""",Punarvasu,Jupiter,2,Jupiter,Gemini,Song Tử,"26°45'14.66""",Punarvasu,Jupiter,3,0th House,0,0,0.8721,0.8721,Standard
+2026-01-04 04:30:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"26°45'14.66""",Punarvasu,Jupiter,3,Moon,Gemini,Song Tử,"25°52'55.14""",Punarvasu,Jupiter,2,0th House,0,0,359.1279,0.8721,Standard
+2026-01-04 04:45:00,Parashara_Drishti,Moon,Gemini,Song Tử,"26°02'08.27""",Punarvasu,Jupiter,2,Jupiter,Gemini,Song Tử,"26°45'09.68""",Punarvasu,Jupiter,3,0th House,0,0,0.7171,0.7171,Standard
+2026-01-04 04:45:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"26°45'09.68""",Punarvasu,Jupiter,3,Moon,Gemini,Song Tử,"26°02'08.27""",Punarvasu,Jupiter,2,0th House,0,0,359.2829,0.7171,Standard
+2026-01-04 05:00:00,Parashara_Drishti,Moon,Gemini,Song Tử,"26°11'21.28""",Punarvasu,Jupiter,2,Jupiter,Gemini,Song Tử,"26°45'04.69""",Punarvasu,Jupiter,3,0th House,0,0,0.5621,0.5621,Standard
+2026-01-04 05:00:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"26°45'04.69""",Punarvasu,Jupiter,3,Moon,Gemini,Song Tử,"26°11'21.28""",Punarvasu,Jupiter,2,0th House,0,0,359.4379,0.5621,Standard
+2026-01-04 05:15:00,Parashara_Drishti,Moon,Gemini,Song Tử,"26°20'34.17""",Punarvasu,Jupiter,2,Jupiter,Gemini,Song Tử,"26°44'59.71""",Punarvasu,Jupiter,3,0th House,0,0,0.4071,0.4071,Standard
+2026-01-04 05:15:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"26°44'59.71""",Punarvasu,Jupiter,3,Moon,Gemini,Song Tử,"26°20'34.17""",Punarvasu,Jupiter,2,0th House,0,0,359.5929,0.4071,Standard
+2026-01-04 05:30:00,Parashara_Drishti,Moon,Gemini,Song Tử,"26°29'46.94""",Punarvasu,Jupiter,2,Jupiter,Gemini,Song Tử,"26°44'54.72""",Punarvasu,Jupiter,3,0th House,0,0,0.2522,0.2522,Standard
+2026-01-04 05:30:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"26°44'54.72""",Punarvasu,Jupiter,3,Moon,Gemini,Song Tử,"26°29'46.94""",Punarvasu,Jupiter,2,0th House,0,0,359.7478,0.2522,Standard
+2026-01-04 05:45:00,Parashara_Drishti,Moon,Gemini,Song Tử,"26°38'59.59""",Punarvasu,Jupiter,2,Jupiter,Gemini,Song Tử,"26°44'49.74""",Punarvasu,Jupiter,3,0th House,0,0,0.0973,0.0973,Standard
+2026-01-04 05:45:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"26°44'49.74""",Punarvasu,Jupiter,3,Moon,Gemini,Song Tử,"26°38'59.59""",Punarvasu,Jupiter,2,0th House,0,0,359.9027,0.0973,Standard
+2026-01-04 06:00:00,Parashara_Drishti,Moon,Gemini,Song Tử,"26°48'12.11""",Punarvasu,Jupiter,3,Jupiter,Gemini,Song Tử,"26°44'44.75""",Punarvasu,Jupiter,3,0th House,0,0,359.9424,0.0576,Standard
+2026-01-04 06:00:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"26°44'44.75""",Punarvasu,Jupiter,3,Moon,Gemini,Song Tử,"26°48'12.11""",Punarvasu,Jupiter,3,0th House,0,0,0.0576,0.0576,Standard
+2026-01-04 06:15:00,Parashara_Drishti,Moon,Gemini,Song Tử,"26°57'24.51""",Punarvasu,Jupiter,3,Jupiter,Gemini,Song Tử,"26°44'39.77""",Punarvasu,Jupiter,3,0th House,0,0,359.7876,0.2124,Standard
+2026-01-04 06:15:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"26°44'39.77""",Punarvasu,Jupiter,3,Moon,Gemini,Song Tử,"26°57'24.51""",Punarvasu,Jupiter,3,0th House,0,0,0.2124,0.2124,Standard
+2026-01-04 06:30:00,Parashara_Drishti,Moon,Gemini,Song Tử,"27°06'36.79""",Punarvasu,Jupiter,3,Jupiter,Gemini,Song Tử,"26°44'34.78""",Punarvasu,Jupiter,3,0th House,0,0,359.6328,0.3672,Standard
+2026-01-04 06:30:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"26°44'34.78""",Punarvasu,Jupiter,3,Moon,Gemini,Song Tử,"27°06'36.79""",Punarvasu,Jupiter,3,0th House,0,0,0.3672,0.3672,Standard
+2026-01-04 06:45:00,Parashara_Drishti,Moon,Gemini,Song Tử,"27°15'48.95""",Punarvasu,Jupiter,3,Jupiter,Gemini,Song Tử,"26°44'29.80""",Punarvasu,Jupiter,3,0th House,0,0,359.478,0.522,Standard
+2026-01-04 06:45:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"26°44'29.80""",Punarvasu,Jupiter,3,Moon,Gemini,Song Tử,"27°15'48.95""",Punarvasu,Jupiter,3,0th House,0,0,0.522,0.522,Standard
+2026-01-04 07:00:00,Parashara_Drishti,Moon,Gemini,Song Tử,"27°25'00.98""",Punarvasu,Jupiter,3,Jupiter,Gemini,Song Tử,"26°44'24.81""",Punarvasu,Jupiter,3,0th House,0,0,359.3233,0.6767,Standard
+2026-01-04 07:00:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"26°44'24.81""",Punarvasu,Jupiter,3,Moon,Gemini,Song Tử,"27°25'00.98""",Punarvasu,Jupiter,3,0th House,0,0,0.6767,0.6767,Standard
+2026-01-04 07:15:00,Parashara_Drishti,Moon,Gemini,Song Tử,"27°34'12.88""",Punarvasu,Jupiter,3,Jupiter,Gemini,Song Tử,"26°44'19.83""",Punarvasu,Jupiter,3,0th House,0,0,359.1686,0.8314,Standard
+2026-01-04 07:15:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"26°44'19.83""",Punarvasu,Jupiter,3,Moon,Gemini,Song Tử,"27°34'12.88""",Punarvasu,Jupiter,3,0th House,0,0,0.8314,0.8314,Standard
+2026-01-04 07:30:00,Parashara_Drishti,Moon,Gemini,Song Tử,"27°43'24.66""",Punarvasu,Jupiter,3,Jupiter,Gemini,Song Tử,"26°44'14.84""",Punarvasu,Jupiter,3,0th House,0,0,359.0139,0.9861,Standard
+2026-01-04 07:30:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"26°44'14.84""",Punarvasu,Jupiter,3,Moon,Gemini,Song Tử,"27°43'24.66""",Punarvasu,Jupiter,3,0th House,0,0,0.9861,0.9861,Standard
