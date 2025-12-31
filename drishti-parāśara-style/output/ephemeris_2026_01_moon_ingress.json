@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "year": 2026,
+    "month": 1,
+    "timezone_offset": 7.0,
+    "calculation_time": "2025-12-31T14:36:45.746925",
+    "ephemeris_type": "Swiss Ephemeris",
+    "coordinate_system": "Sidereal Zodiac (Lahiri)",
+    "node_type": "Mean Node",
+    "description": "Hourly planetary positions calculated using Swiss Ephemeris"
+  },
+  "total_records": 14,
+  "data": [
+    {
+      "datetime": "2026-01-02 11:00:00",
+      "event": "Ingress",
+      "planet": "Moon",
+      "from_sign": "Taurus",
+      "to_sign": "Gemini",
+      "degree": "0°02'29.57\"",
+      "longitude": 60.041547
+    },
+    {
+      "datetime": "2026-01-04 11:15:00",
+      "event": "Ingress",
+      "planet": "Moon",
+      "from_sign": "Gemini",
+      "to_sign": "Cancer",
+      "degree": "0°01'05.99\"",
+      "longitude": 90.01833
+    },
+    {
+      "datetime": "2026-01-06 14:00:00",
+      "event": "Ingress",
+      "planet": "Moon",
+      "from_sign": "Cancer",
+      "to_sign": "Leo",
+      "degree": "0°06'56.05\"",
+      "longitude": 120.115569
+    },
+    {
+      "datetime": "2026-01-08 20:15:00",
+      "event": "Ingress",
+      "planet": "Moon",
+      "from_sign": "Leo",
+      "to_sign": "Virgo",
+      "degree": "0°02'59.83\"",
+      "longitude": 150.049954
+    },
+    {
+      "datetime": "2026-01-11 06:30:00",
+      "event": "Ingress",
+      "planet": "Moon",
+      "from_sign": "Virgo",
+      "to_sign": "Libra",
+      "degree": "0°03'39.63\"",
+      "longitude": 180.061008
+    },
+    {
+      "datetime": "2026-01-13 19:00:00",
+      "event": "Ingress",
+      "planet": "Moon",
+      "from_sign": "Libra",
+      "to_sign": "Scorpio",
+      "degree": "0°04'15.01\"",
+      "longitude": 210.070836
+    },
+    {
+      "datetime": "2026-01-16 07:30:00",
+      "event": "Ingress",
+      "planet": "Moon",
+      "from_sign": "Scorpio",
+      "to_sign": "Sagittarius",
+      "degree": "0°06'03.22\"",
+      "longitude": 240.100894
+    },
+    {
+      "datetime": "2026-01-18 18:15:00",
+      "event": "Ingress",
+      "planet": "Moon",
+      "from_sign": "Sagittarius",
+      "to_sign": "Capricorn",
+      "degree": "0°01'58.54\"",
+      "longitude": 270.032928
+    },
+    {
+      "datetime": "2026-01-21 03:15:00",
+      "event": "Ingress",
+      "planet": "Moon",
+      "from_sign": "Capricorn",
+      "to_sign": "Aquarius",
+      "degree": "0°05'02.34\"",
+      "longitude": 300.083984
+    },
+    {
+      "datetime": "2026-01-23 10:15:00",
+      "event": "Ingress",
+      "planet": "Moon",
+      "from_sign": "Aquarius",
+      "to_sign": "Pisces",
+      "degree": "0°06'13.01\"",
+      "longitude": 330.103613
+    },
+    {
+      "datetime": "2026-01-25 15:15:00",
+      "event": "Ingress",
+      "planet": "Moon",
+      "from_sign": "Pisces",
+      "to_sign": "Aries",
+      "degree": "0°05'13.37\"",
+      "longitude": 0.087046
+    },
+    {
+      "datetime": "2026-01-27 18:30:00",
+      "event": "Ingress",
+      "planet": "Moon",
+      "from_sign": "Aries",
+      "to_sign": "Taurus",
+      "degree": "0°08'52.14\"",
+      "longitude": 30.147817
+    },
+    {
+      "datetime": "2026-01-29 20:15:00",
+      "event": "Ingress",
+      "planet": "Moon",
+      "from_sign": "Taurus",
+      "to_sign": "Gemini",
+      "degree": "0°08'23.25\"",
+      "longitude": 60.139791
+    },
+    {
+      "datetime": "2026-01-31 21:45:00",
+      "event": "Ingress",
+      "planet": "Moon",
+      "from_sign": "Gemini",
+      "to_sign": "Cancer",
+      "degree": "0°08'14.40\"",
+      "longitude": 90.137334
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+﻿datetime,event,type,planet1,planet1_sign,planet1_degree,planet2,planet2_sign,planet2_degree,exact_angle,difference,orb
+2026-01-11 00:00:00,Aspect,Square,Sun,Sagittarius,"26°14'15.81""",Moon,Virgo,"26°47'22.01""",90,89.4483,0.5517
+2026-01-11 00:00:00,Aspect,Square,Moon,Virgo,"26°47'22.01""",Venus,Sagittarius,"27°11'52.40""",90,90.4084,0.4084
+2026-01-11 00:00:00,Aspect,Square,Moon,Virgo,"26°47'22.01""",Mars,Sagittarius,"25°56'11.03""",90,89.147,0.853
+2026-01-11 00:00:00,Aspect,Square,Moon,Virgo,"26°47'22.01""",Jupiter,Gemini,"25°50'19.93""",90,90.9506,0.9506
+2026-01-11 00:15:00,Aspect,Square,Sun,Sagittarius,"26°14'54.02""",Moon,Virgo,"26°54'55.98""",90,89.3328,0.6672
+2026-01-11 00:15:00,Aspect,Square,Moon,Virgo,"26°54'55.98""",Venus,Sagittarius,"27°12'39.57""",90,90.2954,0.2954
+2026-01-11 00:15:00,Aspect,Square,Moon,Virgo,"26°54'55.98""",Mars,Sagittarius,"25°56'40.00""",90,89.0289,0.9711
+2026-01-11 00:30:00,Aspect,Square,Sun,Sagittarius,"26°15'32.23""",Moon,Virgo,"27°02'29.88""",90,89.2173,0.7827
+2026-01-11 00:30:00,Aspect,Square,Moon,Virgo,"27°02'29.88""",Venus,Sagittarius,"27°13'26.74""",90,90.1825,0.1825
+2026-01-11 00:45:00,Aspect,Square,Sun,Sagittarius,"26°16'10.44""",Moon,Virgo,"27°10'03.69""",90,89.1019,0.8981
+2026-01-11 00:45:00,Aspect,Square,Moon,Virgo,"27°10'03.69""",Venus,Sagittarius,"27°14'13.90""",90,90.0695,0.0695
+2026-01-11 01:00:00,Aspect,Square,Moon,Virgo,"27°17'37.42""",Venus,Sagittarius,"27°15'01.07""",90,89.9566,0.0434
+2026-01-11 01:15:00,Aspect,Square,Moon,Virgo,"27°25'11.07""",Venus,Sagittarius,"27°15'48.24""",90,89.8437,0.1563
+2026-01-11 01:30:00,Aspect,Square,Moon,Virgo,"27°32'44.64""",Venus,Sagittarius,"27°16'35.41""",90,89.7308,0.2692
+2026-01-11 01:45:00,Aspect,Square,Moon,Virgo,"27°40'18.13""",Venus,Sagittarius,"27°17'22.58""",90,89.6179,0.3821
+2026-01-11 02:00:00,Aspect,Square,Moon,Virgo,"27°47'51.54""",Venus,Sagittarius,"27°18'09.75""",90,89.5051,0.4949
+2026-01-11 02:15:00,Aspect,Square,Moon,Virgo,"27°55'24.87""",Venus,Sagittarius,"27°18'56.92""",90,89.3922,0.6078
+2026-01-11 02:30:00,Aspect,Square,Moon,Virgo,"28°02'58.12""",Venus,Sagittarius,"27°19'44.08""",90,89.2794,0.7206
+2026-01-11 02:45:00,Aspect,Square,Moon,Virgo,"28°10'31.29""",Venus,Sagittarius,"27°20'31.25""",90,89.1667,0.8333
+2026-01-11 03:00:00,Aspect,Square,Moon,Virgo,"28°18'04.38""",Venus,Sagittarius,"27°21'18.42""",90,89.0539,0.9461

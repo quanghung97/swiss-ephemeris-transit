@@ -1,0 +1,12 @@
+﻿datetime,event,type,planet1,planet1_sign,planet1_degree,planet2,planet2_sign,planet2_degree,exact_angle,difference,orb
+2026-01-09 00:00:00,Aspect,Opposition,Moon,Virgo,"2°02'19.60""",Saturn,Pisces,"2°26'20.94""",180,179.5996,0.4004
+2026-01-09 00:15:00,Aspect,Opposition,Moon,Virgo,"2°10'15.73""",Saturn,Pisces,"2°26'23.55""",180,179.7312,0.2688
+2026-01-09 00:30:00,Aspect,Opposition,Moon,Virgo,"2°18'11.72""",Saturn,Pisces,"2°26'26.17""",180,179.8627,0.1373
+2026-01-09 00:45:00,Aspect,Opposition,Moon,Virgo,"2°26'07.56""",Saturn,Pisces,"2°26'28.79""",180,179.9941,0.0059
+2026-01-09 01:00:00,Aspect,Opposition,Moon,Virgo,"2°34'03.25""",Saturn,Pisces,"2°26'31.40""",180,179.8745,0.1255
+2026-01-09 01:15:00,Aspect,Opposition,Moon,Virgo,"2°41'58.80""",Saturn,Pisces,"2°26'34.02""",180,179.7431,0.2569
+2026-01-09 01:30:00,Aspect,Opposition,Moon,Virgo,"2°49'54.20""",Saturn,Pisces,"2°26'36.64""",180,179.6118,0.3882
+2026-01-09 01:45:00,Aspect,Opposition,Moon,Virgo,"2°57'49.46""",Saturn,Pisces,"2°26'39.25""",180,179.4805,0.5195
+2026-01-09 02:00:00,Aspect,Opposition,Moon,Virgo,"3°05'44.57""",Saturn,Pisces,"2°26'41.87""",180,179.3493,0.6507
+2026-01-09 02:15:00,Aspect,Opposition,Moon,Virgo,"3°13'39.54""",Saturn,Pisces,"2°26'44.49""",180,179.218,0.782
+2026-01-09 02:30:00,Aspect,Opposition,Moon,Virgo,"3°21'34.36""",Saturn,Pisces,"2°26'47.11""",180,179.0869,0.9131

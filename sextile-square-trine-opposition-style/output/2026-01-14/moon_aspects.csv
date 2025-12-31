@@ -1,0 +1,12 @@
+﻿datetime,event,type,planet1,planet1_sign,planet1_degree,planet2,planet2_sign,planet2_degree,exact_angle,difference,orb
+2026-01-14 00:00:00,Aspect,Trine,Moon,Scorpio,"2°32'15.75""",Saturn,Pisces,"2°48'19.43""",120,120.2677,0.2677
+2026-01-14 00:15:00,Aspect,Trine,Moon,Scorpio,"2°39'39.87""",Saturn,Pisces,"2°48'22.30""",120,120.1451,0.1451
+2026-01-14 00:30:00,Aspect,Trine,Moon,Scorpio,"2°47'03.99""",Saturn,Pisces,"2°48'25.18""",120,120.0226,0.0226
+2026-01-14 00:45:00,Aspect,Trine,Moon,Scorpio,"2°54'28.12""",Saturn,Pisces,"2°48'28.06""",120,119.9,0.1
+2026-01-14 01:00:00,Aspect,Trine,Moon,Scorpio,"3°01'52.26""",Saturn,Pisces,"2°48'30.94""",120,119.7774,0.2226
+2026-01-14 01:15:00,Aspect,Trine,Moon,Scorpio,"3°09'16.42""",Saturn,Pisces,"2°48'33.82""",120,119.6548,0.3452
+2026-01-14 01:30:00,Aspect,Trine,Moon,Scorpio,"3°16'40.58""",Saturn,Pisces,"2°48'36.70""",120,119.5323,0.4677
+2026-01-14 01:45:00,Aspect,Trine,Moon,Scorpio,"3°24'04.75""",Saturn,Pisces,"2°48'39.58""",120,119.4097,0.5903
+2026-01-14 02:00:00,Aspect,Trine,Moon,Scorpio,"3°31'28.93""",Saturn,Pisces,"2°48'42.46""",120,119.2871,0.7129
+2026-01-14 02:15:00,Aspect,Trine,Moon,Scorpio,"3°38'53.13""",Saturn,Pisces,"2°48'45.34""",120,119.1645,0.8355
+2026-01-14 02:30:00,Aspect,Trine,Moon,Scorpio,"3°46'17.34""",Saturn,Pisces,"2°48'48.22""",120,119.0419,0.9581

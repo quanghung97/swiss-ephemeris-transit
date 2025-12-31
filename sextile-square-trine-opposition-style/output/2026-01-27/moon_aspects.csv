@@ -1,0 +1,16 @@
+﻿datetime,event,type,planet1,planet1_sign,planet1_degree,planet2,planet2_sign,planet2_degree,exact_angle,difference,orb
+2026-01-27 06:15:00,Aspect,Sextitle,Moon,Aries,"22°52'14.01""",Jupiter,Gemini,"23°43'20.90""",60,60.8519,0.8519
+2026-01-27 06:30:00,Aspect,Sextitle,Moon,Aries,"23°01'06.71""",Jupiter,Gemini,"23°43'16.37""",60,60.7027,0.7027
+2026-01-27 06:45:00,Aspect,Sextitle,Moon,Aries,"23°09'59.50""",Jupiter,Gemini,"23°43'11.84""",60,60.5534,0.5534
+2026-01-27 07:00:00,Aspect,Sextitle,Moon,Aries,"23°18'52.36""",Jupiter,Gemini,"23°43'07.30""",60,60.4042,0.4042
+2026-01-27 07:15:00,Aspect,Sextitle,Moon,Aries,"23°27'45.32""",Jupiter,Gemini,"23°43'02.78""",60,60.2548,0.2548
+2026-01-27 07:30:00,Aspect,Sextitle,Moon,Aries,"23°36'38.35""",Jupiter,Gemini,"23°42'58.25""",60,60.1055,0.1055
+2026-01-27 07:45:00,Aspect,Sextitle,Moon,Aries,"23°45'31.47""",Jupiter,Gemini,"23°42'53.72""",60,59.9562,0.0438
+2026-01-27 08:00:00,Aspect,Sextitle,Moon,Aries,"23°54'24.67""",Jupiter,Gemini,"23°42'49.19""",60,59.8068,0.1932
+2026-01-27 08:15:00,Aspect,Sextitle,Moon,Aries,"24°03'17.96""",Jupiter,Gemini,"23°42'44.66""",60,59.6574,0.3426
+2026-01-27 08:30:00,Aspect,Sextitle,Moon,Aries,"24°12'11.32""",Jupiter,Gemini,"23°42'40.14""",60,59.508,0.492
+2026-01-27 08:45:00,Aspect,Sextitle,Moon,Aries,"24°21'04.77""",Jupiter,Gemini,"23°42'35.61""",60,59.3586,0.6414
+2026-01-27 09:00:00,Aspect,Sextitle,Moon,Aries,"24°29'58.31""",Jupiter,Gemini,"23°42'31.09""",60,59.2091,0.7909
+2026-01-27 09:15:00,Aspect,Sextitle,Moon,Aries,"24°38'51.92""",Jupiter,Gemini,"23°42'26.56""",60,59.0596,0.9404
+2026-01-27 23:30:00,Aspect,Sextitle,Moon,Taurus,"3°07'58.93""",Saturn,Pisces,"4°00'08.63""",60,59.1306,0.8694
+2026-01-27 23:45:00,Aspect,Sextitle,Moon,Taurus,"3°16'57.04""",Saturn,Pisces,"4°00'12.15""",60,59.2791,0.7209

@@ -1,0 +1,15 @@
+﻿datetime,event,type,planet1,planet1_sign,planet1_degree,planet2,planet2_sign,planet2_degree,exact_angle,difference,orb
+2026-01-25 03:00:00,Aspect,Square,Moon,Pisces,"23°03'28.27""",Jupiter,Gemini,"23°59'03.01""",90,90.9263,0.9263
+2026-01-25 03:15:00,Aspect,Square,Moon,Pisces,"23°12'02.51""",Jupiter,Gemini,"23°58'58.35""",90,90.7822,0.7822
+2026-01-25 03:30:00,Aspect,Square,Moon,Pisces,"23°20'36.84""",Jupiter,Gemini,"23°58'53.70""",90,90.638,0.638
+2026-01-25 03:45:00,Aspect,Square,Moon,Pisces,"23°29'11.25""",Jupiter,Gemini,"23°58'49.04""",90,90.4938,0.4938
+2026-01-25 04:00:00,Aspect,Square,Moon,Pisces,"23°37'45.76""",Jupiter,Gemini,"23°58'44.39""",90,90.3496,0.3496
+2026-01-25 04:15:00,Aspect,Square,Moon,Pisces,"23°46'20.36""",Jupiter,Gemini,"23°58'39.73""",90,90.2054,0.2054
+2026-01-25 04:30:00,Aspect,Square,Moon,Pisces,"23°54'55.05""",Jupiter,Gemini,"23°58'35.08""",90,90.0611,0.0611
+2026-01-25 04:45:00,Aspect,Square,Moon,Pisces,"24°03'29.84""",Jupiter,Gemini,"23°58'30.42""",90,89.9168,0.0832
+2026-01-25 05:00:00,Aspect,Square,Moon,Pisces,"24°12'04.71""",Jupiter,Gemini,"23°58'25.77""",90,89.7725,0.2275
+2026-01-25 05:15:00,Aspect,Square,Moon,Pisces,"24°20'39.68""",Jupiter,Gemini,"23°58'21.12""",90,89.6282,0.3718
+2026-01-25 05:30:00,Aspect,Square,Moon,Pisces,"24°29'14.73""",Jupiter,Gemini,"23°58'16.47""",90,89.4838,0.5162
+2026-01-25 05:45:00,Aspect,Square,Moon,Pisces,"24°37'49.88""",Jupiter,Gemini,"23°58'11.82""",90,89.3394,0.6606
+2026-01-25 06:00:00,Aspect,Square,Moon,Pisces,"24°46'25.12""",Jupiter,Gemini,"23°58'07.17""",90,89.195,0.805
+2026-01-25 06:15:00,Aspect,Square,Moon,Pisces,"24°55'00.45""",Jupiter,Gemini,"23°58'02.52""",90,89.0506,0.9494

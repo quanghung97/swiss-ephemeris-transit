@@ -1,0 +1,19 @@
+﻿datetime,event,planet,from_sign,to_sign,degree,longitude
+2026-01-02 11:00:00,Ingress,Moon,Taurus,Gemini,"0°02'29.57""",60.041547
+2026-01-04 11:15:00,Ingress,Moon,Gemini,Cancer,"0°01'05.99""",90.01833
+2026-01-06 14:00:00,Ingress,Moon,Cancer,Leo,"0°06'56.05""",120.115569
+2026-01-08 20:15:00,Ingress,Moon,Leo,Virgo,"0°02'59.83""",150.049954
+2026-01-11 06:30:00,Ingress,Moon,Virgo,Libra,"0°03'39.63""",180.061008
+2026-01-13 05:30:00,Ingress,Venus,Sagittarius,Capricorn,"0°00'06.08""",270.00169
+2026-01-13 19:00:00,Ingress,Moon,Libra,Scorpio,"0°04'15.01""",210.070836
+2026-01-14 16:45:00,Ingress,Sun,Sagittarius,Capricorn,"0°00'19.54""",270.005427
+2026-01-16 06:00:00,Ingress,Mars,Sagittarius,Capricorn,"0°00'02.77""",270.000768
+2026-01-16 07:30:00,Ingress,Moon,Scorpio,Sagittarius,"0°06'03.22""",240.100894
+2026-01-17 12:00:00,Ingress,Mercury,Sagittarius,Capricorn,"0°00'24.23""",270.00673
+2026-01-18 18:15:00,Ingress,Moon,Sagittarius,Capricorn,"0°01'58.54""",270.032928
+2026-01-21 03:15:00,Ingress,Moon,Capricorn,Aquarius,"0°05'02.34""",300.083984
+2026-01-23 10:15:00,Ingress,Moon,Aquarius,Pisces,"0°06'13.01""",330.103613
+2026-01-25 15:15:00,Ingress,Moon,Pisces,Aries,"0°05'13.37""",0.087046
+2026-01-27 18:30:00,Ingress,Moon,Aries,Taurus,"0°08'52.14""",30.147817
+2026-01-29 20:15:00,Ingress,Moon,Taurus,Gemini,"0°08'23.25""",60.139791
+2026-01-31 21:45:00,Ingress,Moon,Gemini,Cancer,"0°08'14.40""",90.137334
