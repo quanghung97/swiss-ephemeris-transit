@@ -1,0 +1,1021 @@
+{
+  "VimshottariDasha": {
+    "CurrentDasha": {
+      "Planet": "Venus",
+      "Sanskrit": "Ve",
+      "StartDate": "08/05/2010",
+      "EndDate": "08/05/2030",
+      "Elapsed": "15 năm, 4 tháng, 25 ngày",
+      "Remaining": "4 năm, 7 tháng, 5 ngày"
+    },
+    "Mahadashas": [
+      {
+        "Planet": "Mercury",
+        "Sanskrit": "Me",
+        "StartDate": "06/08/1990",
+        "EndDate": "08/05/2003",
+        "Antardashas": [
+          {
+            "Planet": "Mercury",
+            "StartDate": "06/08/1990",
+            "EndDate": "04/18/1992"
+          },
+          {
+            "Planet": "Ketu",
+            "StartDate": "04/18/1992",
+            "EndDate": "01/23/1993"
+          },
+          {
+            "Planet": "Venus",
+            "StartDate": "01/23/1993",
+            "EndDate": "04/04/1995"
+          },
+          {
+            "Planet": "Sun",
+            "StartDate": "04/04/1995",
+            "EndDate": "11/30/1995"
+          },
+          {
+            "Planet": "Moon",
+            "StartDate": "11/30/1995",
+            "EndDate": "01/05/1997"
+          },
+          {
+            "Planet": "Mars",
+            "StartDate": "01/05/1997",
+            "EndDate": "10/12/1997"
+          },
+          {
+            "Planet": "Rahu",
+            "StartDate": "10/12/1997",
+            "EndDate": "10/03/1999"
+          },
+          {
+            "Planet": "Jupiter",
+            "StartDate": "10/03/1999",
+            "EndDate": "07/05/2001"
+          },
+          {
+            "Planet": "Saturn",
+            "StartDate": "07/05/2001",
+            "EndDate": "08/05/2003"
+          }
+        ]
+      },
+      {
+        "Planet": "Ketu",
+        "Sanskrit": "Ke",
+        "StartDate": "08/05/2003",
+        "EndDate": "08/05/2010",
+        "Antardashas": [
+          {
+            "Planet": "Ketu",
+            "StartDate": "08/05/2003",
+            "EndDate": "01/01/2004"
+          },
+          {
+            "Planet": "Venus",
+            "StartDate": "01/01/2004",
+            "EndDate": "03/03/2005"
+          },
+          {
+            "Planet": "Sun",
+            "StartDate": "03/03/2005",
+            "EndDate": "07/08/2005"
+          },
+          {
+            "Planet": "Moon",
+            "StartDate": "07/08/2005",
+            "EndDate": "02/06/2006"
+          },
+          {
+            "Planet": "Mars",
+            "StartDate": "02/06/2006",
+            "EndDate": "07/06/2006"
+          },
+          {
+            "Planet": "Rahu",
+            "StartDate": "07/06/2006",
+            "EndDate": "07/24/2007"
+          },
+          {
+            "Planet": "Jupiter",
+            "StartDate": "07/24/2007",
+            "EndDate": "06/29/2008"
+          },
+          {
+            "Planet": "Saturn",
+            "StartDate": "06/29/2008",
+            "EndDate": "08/07/2009"
+          },
+          {
+            "Planet": "Mercury",
+            "StartDate": "08/07/2009",
+            "EndDate": "08/05/2010"
+          }
+        ]
+      },
+      {
+        "Planet": "Venus",
+        "Sanskrit": "Ve",
+        "StartDate": "08/05/2010",
+        "EndDate": "08/05/2030",
+        "Antardashas": [
+          {
+            "Planet": "Venus",
+            "StartDate": "08/05/2010",
+            "EndDate": "12/04/2013"
+          },
+          {
+            "Planet": "Sun",
+            "StartDate": "12/04/2013",
+            "EndDate": "12/04/2014"
+          },
+          {
+            "Planet": "Moon",
+            "StartDate": "12/04/2014",
+            "EndDate": "08/04/2016"
+          },
+          {
+            "Planet": "Mars",
+            "StartDate": "08/04/2016",
+            "EndDate": "10/04/2017"
+          },
+          {
+            "Planet": "Rahu",
+            "StartDate": "10/04/2017",
+            "EndDate": "10/04/2020"
+          },
+          {
+            "Planet": "Jupiter",
+            "StartDate": "10/04/2020",
+            "EndDate": "06/04/2023"
+          },
+          {
+            "Planet": "Saturn",
+            "StartDate": "06/04/2023",
+            "EndDate": "08/04/2026"
+          },
+          {
+            "Planet": "Mercury",
+            "StartDate": "08/04/2026",
+            "EndDate": "06/04/2029"
+          },
+          {
+            "Planet": "Ketu",
+            "StartDate": "06/04/2029",
+            "EndDate": "08/05/2030"
+          }
+        ]
+      },
+      {
+        "Planet": "Sun",
+        "Sanskrit": "Su",
+        "StartDate": "08/05/2030",
+        "EndDate": "08/05/2036",
+        "Antardashas": [
+          {
+            "Planet": "Sun",
+            "StartDate": "08/05/2030",
+            "EndDate": "11/22/2030"
+          },
+          {
+            "Planet": "Moon",
+            "StartDate": "11/22/2030",
+            "EndDate": "05/24/2031"
+          },
+          {
+            "Planet": "Mars",
+            "StartDate": "05/24/2031",
+            "EndDate": "09/29/2031"
+          },
+          {
+            "Planet": "Rahu",
+            "StartDate": "09/29/2031",
+            "EndDate": "08/22/2032"
+          },
+          {
+            "Planet": "Jupiter",
+            "StartDate": "08/22/2032",
+            "EndDate": "06/10/2033"
+          },
+          {
+            "Planet": "Saturn",
+            "StartDate": "06/10/2033",
+            "EndDate": "05/23/2034"
+          },
+          {
+            "Planet": "Mercury",
+            "StartDate": "05/23/2034",
+            "EndDate": "03/30/2035"
+          },
+          {
+            "Planet": "Ketu",
+            "StartDate": "03/30/2035",
+            "EndDate": "08/05/2035"
+          },
+          {
+            "Planet": "Venus",
+            "StartDate": "08/05/2035",
+            "EndDate": "08/05/2036"
+          }
+        ]
+      },
+      {
+        "Planet": "Moon",
+        "Sanskrit": "Mo",
+        "StartDate": "08/05/2036",
+        "EndDate": "08/05/2046",
+        "Antardashas": [
+          {
+            "Planet": "Moon",
+            "StartDate": "08/05/2036",
+            "EndDate": "06/05/2037"
+          },
+          {
+            "Planet": "Mars",
+            "StartDate": "06/05/2037",
+            "EndDate": "01/04/2038"
+          },
+          {
+            "Planet": "Rahu",
+            "StartDate": "01/04/2038",
+            "EndDate": "07/06/2039"
+          },
+          {
+            "Planet": "Jupiter",
+            "StartDate": "07/06/2039",
+            "EndDate": "11/04/2040"
+          },
+          {
+            "Planet": "Saturn",
+            "StartDate": "11/04/2040",
+            "EndDate": "06/05/2042"
+          },
+          {
+            "Planet": "Mercury",
+            "StartDate": "06/05/2042",
+            "EndDate": "11/05/2043"
+          },
+          {
+            "Planet": "Ketu",
+            "StartDate": "11/05/2043",
+            "EndDate": "06/05/2044"
+          },
+          {
+            "Planet": "Venus",
+            "StartDate": "06/05/2044",
+            "EndDate": "02/03/2046"
+          },
+          {
+            "Planet": "Sun",
+            "StartDate": "02/03/2046",
+            "EndDate": "08/05/2046"
+          }
+        ]
+      },
+      {
+        "Planet": "Mars",
+        "Sanskrit": "Ma",
+        "StartDate": "08/05/2046",
+        "EndDate": "08/05/2053",
+        "Antardashas": [
+          {
+            "Planet": "Mars",
+            "StartDate": "08/05/2046",
+            "EndDate": "01/01/2047"
+          },
+          {
+            "Planet": "Rahu",
+            "StartDate": "01/01/2047",
+            "EndDate": "01/19/2048"
+          },
+          {
+            "Planet": "Jupiter",
+            "StartDate": "01/19/2048",
+            "EndDate": "12/25/2048"
+          },
+          {
+            "Planet": "Saturn",
+            "StartDate": "12/25/2048",
+            "EndDate": "02/02/2050"
+          },
+          {
+            "Planet": "Mercury",
+            "StartDate": "02/02/2050",
+            "EndDate": "01/31/2051"
+          },
+          {
+            "Planet": "Ketu",
+            "StartDate": "01/31/2051",
+            "EndDate": "06/29/2051"
+          },
+          {
+            "Planet": "Venus",
+            "StartDate": "06/29/2051",
+            "EndDate": "08/29/2052"
+          },
+          {
+            "Planet": "Sun",
+            "StartDate": "08/29/2052",
+            "EndDate": "01/03/2053"
+          },
+          {
+            "Planet": "Moon",
+            "StartDate": "01/03/2053",
+            "EndDate": "08/05/2053"
+          }
+        ]
+      },
+      {
+        "Planet": "Rahu",
+        "Sanskrit": "Ra",
+        "StartDate": "08/05/2053",
+        "EndDate": "08/05/2071",
+        "Antardashas": [
+          {
+            "Planet": "Rahu",
+            "StartDate": "08/05/2053",
+            "EndDate": "04/16/2056"
+          },
+          {
+            "Planet": "Jupiter",
+            "StartDate": "04/16/2056",
+            "EndDate": "09/09/2058"
+          },
+          {
+            "Planet": "Saturn",
+            "StartDate": "09/09/2058",
+            "EndDate": "07/17/2061"
+          },
+          {
+            "Planet": "Mercury",
+            "StartDate": "07/17/2061",
+            "EndDate": "02/03/2064"
+          },
+          {
+            "Planet": "Ketu",
+            "StartDate": "02/03/2064",
+            "EndDate": "02/21/2065"
+          },
+          {
+            "Planet": "Venus",
+            "StartDate": "02/21/2065",
+            "EndDate": "02/21/2068"
+          },
+          {
+            "Planet": "Sun",
+            "StartDate": "02/21/2068",
+            "EndDate": "01/15/2069"
+          },
+          {
+            "Planet": "Moon",
+            "StartDate": "01/15/2069",
+            "EndDate": "07/16/2070"
+          },
+          {
+            "Planet": "Mars",
+            "StartDate": "07/16/2070",
+            "EndDate": "08/05/2071"
+          }
+        ]
+      },
+      {
+        "Planet": "Jupiter",
+        "Sanskrit": "Ju",
+        "StartDate": "08/05/2071",
+        "EndDate": "08/05/2087",
+        "Antardashas": [
+          {
+            "Planet": "Jupiter",
+            "StartDate": "08/05/2071",
+            "EndDate": "09/22/2073"
+          },
+          {
+            "Planet": "Saturn",
+            "StartDate": "09/22/2073",
+            "EndDate": "04/04/2076"
+          },
+          {
+            "Planet": "Mercury",
+            "StartDate": "04/04/2076",
+            "EndDate": "07/10/2078"
+          },
+          {
+            "Planet": "Ketu",
+            "StartDate": "07/10/2078",
+            "EndDate": "06/16/2079"
+          },
+          {
+            "Planet": "Venus",
+            "StartDate": "06/16/2079",
+            "EndDate": "02/15/2082"
+          },
+          {
+            "Planet": "Sun",
+            "StartDate": "02/15/2082",
+            "EndDate": "12/04/2082"
+          },
+          {
+            "Planet": "Moon",
+            "StartDate": "12/04/2082",
+            "EndDate": "04/04/2084"
+          },
+          {
+            "Planet": "Mars",
+            "StartDate": "04/04/2084",
+            "EndDate": "03/11/2085"
+          },
+          {
+            "Planet": "Rahu",
+            "StartDate": "03/11/2085",
+            "EndDate": "08/05/2087"
+          }
+        ]
+      },
+      {
+        "Planet": "Saturn",
+        "Sanskrit": "Sa",
+        "StartDate": "08/05/2087",
+        "EndDate": "08/05/2106",
+        "Antardashas": [
+          {
+            "Planet": "Saturn",
+            "StartDate": "08/05/2087",
+            "EndDate": "08/08/2090"
+          },
+          {
+            "Planet": "Mercury",
+            "StartDate": "08/08/2090",
+            "EndDate": "04/17/2093"
+          },
+          {
+            "Planet": "Ketu",
+            "StartDate": "04/17/2093",
+            "EndDate": "05/27/2094"
+          },
+          {
+            "Planet": "Venus",
+            "StartDate": "05/27/2094",
+            "EndDate": "07/27/2097"
+          },
+          {
+            "Planet": "Sun",
+            "StartDate": "07/27/2097",
+            "EndDate": "07/09/2098"
+          },
+          {
+            "Planet": "Moon",
+            "StartDate": "07/09/2098",
+            "EndDate": "02/07/2100"
+          },
+          {
+            "Planet": "Mars",
+            "StartDate": "02/07/2100",
+            "EndDate": "03/18/2101"
+          },
+          {
+            "Planet": "Rahu",
+            "StartDate": "03/18/2101",
+            "EndDate": "01/23/2104"
+          },
+          {
+            "Planet": "Jupiter",
+            "StartDate": "01/23/2104",
+            "EndDate": "08/05/2106"
+          }
+        ]
+      },
+      {
+        "Planet": "Mercury",
+        "Sanskrit": "Me",
+        "StartDate": "08/05/2106",
+        "EndDate": "08/05/2123",
+        "Antardashas": [
+          {
+            "Planet": "Mercury",
+            "StartDate": "08/05/2106",
+            "EndDate": "01/01/2109"
+          },
+          {
+            "Planet": "Ketu",
+            "StartDate": "01/01/2109",
+            "EndDate": "12/29/2109"
+          },
+          {
+            "Planet": "Venus",
+            "StartDate": "12/29/2109",
+            "EndDate": "10/28/2112"
+          },
+          {
+            "Planet": "Sun",
+            "StartDate": "10/28/2112",
+            "EndDate": "09/04/2113"
+          },
+          {
+            "Planet": "Moon",
+            "StartDate": "09/04/2113",
+            "EndDate": "02/03/2115"
+          },
+          {
+            "Planet": "Mars",
+            "StartDate": "02/03/2115",
+            "EndDate": "01/31/2116"
+          },
+          {
+            "Planet": "Rahu",
+            "StartDate": "01/31/2116",
+            "EndDate": "08/20/2118"
+          },
+          {
+            "Planet": "Jupiter",
+            "StartDate": "08/20/2118",
+            "EndDate": "11/25/2120"
+          },
+          {
+            "Planet": "Saturn",
+            "StartDate": "11/25/2120",
+            "EndDate": "08/05/2123"
+          }
+        ]
+      },
+      {
+        "Planet": "Ketu",
+        "Sanskrit": "Ke",
+        "StartDate": "08/05/2123",
+        "EndDate": "08/05/2130",
+        "Antardashas": [
+          {
+            "Planet": "Ketu",
+            "StartDate": "08/05/2123",
+            "EndDate": "01/01/2124"
+          },
+          {
+            "Planet": "Venus",
+            "StartDate": "01/01/2124",
+            "EndDate": "03/03/2125"
+          },
+          {
+            "Planet": "Sun",
+            "StartDate": "03/03/2125",
+            "EndDate": "07/08/2125"
+          },
+          {
+            "Planet": "Moon",
+            "StartDate": "07/08/2125",
+            "EndDate": "02/06/2126"
+          },
+          {
+            "Planet": "Mars",
+            "StartDate": "02/06/2126",
+            "EndDate": "07/06/2126"
+          },
+          {
+            "Planet": "Rahu",
+            "StartDate": "07/06/2126",
+            "EndDate": "07/24/2127"
+          },
+          {
+            "Planet": "Jupiter",
+            "StartDate": "07/24/2127",
+            "EndDate": "06/29/2128"
+          },
+          {
+            "Planet": "Saturn",
+            "StartDate": "06/29/2128",
+            "EndDate": "08/07/2129"
+          },
+          {
+            "Planet": "Mercury",
+            "StartDate": "08/07/2129",
+            "EndDate": "08/05/2130"
+          }
+        ]
+      },
+      {
+        "Planet": "Venus",
+        "Sanskrit": "Ve",
+        "StartDate": "08/05/2130",
+        "EndDate": "08/05/2150",
+        "Antardashas": [
+          {
+            "Planet": "Venus",
+            "StartDate": "08/05/2130",
+            "EndDate": "12/04/2133"
+          },
+          {
+            "Planet": "Sun",
+            "StartDate": "12/04/2133",
+            "EndDate": "12/04/2134"
+          },
+          {
+            "Planet": "Moon",
+            "StartDate": "12/04/2134",
+            "EndDate": "08/04/2136"
+          },
+          {
+            "Planet": "Mars",
+            "StartDate": "08/04/2136",
+            "EndDate": "10/04/2137"
+          },
+          {
+            "Planet": "Rahu",
+            "StartDate": "10/04/2137",
+            "EndDate": "10/04/2140"
+          },
+          {
+            "Planet": "Jupiter",
+            "StartDate": "10/04/2140",
+            "EndDate": "06/04/2143"
+          },
+          {
+            "Planet": "Saturn",
+            "StartDate": "06/04/2143",
+            "EndDate": "08/04/2146"
+          },
+          {
+            "Planet": "Mercury",
+            "StartDate": "08/04/2146",
+            "EndDate": "06/04/2149"
+          },
+          {
+            "Planet": "Ketu",
+            "StartDate": "06/04/2149",
+            "EndDate": "08/05/2150"
+          }
+        ]
+      },
+      {
+        "Planet": "Sun",
+        "Sanskrit": "Su",
+        "StartDate": "08/05/2150",
+        "EndDate": "08/05/2156",
+        "Antardashas": [
+          {
+            "Planet": "Sun",
+            "StartDate": "08/05/2150",
+            "EndDate": "11/22/2150"
+          },
+          {
+            "Planet": "Moon",
+            "StartDate": "11/22/2150",
+            "EndDate": "05/24/2151"
+          },
+          {
+            "Planet": "Mars",
+            "StartDate": "05/24/2151",
+            "EndDate": "09/29/2151"
+          },
+          {
+            "Planet": "Rahu",
+            "StartDate": "09/29/2151",
+            "EndDate": "08/22/2152"
+          },
+          {
+            "Planet": "Jupiter",
+            "StartDate": "08/22/2152",
+            "EndDate": "06/10/2153"
+          },
+          {
+            "Planet": "Saturn",
+            "StartDate": "06/10/2153",
+            "EndDate": "05/23/2154"
+          },
+          {
+            "Planet": "Mercury",
+            "StartDate": "05/23/2154",
+            "EndDate": "03/30/2155"
+          },
+          {
+            "Planet": "Ketu",
+            "StartDate": "03/30/2155",
+            "EndDate": "08/05/2155"
+          },
+          {
+            "Planet": "Venus",
+            "StartDate": "08/05/2155",
+            "EndDate": "08/05/2156"
+          }
+        ]
+      },
+      {
+        "Planet": "Moon",
+        "Sanskrit": "Mo",
+        "StartDate": "08/05/2156",
+        "EndDate": "08/05/2166",
+        "Antardashas": [
+          {
+            "Planet": "Moon",
+            "StartDate": "08/05/2156",
+            "EndDate": "06/05/2157"
+          },
+          {
+            "Planet": "Mars",
+            "StartDate": "06/05/2157",
+            "EndDate": "01/04/2158"
+          },
+          {
+            "Planet": "Rahu",
+            "StartDate": "01/04/2158",
+            "EndDate": "07/06/2159"
+          },
+          {
+            "Planet": "Jupiter",
+            "StartDate": "07/06/2159",
+            "EndDate": "11/04/2160"
+          },
+          {
+            "Planet": "Saturn",
+            "StartDate": "11/04/2160",
+            "EndDate": "06/05/2162"
+          },
+          {
+            "Planet": "Mercury",
+            "StartDate": "06/05/2162",
+            "EndDate": "11/05/2163"
+          },
+          {
+            "Planet": "Ketu",
+            "StartDate": "11/05/2163",
+            "EndDate": "06/05/2164"
+          },
+          {
+            "Planet": "Venus",
+            "StartDate": "06/05/2164",
+            "EndDate": "02/03/2166"
+          },
+          {
+            "Planet": "Sun",
+            "StartDate": "02/03/2166",
+            "EndDate": "08/05/2166"
+          }
+        ]
+      },
+      {
+        "Planet": "Mars",
+        "Sanskrit": "Ma",
+        "StartDate": "08/05/2166",
+        "EndDate": "08/05/2173",
+        "Antardashas": [
+          {
+            "Planet": "Mars",
+            "StartDate": "08/05/2166",
+            "EndDate": "01/01/2167"
+          },
+          {
+            "Planet": "Rahu",
+            "StartDate": "01/01/2167",
+            "EndDate": "01/19/2168"
+          },
+          {
+            "Planet": "Jupiter",
+            "StartDate": "01/19/2168",
+            "EndDate": "12/25/2168"
+          },
+          {
+            "Planet": "Saturn",
+            "StartDate": "12/25/2168",
+            "EndDate": "02/02/2170"
+          },
+          {
+            "Planet": "Mercury",
+            "StartDate": "02/02/2170",
+            "EndDate": "01/31/2171"
+          },
+          {
+            "Planet": "Ketu",
+            "StartDate": "01/31/2171",
+            "EndDate": "06/29/2171"
+          },
+          {
+            "Planet": "Venus",
+            "StartDate": "06/29/2171",
+            "EndDate": "08/29/2172"
+          },
+          {
+            "Planet": "Sun",
+            "StartDate": "08/29/2172",
+            "EndDate": "01/03/2173"
+          },
+          {
+            "Planet": "Moon",
+            "StartDate": "01/03/2173",
+            "EndDate": "08/05/2173"
+          }
+        ]
+      },
+      {
+        "Planet": "Rahu",
+        "Sanskrit": "Ra",
+        "StartDate": "08/05/2173",
+        "EndDate": "08/05/2191",
+        "Antardashas": [
+          {
+            "Planet": "Rahu",
+            "StartDate": "08/05/2173",
+            "EndDate": "04/16/2176"
+          },
+          {
+            "Planet": "Jupiter",
+            "StartDate": "04/16/2176",
+            "EndDate": "09/09/2178"
+          },
+          {
+            "Planet": "Saturn",
+            "StartDate": "09/09/2178",
+            "EndDate": "07/17/2181"
+          },
+          {
+            "Planet": "Mercury",
+            "StartDate": "07/17/2181",
+            "EndDate": "02/03/2184"
+          },
+          {
+            "Planet": "Ketu",
+            "StartDate": "02/03/2184",
+            "EndDate": "02/21/2185"
+          },
+          {
+            "Planet": "Venus",
+            "StartDate": "02/21/2185",
+            "EndDate": "02/21/2188"
+          },
+          {
+            "Planet": "Sun",
+            "StartDate": "02/21/2188",
+            "EndDate": "01/15/2189"
+          },
+          {
+            "Planet": "Moon",
+            "StartDate": "01/15/2189",
+            "EndDate": "07/16/2190"
+          },
+          {
+            "Planet": "Mars",
+            "StartDate": "07/16/2190",
+            "EndDate": "08/05/2191"
+          }
+        ]
+      },
+      {
+        "Planet": "Jupiter",
+        "Sanskrit": "Ju",
+        "StartDate": "08/05/2191",
+        "EndDate": "08/05/2207",
+        "Antardashas": [
+          {
+            "Planet": "Jupiter",
+            "StartDate": "08/05/2191",
+            "EndDate": "09/22/2193"
+          },
+          {
+            "Planet": "Saturn",
+            "StartDate": "09/22/2193",
+            "EndDate": "04/04/2196"
+          },
+          {
+            "Planet": "Mercury",
+            "StartDate": "04/04/2196",
+            "EndDate": "07/10/2198"
+          },
+          {
+            "Planet": "Ketu",
+            "StartDate": "07/10/2198",
+            "EndDate": "06/16/2199"
+          },
+          {
+            "Planet": "Venus",
+            "StartDate": "06/16/2199",
+            "EndDate": "02/15/2202"
+          },
+          {
+            "Planet": "Sun",
+            "StartDate": "02/15/2202",
+            "EndDate": "12/04/2202"
+          },
+          {
+            "Planet": "Moon",
+            "StartDate": "12/04/2202",
+            "EndDate": "04/04/2204"
+          },
+          {
+            "Planet": "Mars",
+            "StartDate": "04/04/2204",
+            "EndDate": "03/11/2205"
+          },
+          {
+            "Planet": "Rahu",
+            "StartDate": "03/11/2205",
+            "EndDate": "08/05/2207"
+          }
+        ]
+      },
+      {
+        "Planet": "Saturn",
+        "Sanskrit": "Sa",
+        "StartDate": "08/05/2207",
+        "EndDate": "08/05/2226",
+        "Antardashas": [
+          {
+            "Planet": "Saturn",
+            "StartDate": "08/05/2207",
+            "EndDate": "08/08/2210"
+          },
+          {
+            "Planet": "Mercury",
+            "StartDate": "08/08/2210",
+            "EndDate": "04/17/2213"
+          },
+          {
+            "Planet": "Ketu",
+            "StartDate": "04/17/2213",
+            "EndDate": "05/27/2214"
+          },
+          {
+            "Planet": "Venus",
+            "StartDate": "05/27/2214",
+            "EndDate": "07/27/2217"
+          },
+          {
+            "Planet": "Sun",
+            "StartDate": "07/27/2217",
+            "EndDate": "07/09/2218"
+          },
+          {
+            "Planet": "Moon",
+            "StartDate": "07/09/2218",
+            "EndDate": "02/07/2220"
+          },
+          {
+            "Planet": "Mars",
+            "StartDate": "02/07/2220",
+            "EndDate": "03/18/2221"
+          },
+          {
+            "Planet": "Rahu",
+            "StartDate": "03/18/2221",
+            "EndDate": "01/23/2224"
+          },
+          {
+            "Planet": "Jupiter",
+            "StartDate": "01/23/2224",
+            "EndDate": "08/05/2226"
+          }
+        ]
+      },
+      {
+        "Planet": "Mercury",
+        "Sanskrit": "Me",
+        "StartDate": "08/05/2226",
+        "EndDate": "08/05/2243",
+        "Antardashas": [
+          {
+            "Planet": "Mercury",
+            "StartDate": "08/05/2226",
+            "EndDate": "01/01/2229"
+          },
+          {
+            "Planet": "Ketu",
+            "StartDate": "01/01/2229",
+            "EndDate": "12/29/2229"
+          },
+          {
+            "Planet": "Venus",
+            "StartDate": "12/29/2229",
+            "EndDate": "10/28/2232"
+          },
+          {
+            "Planet": "Sun",
+            "StartDate": "10/28/2232",
+            "EndDate": "09/04/2233"
+          },
+          {
+            "Planet": "Moon",
+            "StartDate": "09/04/2233",
+            "EndDate": "02/03/2235"
+          },
+          {
+            "Planet": "Mars",
+            "StartDate": "02/03/2235",
+            "EndDate": "01/31/2236"
+          },
+          {
+            "Planet": "Rahu",
+            "StartDate": "01/31/2236",
+            "EndDate": "08/20/2238"
+          },
+          {
+            "Planet": "Jupiter",
+            "StartDate": "08/20/2238",
+            "EndDate": "11/25/2240"
+          },
+          {
+            "Planet": "Saturn",
+            "StartDate": "11/25/2240",
+            "EndDate": "08/05/2243"
+          }
+        ]
+      }
+    ]
+  }
+}

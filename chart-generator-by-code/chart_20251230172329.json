@@ -1,0 +1,207 @@
+{
+  "Houses": [
+    {
+      "House": 1,
+      "Sanskrit": "Lagna / Tanu Bhava",
+      "Meaning": "Thân thể / Bản thân",
+      "Sign": "Cancer - Cự Giải",
+      "LagnaLord": "Moon - Chandra",
+      "Planets": [
+        {
+          "Planet": "Ketu",
+          "Sanskrit": "Ketu",
+          "Sign": "Cancer",
+          "Degree": "16°22′",
+          "Nakshatra": "Pushya",
+          "NakshatraLord": "Saturn",
+          "Pada": 4,
+          "Motion": "D",
+          "Speed": "0.05°/day"
+        }
+      ]
+    },
+    {
+      "House": 2,
+      "Sanskrit": "Dhana Bhava",
+      "Meaning": "Tài sản / Tài chính",
+      "Sign": "Leo - Sư Tử",
+      "LagnaLord": "Sun - Surya",
+      "Planets": []
+    },
+    {
+      "House": 3,
+      "Sanskrit": "Sahaja Bhava",
+      "Meaning": "Nỗ lực / Anh em",
+      "Sign": "Virgo - Xử Nữ",
+      "LagnaLord": "Mercury - Budha",
+      "Planets": []
+    },
+    {
+      "House": 4,
+      "Sanskrit": "Sukha Bhava",
+      "Meaning": "Hạnh phúc / Gia đình",
+      "Sign": "Libra - Thiên Bình",
+      "LagnaLord": "Venus - Shukra",
+      "Planets": []
+    },
+    {
+      "House": 5,
+      "Sanskrit": "Putra Bhava",
+      "Meaning": "Đầu tư / Con cái / Trí tuệ / Tình yêu",
+      "Sign": "Scorpio - Thần Nông",
+      "LagnaLord": "Mars - Mangala",
+      "Planets": [
+        {
+          "Planet": "Moon",
+          "Sanskrit": "Chandra",
+          "Sign": "Scorpio",
+          "Degree": "19°41′",
+          "Nakshatra": "Jyeshtha",
+          "NakshatraLord": "Mercury",
+          "Pada": 1,
+          "Motion": "D",
+          "Speed": "11.94°/day"
+        }
+      ]
+    },
+    {
+      "House": 6,
+      "Sanskrit": "Shatru Bhava",
+      "Meaning": "Kẻ thù / Bệnh tật / Nợ nần",
+      "Sign": "Sagittarius - Nhân Mã",
+      "LagnaLord": "Jupiter - Guru",
+      "Planets": []
+    },
+    {
+      "House": 7,
+      "Sanskrit": "Yuvati Bhava",
+      "Meaning": "Hôn nhân / Quan hệ",
+      "Sign": "Capricorn - Ma Kết",
+      "LagnaLord": "Saturn - Shani",
+      "Planets": [
+        {
+          "Planet": "Saturn",
+          "Sanskrit": "Shani",
+          "Sign": "Capricorn",
+          "Degree": "0°42′",
+          "Nakshatra": "Uttara Ashadha",
+          "NakshatraLord": "Sun",
+          "Pada": 2,
+          "Motion": "R",
+          "Speed": "0.05°/day"
+        },
+        {
+          "Planet": "Rahu",
+          "Sanskrit": "Rahu",
+          "Sign": "Capricorn",
+          "Degree": "16°22′",
+          "Nakshatra": "Shravana",
+          "NakshatraLord": "Moon",
+          "Pada": 2,
+          "Motion": "D",
+          "Speed": "0.05°/day"
+        }
+      ]
+    },
+    {
+      "House": 8,
+      "Sanskrit": "Randhra Bhava",
+      "Meaning": "Sinh tử / Biến đổi / Bí ẩn",
+      "Sign": "Aquarius - Bảo Bình",
+      "LagnaLord": "Saturn - Shani",
+      "Planets": []
+    },
+    {
+      "House": 9,
+      "Sanskrit": "Dharma Bhava",
+      "Meaning": "May mắn / Tâm linh / Cha",
+      "Sign": "Pisces - Song Ngư",
+      "LagnaLord": "Jupiter - Guru",
+      "Planets": [
+        {
+          "Planet": "Mars",
+          "Sanskrit": "Mangala",
+          "Sign": "Pisces",
+          "Degree": "11°59′",
+          "Nakshatra": "Uttara Bhadrapada",
+          "NakshatraLord": "Saturn",
+          "Pada": 3,
+          "Motion": "D",
+          "Speed": "0.73°/day"
+        }
+      ]
+    },
+    {
+      "House": 10,
+      "Sanskrit": "Karma Bhava",
+      "Meaning": "Sự nghiệp / Địa vị xã hội",
+      "Sign": "Aries - Bạch Dương",
+      "LagnaLord": "Mars - Mangala",
+      "Planets": [
+        {
+          "Planet": "Venus",
+          "Sanskrit": "Shukra",
+          "Sign": "Aries",
+          "Degree": "16°24′",
+          "Nakshatra": "Bharani",
+          "NakshatraLord": "Venus",
+          "Pada": 1,
+          "Motion": "D",
+          "Speed": "1.17°/day"
+        }
+      ]
+    },
+    {
+      "House": 11,
+      "Sanskrit": "Labh Bhava",
+      "Meaning": "Thu nhập / Ước mơ / Bạn bè",
+      "Sign": "Taurus - Kim Ngưu",
+      "LagnaLord": "Venus - Shukra",
+      "Planets": [
+        {
+          "Planet": "Sun",
+          "Sanskrit": "Surya",
+          "Sign": "Taurus",
+          "Degree": "23°21′",
+          "Nakshatra": "Mrigashira",
+          "NakshatraLord": "Mars",
+          "Pada": 1,
+          "Motion": "D",
+          "Speed": "0.96°/day"
+        },
+        {
+          "Planet": "Mercury",
+          "Sanskrit": "Budha",
+          "Sign": "Taurus",
+          "Degree": "0°35′",
+          "Nakshatra": "Krittika",
+          "NakshatraLord": "Sun",
+          "Pada": 2,
+          "Motion": "D",
+          "Speed": "1.37°/day"
+        }
+      ]
+    },
+    {
+      "House": 12,
+      "Sanskrit": "Vyaya Bhava",
+      "Meaning": "Tổn thất / Giải thoát / Tiềm thức",
+      "Sign": "Gemini - Song Tử",
+      "LagnaLord": "Mercury - Budha",
+      "Planets": [
+        {
+          "Planet": "Jupiter",
+          "Sanskrit": "Guru",
+          "Sign": "Gemini",
+          "Degree": "20°35′",
+          "Nakshatra": "Punarvasu",
+          "NakshatraLord": "Jupiter",
+          "Pada": 1,
+          "Motion": "D",
+          "Speed": "0.21°/day"
+        }
+      ]
+    }
+  ],
+  "MoonLongitude": 229.67979423949325
+}
