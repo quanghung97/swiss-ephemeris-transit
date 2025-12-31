@@ -1,2 +1,2 @@
-﻿datetime,event,planet,from_sign,to_sign,degree,longitude
-2026-01-18 18:15:00,Ingress,Moon,Sagittarius,Capricorn,"0°01'58.54""",270.032928
+﻿datetime,event,planet,from_sign,from_sign_vi,to_sign,to_sign_vi,degree,longitude,nakshatra,nakshatra_lord,pada
+2026-01-18 18:15:00,Ingress,Moon,Sagittarius,Nhân Mã,Capricorn,Ma Kết,"0°01'58.54""",270.032928,Uttara Ashadha,Sun,2

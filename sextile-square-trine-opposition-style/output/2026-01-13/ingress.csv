@@ -1,3 +1,3 @@
-﻿datetime,event,planet,from_sign,to_sign,degree,longitude
-2026-01-13 05:30:00,Ingress,Venus,Sagittarius,Capricorn,"0°00'06.08""",270.00169
-2026-01-13 19:00:00,Ingress,Moon,Libra,Scorpio,"0°04'15.01""",210.070836
+﻿datetime,event,planet,from_sign,from_sign_vi,to_sign,to_sign_vi,degree,longitude,nakshatra,nakshatra_lord,pada
+2026-01-13 05:30:00,Ingress,Venus,Sagittarius,Nhân Mã,Capricorn,Ma Kết,"0°00'06.08""",270.00169,Uttara Ashadha,Sun,2
+2026-01-13 19:00:00,Ingress,Moon,Libra,Thiên Bình,Scorpio,Bọ Cạp,"0°04'15.01""",210.070836,Vishakha,Jupiter,4

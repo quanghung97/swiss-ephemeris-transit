@@ -1,24 +1,7 @@
-﻿datetime,event,type,planet1,planet1_sign,planet1_degree,planet2,planet2_sign,planet2_degree,exact_angle,difference,orb
-2026-01-05 18:15:00,Aspect,Conjunction,Sun,Sagittarius,"20°53'57.74""",Mars,Sagittarius,"21°53'49.90""",0,0.9978,0.9978
-2026-01-05 18:30:00,Aspect,Conjunction,Sun,Sagittarius,"20°54'35.94""",Mars,Sagittarius,"21°54'18.75""",0,0.9952,0.9952
-2026-01-05 18:45:00,Aspect,Conjunction,Sun,Sagittarius,"20°55'14.15""",Mars,Sagittarius,"21°54'47.59""",0,0.9926,0.9926
-2026-01-05 19:00:00,Aspect,Conjunction,Sun,Sagittarius,"20°55'52.35""",Mars,Sagittarius,"21°55'16.44""",0,0.99,0.99
-2026-01-05 19:15:00,Aspect,Conjunction,Sun,Sagittarius,"20°56'30.56""",Mars,Sagittarius,"21°55'45.29""",0,0.9874,0.9874
-2026-01-05 19:30:00,Aspect,Conjunction,Sun,Sagittarius,"20°57'08.76""",Mars,Sagittarius,"21°56'14.13""",0,0.9848,0.9848
-2026-01-05 19:45:00,Aspect,Conjunction,Sun,Sagittarius,"20°57'46.97""",Mars,Sagittarius,"21°56'42.98""",0,0.9822,0.9822
-2026-01-05 20:00:00,Aspect,Conjunction,Sun,Sagittarius,"20°58'25.17""",Mars,Sagittarius,"21°57'11.83""",0,0.9796,0.9796
-2026-01-05 20:15:00,Aspect,Conjunction,Sun,Sagittarius,"20°59'03.37""",Mars,Sagittarius,"21°57'40.67""",0,0.977,0.977
-2026-01-05 20:30:00,Aspect,Conjunction,Sun,Sagittarius,"20°59'41.58""",Mars,Sagittarius,"21°58'09.52""",0,0.9744,0.9744
-2026-01-05 20:45:00,Aspect,Conjunction,Sun,Sagittarius,"21°00'19.78""",Mars,Sagittarius,"21°58'38.37""",0,0.9718,0.9718
-2026-01-05 21:00:00,Aspect,Conjunction,Sun,Sagittarius,"21°00'57.99""",Mars,Sagittarius,"21°59'07.22""",0,0.9692,0.9692
-2026-01-05 21:15:00,Aspect,Conjunction,Sun,Sagittarius,"21°01'36.19""",Mars,Sagittarius,"21°59'36.06""",0,0.9666,0.9666
-2026-01-05 21:30:00,Aspect,Conjunction,Sun,Sagittarius,"21°02'14.40""",Mars,Sagittarius,"22°00'04.91""",0,0.964,0.964
-2026-01-05 21:45:00,Aspect,Conjunction,Sun,Sagittarius,"21°02'52.60""",Mars,Sagittarius,"22°00'33.76""",0,0.9614,0.9614
-2026-01-05 22:00:00,Aspect,Conjunction,Sun,Sagittarius,"21°03'30.81""",Mars,Sagittarius,"22°01'02.61""",0,0.9588,0.9588
-2026-01-05 22:15:00,Aspect,Conjunction,Sun,Sagittarius,"21°04'09.01""",Mars,Sagittarius,"22°01'31.46""",0,0.9562,0.9562
-2026-01-05 22:30:00,Aspect,Conjunction,Sun,Sagittarius,"21°04'47.21""",Mars,Sagittarius,"22°02'00.31""",0,0.9536,0.9536
-2026-01-05 22:45:00,Aspect,Conjunction,Sun,Sagittarius,"21°05'25.42""",Mars,Sagittarius,"22°02'29.16""",0,0.951,0.951
-2026-01-05 23:00:00,Aspect,Conjunction,Sun,Sagittarius,"21°06'03.62""",Mars,Sagittarius,"22°02'58.01""",0,0.9484,0.9484
-2026-01-05 23:15:00,Aspect,Conjunction,Sun,Sagittarius,"21°06'41.83""",Mars,Sagittarius,"22°03'26.86""",0,0.9458,0.9458
-2026-01-05 23:30:00,Aspect,Conjunction,Sun,Sagittarius,"21°07'20.03""",Mars,Sagittarius,"22°03'55.71""",0,0.9432,0.9432
-2026-01-05 23:45:00,Aspect,Conjunction,Sun,Sagittarius,"21°07'58.24""",Mars,Sagittarius,"22°04'24.56""",0,0.9406,0.9406
+﻿datetime,event,aspecting_planet,aspecting_sign,aspecting_sign_vi,aspecting_degree,aspecting_nakshatra,aspecting_nakshatra_lord,aspecting_pada,aspected_planet,aspected_sign,aspected_sign_vi,aspected_degree,aspected_nakshatra,aspected_nakshatra_lord,aspected_pada,aspect_type,aspect_house,target_angle,actual_angle,orb,strength
+2026-01-05 22:30:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"22°02'00.31""",Purva Ashadha,Venus,3,Moon,Cancer,Cự Giải,"21°07'52.79""",Ashlesha,Mercury,2,8th House,8,210,209.0979,0.9021,Strong
+2026-01-05 22:45:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"22°02'29.16""",Purva Ashadha,Venus,3,Moon,Cancer,Cự Giải,"21°16'39.97""",Ashlesha,Mercury,2,8th House,8,210,209.2363,0.7637,Strong
+2026-01-05 23:00:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"22°02'58.01""",Purva Ashadha,Venus,3,Moon,Cancer,Cự Giải,"21°25'26.98""",Ashlesha,Mercury,2,8th House,8,210,209.3747,0.6253,Strong
+2026-01-05 23:15:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"22°03'26.86""",Purva Ashadha,Venus,3,Moon,Cancer,Cự Giải,"21°34'13.81""",Ashlesha,Mercury,2,8th House,8,210,209.513,0.487,Strong
+2026-01-05 23:30:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"22°03'55.71""",Purva Ashadha,Venus,3,Moon,Cancer,Cự Giải,"21°43'00.46""",Ashlesha,Mercury,2,8th House,8,210,209.6513,0.3487,Strong
+2026-01-05 23:45:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"22°04'24.56""",Purva Ashadha,Venus,3,Moon,Cancer,Cự Giải,"21°51'46.93""",Ashlesha,Mercury,2,8th House,8,210,209.7895,0.2105,Strong

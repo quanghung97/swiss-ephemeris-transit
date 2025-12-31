@@ -1,0 +1,37 @@
+﻿datetime,event,type,planet1,planet1_sign,planet1_degree,planet1_nakshatra,planet1_nakshatra_lord,planet1_pada,planet2,planet2_sign,planet2_degree,planet2_nakshatra,planet2_nakshatra_lord,planet2_pada,exact_angle,difference,orb
+2025-12-29 03:30:00,Aspect,Square,Moon,Pisces,"26°39'57.15""",Revati,Mercury,3,Jupiter,Gemini,"27°32'30.64""",Punarvasu,Jupiter,3,90,90.876,0.876
+2025-12-29 03:45:00,Aspect,Square,Moon,Pisces,"26°48'43.30""",Revati,Mercury,4,Jupiter,Gemini,"27°32'25.86""",Punarvasu,Jupiter,3,90,90.7285,0.7285
+2025-12-29 04:00:00,Aspect,Square,Moon,Pisces,"26°57'29.59""",Revati,Mercury,4,Jupiter,Gemini,"27°32'21.09""",Punarvasu,Jupiter,3,90,90.581,0.581
+2025-12-29 04:15:00,Aspect,Square,Moon,Pisces,"27°06'16.03""",Revati,Mercury,4,Jupiter,Gemini,"27°32'16.31""",Punarvasu,Jupiter,3,90,90.4334,0.4334
+2025-12-29 04:30:00,Aspect,Square,Moon,Pisces,"27°15'02.61""",Revati,Mercury,4,Jupiter,Gemini,"27°32'11.54""",Punarvasu,Jupiter,3,90,90.2858,0.2858
+2025-12-29 04:45:00,Aspect,Square,Moon,Pisces,"27°23'49.35""",Revati,Mercury,4,Jupiter,Gemini,"27°32'06.76""",Punarvasu,Jupiter,3,90,90.1382,0.1382
+2025-12-29 05:00:00,Aspect,Square,Moon,Pisces,"27°32'36.23""",Revati,Mercury,4,Jupiter,Gemini,"27°32'01.98""",Punarvasu,Jupiter,3,90,89.9905,0.0095
+2025-12-29 05:15:00,Aspect,Square,Moon,Pisces,"27°41'23.26""",Revati,Mercury,4,Jupiter,Gemini,"27°31'57.21""",Punarvasu,Jupiter,3,90,89.8428,0.1572
+2025-12-29 05:30:00,Aspect,Square,Moon,Pisces,"27°50'10.44""",Revati,Mercury,4,Jupiter,Gemini,"27°31'52.43""",Punarvasu,Jupiter,3,90,89.695,0.305
+2025-12-29 05:45:00,Aspect,Square,Moon,Pisces,"27°58'57.77""",Revati,Mercury,4,Jupiter,Gemini,"27°31'47.65""",Punarvasu,Jupiter,3,90,89.5472,0.4528
+2025-12-29 06:00:00,Aspect,Square,Moon,Pisces,"28°07'45.25""",Revati,Mercury,4,Jupiter,Gemini,"27°31'42.87""",Punarvasu,Jupiter,3,90,89.3993,0.6007
+2025-12-29 06:15:00,Aspect,Square,Moon,Pisces,"28°16'32.87""",Revati,Mercury,4,Jupiter,Gemini,"27°31'38.09""",Punarvasu,Jupiter,3,90,89.2515,0.7485
+2025-12-29 06:30:00,Aspect,Square,Moon,Pisces,"28°25'20.64""",Revati,Mercury,4,Jupiter,Gemini,"27°31'33.31""",Punarvasu,Jupiter,3,90,89.1035,0.8965
+2025-12-29 07:30:00,Aspect,Trine,Moon,Pisces,"29°00'33.21""",Revati,Mercury,4,Mercury,Scorpio,"29°54'43.62""",Jyeshtha,Mercury,4,120,119.0971,0.9029
+2025-12-29 07:45:00,Aspect,Trine,Moon,Pisces,"29°09'21.72""",Revati,Mercury,4,Mercury,Scorpio,"29°55'40.15""",Jyeshtha,Mercury,4,120,119.2282,0.7718
+2025-12-29 08:00:00,Aspect,Trine,Moon,Pisces,"29°18'10.38""",Revati,Mercury,4,Mercury,Scorpio,"29°56'36.68""",Jyeshtha,Mercury,4,120,119.3594,0.6406
+2025-12-29 08:15:00,Aspect,Trine,Moon,Pisces,"29°26'59.18""",Revati,Mercury,4,Mercury,Scorpio,"29°57'33.21""",Jyeshtha,Mercury,4,120,119.4905,0.5095
+2025-12-29 08:30:00,Aspect,Trine,Moon,Pisces,"29°35'48.14""",Revati,Mercury,4,Mercury,Scorpio,"29°58'29.75""",Jyeshtha,Mercury,4,120,119.6218,0.3782
+2025-12-29 08:45:00,Aspect,Trine,Moon,Pisces,"29°44'37.24""",Revati,Mercury,4,Mercury,Scorpio,"29°59'26.28""",Jyeshtha,Mercury,4,120,119.753,0.247
+2025-12-29 09:00:00,Aspect,Trine,Moon,Pisces,"29°53'26.49""",Revati,Mercury,4,Mercury,Sagittarius,"0°00'22.82""",Mula,Ketu,1,120,119.8844,0.1156
+2025-12-29 09:15:00,Aspect,Trine,Moon,Aries,"0°02'15.89""",Ashwini,Ketu,1,Mercury,Sagittarius,"0°01'19.36""",Mula,Ketu,1,120,120.0157,0.0157
+2025-12-29 09:30:00,Aspect,Trine,Moon,Aries,"0°11'05.43""",Ashwini,Ketu,1,Mercury,Sagittarius,"0°02'15.91""",Mula,Ketu,1,120,120.1471,0.1471
+2025-12-29 09:45:00,Aspect,Trine,Moon,Aries,"0°19'55.13""",Ashwini,Ketu,1,Mercury,Sagittarius,"0°03'12.45""",Mula,Ketu,1,120,120.2785,0.2785
+2025-12-29 10:00:00,Aspect,Trine,Moon,Aries,"0°28'44.97""",Ashwini,Ketu,1,Mercury,Sagittarius,"0°04'09.00""",Mula,Ketu,1,120,120.41,0.41
+2025-12-29 10:15:00,Aspect,Trine,Moon,Aries,"0°37'34.96""",Ashwini,Ketu,1,Mercury,Sagittarius,"0°05'05.55""",Mula,Ketu,1,120,120.5415,0.5415
+2025-12-29 10:30:00,Aspect,Trine,Moon,Aries,"0°46'25.09""",Ashwini,Ketu,1,Mercury,Sagittarius,"0°06'02.10""",Mula,Ketu,1,120,120.6731,0.6731
+2025-12-29 10:45:00,Aspect,Trine,Moon,Aries,"0°55'15.37""",Ashwini,Ketu,1,Mercury,Sagittarius,"0°06'58.66""",Mula,Ketu,1,120,120.8046,0.8046
+2025-12-29 11:00:00,Aspect,Trine,Moon,Aries,"1°04'05.81""",Ashwini,Ketu,1,Mercury,Sagittarius,"0°07'55.22""",Mula,Ketu,1,120,120.9363,0.9363
+2025-12-29 22:00:00,Aspect,Square,Mercury,Sagittarius,"0°49'26.19""",Mula,Ketu,1,Saturn,Pisces,"1°48'41.52""",Purva Bhadrapada,Jupiter,4,90,90.9876,0.9876
+2025-12-29 22:15:00,Aspect,Square,Mercury,Sagittarius,"0°50'22.86""",Mula,Ketu,1,Saturn,Pisces,"1°48'43.56""",Purva Bhadrapada,Jupiter,4,90,90.9724,0.9724
+2025-12-29 22:30:00,Aspect,Square,Mercury,Sagittarius,"0°51'19.53""",Mula,Ketu,1,Saturn,Pisces,"1°48'45.61""",Purva Bhadrapada,Jupiter,4,90,90.9572,0.9572
+2025-12-29 22:45:00,Aspect,Square,Mercury,Sagittarius,"0°52'16.20""",Mula,Ketu,1,Saturn,Pisces,"1°48'47.65""",Purva Bhadrapada,Jupiter,4,90,90.9421,0.9421
+2025-12-29 23:00:00,Aspect,Square,Mercury,Sagittarius,"0°53'12.87""",Mula,Ketu,1,Saturn,Pisces,"1°48'49.70""",Purva Bhadrapada,Jupiter,4,90,90.9269,0.9269
+2025-12-29 23:15:00,Aspect,Square,Mercury,Sagittarius,"0°54'09.55""",Mula,Ketu,1,Saturn,Pisces,"1°48'51.75""",Purva Bhadrapada,Jupiter,4,90,90.9117,0.9117
+2025-12-29 23:30:00,Aspect,Square,Mercury,Sagittarius,"0°55'06.23""",Mula,Ketu,1,Saturn,Pisces,"1°48'53.80""",Purva Bhadrapada,Jupiter,4,90,90.8965,0.8965
+2025-12-29 23:45:00,Aspect,Square,Mercury,Sagittarius,"0°56'02.91""",Mula,Ketu,1,Saturn,Pisces,"1°48'55.85""",Purva Bhadrapada,Jupiter,4,90,90.8814,0.8814

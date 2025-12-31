@@ -1,0 +1,127 @@
+﻿datetime,event,type,planet1,planet1_sign,planet1_degree,planet1_nakshatra,planet1_nakshatra_lord,planet1_pada,planet2,planet2_sign,planet2_degree,planet2_nakshatra,planet2_nakshatra_lord,planet2_pada,exact_angle,difference,orb
+2025-12-09 00:00:00,Aspect,Square,Mars,Sagittarius,"0°48'59.14""",Mula,Ketu,1,Saturn,Pisces,"1°02'13.33""",Purva Bhadrapada,Jupiter,4,90,90.2206,0.2206
+2025-12-09 00:15:00,Aspect,Square,Mars,Sagittarius,"0°49'27.20""",Mula,Ketu,1,Saturn,Pisces,"1°02'14.04""",Purva Bhadrapada,Jupiter,4,90,90.213,0.213
+2025-12-09 00:30:00,Aspect,Square,Mars,Sagittarius,"0°49'55.26""",Mula,Ketu,1,Saturn,Pisces,"1°02'14.75""",Purva Bhadrapada,Jupiter,4,90,90.2054,0.2054
+2025-12-09 00:45:00,Aspect,Square,Mars,Sagittarius,"0°50'23.32""",Mula,Ketu,1,Saturn,Pisces,"1°02'15.46""",Purva Bhadrapada,Jupiter,4,90,90.1978,0.1978
+2025-12-09 01:00:00,Aspect,Square,Mars,Sagittarius,"0°50'51.38""",Mula,Ketu,1,Saturn,Pisces,"1°02'16.17""",Purva Bhadrapada,Jupiter,4,90,90.1902,0.1902
+2025-12-09 01:15:00,Aspect,Trine,Moon,Cancer,"14°51'12.44""",Pushya,Saturn,4,Venus,Scorpio,"15°44'12.49""",Anuradha,Saturn,4,120,120.8833,0.8833
+2025-12-09 01:15:00,Aspect,Square,Mars,Sagittarius,"0°51'19.44""",Mula,Ketu,1,Saturn,Pisces,"1°02'16.88""",Purva Bhadrapada,Jupiter,4,90,90.1826,0.1826
+2025-12-09 01:30:00,Aspect,Trine,Moon,Cancer,"14°59'54.80""",Pushya,Saturn,4,Venus,Scorpio,"15°44'59.66""",Anuradha,Saturn,4,120,120.7514,0.7514
+2025-12-09 01:30:00,Aspect,Square,Mars,Sagittarius,"0°51'47.50""",Mula,Ketu,1,Saturn,Pisces,"1°02'17.59""",Purva Bhadrapada,Jupiter,4,90,90.175,0.175
+2025-12-09 01:45:00,Aspect,Trine,Moon,Cancer,"15°08'36.96""",Pushya,Saturn,4,Venus,Scorpio,"15°45'46.84""",Anuradha,Saturn,4,120,120.6194,0.6194
+2025-12-09 01:45:00,Aspect,Square,Mars,Sagittarius,"0°52'15.57""",Mula,Ketu,1,Saturn,Pisces,"1°02'18.30""",Purva Bhadrapada,Jupiter,4,90,90.1674,0.1674
+2025-12-09 02:00:00,Aspect,Trine,Moon,Cancer,"15°17'18.92""",Pushya,Saturn,4,Venus,Scorpio,"15°46'34.01""",Anuradha,Saturn,4,120,120.4875,0.4875
+2025-12-09 02:00:00,Aspect,Square,Mars,Sagittarius,"0°52'43.63""",Mula,Ketu,1,Saturn,Pisces,"1°02'19.01""",Purva Bhadrapada,Jupiter,4,90,90.1598,0.1598
+2025-12-09 02:15:00,Aspect,Trine,Moon,Cancer,"15°26'00.68""",Pushya,Saturn,4,Venus,Scorpio,"15°47'21.19""",Anuradha,Saturn,4,120,120.3557,0.3557
+2025-12-09 02:15:00,Aspect,Square,Mars,Sagittarius,"0°53'11.69""",Mula,Ketu,1,Saturn,Pisces,"1°02'19.72""",Purva Bhadrapada,Jupiter,4,90,90.1522,0.1522
+2025-12-09 02:30:00,Aspect,Trine,Moon,Cancer,"15°34'42.23""",Pushya,Saturn,4,Venus,Scorpio,"15°48'08.36""",Anuradha,Saturn,4,120,120.2239,0.2239
+2025-12-09 02:30:00,Aspect,Square,Mars,Sagittarius,"0°53'39.76""",Mula,Ketu,1,Saturn,Pisces,"1°02'20.44""",Purva Bhadrapada,Jupiter,4,90,90.1446,0.1446
+2025-12-09 02:45:00,Aspect,Trine,Moon,Cancer,"15°43'23.59""",Pushya,Saturn,4,Venus,Scorpio,"15°48'55.53""",Anuradha,Saturn,4,120,120.0922,0.0922
+2025-12-09 02:45:00,Aspect,Square,Mars,Sagittarius,"0°54'07.82""",Mula,Ketu,1,Saturn,Pisces,"1°02'21.15""",Purva Bhadrapada,Jupiter,4,90,90.137,0.137
+2025-12-09 03:00:00,Aspect,Trine,Moon,Cancer,"15°52'04.74""",Pushya,Saturn,4,Venus,Scorpio,"15°49'42.71""",Anuradha,Saturn,4,120,119.9605,0.0395
+2025-12-09 03:00:00,Aspect,Square,Mars,Sagittarius,"0°54'35.88""",Mula,Ketu,1,Saturn,Pisces,"1°02'21.86""",Purva Bhadrapada,Jupiter,4,90,90.1294,0.1294
+2025-12-09 03:15:00,Aspect,Trine,Moon,Cancer,"16°00'45.70""",Pushya,Saturn,4,Venus,Scorpio,"15°50'29.88""",Anuradha,Saturn,4,120,119.8289,0.1711
+2025-12-09 03:15:00,Aspect,Square,Mars,Sagittarius,"0°55'03.95""",Mula,Ketu,1,Saturn,Pisces,"1°02'22.58""",Purva Bhadrapada,Jupiter,4,90,90.1218,0.1218
+2025-12-09 03:30:00,Aspect,Trine,Moon,Cancer,"16°09'26.45""",Pushya,Saturn,4,Venus,Scorpio,"15°51'17.06""",Anuradha,Saturn,4,120,119.6974,0.3026
+2025-12-09 03:30:00,Aspect,Square,Mars,Sagittarius,"0°55'32.01""",Mula,Ketu,1,Saturn,Pisces,"1°02'23.30""",Purva Bhadrapada,Jupiter,4,90,90.1142,0.1142
+2025-12-09 03:45:00,Aspect,Trine,Moon,Cancer,"16°18'07.00""",Pushya,Saturn,4,Venus,Scorpio,"15°52'04.23""",Anuradha,Saturn,4,120,119.5659,0.4341
+2025-12-09 03:45:00,Aspect,Square,Mars,Sagittarius,"0°56'00.08""",Mula,Ketu,1,Saturn,Pisces,"1°02'24.01""",Purva Bhadrapada,Jupiter,4,90,90.1066,0.1066
+2025-12-09 04:00:00,Aspect,Trine,Moon,Cancer,"16°26'47.35""",Pushya,Saturn,4,Venus,Scorpio,"15°52'51.41""",Anuradha,Saturn,4,120,119.4345,0.5655
+2025-12-09 04:00:00,Aspect,Square,Mars,Sagittarius,"0°56'28.14""",Mula,Ketu,1,Saturn,Pisces,"1°02'24.73""",Purva Bhadrapada,Jupiter,4,90,90.0991,0.0991
+2025-12-09 04:15:00,Aspect,Trine,Moon,Cancer,"16°35'27.50""",Pushya,Saturn,4,Venus,Scorpio,"15°53'38.58""",Anuradha,Saturn,4,120,119.3031,0.6969
+2025-12-09 04:15:00,Aspect,Square,Mars,Sagittarius,"0°56'56.21""",Mula,Ketu,1,Saturn,Pisces,"1°02'25.45""",Purva Bhadrapada,Jupiter,4,90,90.0915,0.0915
+2025-12-09 04:30:00,Aspect,Trine,Moon,Cancer,"16°44'07.45""",Ashlesha,Mercury,1,Venus,Scorpio,"15°54'25.76""",Anuradha,Saturn,4,120,119.1718,0.8282
+2025-12-09 04:30:00,Aspect,Square,Mars,Sagittarius,"0°57'24.27""",Mula,Ketu,1,Saturn,Pisces,"1°02'26.17""",Purva Bhadrapada,Jupiter,4,90,90.0839,0.0839
+2025-12-09 04:45:00,Aspect,Trine,Moon,Cancer,"16°52'47.20""",Ashlesha,Mercury,1,Venus,Scorpio,"15°55'12.93""",Anuradha,Saturn,4,120,119.0405,0.9595
+2025-12-09 04:45:00,Aspect,Square,Mars,Sagittarius,"0°57'52.34""",Mula,Ketu,1,Saturn,Pisces,"1°02'26.89""",Purva Bhadrapada,Jupiter,4,90,90.0763,0.0763
+2025-12-09 05:00:00,Aspect,Square,Mars,Sagittarius,"0°58'20.41""",Mula,Ketu,1,Saturn,Pisces,"1°02'27.61""",Purva Bhadrapada,Jupiter,4,90,90.0687,0.0687
+2025-12-09 05:15:00,Aspect,Square,Mars,Sagittarius,"0°58'48.47""",Mula,Ketu,1,Saturn,Pisces,"1°02'28.33""",Purva Bhadrapada,Jupiter,4,90,90.0611,0.0611
+2025-12-09 05:30:00,Aspect,Square,Mars,Sagittarius,"0°59'16.54""",Mula,Ketu,1,Saturn,Pisces,"1°02'29.05""",Purva Bhadrapada,Jupiter,4,90,90.0535,0.0535
+2025-12-09 05:45:00,Aspect,Square,Mars,Sagittarius,"0°59'44.61""",Mula,Ketu,1,Saturn,Pisces,"1°02'29.77""",Purva Bhadrapada,Jupiter,4,90,90.0459,0.0459
+2025-12-09 06:00:00,Aspect,Square,Mars,Sagittarius,"1°00'12.68""",Mula,Ketu,1,Saturn,Pisces,"1°02'30.50""",Purva Bhadrapada,Jupiter,4,90,90.0383,0.0383
+2025-12-09 06:15:00,Aspect,Square,Mars,Sagittarius,"1°00'40.74""",Mula,Ketu,1,Saturn,Pisces,"1°02'31.22""",Purva Bhadrapada,Jupiter,4,90,90.0307,0.0307
+2025-12-09 06:30:00,Aspect,Square,Mars,Sagittarius,"1°01'08.81""",Mula,Ketu,1,Saturn,Pisces,"1°02'31.94""",Purva Bhadrapada,Jupiter,4,90,90.0231,0.0231
+2025-12-09 06:45:00,Aspect,Square,Mars,Sagittarius,"1°01'36.88""",Mula,Ketu,1,Saturn,Pisces,"1°02'32.67""",Purva Bhadrapada,Jupiter,4,90,90.0155,0.0155
+2025-12-09 07:00:00,Aspect,Square,Mars,Sagittarius,"1°02'04.95""",Mula,Ketu,1,Saturn,Pisces,"1°02'33.40""",Purva Bhadrapada,Jupiter,4,90,90.0079,0.0079
+2025-12-09 07:15:00,Aspect,Square,Mars,Sagittarius,"1°02'33.02""",Mula,Ketu,1,Saturn,Pisces,"1°02'34.12""",Purva Bhadrapada,Jupiter,4,90,90.0003,0.0003
+2025-12-09 07:30:00,Aspect,Square,Mars,Sagittarius,"1°03'01.09""",Mula,Ketu,1,Saturn,Pisces,"1°02'34.85""",Purva Bhadrapada,Jupiter,4,90,89.9927,0.0073
+2025-12-09 07:45:00,Aspect,Square,Mars,Sagittarius,"1°03'29.16""",Mula,Ketu,1,Saturn,Pisces,"1°02'35.58""",Purva Bhadrapada,Jupiter,4,90,89.9851,0.0149
+2025-12-09 08:00:00,Aspect,Square,Mars,Sagittarius,"1°03'57.23""",Mula,Ketu,1,Saturn,Pisces,"1°02'36.31""",Purva Bhadrapada,Jupiter,4,90,89.9775,0.0225
+2025-12-09 08:15:00,Aspect,Square,Mars,Sagittarius,"1°04'25.30""",Mula,Ketu,1,Saturn,Pisces,"1°02'37.04""",Purva Bhadrapada,Jupiter,4,90,89.9699,0.0301
+2025-12-09 08:30:00,Aspect,Square,Mars,Sagittarius,"1°04'53.38""",Mula,Ketu,1,Saturn,Pisces,"1°02'37.77""",Purva Bhadrapada,Jupiter,4,90,89.9623,0.0377
+2025-12-09 08:45:00,Aspect,Square,Mars,Sagittarius,"1°05'21.45""",Mula,Ketu,1,Saturn,Pisces,"1°02'38.50""",Purva Bhadrapada,Jupiter,4,90,89.9547,0.0453
+2025-12-09 09:00:00,Aspect,Square,Mars,Sagittarius,"1°05'49.52""",Mula,Ketu,1,Saturn,Pisces,"1°02'39.23""",Purva Bhadrapada,Jupiter,4,90,89.9471,0.0529
+2025-12-09 09:15:00,Aspect,Square,Mars,Sagittarius,"1°06'17.59""",Mula,Ketu,1,Saturn,Pisces,"1°02'39.96""",Purva Bhadrapada,Jupiter,4,90,89.9395,0.0605
+2025-12-09 09:30:00,Aspect,Square,Mars,Sagittarius,"1°06'45.66""",Mula,Ketu,1,Saturn,Pisces,"1°02'40.69""",Purva Bhadrapada,Jupiter,4,90,89.932,0.068
+2025-12-09 09:45:00,Aspect,Square,Mars,Sagittarius,"1°07'13.74""",Mula,Ketu,1,Saturn,Pisces,"1°02'41.43""",Purva Bhadrapada,Jupiter,4,90,89.9244,0.0756
+2025-12-09 10:00:00,Aspect,Square,Mars,Sagittarius,"1°07'41.81""",Mula,Ketu,1,Saturn,Pisces,"1°02'42.16""",Purva Bhadrapada,Jupiter,4,90,89.9168,0.0832
+2025-12-09 10:15:00,Aspect,Square,Mars,Sagittarius,"1°08'09.88""",Mula,Ketu,1,Saturn,Pisces,"1°02'42.89""",Purva Bhadrapada,Jupiter,4,90,89.9092,0.0908
+2025-12-09 10:30:00,Aspect,Square,Mars,Sagittarius,"1°08'37.96""",Mula,Ketu,1,Saturn,Pisces,"1°02'43.63""",Purva Bhadrapada,Jupiter,4,90,89.9016,0.0984
+2025-12-09 10:45:00,Aspect,Square,Mars,Sagittarius,"1°09'06.03""",Mula,Ketu,1,Saturn,Pisces,"1°02'44.37""",Purva Bhadrapada,Jupiter,4,90,89.894,0.106
+2025-12-09 11:00:00,Aspect,Square,Mars,Sagittarius,"1°09'34.11""",Mula,Ketu,1,Saturn,Pisces,"1°02'45.10""",Purva Bhadrapada,Jupiter,4,90,89.8864,0.1136
+2025-12-09 11:15:00,Aspect,Square,Mars,Sagittarius,"1°10'02.18""",Mula,Ketu,1,Saturn,Pisces,"1°02'45.84""",Purva Bhadrapada,Jupiter,4,90,89.8788,0.1212
+2025-12-09 11:30:00,Aspect,Square,Mars,Sagittarius,"1°10'30.26""",Mula,Ketu,1,Saturn,Pisces,"1°02'46.58""",Purva Bhadrapada,Jupiter,4,90,89.8712,0.1288
+2025-12-09 11:45:00,Aspect,Square,Mars,Sagittarius,"1°10'58.34""",Mula,Ketu,1,Saturn,Pisces,"1°02'47.32""",Purva Bhadrapada,Jupiter,4,90,89.8636,0.1364
+2025-12-09 12:00:00,Aspect,Square,Mars,Sagittarius,"1°11'26.41""",Mula,Ketu,1,Saturn,Pisces,"1°02'48.06""",Purva Bhadrapada,Jupiter,4,90,89.856,0.144
+2025-12-09 12:15:00,Aspect,Square,Mars,Sagittarius,"1°11'54.49""",Mula,Ketu,1,Saturn,Pisces,"1°02'48.80""",Purva Bhadrapada,Jupiter,4,90,89.8484,0.1516
+2025-12-09 12:30:00,Aspect,Square,Mars,Sagittarius,"1°12'22.56""",Mula,Ketu,1,Saturn,Pisces,"1°02'49.54""",Purva Bhadrapada,Jupiter,4,90,89.8408,0.1592
+2025-12-09 12:45:00,Aspect,Square,Mars,Sagittarius,"1°12'50.64""",Mula,Ketu,1,Saturn,Pisces,"1°02'50.28""",Purva Bhadrapada,Jupiter,4,90,89.8332,0.1668
+2025-12-09 13:00:00,Aspect,Square,Mars,Sagittarius,"1°13'18.72""",Mula,Ketu,1,Saturn,Pisces,"1°02'51.02""",Purva Bhadrapada,Jupiter,4,90,89.8256,0.1744
+2025-12-09 13:15:00,Aspect,Square,Mars,Sagittarius,"1°13'46.80""",Mula,Ketu,1,Saturn,Pisces,"1°02'51.77""",Purva Bhadrapada,Jupiter,4,90,89.818,0.182
+2025-12-09 13:30:00,Aspect,Square,Mars,Sagittarius,"1°14'14.88""",Mula,Ketu,1,Saturn,Pisces,"1°02'52.51""",Purva Bhadrapada,Jupiter,4,90,89.8105,0.1895
+2025-12-09 13:45:00,Aspect,Square,Mars,Sagittarius,"1°14'42.95""",Mula,Ketu,1,Saturn,Pisces,"1°02'53.26""",Purva Bhadrapada,Jupiter,4,90,89.8029,0.1971
+2025-12-09 14:00:00,Aspect,Square,Mars,Sagittarius,"1°15'11.03""",Mula,Ketu,1,Saturn,Pisces,"1°02'54.00""",Purva Bhadrapada,Jupiter,4,90,89.7953,0.2047
+2025-12-09 14:15:00,Aspect,Trine,Sun,Scorpio,"23°14'24.51""",Jyeshtha,Mercury,2,Moon,Cancer,"22°19'29.30""",Ashlesha,Mercury,2,120,120.9153,0.9153
+2025-12-09 14:15:00,Aspect,Square,Mars,Sagittarius,"1°15'39.11""",Mula,Ketu,1,Saturn,Pisces,"1°02'54.75""",Purva Bhadrapada,Jupiter,4,90,89.7877,0.2123
+2025-12-09 14:30:00,Aspect,Trine,Sun,Scorpio,"23°15'02.59""",Jyeshtha,Mercury,2,Moon,Cancer,"22°28'01.26""",Ashlesha,Mercury,2,120,120.7837,0.7837
+2025-12-09 14:30:00,Aspect,Square,Mars,Sagittarius,"1°16'07.19""",Mula,Ketu,1,Saturn,Pisces,"1°02'55.49""",Purva Bhadrapada,Jupiter,4,90,89.7801,0.2199
+2025-12-09 14:45:00,Aspect,Trine,Sun,Scorpio,"23°15'40.68""",Jyeshtha,Mercury,2,Moon,Cancer,"22°36'33.02""",Ashlesha,Mercury,2,120,120.6521,0.6521
+2025-12-09 14:45:00,Aspect,Square,Mars,Sagittarius,"1°16'35.27""",Mula,Ketu,1,Saturn,Pisces,"1°02'56.24""",Purva Bhadrapada,Jupiter,4,90,89.7725,0.2275
+2025-12-09 15:00:00,Aspect,Trine,Sun,Scorpio,"23°16'18.76""",Jyeshtha,Mercury,2,Moon,Cancer,"22°45'04.59""",Ashlesha,Mercury,2,120,120.5206,0.5206
+2025-12-09 15:00:00,Aspect,Square,Mars,Sagittarius,"1°17'03.35""",Mula,Ketu,1,Saturn,Pisces,"1°02'56.99""",Purva Bhadrapada,Jupiter,4,90,89.7649,0.2351
+2025-12-09 15:15:00,Aspect,Trine,Sun,Scorpio,"23°16'56.84""",Jyeshtha,Mercury,2,Moon,Cancer,"22°53'35.95""",Ashlesha,Mercury,2,120,120.3891,0.3891
+2025-12-09 15:15:00,Aspect,Square,Mars,Sagittarius,"1°17'31.43""",Mula,Ketu,1,Saturn,Pisces,"1°02'57.74""",Purva Bhadrapada,Jupiter,4,90,89.7573,0.2427
+2025-12-09 15:30:00,Aspect,Trine,Sun,Scorpio,"23°17'34.93""",Jyeshtha,Mercury,2,Moon,Cancer,"23°02'07.12""",Ashlesha,Mercury,2,120,120.2577,0.2577
+2025-12-09 15:30:00,Aspect,Square,Mars,Sagittarius,"1°17'59.52""",Mula,Ketu,1,Saturn,Pisces,"1°02'58.49""",Purva Bhadrapada,Jupiter,4,90,89.7497,0.2503
+2025-12-09 15:45:00,Aspect,Trine,Sun,Scorpio,"23°18'13.01""",Jyeshtha,Mercury,2,Moon,Cancer,"23°10'38.09""",Ashlesha,Mercury,2,120,120.1264,0.1264
+2025-12-09 15:45:00,Aspect,Square,Mars,Sagittarius,"1°18'27.60""",Mula,Ketu,1,Saturn,Pisces,"1°02'59.24""",Purva Bhadrapada,Jupiter,4,90,89.7421,0.2579
+2025-12-09 16:00:00,Aspect,Trine,Sun,Scorpio,"23°18'51.10""",Jyeshtha,Mercury,2,Moon,Cancer,"23°19'08.87""",Ashlesha,Mercury,2,120,119.9951,0.0049
+2025-12-09 16:00:00,Aspect,Square,Mars,Sagittarius,"1°18'55.68""",Mula,Ketu,1,Saturn,Pisces,"1°02'59.99""",Purva Bhadrapada,Jupiter,4,90,89.7345,0.2655
+2025-12-09 16:15:00,Aspect,Trine,Sun,Scorpio,"23°19'29.18""",Jyeshtha,Mercury,2,Moon,Cancer,"23°27'39.45""",Ashlesha,Mercury,3,120,119.8638,0.1362
+2025-12-09 16:15:00,Aspect,Square,Mars,Sagittarius,"1°19'23.76""",Mula,Ketu,1,Saturn,Pisces,"1°03'00.74""",Purva Bhadrapada,Jupiter,4,90,89.7269,0.2731
+2025-12-09 16:30:00,Aspect,Trine,Sun,Scorpio,"23°20'07.27""",Jyeshtha,Mercury,3,Moon,Cancer,"23°36'09.83""",Ashlesha,Mercury,3,120,119.7326,0.2674
+2025-12-09 16:30:00,Aspect,Square,Mars,Sagittarius,"1°19'51.84""",Mula,Ketu,1,Saturn,Pisces,"1°03'01.49""",Purva Bhadrapada,Jupiter,4,90,89.7193,0.2807
+2025-12-09 16:45:00,Aspect,Trine,Sun,Scorpio,"23°20'45.35""",Jyeshtha,Mercury,3,Moon,Cancer,"23°44'40.01""",Ashlesha,Mercury,3,120,119.6015,0.3985
+2025-12-09 16:45:00,Aspect,Square,Mars,Sagittarius,"1°20'19.93""",Mula,Ketu,1,Saturn,Pisces,"1°03'02.25""",Purva Bhadrapada,Jupiter,4,90,89.7118,0.2882
+2025-12-09 17:00:00,Aspect,Trine,Sun,Scorpio,"23°21'23.44""",Jyeshtha,Mercury,3,Moon,Cancer,"23°53'10.00""",Ashlesha,Mercury,3,120,119.4704,0.5296
+2025-12-09 17:00:00,Aspect,Square,Mars,Sagittarius,"1°20'48.01""",Mula,Ketu,1,Saturn,Pisces,"1°03'03.00""",Purva Bhadrapada,Jupiter,4,90,89.7042,0.2958
+2025-12-09 17:15:00,Aspect,Trine,Sun,Scorpio,"23°22'01.52""",Jyeshtha,Mercury,3,Moon,Cancer,"24°01'39.79""",Ashlesha,Mercury,3,120,119.3394,0.6606
+2025-12-09 17:15:00,Aspect,Square,Mars,Sagittarius,"1°21'16.09""",Mula,Ketu,1,Saturn,Pisces,"1°03'03.75""",Purva Bhadrapada,Jupiter,4,90,89.6966,0.3034
+2025-12-09 17:30:00,Aspect,Trine,Sun,Scorpio,"23°22'39.61""",Jyeshtha,Mercury,3,Moon,Cancer,"24°10'09.38""",Ashlesha,Mercury,3,120,119.2084,0.7916
+2025-12-09 17:30:00,Aspect,Square,Mars,Sagittarius,"1°21'44.18""",Mula,Ketu,1,Saturn,Pisces,"1°03'04.51""",Purva Bhadrapada,Jupiter,4,90,89.689,0.311
+2025-12-09 17:45:00,Aspect,Trine,Sun,Scorpio,"23°23'17.69""",Jyeshtha,Mercury,3,Moon,Cancer,"24°18'38.78""",Ashlesha,Mercury,3,120,119.0775,0.9225
+2025-12-09 17:45:00,Aspect,Square,Mars,Sagittarius,"1°22'12.26""",Mula,Ketu,1,Saturn,Pisces,"1°03'05.26""",Purva Bhadrapada,Jupiter,4,90,89.6814,0.3186
+2025-12-09 18:00:00,Aspect,Square,Mars,Sagittarius,"1°22'40.34""",Mula,Ketu,1,Saturn,Pisces,"1°03'06.02""",Purva Bhadrapada,Jupiter,4,90,89.6738,0.3262
+2025-12-09 18:15:00,Aspect,Square,Mars,Sagittarius,"1°23'08.43""",Mula,Ketu,1,Saturn,Pisces,"1°03'06.78""",Purva Bhadrapada,Jupiter,4,90,89.6662,0.3338
+2025-12-09 18:30:00,Aspect,Square,Mars,Sagittarius,"1°23'36.51""",Mula,Ketu,1,Saturn,Pisces,"1°03'07.54""",Purva Bhadrapada,Jupiter,4,90,89.6586,0.3414
+2025-12-09 18:45:00,Aspect,Square,Mars,Sagittarius,"1°24'04.60""",Mula,Ketu,1,Saturn,Pisces,"1°03'08.29""",Purva Bhadrapada,Jupiter,4,90,89.651,0.349
+2025-12-09 19:00:00,Aspect,Square,Mars,Sagittarius,"1°24'32.69""",Mula,Ketu,1,Saturn,Pisces,"1°03'09.05""",Purva Bhadrapada,Jupiter,4,90,89.6434,0.3566
+2025-12-09 19:15:00,Aspect,Square,Mars,Sagittarius,"1°25'00.77""",Mula,Ketu,1,Saturn,Pisces,"1°03'09.81""",Purva Bhadrapada,Jupiter,4,90,89.6358,0.3642
+2025-12-09 19:30:00,Aspect,Square,Mars,Sagittarius,"1°25'28.86""",Mula,Ketu,1,Saturn,Pisces,"1°03'10.57""",Purva Bhadrapada,Jupiter,4,90,89.6283,0.3717
+2025-12-09 19:45:00,Aspect,Square,Mars,Sagittarius,"1°25'56.95""",Mula,Ketu,1,Saturn,Pisces,"1°03'11.34""",Purva Bhadrapada,Jupiter,4,90,89.6207,0.3793
+2025-12-09 20:00:00,Aspect,Square,Mars,Sagittarius,"1°26'25.03""",Mula,Ketu,1,Saturn,Pisces,"1°03'12.10""",Purva Bhadrapada,Jupiter,4,90,89.6131,0.3869
+2025-12-09 20:15:00,Aspect,Square,Mars,Sagittarius,"1°26'53.12""",Mula,Ketu,1,Saturn,Pisces,"1°03'12.86""",Purva Bhadrapada,Jupiter,4,90,89.6055,0.3945
+2025-12-09 20:30:00,Aspect,Square,Mars,Sagittarius,"1°27'21.21""",Mula,Ketu,1,Saturn,Pisces,"1°03'13.62""",Purva Bhadrapada,Jupiter,4,90,89.5979,0.4021
+2025-12-09 20:45:00,Aspect,Square,Mars,Sagittarius,"1°27'49.30""",Mula,Ketu,1,Saturn,Pisces,"1°03'14.39""",Purva Bhadrapada,Jupiter,4,90,89.5903,0.4097
+2025-12-09 21:00:00,Aspect,Square,Mars,Sagittarius,"1°28'17.39""",Mula,Ketu,1,Saturn,Pisces,"1°03'15.15""",Purva Bhadrapada,Jupiter,4,90,89.5827,0.4173
+2025-12-09 21:15:00,Aspect,Square,Mars,Sagittarius,"1°28'45.47""",Mula,Ketu,1,Saturn,Pisces,"1°03'15.92""",Purva Bhadrapada,Jupiter,4,90,89.5751,0.4249
+2025-12-09 21:30:00,Aspect,Square,Mars,Sagittarius,"1°29'13.56""",Mula,Ketu,1,Saturn,Pisces,"1°03'16.68""",Purva Bhadrapada,Jupiter,4,90,89.5675,0.4325
+2025-12-09 21:45:00,Aspect,Square,Mars,Sagittarius,"1°29'41.65""",Mula,Ketu,1,Saturn,Pisces,"1°03'17.45""",Purva Bhadrapada,Jupiter,4,90,89.5599,0.4401
+2025-12-09 22:00:00,Aspect,Square,Mars,Sagittarius,"1°30'09.74""",Mula,Ketu,1,Saturn,Pisces,"1°03'18.22""",Purva Bhadrapada,Jupiter,4,90,89.5524,0.4476
+2025-12-09 22:15:00,Aspect,Square,Mars,Sagittarius,"1°30'37.83""",Mula,Ketu,1,Saturn,Pisces,"1°03'18.99""",Purva Bhadrapada,Jupiter,4,90,89.5448,0.4552
+2025-12-09 22:30:00,Aspect,Square,Mars,Sagittarius,"1°31'05.92""",Mula,Ketu,1,Saturn,Pisces,"1°03'19.76""",Purva Bhadrapada,Jupiter,4,90,89.5372,0.4628
+2025-12-09 22:45:00,Aspect,Square,Mars,Sagittarius,"1°31'34.02""",Mula,Ketu,1,Saturn,Pisces,"1°03'20.52""",Purva Bhadrapada,Jupiter,4,90,89.5296,0.4704
+2025-12-09 23:00:00,Aspect,Square,Mars,Sagittarius,"1°32'02.11""",Mula,Ketu,1,Saturn,Pisces,"1°03'21.29""",Purva Bhadrapada,Jupiter,4,90,89.522,0.478
+2025-12-09 23:15:00,Aspect,Square,Mars,Sagittarius,"1°32'30.20""",Mula,Ketu,1,Saturn,Pisces,"1°03'22.07""",Purva Bhadrapada,Jupiter,4,90,89.5144,0.4856
+2025-12-09 23:30:00,Aspect,Square,Mars,Sagittarius,"1°32'58.29""",Mula,Ketu,1,Saturn,Pisces,"1°03'22.84""",Purva Bhadrapada,Jupiter,4,90,89.5068,0.4932
+2025-12-09 23:45:00,Aspect,Square,Mars,Sagittarius,"1°33'26.38""",Mula,Ketu,1,Saturn,Pisces,"1°03'23.61""",Purva Bhadrapada,Jupiter,4,90,89.4992,0.5008

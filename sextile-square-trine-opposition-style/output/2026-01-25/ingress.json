@@ -4,8 +4,13 @@
     "event": "Ingress",
     "planet": "Moon",
     "from_sign": "Pisces",
+    "from_sign_vi": "Song Ngư",
     "to_sign": "Aries",
+    "to_sign_vi": "Bạch Dương",
     "degree": "0°05'13.37\"",
-    "longitude": 0.087046
+    "longitude": 0.087046,
+    "nakshatra": "Ashwini",
+    "nakshatra_lord": "Ketu",
+    "pada": 1
   }
 ]

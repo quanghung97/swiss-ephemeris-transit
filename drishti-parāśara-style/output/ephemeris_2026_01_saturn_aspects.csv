@@ -1,60 +1,60 @@
-﻿datetime,event,aspecting_planet,aspecting_sign,aspecting_degree,aspected_planet,aspected_sign,aspected_degree,aspect_type,aspect_house,target_angle,actual_angle,orb,strength
-2026-01-08 23:00:00,Parashara_Drishti,Moon,Virgo,"1°30'33.60""",Saturn,Pisces,"2°26'10.49""",7th House,7,180,180.9269,0.9269,Standard
-2026-01-08 23:00:00,Parashara_Drishti,Saturn,Pisces,"2°26'10.49""",Moon,Virgo,"1°30'33.60""",7th House,7,180,179.0731,0.9269,Weak
-2026-01-08 23:15:00,Parashara_Drishti,Moon,Virgo,"1°38'30.32""",Saturn,Pisces,"2°26'13.10""",7th House,7,180,180.7952,0.7952,Standard
-2026-01-08 23:15:00,Parashara_Drishti,Saturn,Pisces,"2°26'13.10""",Moon,Virgo,"1°38'30.32""",7th House,7,180,179.2048,0.7952,Weak
-2026-01-08 23:30:00,Parashara_Drishti,Moon,Virgo,"1°46'26.89""",Saturn,Pisces,"2°26'15.71""",7th House,7,180,180.6636,0.6636,Standard
-2026-01-08 23:30:00,Parashara_Drishti,Saturn,Pisces,"2°26'15.71""",Moon,Virgo,"1°46'26.89""",7th House,7,180,179.3364,0.6636,Weak
-2026-01-08 23:45:00,Parashara_Drishti,Moon,Virgo,"1°54'23.32""",Saturn,Pisces,"2°26'18.32""",7th House,7,180,180.5319,0.5319,Standard
-2026-01-08 23:45:00,Parashara_Drishti,Saturn,Pisces,"2°26'18.32""",Moon,Virgo,"1°54'23.32""",7th House,7,180,179.4681,0.5319,Weak
-2026-01-09 00:00:00,Parashara_Drishti,Moon,Virgo,"2°02'19.60""",Saturn,Pisces,"2°26'20.94""",7th House,7,180,180.4004,0.4004,Standard
-2026-01-09 00:00:00,Parashara_Drishti,Saturn,Pisces,"2°26'20.94""",Moon,Virgo,"2°02'19.60""",7th House,7,180,179.5996,0.4004,Weak
-2026-01-09 00:15:00,Parashara_Drishti,Moon,Virgo,"2°10'15.73""",Saturn,Pisces,"2°26'23.55""",7th House,7,180,180.2688,0.2688,Standard
-2026-01-09 00:15:00,Parashara_Drishti,Saturn,Pisces,"2°26'23.55""",Moon,Virgo,"2°10'15.73""",7th House,7,180,179.7312,0.2688,Weak
-2026-01-09 00:30:00,Parashara_Drishti,Moon,Virgo,"2°18'11.72""",Saturn,Pisces,"2°26'26.17""",7th House,7,180,180.1373,0.1373,Standard
-2026-01-09 00:30:00,Parashara_Drishti,Saturn,Pisces,"2°26'26.17""",Moon,Virgo,"2°18'11.72""",7th House,7,180,179.8627,0.1373,Weak
-2026-01-09 00:45:00,Parashara_Drishti,Moon,Virgo,"2°26'07.56""",Saturn,Pisces,"2°26'28.79""",7th House,7,180,180.0059,0.0059,Standard
-2026-01-09 00:45:00,Parashara_Drishti,Saturn,Pisces,"2°26'28.79""",Moon,Virgo,"2°26'07.56""",7th House,7,180,179.9941,0.0059,Weak
-2026-01-09 01:00:00,Parashara_Drishti,Moon,Virgo,"2°34'03.25""",Saturn,Pisces,"2°26'31.40""",7th House,7,180,179.8745,0.1255,Standard
-2026-01-09 01:00:00,Parashara_Drishti,Saturn,Pisces,"2°26'31.40""",Moon,Virgo,"2°34'03.25""",7th House,7,180,180.1255,0.1255,Weak
-2026-01-09 01:15:00,Parashara_Drishti,Moon,Virgo,"2°41'58.80""",Saturn,Pisces,"2°26'34.02""",7th House,7,180,179.7431,0.2569,Standard
-2026-01-09 01:15:00,Parashara_Drishti,Saturn,Pisces,"2°26'34.02""",Moon,Virgo,"2°41'58.80""",7th House,7,180,180.2569,0.2569,Weak
-2026-01-09 01:30:00,Parashara_Drishti,Moon,Virgo,"2°49'54.20""",Saturn,Pisces,"2°26'36.64""",7th House,7,180,179.6118,0.3882,Standard
-2026-01-09 01:30:00,Parashara_Drishti,Saturn,Pisces,"2°26'36.64""",Moon,Virgo,"2°49'54.20""",7th House,7,180,180.3882,0.3882,Weak
-2026-01-09 01:45:00,Parashara_Drishti,Moon,Virgo,"2°57'49.46""",Saturn,Pisces,"2°26'39.25""",7th House,7,180,179.4805,0.5195,Standard
-2026-01-09 01:45:00,Parashara_Drishti,Saturn,Pisces,"2°26'39.25""",Moon,Virgo,"2°57'49.46""",7th House,7,180,180.5195,0.5195,Weak
-2026-01-09 02:00:00,Parashara_Drishti,Moon,Virgo,"3°05'44.57""",Saturn,Pisces,"2°26'41.87""",7th House,7,180,179.3493,0.6507,Standard
-2026-01-09 02:00:00,Parashara_Drishti,Saturn,Pisces,"2°26'41.87""",Moon,Virgo,"3°05'44.57""",7th House,7,180,180.6507,0.6507,Weak
-2026-01-09 02:15:00,Parashara_Drishti,Moon,Virgo,"3°13'39.54""",Saturn,Pisces,"2°26'44.49""",7th House,7,180,179.218,0.782,Standard
-2026-01-09 02:15:00,Parashara_Drishti,Saturn,Pisces,"2°26'44.49""",Moon,Virgo,"3°13'39.54""",7th House,7,180,180.782,0.782,Weak
-2026-01-09 02:30:00,Parashara_Drishti,Moon,Virgo,"3°21'34.36""",Saturn,Pisces,"2°26'47.11""",7th House,7,180,179.0869,0.9131,Standard
-2026-01-09 02:30:00,Parashara_Drishti,Saturn,Pisces,"2°26'47.11""",Moon,Virgo,"3°21'34.36""",7th House,7,180,180.9131,0.9131,Weak
-2026-01-16 11:30:00,Parashara_Drishti,Saturn,Pisces,"2°59'58.99""",Moon,Sagittarius,"2°06'33.06""",10th House,10,270,269.1095,0.8905,Strong
-2026-01-16 11:45:00,Parashara_Drishti,Saturn,Pisces,"3°00'01.99""",Moon,Sagittarius,"2°14'05.38""",10th House,10,270,269.2343,0.7657,Strong
-2026-01-16 12:00:00,Parashara_Drishti,Saturn,Pisces,"3°00'04.99""",Moon,Sagittarius,"2°21'37.76""",10th House,10,270,269.3591,0.6409,Strong
-2026-01-16 12:15:00,Parashara_Drishti,Saturn,Pisces,"3°00'08.00""",Moon,Sagittarius,"2°29'10.19""",10th House,10,270,269.4839,0.5161,Strong
-2026-01-16 12:30:00,Parashara_Drishti,Saturn,Pisces,"3°00'11.00""",Moon,Sagittarius,"2°36'42.67""",10th House,10,270,269.6088,0.3912,Strong
-2026-01-16 12:45:00,Parashara_Drishti,Saturn,Pisces,"3°00'14.00""",Moon,Sagittarius,"2°44'15.21""",10th House,10,270,269.7337,0.2663,Strong
-2026-01-16 13:00:00,Parashara_Drishti,Saturn,Pisces,"3°00'17.01""",Moon,Sagittarius,"2°51'47.81""",10th House,10,270,269.8586,0.1414,Strong
-2026-01-16 13:15:00,Parashara_Drishti,Saturn,Pisces,"3°00'20.01""",Moon,Sagittarius,"2°59'20.46""",10th House,10,270,269.9835,0.0165,Strong
-2026-01-16 13:30:00,Parashara_Drishti,Saturn,Pisces,"3°00'23.02""",Moon,Sagittarius,"3°06'53.17""",10th House,10,270,270.1084,0.1084,Strong
-2026-01-16 13:45:00,Parashara_Drishti,Saturn,Pisces,"3°00'26.02""",Moon,Sagittarius,"3°14'25.93""",10th House,10,270,270.2333,0.2333,Strong
-2026-01-16 14:00:00,Parashara_Drishti,Saturn,Pisces,"3°00'29.03""",Moon,Sagittarius,"3°21'58.75""",10th House,10,270,270.3583,0.3583,Strong
-2026-01-16 14:15:00,Parashara_Drishti,Saturn,Pisces,"3°00'32.04""",Moon,Sagittarius,"3°29'31.62""",10th House,10,270,270.4832,0.4832,Strong
-2026-01-16 14:30:00,Parashara_Drishti,Saturn,Pisces,"3°00'35.04""",Moon,Sagittarius,"3°37'04.55""",10th House,10,270,270.6082,0.6082,Strong
-2026-01-16 14:45:00,Parashara_Drishti,Saturn,Pisces,"3°00'38.05""",Moon,Sagittarius,"3°44'37.54""",10th House,10,270,270.7332,0.7332,Strong
-2026-01-16 15:00:00,Parashara_Drishti,Saturn,Pisces,"3°00'41.06""",Moon,Sagittarius,"3°52'10.58""",10th House,10,270,270.8582,0.8582,Strong
-2026-01-16 15:15:00,Parashara_Drishti,Saturn,Pisces,"3°00'44.07""",Moon,Sagittarius,"3°59'43.67""",10th House,10,270,270.9832,0.9832,Strong
-2026-01-27 23:30:00,Parashara_Drishti,Saturn,Pisces,"4°00'08.63""",Moon,Taurus,"3°07'58.93""",3rd House,3,60,59.130600000000015,0.8694,Medium
-2026-01-27 23:45:00,Parashara_Drishti,Saturn,Pisces,"4°00'12.15""",Moon,Taurus,"3°16'57.04""",3rd House,3,60,59.27910000000003,0.7209,Medium
-2026-01-28 00:00:00,Parashara_Drishti,Saturn,Pisces,"4°00'15.67""",Moon,Taurus,"3°25'55.22""",3rd House,3,60,59.427700000000016,0.5723,Medium
-2026-01-28 00:15:00,Parashara_Drishti,Saturn,Pisces,"4°00'19.20""",Moon,Taurus,"3°34'53.48""",3rd House,3,60,59.57619999999997,0.4238,Medium
-2026-01-28 00:30:00,Parashara_Drishti,Saturn,Pisces,"4°00'22.72""",Moon,Taurus,"3°43'51.80""",3rd House,3,60,59.724699999999984,0.2753,Medium
-2026-01-28 00:45:00,Parashara_Drishti,Saturn,Pisces,"4°00'26.24""",Moon,Taurus,"3°52'50.20""",3rd House,3,60,59.87329999999997,0.1267,Medium
-2026-01-28 01:00:00,Parashara_Drishti,Saturn,Pisces,"4°00'29.77""",Moon,Taurus,"4°01'48.67""",3rd House,3,60,60.02190000000002,0.0219,Medium
-2026-01-28 01:15:00,Parashara_Drishti,Saturn,Pisces,"4°00'33.29""",Moon,Taurus,"4°10'47.21""",3rd House,3,60,60.170500000000004,0.1705,Medium
-2026-01-28 01:30:00,Parashara_Drishti,Saturn,Pisces,"4°00'36.81""",Moon,Taurus,"4°19'45.83""",3rd House,3,60,60.31920000000002,0.3192,Medium
-2026-01-28 01:45:00,Parashara_Drishti,Saturn,Pisces,"4°00'40.34""",Moon,Taurus,"4°28'44.51""",3rd House,3,60,60.46780000000001,0.4678,Medium
-2026-01-28 02:00:00,Parashara_Drishti,Saturn,Pisces,"4°00'43.86""",Moon,Taurus,"4°37'43.26""",3rd House,3,60,60.616499999999974,0.6165,Medium
-2026-01-28 02:15:00,Parashara_Drishti,Saturn,Pisces,"4°00'47.39""",Moon,Taurus,"4°46'42.08""",3rd House,3,60,60.76519999999999,0.7652,Medium
-2026-01-28 02:30:00,Parashara_Drishti,Saturn,Pisces,"4°00'50.92""",Moon,Taurus,"4°55'40.98""",3rd House,3,60,60.91390000000001,0.9139,Medium
+﻿datetime,event,aspecting_planet,aspecting_sign,aspecting_sign_vi,aspecting_degree,aspecting_nakshatra,aspecting_nakshatra_lord,aspecting_pada,aspected_planet,aspected_sign,aspected_sign_vi,aspected_degree,aspected_nakshatra,aspected_nakshatra_lord,aspected_pada,aspect_type,aspect_house,target_angle,actual_angle,orb,strength
+2026-01-08 23:00:00,Parashara_Drishti,Moon,Virgo,Xử Nữ,"1°30'33.60""",Uttara Phalguni,Sun,2,Saturn,Pisces,Song Ngư,"2°26'10.49""",Purva Bhadrapada,Jupiter,4,7th House,7,180,180.9269,0.9269,Standard
+2026-01-08 23:00:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"2°26'10.49""",Purva Bhadrapada,Jupiter,4,Moon,Virgo,Xử Nữ,"1°30'33.60""",Uttara Phalguni,Sun,2,7th House,7,180,179.0731,0.9269,Weak
+2026-01-08 23:15:00,Parashara_Drishti,Moon,Virgo,Xử Nữ,"1°38'30.32""",Uttara Phalguni,Sun,2,Saturn,Pisces,Song Ngư,"2°26'13.10""",Purva Bhadrapada,Jupiter,4,7th House,7,180,180.7952,0.7952,Standard
+2026-01-08 23:15:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"2°26'13.10""",Purva Bhadrapada,Jupiter,4,Moon,Virgo,Xử Nữ,"1°38'30.32""",Uttara Phalguni,Sun,2,7th House,7,180,179.2048,0.7952,Weak
+2026-01-08 23:30:00,Parashara_Drishti,Moon,Virgo,Xử Nữ,"1°46'26.89""",Uttara Phalguni,Sun,2,Saturn,Pisces,Song Ngư,"2°26'15.71""",Purva Bhadrapada,Jupiter,4,7th House,7,180,180.6636,0.6636,Standard
+2026-01-08 23:30:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"2°26'15.71""",Purva Bhadrapada,Jupiter,4,Moon,Virgo,Xử Nữ,"1°46'26.89""",Uttara Phalguni,Sun,2,7th House,7,180,179.3364,0.6636,Weak
+2026-01-08 23:45:00,Parashara_Drishti,Moon,Virgo,Xử Nữ,"1°54'23.32""",Uttara Phalguni,Sun,2,Saturn,Pisces,Song Ngư,"2°26'18.32""",Purva Bhadrapada,Jupiter,4,7th House,7,180,180.5319,0.5319,Standard
+2026-01-08 23:45:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"2°26'18.32""",Purva Bhadrapada,Jupiter,4,Moon,Virgo,Xử Nữ,"1°54'23.32""",Uttara Phalguni,Sun,2,7th House,7,180,179.4681,0.5319,Weak
+2026-01-09 00:00:00,Parashara_Drishti,Moon,Virgo,Xử Nữ,"2°02'19.60""",Uttara Phalguni,Sun,2,Saturn,Pisces,Song Ngư,"2°26'20.94""",Purva Bhadrapada,Jupiter,4,7th House,7,180,180.4004,0.4004,Standard
+2026-01-09 00:00:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"2°26'20.94""",Purva Bhadrapada,Jupiter,4,Moon,Virgo,Xử Nữ,"2°02'19.60""",Uttara Phalguni,Sun,2,7th House,7,180,179.5996,0.4004,Weak
+2026-01-09 00:15:00,Parashara_Drishti,Moon,Virgo,Xử Nữ,"2°10'15.73""",Uttara Phalguni,Sun,2,Saturn,Pisces,Song Ngư,"2°26'23.55""",Purva Bhadrapada,Jupiter,4,7th House,7,180,180.2688,0.2688,Standard
+2026-01-09 00:15:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"2°26'23.55""",Purva Bhadrapada,Jupiter,4,Moon,Virgo,Xử Nữ,"2°10'15.73""",Uttara Phalguni,Sun,2,7th House,7,180,179.7312,0.2688,Weak
+2026-01-09 00:30:00,Parashara_Drishti,Moon,Virgo,Xử Nữ,"2°18'11.72""",Uttara Phalguni,Sun,2,Saturn,Pisces,Song Ngư,"2°26'26.17""",Purva Bhadrapada,Jupiter,4,7th House,7,180,180.1373,0.1373,Standard
+2026-01-09 00:30:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"2°26'26.17""",Purva Bhadrapada,Jupiter,4,Moon,Virgo,Xử Nữ,"2°18'11.72""",Uttara Phalguni,Sun,2,7th House,7,180,179.8627,0.1373,Weak
+2026-01-09 00:45:00,Parashara_Drishti,Moon,Virgo,Xử Nữ,"2°26'07.56""",Uttara Phalguni,Sun,2,Saturn,Pisces,Song Ngư,"2°26'28.79""",Purva Bhadrapada,Jupiter,4,7th House,7,180,180.0059,0.0059,Standard
+2026-01-09 00:45:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"2°26'28.79""",Purva Bhadrapada,Jupiter,4,Moon,Virgo,Xử Nữ,"2°26'07.56""",Uttara Phalguni,Sun,2,7th House,7,180,179.9941,0.0059,Weak
+2026-01-09 01:00:00,Parashara_Drishti,Moon,Virgo,Xử Nữ,"2°34'03.25""",Uttara Phalguni,Sun,2,Saturn,Pisces,Song Ngư,"2°26'31.40""",Purva Bhadrapada,Jupiter,4,7th House,7,180,179.8745,0.1255,Standard
+2026-01-09 01:00:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"2°26'31.40""",Purva Bhadrapada,Jupiter,4,Moon,Virgo,Xử Nữ,"2°34'03.25""",Uttara Phalguni,Sun,2,7th House,7,180,180.1255,0.1255,Weak
+2026-01-09 01:15:00,Parashara_Drishti,Moon,Virgo,Xử Nữ,"2°41'58.80""",Uttara Phalguni,Sun,2,Saturn,Pisces,Song Ngư,"2°26'34.02""",Purva Bhadrapada,Jupiter,4,7th House,7,180,179.7431,0.2569,Standard
+2026-01-09 01:15:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"2°26'34.02""",Purva Bhadrapada,Jupiter,4,Moon,Virgo,Xử Nữ,"2°41'58.80""",Uttara Phalguni,Sun,2,7th House,7,180,180.2569,0.2569,Weak
+2026-01-09 01:30:00,Parashara_Drishti,Moon,Virgo,Xử Nữ,"2°49'54.20""",Uttara Phalguni,Sun,2,Saturn,Pisces,Song Ngư,"2°26'36.64""",Purva Bhadrapada,Jupiter,4,7th House,7,180,179.6118,0.3882,Standard
+2026-01-09 01:30:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"2°26'36.64""",Purva Bhadrapada,Jupiter,4,Moon,Virgo,Xử Nữ,"2°49'54.20""",Uttara Phalguni,Sun,2,7th House,7,180,180.3882,0.3882,Weak
+2026-01-09 01:45:00,Parashara_Drishti,Moon,Virgo,Xử Nữ,"2°57'49.46""",Uttara Phalguni,Sun,2,Saturn,Pisces,Song Ngư,"2°26'39.25""",Purva Bhadrapada,Jupiter,4,7th House,7,180,179.4805,0.5195,Standard
+2026-01-09 01:45:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"2°26'39.25""",Purva Bhadrapada,Jupiter,4,Moon,Virgo,Xử Nữ,"2°57'49.46""",Uttara Phalguni,Sun,2,7th House,7,180,180.5195,0.5195,Weak
+2026-01-09 02:00:00,Parashara_Drishti,Moon,Virgo,Xử Nữ,"3°05'44.57""",Uttara Phalguni,Sun,2,Saturn,Pisces,Song Ngư,"2°26'41.87""",Purva Bhadrapada,Jupiter,4,7th House,7,180,179.3493,0.6507,Standard
+2026-01-09 02:00:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"2°26'41.87""",Purva Bhadrapada,Jupiter,4,Moon,Virgo,Xử Nữ,"3°05'44.57""",Uttara Phalguni,Sun,2,7th House,7,180,180.6507,0.6507,Weak
+2026-01-09 02:15:00,Parashara_Drishti,Moon,Virgo,Xử Nữ,"3°13'39.54""",Uttara Phalguni,Sun,2,Saturn,Pisces,Song Ngư,"2°26'44.49""",Purva Bhadrapada,Jupiter,4,7th House,7,180,179.218,0.782,Standard
+2026-01-09 02:15:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"2°26'44.49""",Purva Bhadrapada,Jupiter,4,Moon,Virgo,Xử Nữ,"3°13'39.54""",Uttara Phalguni,Sun,2,7th House,7,180,180.782,0.782,Weak
+2026-01-09 02:30:00,Parashara_Drishti,Moon,Virgo,Xử Nữ,"3°21'34.36""",Uttara Phalguni,Sun,3,Saturn,Pisces,Song Ngư,"2°26'47.11""",Purva Bhadrapada,Jupiter,4,7th House,7,180,179.0869,0.9131,Standard
+2026-01-09 02:30:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"2°26'47.11""",Purva Bhadrapada,Jupiter,4,Moon,Virgo,Xử Nữ,"3°21'34.36""",Uttara Phalguni,Sun,3,7th House,7,180,180.9131,0.9131,Weak
+2026-01-16 11:30:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"2°59'58.99""",Purva Bhadrapada,Jupiter,4,Moon,Sagittarius,Nhân Mã,"2°06'33.06""",Mula,Ketu,1,10th House,10,270,269.1095,0.8905,Strong
+2026-01-16 11:45:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"3°00'01.99""",Purva Bhadrapada,Jupiter,4,Moon,Sagittarius,Nhân Mã,"2°14'05.38""",Mula,Ketu,1,10th House,10,270,269.2343,0.7657,Strong
+2026-01-16 12:00:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"3°00'04.99""",Purva Bhadrapada,Jupiter,4,Moon,Sagittarius,Nhân Mã,"2°21'37.76""",Mula,Ketu,1,10th House,10,270,269.3591,0.6409,Strong
+2026-01-16 12:15:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"3°00'08.00""",Purva Bhadrapada,Jupiter,4,Moon,Sagittarius,Nhân Mã,"2°29'10.19""",Mula,Ketu,1,10th House,10,270,269.4839,0.5161,Strong
+2026-01-16 12:30:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"3°00'11.00""",Purva Bhadrapada,Jupiter,4,Moon,Sagittarius,Nhân Mã,"2°36'42.67""",Mula,Ketu,1,10th House,10,270,269.6088,0.3912,Strong
+2026-01-16 12:45:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"3°00'14.00""",Purva Bhadrapada,Jupiter,4,Moon,Sagittarius,Nhân Mã,"2°44'15.21""",Mula,Ketu,1,10th House,10,270,269.7337,0.2663,Strong
+2026-01-16 13:00:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"3°00'17.01""",Purva Bhadrapada,Jupiter,4,Moon,Sagittarius,Nhân Mã,"2°51'47.81""",Mula,Ketu,1,10th House,10,270,269.8586,0.1414,Strong
+2026-01-16 13:15:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"3°00'20.01""",Purva Bhadrapada,Jupiter,4,Moon,Sagittarius,Nhân Mã,"2°59'20.46""",Mula,Ketu,1,10th House,10,270,269.9835,0.0165,Strong
+2026-01-16 13:30:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"3°00'23.02""",Purva Bhadrapada,Jupiter,4,Moon,Sagittarius,Nhân Mã,"3°06'53.17""",Mula,Ketu,1,10th House,10,270,270.1084,0.1084,Strong
+2026-01-16 13:45:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"3°00'26.02""",Purva Bhadrapada,Jupiter,4,Moon,Sagittarius,Nhân Mã,"3°14'25.93""",Mula,Ketu,1,10th House,10,270,270.2333,0.2333,Strong
+2026-01-16 14:00:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"3°00'29.03""",Purva Bhadrapada,Jupiter,4,Moon,Sagittarius,Nhân Mã,"3°21'58.75""",Mula,Ketu,2,10th House,10,270,270.3583,0.3583,Strong
+2026-01-16 14:15:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"3°00'32.04""",Purva Bhadrapada,Jupiter,4,Moon,Sagittarius,Nhân Mã,"3°29'31.62""",Mula,Ketu,2,10th House,10,270,270.4832,0.4832,Strong
+2026-01-16 14:30:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"3°00'35.04""",Purva Bhadrapada,Jupiter,4,Moon,Sagittarius,Nhân Mã,"3°37'04.55""",Mula,Ketu,2,10th House,10,270,270.6082,0.6082,Strong
+2026-01-16 14:45:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"3°00'38.05""",Purva Bhadrapada,Jupiter,4,Moon,Sagittarius,Nhân Mã,"3°44'37.54""",Mula,Ketu,2,10th House,10,270,270.7332,0.7332,Strong
+2026-01-16 15:00:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"3°00'41.06""",Purva Bhadrapada,Jupiter,4,Moon,Sagittarius,Nhân Mã,"3°52'10.58""",Mula,Ketu,2,10th House,10,270,270.8582,0.8582,Strong
+2026-01-16 15:15:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"3°00'44.07""",Purva Bhadrapada,Jupiter,4,Moon,Sagittarius,Nhân Mã,"3°59'43.67""",Mula,Ketu,2,10th House,10,270,270.9832,0.9832,Strong
+2026-01-27 23:30:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"4°00'08.63""",Uttara Bhadrapada,Saturn,1,Moon,Taurus,Kim Ngưu,"3°07'58.93""",Krittika,Sun,2,3rd House,3,60,59.130600000000015,0.8694,Medium
+2026-01-27 23:45:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"4°00'12.15""",Uttara Bhadrapada,Saturn,1,Moon,Taurus,Kim Ngưu,"3°16'57.04""",Krittika,Sun,2,3rd House,3,60,59.27910000000003,0.7209,Medium
+2026-01-28 00:00:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"4°00'15.67""",Uttara Bhadrapada,Saturn,1,Moon,Taurus,Kim Ngưu,"3°25'55.22""",Krittika,Sun,3,3rd House,3,60,59.427700000000016,0.5723,Medium
+2026-01-28 00:15:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"4°00'19.20""",Uttara Bhadrapada,Saturn,1,Moon,Taurus,Kim Ngưu,"3°34'53.48""",Krittika,Sun,3,3rd House,3,60,59.57619999999997,0.4238,Medium
+2026-01-28 00:30:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"4°00'22.72""",Uttara Bhadrapada,Saturn,1,Moon,Taurus,Kim Ngưu,"3°43'51.80""",Krittika,Sun,3,3rd House,3,60,59.724699999999984,0.2753,Medium
+2026-01-28 00:45:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"4°00'26.24""",Uttara Bhadrapada,Saturn,1,Moon,Taurus,Kim Ngưu,"3°52'50.20""",Krittika,Sun,3,3rd House,3,60,59.87329999999997,0.1267,Medium
+2026-01-28 01:00:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"4°00'29.77""",Uttara Bhadrapada,Saturn,1,Moon,Taurus,Kim Ngưu,"4°01'48.67""",Krittika,Sun,3,3rd House,3,60,60.02190000000002,0.0219,Medium
+2026-01-28 01:15:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"4°00'33.29""",Uttara Bhadrapada,Saturn,1,Moon,Taurus,Kim Ngưu,"4°10'47.21""",Krittika,Sun,3,3rd House,3,60,60.170500000000004,0.1705,Medium
+2026-01-28 01:30:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"4°00'36.81""",Uttara Bhadrapada,Saturn,1,Moon,Taurus,Kim Ngưu,"4°19'45.83""",Krittika,Sun,3,3rd House,3,60,60.31920000000002,0.3192,Medium
+2026-01-28 01:45:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"4°00'40.34""",Uttara Bhadrapada,Saturn,1,Moon,Taurus,Kim Ngưu,"4°28'44.51""",Krittika,Sun,3,3rd House,3,60,60.46780000000001,0.4678,Medium
+2026-01-28 02:00:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"4°00'43.86""",Uttara Bhadrapada,Saturn,1,Moon,Taurus,Kim Ngưu,"4°37'43.26""",Krittika,Sun,3,3rd House,3,60,60.616499999999974,0.6165,Medium
+2026-01-28 02:15:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"4°00'47.39""",Uttara Bhadrapada,Saturn,1,Moon,Taurus,Kim Ngưu,"4°46'42.08""",Krittika,Sun,3,3rd House,3,60,60.76519999999999,0.7652,Medium
+2026-01-28 02:30:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"4°00'50.92""",Uttara Bhadrapada,Saturn,1,Moon,Taurus,Kim Ngưu,"4°55'40.98""",Krittika,Sun,3,3rd House,3,60,60.91390000000001,0.9139,Medium

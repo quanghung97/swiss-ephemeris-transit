@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "year": 2025,
+    "month": 12,
+    "timezone_offset": 7.0,
+    "calculation_time": "2025-12-31T17:14:42.500990",
+    "ephemeris_type": "Swiss Ephemeris",
+    "coordinate_system": "Sidereal Zodiac (Lahiri)",
+    "node_type": "Mean Node",
+    "description": "Hourly planetary positions calculated using Swiss Ephemeris"
+  },
+  "total_records": 1,
+  "data": [
+    {
+      "datetime": "2025-12-05 19:00:00",
+      "event": "Ingress",
+      "planet": "Jupiter",
+      "from_sign": "Cancer",
+      "from_sign_vi": "Cự Giải",
+      "to_sign": "Gemini",
+      "to_sign_vi": "Song Tử",
+      "degree": "29°59'59.21\"",
+      "longitude": 89.99978,
+      "nakshatra": "Punarvasu",
+      "nakshatra_lord": "Jupiter",
+      "pada": 3
+    }
+  ]
+}

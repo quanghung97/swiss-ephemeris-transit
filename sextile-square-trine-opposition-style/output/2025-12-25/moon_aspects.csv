@@ -1,0 +1,45 @@
+﻿datetime,event,type,planet1,planet1_sign,planet1_degree,planet1_nakshatra,planet1_nakshatra_lord,planet1_pada,planet2,planet2_sign,planet2_degree,planet2_nakshatra,planet2_nakshatra_lord,planet2_pada,exact_angle,difference,orb
+2025-12-25 07:15:00,Aspect,Sextitle,Moon,Aquarius,"5°17'59.48""",Dhanishta,Mars,4,Venus,Sagittarius,"6°11'18.58""",Mula,Ketu,2,60,59.1114,0.8886
+2025-12-25 07:30:00,Aspect,Sextitle,Moon,Aquarius,"5°25'59.51""",Dhanishta,Mars,4,Venus,Sagittarius,"6°12'05.78""",Mula,Ketu,2,60,59.2316,0.7684
+2025-12-25 07:45:00,Aspect,Sextitle,Moon,Aquarius,"5°33'59.63""",Dhanishta,Mars,4,Venus,Sagittarius,"6°12'52.98""",Mula,Ketu,2,60,59.3518,0.6482
+2025-12-25 08:00:00,Aspect,Sextitle,Moon,Aquarius,"5°41'59.85""",Dhanishta,Mars,4,Venus,Sagittarius,"6°13'40.18""",Mula,Ketu,2,60,59.4721,0.5279
+2025-12-25 08:15:00,Aspect,Sextitle,Moon,Aquarius,"5°50'00.16""",Dhanishta,Mars,4,Venus,Sagittarius,"6°14'27.38""",Mula,Ketu,2,60,59.5924,0.4076
+2025-12-25 08:30:00,Aspect,Sextitle,Moon,Aquarius,"5°58'00.55""",Dhanishta,Mars,4,Venus,Sagittarius,"6°15'14.58""",Mula,Ketu,2,60,59.7128,0.2872
+2025-12-25 08:45:00,Aspect,Sextitle,Moon,Aquarius,"6°06'01.04""",Dhanishta,Mars,4,Venus,Sagittarius,"6°16'01.78""",Mula,Ketu,2,60,59.8331,0.1669
+2025-12-25 09:00:00,Aspect,Sextitle,Moon,Aquarius,"6°14'01.63""",Dhanishta,Mars,4,Venus,Sagittarius,"6°16'48.98""",Mula,Ketu,2,60,59.9535,0.0465
+2025-12-25 09:15:00,Aspect,Sextitle,Moon,Aquarius,"6°22'02.30""",Dhanishta,Mars,4,Venus,Sagittarius,"6°17'36.18""",Mula,Ketu,2,60,60.0739,0.0739
+2025-12-25 09:30:00,Aspect,Sextitle,Moon,Aquarius,"6°30'03.07""",Dhanishta,Mars,4,Venus,Sagittarius,"6°18'23.38""",Mula,Ketu,2,60,60.1944,0.1944
+2025-12-25 09:45:00,Aspect,Sextitle,Moon,Aquarius,"6°38'03.92""",Dhanishta,Mars,4,Venus,Sagittarius,"6°19'10.58""",Mula,Ketu,2,60,60.3148,0.3148
+2025-12-25 10:00:00,Aspect,Sextitle,Moon,Aquarius,"6°46'04.88""",Shatabhisha,Rahu,1,Venus,Sagittarius,"6°19'57.79""",Mula,Ketu,2,60,60.4353,0.4353
+2025-12-25 10:15:00,Aspect,Sextitle,Moon,Aquarius,"6°54'05.92""",Shatabhisha,Rahu,1,Venus,Sagittarius,"6°20'44.99""",Mula,Ketu,2,60,60.5558,0.5558
+2025-12-25 10:30:00,Aspect,Sextitle,Moon,Aquarius,"7°02'07.06""",Shatabhisha,Rahu,1,Venus,Sagittarius,"6°21'32.19""",Mula,Ketu,2,60,60.6764,0.6764
+2025-12-25 10:45:00,Aspect,Sextitle,Moon,Aquarius,"7°10'08.29""",Shatabhisha,Rahu,1,Venus,Sagittarius,"6°22'19.39""",Mula,Ketu,2,60,60.7969,0.7969
+2025-12-25 11:00:00,Aspect,Sextitle,Moon,Aquarius,"7°18'09.61""",Shatabhisha,Rahu,1,Venus,Sagittarius,"6°23'06.59""",Mula,Ketu,2,60,60.9175,0.9175
+2025-12-25 13:15:00,Aspect,Sextitle,Sun,Sagittarius,"9°28'48.45""",Mula,Ketu,3,Moon,Aquarius,"8°30'25.77""",Shatabhisha,Rahu,1,60,59.027,0.973
+2025-12-25 13:30:00,Aspect,Sextitle,Sun,Sagittarius,"9°29'26.66""",Mula,Ketu,3,Moon,Aquarius,"8°38'28.04""",Shatabhisha,Rahu,1,60,59.1504,0.8496
+2025-12-25 13:45:00,Aspect,Sextitle,Sun,Sagittarius,"9°30'04.86""",Mula,Ketu,3,Moon,Aquarius,"8°46'30.40""",Shatabhisha,Rahu,1,60,59.2738,0.7262
+2025-12-25 14:00:00,Aspect,Sextitle,Sun,Sagittarius,"9°30'43.07""",Mula,Ketu,3,Moon,Aquarius,"8°54'32.86""",Shatabhisha,Rahu,1,60,59.3972,0.6028
+2025-12-25 14:15:00,Aspect,Sextitle,Sun,Sagittarius,"9°31'21.28""",Mula,Ketu,3,Moon,Aquarius,"9°02'35.42""",Shatabhisha,Rahu,1,60,59.5206,0.4794
+2025-12-25 14:30:00,Aspect,Sextitle,Sun,Sagittarius,"9°31'59.49""",Mula,Ketu,3,Moon,Aquarius,"9°10'38.08""",Shatabhisha,Rahu,1,60,59.6441,0.3559
+2025-12-25 14:45:00,Aspect,Sextitle,Sun,Sagittarius,"9°32'37.69""",Mula,Ketu,3,Moon,Aquarius,"9°18'40.83""",Shatabhisha,Rahu,1,60,59.7675,0.2325
+2025-12-25 15:00:00,Aspect,Sextitle,Sun,Sagittarius,"9°33'15.90""",Mula,Ketu,3,Moon,Aquarius,"9°26'43.67""",Shatabhisha,Rahu,1,60,59.891,0.109
+2025-12-25 15:15:00,Aspect,Sextitle,Sun,Sagittarius,"9°33'54.11""",Mula,Ketu,3,Moon,Aquarius,"9°34'46.62""",Shatabhisha,Rahu,1,60,60.0146,0.0146
+2025-12-25 15:30:00,Aspect,Sextitle,Sun,Sagittarius,"9°34'32.32""",Mula,Ketu,3,Moon,Aquarius,"9°42'49.66""",Shatabhisha,Rahu,1,60,60.1382,0.1382
+2025-12-25 15:45:00,Aspect,Sextitle,Sun,Sagittarius,"9°35'10.52""",Mula,Ketu,3,Moon,Aquarius,"9°50'52.79""",Shatabhisha,Rahu,1,60,60.2617,0.2617
+2025-12-25 16:00:00,Aspect,Sextitle,Sun,Sagittarius,"9°35'48.73""",Mula,Ketu,3,Moon,Aquarius,"9°58'56.03""",Shatabhisha,Rahu,1,60,60.3854,0.3854
+2025-12-25 16:15:00,Aspect,Sextitle,Sun,Sagittarius,"9°36'26.94""",Mula,Ketu,3,Moon,Aquarius,"10°06'59.36""",Shatabhisha,Rahu,2,60,60.509,0.509
+2025-12-25 16:30:00,Aspect,Sextitle,Sun,Sagittarius,"9°37'05.15""",Mula,Ketu,3,Moon,Aquarius,"10°15'02.79""",Shatabhisha,Rahu,2,60,60.6327,0.6327
+2025-12-25 16:45:00,Aspect,Sextitle,Sun,Sagittarius,"9°37'43.35""",Mula,Ketu,3,Moon,Aquarius,"10°23'06.32""",Shatabhisha,Rahu,2,60,60.7564,0.7564
+2025-12-25 17:00:00,Aspect,Sextitle,Sun,Sagittarius,"9°38'21.56""",Mula,Ketu,3,Moon,Aquarius,"10°31'09.95""",Shatabhisha,Rahu,2,60,60.8801,0.8801
+2025-12-25 21:00:00,Aspect,Sextitle,Moon,Aquarius,"12°40'21.49""",Shatabhisha,Rahu,2,Mars,Sagittarius,"13°33'47.44""",Purva Ashadha,Venus,1,60,59.1095,0.8905
+2025-12-25 21:15:00,Aspect,Sextitle,Moon,Aquarius,"12°48'26.82""",Shatabhisha,Rahu,2,Mars,Sagittarius,"13°34'16.02""",Purva Ashadha,Venus,1,60,59.2363,0.7637
+2025-12-25 21:30:00,Aspect,Sextitle,Moon,Aquarius,"12°56'32.25""",Shatabhisha,Rahu,2,Mars,Sagittarius,"13°34'44.59""",Purva Ashadha,Venus,1,60,59.3632,0.6368
+2025-12-25 21:45:00,Aspect,Sextitle,Moon,Aquarius,"13°04'37.78""",Shatabhisha,Rahu,2,Mars,Sagittarius,"13°35'13.16""",Purva Ashadha,Venus,1,60,59.4902,0.5098
+2025-12-25 22:00:00,Aspect,Sextitle,Moon,Aquarius,"13°12'43.41""",Shatabhisha,Rahu,2,Mars,Sagittarius,"13°35'41.74""",Purva Ashadha,Venus,1,60,59.6171,0.3829
+2025-12-25 22:15:00,Aspect,Sextitle,Moon,Aquarius,"13°20'49.15""",Shatabhisha,Rahu,3,Mars,Sagittarius,"13°36'10.31""",Purva Ashadha,Venus,1,60,59.7441,0.2559
+2025-12-25 22:30:00,Aspect,Sextitle,Moon,Aquarius,"13°28'54.99""",Shatabhisha,Rahu,3,Mars,Sagittarius,"13°36'38.88""",Purva Ashadha,Venus,1,60,59.8711,0.1289
+2025-12-25 22:45:00,Aspect,Sextitle,Moon,Aquarius,"13°37'00.93""",Shatabhisha,Rahu,3,Mars,Sagittarius,"13°37'07.46""",Purva Ashadha,Venus,1,60,59.9982,0.0018
+2025-12-25 23:00:00,Aspect,Sextitle,Moon,Aquarius,"13°45'06.97""",Shatabhisha,Rahu,3,Mars,Sagittarius,"13°37'36.03""",Purva Ashadha,Venus,1,60,60.1253,0.1253
+2025-12-25 23:15:00,Aspect,Sextitle,Moon,Aquarius,"13°53'13.12""",Shatabhisha,Rahu,3,Mars,Sagittarius,"13°38'04.61""",Purva Ashadha,Venus,1,60,60.2524,0.2524
+2025-12-25 23:30:00,Aspect,Sextitle,Moon,Aquarius,"14°01'19.37""",Shatabhisha,Rahu,3,Mars,Sagittarius,"13°38'33.18""",Purva Ashadha,Venus,1,60,60.3795,0.3795
+2025-12-25 23:45:00,Aspect,Sextitle,Moon,Aquarius,"14°09'25.72""",Shatabhisha,Rahu,3,Mars,Sagittarius,"13°39'01.76""",Purva Ashadha,Venus,1,60,60.5067,0.5067

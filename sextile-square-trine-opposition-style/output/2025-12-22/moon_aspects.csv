@@ -1,0 +1,31 @@
+﻿datetime,event,type,planet1,planet1_sign,planet1_degree,planet1_nakshatra,planet1_nakshatra_lord,planet1_pada,planet2,planet2_sign,planet2_degree,planet2_nakshatra,planet2_nakshatra_lord,planet2_pada,exact_angle,difference,orb
+2025-12-22 06:45:00,Aspect,Opposition,Moon,Sagittarius,"27°30'30.37""",Uttara Ashadha,Sun,1,Jupiter,Gemini,"28°22'55.59""",Punarvasu,Jupiter,3,180,179.1263,0.8737
+2025-12-22 07:00:00,Aspect,Opposition,Moon,Sagittarius,"27°38'10.58""",Uttara Ashadha,Sun,1,Jupiter,Gemini,"28°22'51.21""",Punarvasu,Jupiter,3,180,179.2554,0.7446
+2025-12-22 07:15:00,Aspect,Opposition,Moon,Sagittarius,"27°45'50.85""",Uttara Ashadha,Sun,1,Jupiter,Gemini,"28°22'46.83""",Punarvasu,Jupiter,3,180,179.3845,0.6155
+2025-12-22 07:30:00,Aspect,Opposition,Moon,Sagittarius,"27°53'31.17""",Uttara Ashadha,Sun,1,Jupiter,Gemini,"28°22'42.45""",Punarvasu,Jupiter,3,180,179.5135,0.4865
+2025-12-22 07:45:00,Aspect,Opposition,Moon,Sagittarius,"28°01'11.54""",Uttara Ashadha,Sun,1,Jupiter,Gemini,"28°22'38.07""",Punarvasu,Jupiter,3,180,179.6426,0.3574
+2025-12-22 08:00:00,Aspect,Opposition,Moon,Sagittarius,"28°08'51.97""",Uttara Ashadha,Sun,1,Jupiter,Gemini,"28°22'33.68""",Punarvasu,Jupiter,3,180,179.7717,0.2283
+2025-12-22 08:15:00,Aspect,Opposition,Moon,Sagittarius,"28°16'32.44""",Uttara Ashadha,Sun,1,Jupiter,Gemini,"28°22'29.30""",Punarvasu,Jupiter,3,180,179.9009,0.0991
+2025-12-22 08:30:00,Aspect,Opposition,Moon,Sagittarius,"28°24'12.97""",Uttara Ashadha,Sun,1,Jupiter,Gemini,"28°22'24.92""",Punarvasu,Jupiter,3,180,179.97,0.03
+2025-12-22 08:45:00,Aspect,Opposition,Moon,Sagittarius,"28°31'53.55""",Uttara Ashadha,Sun,1,Jupiter,Gemini,"28°22'20.53""",Punarvasu,Jupiter,3,180,179.8408,0.1592
+2025-12-22 09:00:00,Aspect,Opposition,Moon,Sagittarius,"28°39'34.18""",Uttara Ashadha,Sun,1,Jupiter,Gemini,"28°22'16.15""",Punarvasu,Jupiter,3,180,179.7117,0.2883
+2025-12-22 09:15:00,Aspect,Opposition,Moon,Sagittarius,"28°47'14.86""",Uttara Ashadha,Sun,1,Jupiter,Gemini,"28°22'11.76""",Punarvasu,Jupiter,3,180,179.5825,0.4175
+2025-12-22 09:30:00,Aspect,Opposition,Moon,Sagittarius,"28°54'55.60""",Uttara Ashadha,Sun,1,Jupiter,Gemini,"28°22'07.37""",Punarvasu,Jupiter,3,180,179.4533,0.5467
+2025-12-22 09:45:00,Aspect,Opposition,Moon,Sagittarius,"29°02'36.38""",Uttara Ashadha,Sun,1,Jupiter,Gemini,"28°22'02.99""",Punarvasu,Jupiter,3,180,179.3241,0.6759
+2025-12-22 10:00:00,Aspect,Opposition,Moon,Sagittarius,"29°10'17.22""",Uttara Ashadha,Sun,1,Jupiter,Gemini,"28°21'58.60""",Punarvasu,Jupiter,3,180,179.1948,0.8052
+2025-12-22 10:15:00,Aspect,Opposition,Moon,Sagittarius,"29°17'58.11""",Uttara Ashadha,Sun,1,Jupiter,Gemini,"28°21'54.21""",Punarvasu,Jupiter,3,180,179.0656,0.9344
+2025-12-22 12:45:00,Aspect,Sextitle,Moon,Capricorn,"0°34'49.93""",Uttara Ashadha,Sun,2,Saturn,Pisces,"1°27'10.85""",Purva Bhadrapada,Jupiter,4,60,60.8725,0.8725
+2025-12-22 13:00:00,Aspect,Sextitle,Moon,Capricorn,"0°42'31.40""",Uttara Ashadha,Sun,2,Saturn,Pisces,"1°27'12.44""",Purva Bhadrapada,Jupiter,4,60,60.7447,0.7447
+2025-12-22 13:15:00,Aspect,Sextitle,Moon,Capricorn,"0°50'12.93""",Uttara Ashadha,Sun,2,Saturn,Pisces,"1°27'14.03""",Purva Bhadrapada,Jupiter,4,60,60.617,0.617
+2025-12-22 13:30:00,Aspect,Sextitle,Moon,Capricorn,"0°57'54.51""",Uttara Ashadha,Sun,2,Saturn,Pisces,"1°27'15.63""",Purva Bhadrapada,Jupiter,4,60,60.4892,0.4892
+2025-12-22 13:45:00,Aspect,Sextitle,Moon,Capricorn,"1°05'36.14""",Uttara Ashadha,Sun,2,Saturn,Pisces,"1°27'17.22""",Purva Bhadrapada,Jupiter,4,60,60.3614,0.3614
+2025-12-22 14:00:00,Aspect,Sextitle,Moon,Capricorn,"1°13'17.83""",Uttara Ashadha,Sun,2,Saturn,Pisces,"1°27'18.81""",Purva Bhadrapada,Jupiter,4,60,60.2336,0.2336
+2025-12-22 14:15:00,Aspect,Sextitle,Moon,Capricorn,"1°20'59.57""",Uttara Ashadha,Sun,2,Saturn,Pisces,"1°27'20.41""",Purva Bhadrapada,Jupiter,4,60,60.1058,0.1058
+2025-12-22 14:30:00,Aspect,Sextitle,Moon,Capricorn,"1°28'41.36""",Uttara Ashadha,Sun,2,Saturn,Pisces,"1°27'22.00""",Purva Bhadrapada,Jupiter,4,60,59.978,0.022
+2025-12-22 14:45:00,Aspect,Sextitle,Moon,Capricorn,"1°36'23.21""",Uttara Ashadha,Sun,2,Saturn,Pisces,"1°27'23.60""",Purva Bhadrapada,Jupiter,4,60,59.8501,0.1499
+2025-12-22 15:00:00,Aspect,Sextitle,Moon,Capricorn,"1°44'05.12""",Uttara Ashadha,Sun,2,Saturn,Pisces,"1°27'25.20""",Purva Bhadrapada,Jupiter,4,60,59.7222,0.2778
+2025-12-22 15:15:00,Aspect,Sextitle,Moon,Capricorn,"1°51'47.07""",Uttara Ashadha,Sun,2,Saturn,Pisces,"1°27'26.79""",Purva Bhadrapada,Jupiter,4,60,59.5944,0.4056
+2025-12-22 15:30:00,Aspect,Sextitle,Moon,Capricorn,"1°59'29.08""",Uttara Ashadha,Sun,2,Saturn,Pisces,"1°27'28.39""",Purva Bhadrapada,Jupiter,4,60,59.4665,0.5335
+2025-12-22 15:45:00,Aspect,Sextitle,Moon,Capricorn,"2°07'11.15""",Uttara Ashadha,Sun,2,Saturn,Pisces,"1°27'29.99""",Purva Bhadrapada,Jupiter,4,60,59.3386,0.6614
+2025-12-22 16:00:00,Aspect,Sextitle,Moon,Capricorn,"2°14'53.27""",Uttara Ashadha,Sun,2,Saturn,Pisces,"1°27'31.59""",Purva Bhadrapada,Jupiter,4,60,59.2106,0.7894
+2025-12-22 16:15:00,Aspect,Sextitle,Moon,Capricorn,"2°22'35.45""",Uttara Ashadha,Sun,2,Saturn,Pisces,"1°27'33.19""",Purva Bhadrapada,Jupiter,4,60,59.0827,0.9173

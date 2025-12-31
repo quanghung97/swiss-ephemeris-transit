@@ -1,0 +1,19 @@
+﻿datetime,event,type,planet1,planet1_sign,planet1_degree,planet1_nakshatra,planet1_nakshatra_lord,planet1_pada,planet2,planet2_sign,planet2_degree,planet2_nakshatra,planet2_nakshatra_lord,planet2_pada,exact_angle,difference,orb
+2025-12-15 08:30:00,Aspect,Sextitle,Moon,Libra,"4°36'50.19""",Chitra,Mars,4,Mars,Sagittarius,"5°35'19.14""",Mula,Ketu,2,60,60.9747,0.9747
+2025-12-15 08:45:00,Aspect,Sextitle,Moon,Libra,"4°44'15.80""",Chitra,Mars,4,Mars,Sagittarius,"5°35'47.40""",Mula,Ketu,2,60,60.8588,0.8588
+2025-12-15 09:00:00,Aspect,Sextitle,Moon,Libra,"4°51'41.39""",Chitra,Mars,4,Mars,Sagittarius,"5°36'15.67""",Mula,Ketu,2,60,60.7429,0.7429
+2025-12-15 09:15:00,Aspect,Sextitle,Moon,Libra,"4°59'06.94""",Chitra,Mars,4,Mars,Sagittarius,"5°36'43.94""",Mula,Ketu,2,60,60.6269,0.6269
+2025-12-15 09:30:00,Aspect,Sextitle,Moon,Libra,"5°06'32.47""",Chitra,Mars,4,Mars,Sagittarius,"5°37'12.20""",Mula,Ketu,2,60,60.511,0.511
+2025-12-15 09:45:00,Aspect,Sextitle,Moon,Libra,"5°13'57.96""",Chitra,Mars,4,Mars,Sagittarius,"5°37'40.47""",Mula,Ketu,2,60,60.3951,0.3951
+2025-12-15 10:00:00,Aspect,Sextitle,Moon,Libra,"5°21'23.43""",Chitra,Mars,4,Mars,Sagittarius,"5°38'08.74""",Mula,Ketu,2,60,60.2793,0.2793
+2025-12-15 10:15:00,Aspect,Sextitle,Moon,Libra,"5°28'48.86""",Chitra,Mars,4,Mars,Sagittarius,"5°38'37.01""",Mula,Ketu,2,60,60.1634,0.1634
+2025-12-15 10:30:00,Aspect,Sextitle,Moon,Libra,"5°36'14.27""",Chitra,Mars,4,Mars,Sagittarius,"5°39'05.28""",Mula,Ketu,2,60,60.0475,0.0475
+2025-12-15 10:45:00,Aspect,Sextitle,Moon,Libra,"5°43'39.65""",Chitra,Mars,4,Mars,Sagittarius,"5°39'33.55""",Mula,Ketu,2,60,59.9316,0.0684
+2025-12-15 11:00:00,Aspect,Sextitle,Moon,Libra,"5°51'05.00""",Chitra,Mars,4,Mars,Sagittarius,"5°40'01.81""",Mula,Ketu,2,60,59.8158,0.1842
+2025-12-15 11:15:00,Aspect,Sextitle,Moon,Libra,"5°58'30.32""",Chitra,Mars,4,Mars,Sagittarius,"5°40'30.08""",Mula,Ketu,2,60,59.6999,0.3001
+2025-12-15 11:30:00,Aspect,Sextitle,Moon,Libra,"6°05'55.61""",Chitra,Mars,4,Mars,Sagittarius,"5°40'58.35""",Mula,Ketu,2,60,59.5841,0.4159
+2025-12-15 11:45:00,Aspect,Sextitle,Moon,Libra,"6°13'20.87""",Chitra,Mars,4,Mars,Sagittarius,"5°41'26.63""",Mula,Ketu,2,60,59.4683,0.5317
+2025-12-15 12:00:00,Aspect,Sextitle,Moon,Libra,"6°20'46.11""",Chitra,Mars,4,Mars,Sagittarius,"5°41'54.90""",Mula,Ketu,2,60,59.3524,0.6476
+2025-12-15 12:15:00,Aspect,Sextitle,Moon,Libra,"6°28'11.32""",Chitra,Mars,4,Mars,Sagittarius,"5°42'23.17""",Mula,Ketu,2,60,59.2366,0.7634
+2025-12-15 12:30:00,Aspect,Sextitle,Moon,Libra,"6°35'36.50""",Chitra,Mars,4,Mars,Sagittarius,"5°42'51.44""",Mula,Ketu,2,60,59.1208,0.8792
+2025-12-15 12:45:00,Aspect,Sextitle,Moon,Libra,"6°43'01.65""",Swati,Rahu,1,Mars,Sagittarius,"5°43'19.71""",Mula,Ketu,2,60,59.005,0.995

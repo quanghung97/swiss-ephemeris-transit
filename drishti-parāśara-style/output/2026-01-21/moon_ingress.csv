@@ -1,2 +1,2 @@
-﻿datetime,event,planet,from_sign,to_sign,degree,longitude
-2026-01-21 03:15:00,Ingress,Moon,Capricorn,Aquarius,"0°05'02.34""",300.083984
+﻿datetime,event,planet,from_sign,from_sign_vi,to_sign,to_sign_vi,degree,longitude,nakshatra,nakshatra_lord,pada
+2026-01-21 03:15:00,Ingress,Moon,Capricorn,Ma Kết,Aquarius,Bảo Bình,"0°05'02.34""",300.083984,Dhanishta,Mars,3

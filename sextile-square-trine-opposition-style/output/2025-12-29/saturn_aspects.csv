@@ -1,0 +1,9 @@
+﻿datetime,event,type,planet1,planet1_sign,planet1_degree,planet1_nakshatra,planet1_nakshatra_lord,planet1_pada,planet2,planet2_sign,planet2_degree,planet2_nakshatra,planet2_nakshatra_lord,planet2_pada,exact_angle,difference,orb
+2025-12-29 22:00:00,Aspect,Square,Mercury,Sagittarius,"0°49'26.19""",Mula,Ketu,1,Saturn,Pisces,"1°48'41.52""",Purva Bhadrapada,Jupiter,4,90,90.9876,0.9876
+2025-12-29 22:15:00,Aspect,Square,Mercury,Sagittarius,"0°50'22.86""",Mula,Ketu,1,Saturn,Pisces,"1°48'43.56""",Purva Bhadrapada,Jupiter,4,90,90.9724,0.9724
+2025-12-29 22:30:00,Aspect,Square,Mercury,Sagittarius,"0°51'19.53""",Mula,Ketu,1,Saturn,Pisces,"1°48'45.61""",Purva Bhadrapada,Jupiter,4,90,90.9572,0.9572
+2025-12-29 22:45:00,Aspect,Square,Mercury,Sagittarius,"0°52'16.20""",Mula,Ketu,1,Saturn,Pisces,"1°48'47.65""",Purva Bhadrapada,Jupiter,4,90,90.9421,0.9421
+2025-12-29 23:00:00,Aspect,Square,Mercury,Sagittarius,"0°53'12.87""",Mula,Ketu,1,Saturn,Pisces,"1°48'49.70""",Purva Bhadrapada,Jupiter,4,90,90.9269,0.9269
+2025-12-29 23:15:00,Aspect,Square,Mercury,Sagittarius,"0°54'09.55""",Mula,Ketu,1,Saturn,Pisces,"1°48'51.75""",Purva Bhadrapada,Jupiter,4,90,90.9117,0.9117
+2025-12-29 23:30:00,Aspect,Square,Mercury,Sagittarius,"0°55'06.23""",Mula,Ketu,1,Saturn,Pisces,"1°48'53.80""",Purva Bhadrapada,Jupiter,4,90,90.8965,0.8965
+2025-12-29 23:45:00,Aspect,Square,Mercury,Sagittarius,"0°56'02.91""",Mula,Ketu,1,Saturn,Pisces,"1°48'55.85""",Purva Bhadrapada,Jupiter,4,90,90.8814,0.8814

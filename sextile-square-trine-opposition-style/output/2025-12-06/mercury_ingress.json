@@ -1,0 +1,16 @@
+[
+  {
+    "datetime": "2025-12-06 22:30:00",
+    "event": "Ingress",
+    "planet": "Mercury",
+    "from_sign": "Libra",
+    "from_sign_vi": "Thiên Bình",
+    "to_sign": "Scorpio",
+    "to_sign_vi": "Bọ Cạp",
+    "degree": "0°00'33.08\"",
+    "longitude": 210.009189,
+    "nakshatra": "Vishakha",
+    "nakshatra_lord": "Jupiter",
+    "pada": 4
+  }
+]

@@ -1,68 +1,9 @@
-﻿datetime,event,type,planet1,planet1_sign,planet1_degree,planet2,planet2_sign,planet2_degree,exact_angle,difference,orb
-2026-01-08 06:15:00,Aspect,Trine,Sun,Sagittarius,"23°26'47.10""",Moon,Leo,"22°32'22.34""",120,120.9069,0.9069
-2026-01-08 06:30:00,Aspect,Trine,Sun,Sagittarius,"23°27'25.31""",Moon,Leo,"22°40'29.58""",120,120.7821,0.7821
-2026-01-08 06:45:00,Aspect,Trine,Sun,Sagittarius,"23°28'03.51""",Moon,Leo,"22°48'36.65""",120,120.6575,0.6575
-2026-01-08 06:45:00,Aspect,Trine,Moon,Leo,"22°48'36.65""",Venus,Sagittarius,"23°46'40.86""",120,120.9678,0.9678
-2026-01-08 07:00:00,Aspect,Trine,Sun,Sagittarius,"23°28'41.72""",Moon,Leo,"22°56'43.56""",120,120.5328,0.5328
-2026-01-08 07:00:00,Aspect,Trine,Moon,Leo,"22°56'43.56""",Venus,Sagittarius,"23°47'28.03""",120,120.8457,0.8457
-2026-01-08 07:00:00,Aspect,Trine,Moon,Leo,"22°56'43.56""",Mars,Sagittarius,"23°50'46.84""",120,120.9009,0.9009
-2026-01-08 07:15:00,Aspect,Trine,Sun,Sagittarius,"23°29'19.93""",Moon,Leo,"23°04'50.30""",120,120.4082,0.4082
-2026-01-08 07:15:00,Aspect,Trine,Moon,Leo,"23°04'50.30""",Venus,Sagittarius,"23°48'15.20""",120,120.7236,0.7236
-2026-01-08 07:15:00,Aspect,Trine,Moon,Leo,"23°04'50.30""",Mars,Sagittarius,"23°51'15.74""",120,120.7737,0.7737
-2026-01-08 07:30:00,Aspect,Trine,Sun,Sagittarius,"23°29'58.13""",Moon,Leo,"23°12'56.87""",120,120.2837,0.2837
-2026-01-08 07:30:00,Aspect,Trine,Moon,Leo,"23°12'56.87""",Venus,Sagittarius,"23°49'02.38""",120,120.6015,0.6015
-2026-01-08 07:30:00,Aspect,Trine,Moon,Leo,"23°12'56.87""",Mars,Sagittarius,"23°51'44.65""",120,120.6466,0.6466
-2026-01-08 07:45:00,Aspect,Trine,Sun,Sagittarius,"23°30'36.34""",Moon,Leo,"23°21'03.29""",120,120.1592,0.1592
-2026-01-08 07:45:00,Aspect,Trine,Moon,Leo,"23°21'03.29""",Venus,Sagittarius,"23°49'49.55""",120,120.4795,0.4795
-2026-01-08 07:45:00,Aspect,Trine,Moon,Leo,"23°21'03.29""",Mars,Sagittarius,"23°52'13.56""",120,120.5195,0.5195
-2026-01-08 08:00:00,Aspect,Trine,Sun,Sagittarius,"23°31'14.55""",Moon,Leo,"23°29'09.53""",120,120.0347,0.0347
-2026-01-08 08:00:00,Aspect,Trine,Moon,Leo,"23°29'09.53""",Venus,Sagittarius,"23°50'36.72""",120,120.3576,0.3576
-2026-01-08 08:00:00,Aspect,Trine,Moon,Leo,"23°29'09.53""",Mars,Sagittarius,"23°52'42.47""",120,120.3925,0.3925
-2026-01-08 08:15:00,Aspect,Trine,Sun,Sagittarius,"23°31'52.75""",Moon,Leo,"23°37'15.62""",120,119.9103,0.0897
-2026-01-08 08:15:00,Aspect,Trine,Moon,Leo,"23°37'15.62""",Venus,Sagittarius,"23°51'23.89""",120,120.2356,0.2356
-2026-01-08 08:15:00,Aspect,Trine,Moon,Leo,"23°37'15.62""",Mars,Sagittarius,"23°53'11.38""",120,120.2655,0.2655
-2026-01-08 08:30:00,Aspect,Trine,Sun,Sagittarius,"23°32'30.96""",Moon,Leo,"23°45'21.54""",120,119.786,0.214
-2026-01-08 08:30:00,Aspect,Trine,Moon,Leo,"23°45'21.54""",Venus,Sagittarius,"23°52'11.07""",120,120.1138,0.1138
-2026-01-08 08:30:00,Aspect,Trine,Moon,Leo,"23°45'21.54""",Mars,Sagittarius,"23°53'40.28""",120,120.1385,0.1385
-2026-01-08 08:45:00,Aspect,Trine,Sun,Sagittarius,"23°33'09.17""",Moon,Leo,"23°53'27.30""",120,119.6616,0.3384
-2026-01-08 08:45:00,Aspect,Trine,Moon,Leo,"23°53'27.30""",Venus,Sagittarius,"23°52'58.24""",120,119.9919,0.0081
-2026-01-08 08:45:00,Aspect,Trine,Moon,Leo,"23°53'27.30""",Mars,Sagittarius,"23°54'09.19""",120,120.0116,0.0116
-2026-01-08 09:00:00,Aspect,Trine,Sun,Sagittarius,"23°33'47.38""",Moon,Leo,"24°01'32.89""",120,119.5374,0.4626
-2026-01-08 09:00:00,Aspect,Trine,Moon,Leo,"24°01'32.89""",Venus,Sagittarius,"23°53'45.41""",120,119.8701,0.1299
-2026-01-08 09:00:00,Aspect,Trine,Moon,Leo,"24°01'32.89""",Mars,Sagittarius,"23°54'38.10""",120,119.8848,0.1152
-2026-01-08 09:15:00,Aspect,Trine,Sun,Sagittarius,"23°34'25.58""",Moon,Leo,"24°09'38.32""",120,119.4131,0.5869
-2026-01-08 09:15:00,Aspect,Trine,Moon,Leo,"24°09'38.32""",Venus,Sagittarius,"23°54'32.58""",120,119.7484,0.2516
-2026-01-08 09:15:00,Aspect,Trine,Moon,Leo,"24°09'38.32""",Mars,Sagittarius,"23°55'07.01""",120,119.758,0.242
-2026-01-08 09:30:00,Aspect,Trine,Sun,Sagittarius,"23°35'03.79""",Moon,Leo,"24°17'43.59""",120,119.2889,0.7111
-2026-01-08 09:30:00,Aspect,Trine,Moon,Leo,"24°17'43.59""",Venus,Sagittarius,"23°55'19.76""",120,119.6267,0.3733
-2026-01-08 09:30:00,Aspect,Trine,Moon,Leo,"24°17'43.59""",Mars,Sagittarius,"23°55'35.92""",120,119.6312,0.3688
-2026-01-08 09:45:00,Aspect,Trine,Sun,Sagittarius,"23°35'42.00""",Moon,Leo,"24°25'48.70""",120,119.1648,0.8352
-2026-01-08 09:45:00,Aspect,Trine,Moon,Leo,"24°25'48.70""",Venus,Sagittarius,"23°56'06.93""",120,119.5051,0.4949
-2026-01-08 09:45:00,Aspect,Trine,Moon,Leo,"24°25'48.70""",Mars,Sagittarius,"23°56'04.83""",120,119.5045,0.4955
-2026-01-08 10:00:00,Aspect,Trine,Sun,Sagittarius,"23°36'20.20""",Moon,Leo,"24°33'53.64""",120,119.0407,0.9593
-2026-01-08 10:00:00,Aspect,Trine,Moon,Leo,"24°33'53.64""",Venus,Sagittarius,"23°56'54.10""",120,119.3835,0.6165
-2026-01-08 10:00:00,Aspect,Trine,Moon,Leo,"24°33'53.64""",Mars,Sagittarius,"23°56'33.74""",120,119.3778,0.6222
-2026-01-08 10:15:00,Aspect,Trine,Moon,Leo,"24°41'58.42""",Venus,Sagittarius,"23°57'41.27""",120,119.2619,0.7381
-2026-01-08 10:15:00,Aspect,Trine,Moon,Leo,"24°41'58.42""",Mars,Sagittarius,"23°57'02.65""",120,119.2512,0.7488
-2026-01-08 10:30:00,Aspect,Trine,Moon,Leo,"24°50'03.04""",Venus,Sagittarius,"23°58'28.45""",120,119.1404,0.8596
-2026-01-08 10:30:00,Aspect,Trine,Moon,Leo,"24°50'03.04""",Mars,Sagittarius,"23°57'31.56""",120,119.1246,0.8754
-2026-01-08 10:45:00,Aspect,Trine,Moon,Leo,"24°58'07.50""",Venus,Sagittarius,"23°59'15.62""",120,119.0189,0.9811
-2026-01-08 11:15:00,Aspect,Sextitle,Moon,Leo,"25°14'15.94""",Jupiter,Gemini,"26°10'49.63""",60,59.0573,0.9427
-2026-01-08 11:30:00,Aspect,Sextitle,Moon,Leo,"25°22'19.91""",Jupiter,Gemini,"26°10'44.57""",60,59.1931,0.8069
-2026-01-08 11:45:00,Aspect,Sextitle,Moon,Leo,"25°30'23.73""",Jupiter,Gemini,"26°10'39.52""",60,59.3289,0.6711
-2026-01-08 12:00:00,Aspect,Sextitle,Moon,Leo,"25°38'27.38""",Jupiter,Gemini,"26°10'34.47""",60,59.4647,0.5353
-2026-01-08 12:15:00,Aspect,Sextitle,Moon,Leo,"25°46'30.88""",Jupiter,Gemini,"26°10'29.41""",60,59.6004,0.3996
-2026-01-08 12:30:00,Aspect,Sextitle,Moon,Leo,"25°54'34.21""",Jupiter,Gemini,"26°10'24.36""",60,59.7361,0.2639
-2026-01-08 12:45:00,Aspect,Sextitle,Moon,Leo,"26°02'37.39""",Jupiter,Gemini,"26°10'19.30""",60,59.8717,0.1283
-2026-01-08 13:00:00,Aspect,Sextitle,Moon,Leo,"26°10'40.41""",Jupiter,Gemini,"26°10'14.25""",60,60.0073,0.0073
-2026-01-08 13:15:00,Aspect,Sextitle,Moon,Leo,"26°18'43.26""",Jupiter,Gemini,"26°10'09.19""",60,60.1428,0.1428
-2026-01-08 13:30:00,Aspect,Sextitle,Moon,Leo,"26°26'45.96""",Jupiter,Gemini,"26°10'04.14""",60,60.2783,0.2783
-2026-01-08 13:45:00,Aspect,Sextitle,Moon,Leo,"26°34'48.50""",Jupiter,Gemini,"26°09'59.08""",60,60.4137,0.4137
-2026-01-08 14:00:00,Aspect,Sextitle,Moon,Leo,"26°42'50.89""",Jupiter,Gemini,"26°09'54.03""",60,60.5491,0.5491
-2026-01-08 14:15:00,Aspect,Sextitle,Moon,Leo,"26°50'53.11""",Jupiter,Gemini,"26°09'48.98""",60,60.6845,0.6845
-2026-01-08 14:30:00,Aspect,Sextitle,Moon,Leo,"26°58'55.18""",Jupiter,Gemini,"26°09'43.92""",60,60.8198,0.8198
-2026-01-08 14:45:00,Aspect,Sextitle,Moon,Leo,"27°06'57.09""",Jupiter,Gemini,"26°09'38.87""",60,60.9551,0.9551
-2026-01-08 23:00:00,Aspect,Opposition,Moon,Virgo,"1°30'33.60""",Saturn,Pisces,"2°26'10.49""",180,179.0731,0.9269
-2026-01-08 23:15:00,Aspect,Opposition,Moon,Virgo,"1°38'30.32""",Saturn,Pisces,"2°26'13.10""",180,179.2048,0.7952
-2026-01-08 23:30:00,Aspect,Opposition,Moon,Virgo,"1°46'26.89""",Saturn,Pisces,"2°26'15.71""",180,179.3364,0.6636
-2026-01-08 23:45:00,Aspect,Opposition,Moon,Virgo,"1°54'23.32""",Saturn,Pisces,"2°26'18.32""",180,179.4681,0.5319
+﻿datetime,event,aspecting_planet,aspecting_sign,aspecting_sign_vi,aspecting_degree,aspecting_nakshatra,aspecting_nakshatra_lord,aspecting_pada,aspected_planet,aspected_sign,aspected_sign_vi,aspected_degree,aspected_nakshatra,aspected_nakshatra_lord,aspected_pada,aspect_type,aspect_house,target_angle,actual_angle,orb,strength
+2026-01-08 23:00:00,Parashara_Drishti,Moon,Virgo,Xử Nữ,"1°30'33.60""",Uttara Phalguni,Sun,2,Saturn,Pisces,Song Ngư,"2°26'10.49""",Purva Bhadrapada,Jupiter,4,7th House,7,180,180.9269,0.9269,Standard
+2026-01-08 23:00:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"2°26'10.49""",Purva Bhadrapada,Jupiter,4,Moon,Virgo,Xử Nữ,"1°30'33.60""",Uttara Phalguni,Sun,2,7th House,7,180,179.0731,0.9269,Weak
+2026-01-08 23:15:00,Parashara_Drishti,Moon,Virgo,Xử Nữ,"1°38'30.32""",Uttara Phalguni,Sun,2,Saturn,Pisces,Song Ngư,"2°26'13.10""",Purva Bhadrapada,Jupiter,4,7th House,7,180,180.7952,0.7952,Standard
+2026-01-08 23:15:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"2°26'13.10""",Purva Bhadrapada,Jupiter,4,Moon,Virgo,Xử Nữ,"1°38'30.32""",Uttara Phalguni,Sun,2,7th House,7,180,179.2048,0.7952,Weak
+2026-01-08 23:30:00,Parashara_Drishti,Moon,Virgo,Xử Nữ,"1°46'26.89""",Uttara Phalguni,Sun,2,Saturn,Pisces,Song Ngư,"2°26'15.71""",Purva Bhadrapada,Jupiter,4,7th House,7,180,180.6636,0.6636,Standard
+2026-01-08 23:30:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"2°26'15.71""",Purva Bhadrapada,Jupiter,4,Moon,Virgo,Xử Nữ,"1°46'26.89""",Uttara Phalguni,Sun,2,7th House,7,180,179.3364,0.6636,Weak
+2026-01-08 23:45:00,Parashara_Drishti,Moon,Virgo,Xử Nữ,"1°54'23.32""",Uttara Phalguni,Sun,2,Saturn,Pisces,Song Ngư,"2°26'18.32""",Purva Bhadrapada,Jupiter,4,7th House,7,180,180.5319,0.5319,Standard
+2026-01-08 23:45:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"2°26'18.32""",Purva Bhadrapada,Jupiter,4,Moon,Virgo,Xử Nữ,"1°54'23.32""",Uttara Phalguni,Sun,2,7th House,7,180,179.4681,0.5319,Weak

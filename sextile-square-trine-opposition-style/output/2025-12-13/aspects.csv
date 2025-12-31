@@ -1,0 +1,14 @@
+﻿datetime,event,type,planet1,planet1_sign,planet1_degree,planet1_nakshatra,planet1_nakshatra_lord,planet1_pada,planet2,planet2_sign,planet2_degree,planet2_nakshatra,planet2_nakshatra_lord,planet2_pada,exact_angle,difference,orb
+2025-12-13 00:00:00,Aspect,Sextitle,Moon,Virgo,"6°15'22.90""",Uttara Phalguni,Sun,3,Mercury,Scorpio,"6°43'50.40""",Anuradha,Saturn,2,60,60.4743,0.4743
+2025-12-13 00:15:00,Aspect,Sextitle,Moon,Virgo,"6°23'03.40""",Uttara Phalguni,Sun,3,Mercury,Scorpio,"6°44'37.65""",Anuradha,Saturn,2,60,60.3595,0.3595
+2025-12-13 00:30:00,Aspect,Sextitle,Moon,Virgo,"6°30'43.80""",Uttara Phalguni,Sun,3,Mercury,Scorpio,"6°45'24.91""",Anuradha,Saturn,2,60,60.2448,0.2448
+2025-12-13 00:45:00,Aspect,Sextitle,Moon,Virgo,"6°38'24.10""",Uttara Phalguni,Sun,3,Mercury,Scorpio,"6°46'12.19""",Anuradha,Saturn,2,60,60.13,0.13
+2025-12-13 01:00:00,Aspect,Sextitle,Moon,Virgo,"6°46'04.30""",Uttara Phalguni,Sun,4,Mercury,Scorpio,"6°46'59.48""",Anuradha,Saturn,2,60,60.0153,0.0153
+2025-12-13 01:15:00,Aspect,Sextitle,Moon,Virgo,"6°53'44.39""",Uttara Phalguni,Sun,4,Mercury,Scorpio,"6°47'46.78""",Anuradha,Saturn,2,60,59.9007,0.0993
+2025-12-13 01:30:00,Aspect,Sextitle,Moon,Virgo,"7°01'24.38""",Uttara Phalguni,Sun,4,Mercury,Scorpio,"6°48'34.10""",Anuradha,Saturn,2,60,59.786,0.214
+2025-12-13 01:45:00,Aspect,Sextitle,Moon,Virgo,"7°09'04.26""",Uttara Phalguni,Sun,4,Mercury,Scorpio,"6°49'21.43""",Anuradha,Saturn,2,60,59.6714,0.3286
+2025-12-13 02:00:00,Aspect,Sextitle,Moon,Virgo,"7°16'44.05""",Uttara Phalguni,Sun,4,Mercury,Scorpio,"6°50'08.78""",Anuradha,Saturn,2,60,59.5569,0.4431
+2025-12-13 02:15:00,Aspect,Sextitle,Moon,Virgo,"7°24'23.73""",Uttara Phalguni,Sun,4,Mercury,Scorpio,"6°50'56.14""",Anuradha,Saturn,2,60,59.4423,0.5577
+2025-12-13 02:30:00,Aspect,Sextitle,Moon,Virgo,"7°32'03.31""",Uttara Phalguni,Sun,4,Mercury,Scorpio,"6°51'43.52""",Anuradha,Saturn,2,60,59.3278,0.6722
+2025-12-13 02:45:00,Aspect,Sextitle,Moon,Virgo,"7°39'42.80""",Uttara Phalguni,Sun,4,Mercury,Scorpio,"6°52'30.91""",Anuradha,Saturn,2,60,59.2134,0.7866
+2025-12-13 03:00:00,Aspect,Sextitle,Moon,Virgo,"7°47'22.18""",Uttara Phalguni,Sun,4,Mercury,Scorpio,"6°53'18.31""",Anuradha,Saturn,2,60,59.0989,0.9011

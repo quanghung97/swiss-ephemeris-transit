@@ -1,9 +1,9 @@
-﻿datetime,event,aspecting_planet,aspecting_sign,aspecting_degree,aspected_planet,aspected_sign,aspected_degree,aspect_type,aspect_house,target_angle,actual_angle,orb,strength
-2026-01-06 00:00:00,Parashara_Drishti,Mars,Sagittarius,"22°04'53.41""",Moon,Cancer,"22°00'33.22""",8th House,8,210,209.9277,0.0723,Strong
-2026-01-06 00:15:00,Parashara_Drishti,Mars,Sagittarius,"22°05'22.26""",Moon,Cancer,"22°09'19.33""",8th House,8,210,210.0659,0.0659,Strong
-2026-01-06 00:30:00,Parashara_Drishti,Mars,Sagittarius,"22°05'51.12""",Moon,Cancer,"22°18'05.26""",8th House,8,210,210.2039,0.2039,Strong
-2026-01-06 00:45:00,Parashara_Drishti,Mars,Sagittarius,"22°06'19.97""",Moon,Cancer,"22°26'51.01""",8th House,8,210,210.342,0.342,Strong
-2026-01-06 01:00:00,Parashara_Drishti,Mars,Sagittarius,"22°06'48.82""",Moon,Cancer,"22°35'36.59""",8th House,8,210,210.4799,0.4799,Strong
-2026-01-06 01:15:00,Parashara_Drishti,Mars,Sagittarius,"22°07'17.67""",Moon,Cancer,"22°44'21.98""",8th House,8,210,210.6179,0.6179,Strong
-2026-01-06 01:30:00,Parashara_Drishti,Mars,Sagittarius,"22°07'46.53""",Moon,Cancer,"22°53'07.19""",8th House,8,210,210.7557,0.7557,Strong
-2026-01-06 01:45:00,Parashara_Drishti,Mars,Sagittarius,"22°08'15.38""",Moon,Cancer,"23°01'52.23""",8th House,8,210,210.8936,0.8936,Strong
+﻿datetime,event,aspecting_planet,aspecting_sign,aspecting_sign_vi,aspecting_degree,aspecting_nakshatra,aspecting_nakshatra_lord,aspecting_pada,aspected_planet,aspected_sign,aspected_sign_vi,aspected_degree,aspected_nakshatra,aspected_nakshatra_lord,aspected_pada,aspect_type,aspect_house,target_angle,actual_angle,orb,strength
+2026-01-06 00:00:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"22°04'53.41""",Purva Ashadha,Venus,3,Moon,Cancer,Cự Giải,"22°00'33.22""",Ashlesha,Mercury,2,8th House,8,210,209.9277,0.0723,Strong
+2026-01-06 00:15:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"22°05'22.26""",Purva Ashadha,Venus,3,Moon,Cancer,Cự Giải,"22°09'19.33""",Ashlesha,Mercury,2,8th House,8,210,210.0659,0.0659,Strong
+2026-01-06 00:30:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"22°05'51.12""",Purva Ashadha,Venus,3,Moon,Cancer,Cự Giải,"22°18'05.26""",Ashlesha,Mercury,2,8th House,8,210,210.2039,0.2039,Strong
+2026-01-06 00:45:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"22°06'19.97""",Purva Ashadha,Venus,3,Moon,Cancer,Cự Giải,"22°26'51.01""",Ashlesha,Mercury,2,8th House,8,210,210.342,0.342,Strong
+2026-01-06 01:00:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"22°06'48.82""",Purva Ashadha,Venus,3,Moon,Cancer,Cự Giải,"22°35'36.59""",Ashlesha,Mercury,2,8th House,8,210,210.4799,0.4799,Strong
+2026-01-06 01:15:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"22°07'17.67""",Purva Ashadha,Venus,3,Moon,Cancer,Cự Giải,"22°44'21.98""",Ashlesha,Mercury,2,8th House,8,210,210.6179,0.6179,Strong
+2026-01-06 01:30:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"22°07'46.53""",Purva Ashadha,Venus,3,Moon,Cancer,Cự Giải,"22°53'07.19""",Ashlesha,Mercury,2,8th House,8,210,210.7557,0.7557,Strong
+2026-01-06 01:45:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"22°08'15.38""",Purva Ashadha,Venus,3,Moon,Cancer,Cự Giải,"23°01'52.23""",Ashlesha,Mercury,2,8th House,8,210,210.8936,0.8936,Strong

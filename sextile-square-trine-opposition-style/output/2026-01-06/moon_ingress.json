@@ -4,8 +4,13 @@
     "event": "Ingress",
     "planet": "Moon",
     "from_sign": "Cancer",
+    "from_sign_vi": "Cự Giải",
     "to_sign": "Leo",
+    "to_sign_vi": "Sư Tử",
     "degree": "0°06'56.05\"",
-    "longitude": 120.115569
+    "longitude": 120.115569,
+    "nakshatra": "Magha",
+    "nakshatra_lord": "Ketu",
+    "pada": 1
   }
 ]

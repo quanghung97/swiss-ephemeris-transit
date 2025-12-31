@@ -1,0 +1,22 @@
+﻿datetime,event,type,planet1,planet1_sign,planet1_degree,planet1_nakshatra,planet1_nakshatra_lord,planet1_pada,planet2,planet2_sign,planet2_degree,planet2_nakshatra,planet2_nakshatra_lord,planet2_pada,exact_angle,difference,orb
+2025-12-18 14:45:00,Aspect,Conjunction,Moon,Scorpio,"13°15'29.19""",Anuradha,Saturn,3,Mercury,Scorpio,"14°15'15.79""",Anuradha,Saturn,4,0,0.9963,0.9963
+2025-12-18 15:00:00,Aspect,Conjunction,Moon,Scorpio,"13°22'55.50""",Anuradha,Saturn,4,Mercury,Scorpio,"14°16'08.36""",Anuradha,Saturn,4,0,0.8869,0.8869
+2025-12-18 15:15:00,Aspect,Conjunction,Moon,Scorpio,"13°30'21.84""",Anuradha,Saturn,4,Mercury,Scorpio,"14°17'00.95""",Anuradha,Saturn,4,0,0.7775,0.7775
+2025-12-18 15:30:00,Aspect,Conjunction,Moon,Scorpio,"13°37'48.20""",Anuradha,Saturn,4,Mercury,Scorpio,"14°17'53.54""",Anuradha,Saturn,4,0,0.6681,0.6681
+2025-12-18 15:45:00,Aspect,Conjunction,Moon,Scorpio,"13°45'14.59""",Anuradha,Saturn,4,Mercury,Scorpio,"14°18'46.14""",Anuradha,Saturn,4,0,0.5588,0.5588
+2025-12-18 16:00:00,Aspect,Conjunction,Moon,Scorpio,"13°52'41.01""",Anuradha,Saturn,4,Mercury,Scorpio,"14°19'38.74""",Anuradha,Saturn,4,0,0.4494,0.4494
+2025-12-18 16:15:00,Aspect,Conjunction,Moon,Scorpio,"14°00'07.46""",Anuradha,Saturn,4,Mercury,Scorpio,"14°20'31.35""",Anuradha,Saturn,4,0,0.34,0.34
+2025-12-18 16:30:00,Aspect,Conjunction,Moon,Scorpio,"14°07'33.93""",Anuradha,Saturn,4,Mercury,Scorpio,"14°21'23.97""",Anuradha,Saturn,4,0,0.2306,0.2306
+2025-12-18 16:45:00,Aspect,Conjunction,Moon,Scorpio,"14°15'00.43""",Anuradha,Saturn,4,Mercury,Scorpio,"14°22'16.59""",Anuradha,Saturn,4,0,0.1212,0.1212
+2025-12-18 17:00:00,Aspect,Conjunction,Moon,Scorpio,"14°22'26.95""",Anuradha,Saturn,4,Mercury,Scorpio,"14°23'09.22""",Anuradha,Saturn,4,0,0.0117,0.0117
+2025-12-18 17:15:00,Aspect,Conjunction,Moon,Scorpio,"14°29'53.51""",Anuradha,Saturn,4,Mercury,Scorpio,"14°24'01.85""",Anuradha,Saturn,4,0,0.0977,0.0977
+2025-12-18 17:30:00,Aspect,Conjunction,Moon,Scorpio,"14°37'20.09""",Anuradha,Saturn,4,Mercury,Scorpio,"14°24'54.50""",Anuradha,Saturn,4,0,0.2071,0.2071
+2025-12-18 17:45:00,Aspect,Conjunction,Moon,Scorpio,"14°44'46.70""",Anuradha,Saturn,4,Mercury,Scorpio,"14°25'47.15""",Anuradha,Saturn,4,0,0.3165,0.3165
+2025-12-18 18:00:00,Aspect,Conjunction,Moon,Scorpio,"14°52'13.33""",Anuradha,Saturn,4,Mercury,Scorpio,"14°26'39.80""",Anuradha,Saturn,4,0,0.426,0.426
+2025-12-18 18:15:00,Aspect,Conjunction,Moon,Scorpio,"14°59'40.00""",Anuradha,Saturn,4,Mercury,Scorpio,"14°27'32.46""",Anuradha,Saturn,4,0,0.5354,0.5354
+2025-12-18 18:30:00,Aspect,Conjunction,Moon,Scorpio,"15°07'06.69""",Anuradha,Saturn,4,Mercury,Scorpio,"14°28'25.13""",Anuradha,Saturn,4,0,0.6449,0.6449
+2025-12-18 18:45:00,Aspect,Conjunction,Moon,Scorpio,"15°14'33.41""",Anuradha,Saturn,4,Mercury,Scorpio,"14°29'17.81""",Anuradha,Saturn,4,0,0.7543,0.7543
+2025-12-18 19:00:00,Aspect,Conjunction,Moon,Scorpio,"15°22'00.15""",Anuradha,Saturn,4,Mercury,Scorpio,"14°30'10.49""",Anuradha,Saturn,4,0,0.8638,0.8638
+2025-12-18 19:15:00,Aspect,Conjunction,Moon,Scorpio,"15°29'26.93""",Anuradha,Saturn,4,Mercury,Scorpio,"14°31'03.18""",Anuradha,Saturn,4,0,0.9733,0.9733
+2025-12-18 23:45:00,Aspect,Square,Moon,Scorpio,"17°43'33.80""",Jyeshtha,Mercury,1,Rahu,Aquarius,"18°39'13.72""",Shatabhisha,Rahu,4,90,90.9278,0.9278
+2025-12-18 23:45:00,Aspect,Square,Moon,Scorpio,"17°43'33.80""",Jyeshtha,Mercury,1,Ketu,Leo,"18°39'13.72""",Purva Phalguni,Venus,2,90,89.0722,0.9278

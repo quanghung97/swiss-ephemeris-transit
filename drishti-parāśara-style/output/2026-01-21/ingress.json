@@ -4,8 +4,13 @@
     "event": "Ingress",
     "planet": "Moon",
     "from_sign": "Capricorn",
+    "from_sign_vi": "Ma Kết",
     "to_sign": "Aquarius",
+    "to_sign_vi": "Bảo Bình",
     "degree": "0°05'02.34\"",
-    "longitude": 300.083984
+    "longitude": 300.083984,
+    "nakshatra": "Dhanishta",
+    "nakshatra_lord": "Mars",
+    "pada": 3
   }
 ]

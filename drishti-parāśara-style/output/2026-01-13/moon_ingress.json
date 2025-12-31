@@ -4,8 +4,13 @@
     "event": "Ingress",
     "planet": "Moon",
     "from_sign": "Libra",
+    "from_sign_vi": "Thiên Bình",
     "to_sign": "Scorpio",
+    "to_sign_vi": "Bọ Cạp",
     "degree": "0°04'15.01\"",
-    "longitude": 210.070836
+    "longitude": 210.070836,
+    "nakshatra": "Vishakha",
+    "nakshatra_lord": "Jupiter",
+    "pada": 4
   }
 ]

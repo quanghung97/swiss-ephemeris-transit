@@ -1,0 +1,16 @@
+[
+  {
+    "datetime": "2025-12-24 21:30:00",
+    "event": "Ingress",
+    "planet": "Moon",
+    "from_sign": "Capricorn",
+    "from_sign_vi": "Ma Kết",
+    "to_sign": "Aquarius",
+    "to_sign_vi": "Bảo Bình",
+    "degree": "0°07'07.15\"",
+    "longitude": 300.118652,
+    "nakshatra": "Dhanishta",
+    "nakshatra_lord": "Mars",
+    "pada": 3
+  }
+]

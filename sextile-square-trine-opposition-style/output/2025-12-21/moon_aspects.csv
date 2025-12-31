@@ -1,0 +1,33 @@
+﻿datetime,event,type,planet1,planet1_sign,planet1_degree,planet1_nakshatra,planet1_nakshatra_lord,planet1_pada,planet2,planet2_sign,planet2_degree,planet2_nakshatra,planet2_nakshatra_lord,planet2_pada,exact_angle,difference,orb
+2025-12-21 11:15:00,Aspect,Sextitle,Moon,Sagittarius,"17°34'45.37""",Purva Ashadha,Venus,2,Rahu,Aquarius,"18°31'20.76""",Shatabhisha,Rahu,4,60,60.9432,0.9432
+2025-12-21 11:15:00,Aspect,Trine,Moon,Sagittarius,"17°34'45.37""",Purva Ashadha,Venus,2,Ketu,Leo,"18°31'20.76""",Purva Phalguni,Venus,2,120,119.0568,0.9432
+2025-12-21 11:30:00,Aspect,Sextitle,Moon,Sagittarius,"17°42'21.81""",Purva Ashadha,Venus,2,Rahu,Aquarius,"18°31'18.78""",Shatabhisha,Rahu,4,60,60.8158,0.8158
+2025-12-21 11:30:00,Aspect,Trine,Moon,Sagittarius,"17°42'21.81""",Purva Ashadha,Venus,2,Ketu,Leo,"18°31'18.78""",Purva Phalguni,Venus,2,120,119.1842,0.8158
+2025-12-21 11:45:00,Aspect,Sextitle,Moon,Sagittarius,"17°49'58.30""",Purva Ashadha,Venus,2,Rahu,Aquarius,"18°31'16.79""",Shatabhisha,Rahu,4,60,60.6885,0.6885
+2025-12-21 11:45:00,Aspect,Trine,Moon,Sagittarius,"17°49'58.30""",Purva Ashadha,Venus,2,Ketu,Leo,"18°31'16.79""",Purva Phalguni,Venus,2,120,119.3115,0.6885
+2025-12-21 12:00:00,Aspect,Sextitle,Moon,Sagittarius,"17°57'34.83""",Purva Ashadha,Venus,2,Rahu,Aquarius,"18°31'14.80""",Shatabhisha,Rahu,4,60,60.5611,0.5611
+2025-12-21 12:00:00,Aspect,Trine,Moon,Sagittarius,"17°57'34.83""",Purva Ashadha,Venus,2,Ketu,Leo,"18°31'14.80""",Purva Phalguni,Venus,2,120,119.4389,0.5611
+2025-12-21 12:15:00,Aspect,Sextitle,Moon,Sagittarius,"18°05'11.41""",Purva Ashadha,Venus,2,Rahu,Aquarius,"18°31'12.82""",Shatabhisha,Rahu,4,60,60.4337,0.4337
+2025-12-21 12:15:00,Aspect,Trine,Moon,Sagittarius,"18°05'11.41""",Purva Ashadha,Venus,2,Ketu,Leo,"18°31'12.82""",Purva Phalguni,Venus,2,120,119.5663,0.4337
+2025-12-21 12:30:00,Aspect,Sextitle,Moon,Sagittarius,"18°12'48.04""",Purva Ashadha,Venus,2,Rahu,Aquarius,"18°31'10.83""",Shatabhisha,Rahu,4,60,60.3063,0.3063
+2025-12-21 12:30:00,Aspect,Trine,Moon,Sagittarius,"18°12'48.04""",Purva Ashadha,Venus,2,Ketu,Leo,"18°31'10.83""",Purva Phalguni,Venus,2,120,119.6937,0.3063
+2025-12-21 12:45:00,Aspect,Sextitle,Moon,Sagittarius,"18°20'24.71""",Purva Ashadha,Venus,2,Rahu,Aquarius,"18°31'08.84""",Shatabhisha,Rahu,4,60,60.1789,0.1789
+2025-12-21 12:45:00,Aspect,Trine,Moon,Sagittarius,"18°20'24.71""",Purva Ashadha,Venus,2,Ketu,Leo,"18°31'08.84""",Purva Phalguni,Venus,2,120,119.8211,0.1789
+2025-12-21 13:00:00,Aspect,Sextitle,Moon,Sagittarius,"18°28'01.43""",Purva Ashadha,Venus,2,Rahu,Aquarius,"18°31'06.85""",Shatabhisha,Rahu,4,60,60.0515,0.0515
+2025-12-21 13:00:00,Aspect,Trine,Moon,Sagittarius,"18°28'01.43""",Purva Ashadha,Venus,2,Ketu,Leo,"18°31'06.85""",Purva Phalguni,Venus,2,120,119.9485,0.0515
+2025-12-21 13:15:00,Aspect,Sextitle,Moon,Sagittarius,"18°35'38.19""",Purva Ashadha,Venus,2,Rahu,Aquarius,"18°31'04.87""",Shatabhisha,Rahu,4,60,59.9241,0.0759
+2025-12-21 13:15:00,Aspect,Trine,Moon,Sagittarius,"18°35'38.19""",Purva Ashadha,Venus,2,Ketu,Leo,"18°31'04.87""",Purva Phalguni,Venus,2,120,120.0759,0.0759
+2025-12-21 13:30:00,Aspect,Sextitle,Moon,Sagittarius,"18°43'15.00""",Purva Ashadha,Venus,2,Rahu,Aquarius,"18°31'02.88""",Shatabhisha,Rahu,4,60,59.7966,0.2034
+2025-12-21 13:30:00,Aspect,Trine,Moon,Sagittarius,"18°43'15.00""",Purva Ashadha,Venus,2,Ketu,Leo,"18°31'02.88""",Purva Phalguni,Venus,2,120,120.2034,0.2034
+2025-12-21 13:45:00,Aspect,Sextitle,Moon,Sagittarius,"18°50'51.86""",Purva Ashadha,Venus,2,Rahu,Aquarius,"18°31'00.89""",Shatabhisha,Rahu,4,60,59.6692,0.3308
+2025-12-21 13:45:00,Aspect,Trine,Moon,Sagittarius,"18°50'51.86""",Purva Ashadha,Venus,2,Ketu,Leo,"18°31'00.89""",Purva Phalguni,Venus,2,120,120.3308,0.3308
+2025-12-21 14:00:00,Aspect,Sextitle,Moon,Sagittarius,"18°58'28.76""",Purva Ashadha,Venus,2,Rahu,Aquarius,"18°30'58.91""",Shatabhisha,Rahu,4,60,59.5417,0.4583
+2025-12-21 14:00:00,Aspect,Trine,Moon,Sagittarius,"18°58'28.76""",Purva Ashadha,Venus,2,Ketu,Leo,"18°30'58.91""",Purva Phalguni,Venus,2,120,120.4583,0.4583
+2025-12-21 14:15:00,Aspect,Sextitle,Moon,Sagittarius,"19°06'05.71""",Purva Ashadha,Venus,2,Rahu,Aquarius,"18°30'56.92""",Shatabhisha,Rahu,4,60,59.4142,0.5858
+2025-12-21 14:15:00,Aspect,Trine,Moon,Sagittarius,"19°06'05.71""",Purva Ashadha,Venus,2,Ketu,Leo,"18°30'56.92""",Purva Phalguni,Venus,2,120,120.5858,0.5858
+2025-12-21 14:30:00,Aspect,Sextitle,Moon,Sagittarius,"19°13'42.70""",Purva Ashadha,Venus,2,Rahu,Aquarius,"18°30'54.93""",Shatabhisha,Rahu,4,60,59.2867,0.7133
+2025-12-21 14:30:00,Aspect,Trine,Moon,Sagittarius,"19°13'42.70""",Purva Ashadha,Venus,2,Ketu,Leo,"18°30'54.93""",Purva Phalguni,Venus,2,120,120.7133,0.7133
+2025-12-21 14:45:00,Aspect,Sextitle,Moon,Sagittarius,"19°21'19.74""",Purva Ashadha,Venus,2,Rahu,Aquarius,"18°30'52.94""",Shatabhisha,Rahu,4,60,59.1592,0.8408
+2025-12-21 14:45:00,Aspect,Trine,Moon,Sagittarius,"19°21'19.74""",Purva Ashadha,Venus,2,Ketu,Leo,"18°30'52.94""",Purva Phalguni,Venus,2,120,120.8408,0.8408
+2025-12-21 15:00:00,Aspect,Sextitle,Moon,Sagittarius,"19°28'56.83""",Purva Ashadha,Venus,2,Rahu,Aquarius,"18°30'50.96""",Shatabhisha,Rahu,4,60,59.0317,0.9683
+2025-12-21 15:00:00,Aspect,Trine,Moon,Sagittarius,"19°28'56.83""",Purva Ashadha,Venus,2,Ketu,Leo,"18°30'50.96""",Purva Phalguni,Venus,2,120,120.9683,0.9683

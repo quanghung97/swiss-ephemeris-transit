@@ -1,0 +1,54 @@
+﻿datetime,event,type,planet1,planet1_sign,planet1_degree,planet1_nakshatra,planet1_nakshatra_lord,planet1_pada,planet2,planet2_sign,planet2_degree,planet2_nakshatra,planet2_nakshatra_lord,planet2_pada,exact_angle,difference,orb
+2025-12-26 00:00:00,Aspect,Sextitle,Moon,Aquarius,"14°17'32.18""",Shatabhisha,Rahu,3,Mars,Sagittarius,"13°39'30.33""",Purva Ashadha,Venus,1,60,60.6338,0.6338
+2025-12-26 00:15:00,Aspect,Sextitle,Moon,Aquarius,"14°25'38.74""",Shatabhisha,Rahu,3,Mars,Sagittarius,"13°39'58.91""",Purva Ashadha,Venus,1,60,60.7611,0.7611
+2025-12-26 00:30:00,Aspect,Sextitle,Moon,Aquarius,"14°33'45.41""",Shatabhisha,Rahu,3,Mars,Sagittarius,"13°40'27.49""",Purva Ashadha,Venus,1,60,60.8883,0.8883
+2025-12-26 05:30:00,Aspect,Conjunction,Moon,Aquarius,"17°16'20.94""",Shatabhisha,Rahu,4,Rahu,Aquarius,"18°16'12.61""",Shatabhisha,Rahu,4,0,0.9977,0.9977
+2025-12-26 05:30:00,Aspect,Opposition,Moon,Aquarius,"17°16'20.94""",Shatabhisha,Rahu,4,Ketu,Leo,"18°16'12.61""",Purva Phalguni,Venus,2,180,179.0023,0.9977
+2025-12-26 05:45:00,Aspect,Conjunction,Moon,Aquarius,"17°24'29.85""",Shatabhisha,Rahu,4,Rahu,Aquarius,"18°16'10.63""",Shatabhisha,Rahu,4,0,0.8613,0.8613
+2025-12-26 05:45:00,Aspect,Opposition,Moon,Aquarius,"17°24'29.85""",Shatabhisha,Rahu,4,Ketu,Leo,"18°16'10.63""",Purva Phalguni,Venus,2,180,179.1387,0.8613
+2025-12-26 06:00:00,Aspect,Conjunction,Moon,Aquarius,"17°32'38.86""",Shatabhisha,Rahu,4,Rahu,Aquarius,"18°16'08.64""",Shatabhisha,Rahu,4,0,0.7249,0.7249
+2025-12-26 06:00:00,Aspect,Opposition,Moon,Aquarius,"17°32'38.86""",Shatabhisha,Rahu,4,Ketu,Leo,"18°16'08.64""",Purva Phalguni,Venus,2,180,179.2751,0.7249
+2025-12-26 06:15:00,Aspect,Conjunction,Moon,Aquarius,"17°40'47.98""",Shatabhisha,Rahu,4,Rahu,Aquarius,"18°16'06.65""",Shatabhisha,Rahu,4,0,0.5885,0.5885
+2025-12-26 06:15:00,Aspect,Opposition,Moon,Aquarius,"17°40'47.98""",Shatabhisha,Rahu,4,Ketu,Leo,"18°16'06.65""",Purva Phalguni,Venus,2,180,179.4115,0.5885
+2025-12-26 06:30:00,Aspect,Conjunction,Moon,Aquarius,"17°48'57.21""",Shatabhisha,Rahu,4,Rahu,Aquarius,"18°16'04.67""",Shatabhisha,Rahu,4,0,0.4521,0.4521
+2025-12-26 06:30:00,Aspect,Opposition,Moon,Aquarius,"17°48'57.21""",Shatabhisha,Rahu,4,Ketu,Leo,"18°16'04.67""",Purva Phalguni,Venus,2,180,179.5479,0.4521
+2025-12-26 06:45:00,Aspect,Conjunction,Moon,Aquarius,"17°57'06.55""",Shatabhisha,Rahu,4,Rahu,Aquarius,"18°16'02.68""",Shatabhisha,Rahu,4,0,0.3156,0.3156
+2025-12-26 06:45:00,Aspect,Opposition,Moon,Aquarius,"17°57'06.55""",Shatabhisha,Rahu,4,Ketu,Leo,"18°16'02.68""",Purva Phalguni,Venus,2,180,179.6844,0.3156
+2025-12-26 07:00:00,Aspect,Conjunction,Moon,Aquarius,"18°05'16.00""",Shatabhisha,Rahu,4,Rahu,Aquarius,"18°16'00.69""",Shatabhisha,Rahu,4,0,0.1791,0.1791
+2025-12-26 07:00:00,Aspect,Opposition,Moon,Aquarius,"18°05'16.00""",Shatabhisha,Rahu,4,Ketu,Leo,"18°16'00.69""",Purva Phalguni,Venus,2,180,179.8209,0.1791
+2025-12-26 07:15:00,Aspect,Conjunction,Moon,Aquarius,"18°13'25.56""",Shatabhisha,Rahu,4,Rahu,Aquarius,"18°15'58.70""",Shatabhisha,Rahu,4,0,0.0425,0.0425
+2025-12-26 07:15:00,Aspect,Opposition,Moon,Aquarius,"18°13'25.56""",Shatabhisha,Rahu,4,Ketu,Leo,"18°15'58.70""",Purva Phalguni,Venus,2,180,179.9575,0.0425
+2025-12-26 07:30:00,Aspect,Conjunction,Moon,Aquarius,"18°21'35.22""",Shatabhisha,Rahu,4,Rahu,Aquarius,"18°15'56.72""",Shatabhisha,Rahu,4,0,0.094,0.094
+2025-12-26 07:30:00,Aspect,Opposition,Moon,Aquarius,"18°21'35.22""",Shatabhisha,Rahu,4,Ketu,Leo,"18°15'56.72""",Purva Phalguni,Venus,2,180,179.906,0.094
+2025-12-26 07:45:00,Aspect,Conjunction,Moon,Aquarius,"18°29'45.00""",Shatabhisha,Rahu,4,Rahu,Aquarius,"18°15'54.73""",Shatabhisha,Rahu,4,0,0.2306,0.2306
+2025-12-26 07:45:00,Aspect,Opposition,Moon,Aquarius,"18°29'45.00""",Shatabhisha,Rahu,4,Ketu,Leo,"18°15'54.73""",Purva Phalguni,Venus,2,180,179.7694,0.2306
+2025-12-26 08:00:00,Aspect,Conjunction,Moon,Aquarius,"18°37'54.89""",Shatabhisha,Rahu,4,Rahu,Aquarius,"18°15'52.74""",Shatabhisha,Rahu,4,0,0.3673,0.3673
+2025-12-26 08:00:00,Aspect,Opposition,Moon,Aquarius,"18°37'54.89""",Shatabhisha,Rahu,4,Ketu,Leo,"18°15'52.74""",Purva Phalguni,Venus,2,180,179.6327,0.3673
+2025-12-26 08:15:00,Aspect,Conjunction,Moon,Aquarius,"18°46'04.89""",Shatabhisha,Rahu,4,Rahu,Aquarius,"18°15'50.76""",Shatabhisha,Rahu,4,0,0.5039,0.5039
+2025-12-26 08:15:00,Aspect,Opposition,Moon,Aquarius,"18°46'04.89""",Shatabhisha,Rahu,4,Ketu,Leo,"18°15'50.76""",Purva Phalguni,Venus,2,180,179.4961,0.5039
+2025-12-26 08:30:00,Aspect,Conjunction,Moon,Aquarius,"18°54'15.00""",Shatabhisha,Rahu,4,Rahu,Aquarius,"18°15'48.77""",Shatabhisha,Rahu,4,0,0.6406,0.6406
+2025-12-26 08:30:00,Aspect,Opposition,Moon,Aquarius,"18°54'15.00""",Shatabhisha,Rahu,4,Ketu,Leo,"18°15'48.77""",Purva Phalguni,Venus,2,180,179.3594,0.6406
+2025-12-26 08:45:00,Aspect,Conjunction,Moon,Aquarius,"19°02'25.22""",Shatabhisha,Rahu,4,Rahu,Aquarius,"18°15'46.78""",Shatabhisha,Rahu,4,0,0.7773,0.7773
+2025-12-26 08:45:00,Aspect,Opposition,Moon,Aquarius,"19°02'25.22""",Shatabhisha,Rahu,4,Ketu,Leo,"18°15'46.78""",Purva Phalguni,Venus,2,180,179.2227,0.7773
+2025-12-26 09:00:00,Aspect,Conjunction,Moon,Aquarius,"19°10'35.55""",Shatabhisha,Rahu,4,Rahu,Aquarius,"18°15'44.79""",Shatabhisha,Rahu,4,0,0.9141,0.9141
+2025-12-26 09:00:00,Aspect,Opposition,Moon,Aquarius,"19°10'35.55""",Shatabhisha,Rahu,4,Ketu,Leo,"18°15'44.79""",Purva Phalguni,Venus,2,180,179.0859,0.9141
+2025-12-26 20:00:00,Aspect,Square,Moon,Aquarius,"25°12'03.35""",Purva Bhadrapada,Jupiter,2,Mercury,Scorpio,"26°11'42.59""",Jyeshtha,Mercury,3,90,89.0058,0.9942
+2025-12-26 20:15:00,Aspect,Square,Moon,Aquarius,"25°20'18.90""",Purva Bhadrapada,Jupiter,2,Mercury,Scorpio,"26°12'38.50""",Jyeshtha,Mercury,3,90,89.1279,0.8721
+2025-12-26 20:30:00,Aspect,Square,Moon,Aquarius,"25°28'34.56""",Purva Bhadrapada,Jupiter,2,Mercury,Scorpio,"26°13'34.41""",Jyeshtha,Mercury,3,90,89.25,0.75
+2025-12-26 20:45:00,Aspect,Square,Moon,Aquarius,"25°36'50.35""",Purva Bhadrapada,Jupiter,2,Mercury,Scorpio,"26°14'30.33""",Jyeshtha,Mercury,3,90,89.3722,0.6278
+2025-12-26 21:00:00,Aspect,Square,Moon,Aquarius,"25°45'06.26""",Purva Bhadrapada,Jupiter,2,Mercury,Scorpio,"26°15'26.24""",Jyeshtha,Mercury,3,90,89.4944,0.5056
+2025-12-26 21:15:00,Aspect,Square,Moon,Aquarius,"25°53'22.29""",Purva Bhadrapada,Jupiter,2,Mercury,Scorpio,"26°16'22.16""",Jyeshtha,Mercury,3,90,89.6167,0.3833
+2025-12-26 21:30:00,Aspect,Square,Moon,Aquarius,"26°01'38.44""",Purva Bhadrapada,Jupiter,2,Mercury,Scorpio,"26°17'18.08""",Jyeshtha,Mercury,3,90,89.739,0.261
+2025-12-26 21:45:00,Aspect,Square,Moon,Aquarius,"26°09'54.71""",Purva Bhadrapada,Jupiter,2,Mercury,Scorpio,"26°18'14.01""",Jyeshtha,Mercury,3,90,89.8613,0.1387
+2025-12-26 22:00:00,Aspect,Square,Moon,Aquarius,"26°18'11.10""",Purva Bhadrapada,Jupiter,2,Mercury,Scorpio,"26°19'09.94""",Jyeshtha,Mercury,3,90,89.9837,0.0163
+2025-12-26 22:15:00,Aspect,Square,Moon,Aquarius,"26°26'27.62""",Purva Bhadrapada,Jupiter,2,Mercury,Scorpio,"26°20'05.87""",Jyeshtha,Mercury,3,90,90.106,0.106
+2025-12-26 22:30:00,Aspect,Square,Moon,Aquarius,"26°34'44.26""",Purva Bhadrapada,Jupiter,2,Mercury,Scorpio,"26°21'01.80""",Jyeshtha,Mercury,3,90,90.2285,0.2285
+2025-12-26 22:45:00,Aspect,Square,Moon,Aquarius,"26°43'01.01""",Purva Bhadrapada,Jupiter,3,Mercury,Scorpio,"26°21'57.74""",Jyeshtha,Mercury,3,90,90.3509,0.3509
+2025-12-26 23:00:00,Aspect,Square,Moon,Aquarius,"26°51'17.90""",Purva Bhadrapada,Jupiter,3,Mercury,Scorpio,"26°22'53.68""",Jyeshtha,Mercury,3,90,90.4734,0.4734
+2025-12-26 23:00:00,Aspect,Trine,Moon,Aquarius,"26°51'17.90""",Purva Bhadrapada,Jupiter,3,Jupiter,Gemini,"27°49'02.14""",Punarvasu,Jupiter,3,120,120.9623,0.9623
+2025-12-26 23:15:00,Aspect,Square,Moon,Aquarius,"26°59'34.90""",Purva Bhadrapada,Jupiter,3,Mercury,Scorpio,"26°23'49.62""",Jyeshtha,Mercury,3,90,90.5959,0.5959
+2025-12-26 23:15:00,Aspect,Trine,Moon,Aquarius,"26°59'34.90""",Purva Bhadrapada,Jupiter,3,Jupiter,Gemini,"27°48'57.47""",Punarvasu,Jupiter,3,120,120.8229,0.8229
+2025-12-26 23:30:00,Aspect,Square,Moon,Aquarius,"27°07'52.03""",Purva Bhadrapada,Jupiter,3,Mercury,Scorpio,"26°24'45.56""",Jyeshtha,Mercury,3,90,90.7185,0.7185
+2025-12-26 23:30:00,Aspect,Trine,Moon,Aquarius,"27°07'52.03""",Purva Bhadrapada,Jupiter,3,Jupiter,Gemini,"27°48'52.80""",Punarvasu,Jupiter,3,120,120.6835,0.6835
+2025-12-26 23:45:00,Aspect,Square,Moon,Aquarius,"27°16'09.28""",Purva Bhadrapada,Jupiter,3,Mercury,Scorpio,"26°25'41.51""",Jyeshtha,Mercury,3,90,90.841,0.841
+2025-12-26 23:45:00,Aspect,Trine,Moon,Aquarius,"27°16'09.28""",Purva Bhadrapada,Jupiter,3,Jupiter,Gemini,"27°48'48.13""",Punarvasu,Jupiter,3,120,120.5441,0.5441

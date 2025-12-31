@@ -1,0 +1,30 @@
+[
+  {
+    "datetime": "2025-12-06 00:00:00",
+    "event": "Ingress",
+    "planet": "Moon",
+    "from_sign": "Taurus",
+    "from_sign_vi": "Kim Ngưu",
+    "to_sign": "Gemini",
+    "to_sign_vi": "Song Tử",
+    "degree": "0°09'08.29\"",
+    "longitude": 60.152303,
+    "nakshatra": "Mrigashira",
+    "nakshatra_lord": "Mars",
+    "pada": 3
+  },
+  {
+    "datetime": "2025-12-06 22:30:00",
+    "event": "Ingress",
+    "planet": "Mercury",
+    "from_sign": "Libra",
+    "from_sign_vi": "Thiên Bình",
+    "to_sign": "Scorpio",
+    "to_sign_vi": "Bọ Cạp",
+    "degree": "0°00'33.08\"",
+    "longitude": 210.009189,
+    "nakshatra": "Vishakha",
+    "nakshatra_lord": "Jupiter",
+    "pada": 4
+  }
+]

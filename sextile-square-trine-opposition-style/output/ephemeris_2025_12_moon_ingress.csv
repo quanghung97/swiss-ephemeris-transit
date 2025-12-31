@@ -1,0 +1,15 @@
+﻿datetime,event,planet,from_sign,from_sign_vi,to_sign,to_sign_vi,degree,longitude,nakshatra,nakshatra_lord,pada
+2025-12-02 01:00:00,Ingress,Moon,Pisces,Song Ngư,Aries,Bạch Dương,"0°07'02.40""",0.117335,Ashwini,Ketu,1
+2025-12-04 00:45:00,Ingress,Moon,Aries,Bạch Dương,Taurus,Kim Ngưu,"0°00'19.19""",30.00533,Krittika,Sun,2
+2025-12-06 00:00:00,Ingress,Moon,Taurus,Kim Ngưu,Gemini,Song Tử,"0°09'08.29""",60.152303,Mrigashira,Mars,3
+2025-12-08 00:15:00,Ingress,Moon,Gemini,Song Tử,Cancer,Cự Giải,"0°03'50.95""",90.064153,Punarvasu,Jupiter,4
+2025-12-10 04:00:00,Ingress,Moon,Cancer,Cự Giải,Leo,Sư Tử,"0°03'56.74""",120.065762,Magha,Ketu,1
+2025-12-12 12:00:00,Ingress,Moon,Leo,Sư Tử,Virgo,Xử Nữ,"0°04'49.72""",150.080477,Uttara Phalguni,Sun,2
+2025-12-14 23:15:00,Ingress,Moon,Virgo,Xử Nữ,Libra,Thiên Bình,"0°01'38.09""",180.027248,Chitra,Mars,3
+2025-12-17 12:00:00,Ingress,Moon,Libra,Thiên Bình,Scorpio,Bọ Cạp,"0°01'42.96""",210.028599,Vishakha,Jupiter,4
+2025-12-20 00:30:00,Ingress,Moon,Scorpio,Bọ Cạp,Sagittarius,Nhân Mã,"0°04'17.10""",240.071418,Mula,Ketu,1
+2025-12-22 11:45:00,Ingress,Moon,Sagittarius,Nhân Mã,Capricorn,Ma Kết,"0°04'04.57""",270.067935,Uttara Ashadha,Sun,2
+2025-12-24 21:30:00,Ingress,Moon,Capricorn,Ma Kết,Aquarius,Bảo Bình,"0°07'07.15""",300.118652,Dhanishta,Mars,3
+2025-12-27 04:45:00,Ingress,Moon,Aquarius,Bảo Bình,Pisces,Song Ngư,"0°02'20.42""",330.039004,Purva Bhadrapada,Jupiter,4
+2025-12-29 09:15:00,Ingress,Moon,Pisces,Song Ngư,Aries,Bạch Dương,"0°02'15.89""",0.037747,Ashwini,Ketu,1
+2025-12-31 11:00:00,Ingress,Moon,Aries,Bạch Dương,Taurus,Kim Ngưu,"0°04'11.48""",30.069856,Krittika,Sun,2

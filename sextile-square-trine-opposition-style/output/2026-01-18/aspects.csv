@@ -1,240 +1,31 @@
-﻿datetime,event,type,planet1,planet1_sign,planet1_degree,planet2,planet2_sign,planet2_degree,exact_angle,difference,orb
-2026-01-18 00:00:00,Aspect,Sextitle,Sun,Capricorn,"3°22'09.08""",Saturn,Pisces,"3°07'22.62""",60,59.7538,0.2462
-2026-01-18 00:00:00,Aspect,Conjunction,Mercury,Capricorn,"0°49'38.64""",Mars,Capricorn,"1°21'32.62""",0,0.5317,0.5317
-2026-01-18 00:15:00,Aspect,Sextitle,Sun,Capricorn,"3°22'47.27""",Saturn,Pisces,"3°07'25.70""",60,59.744,0.256
-2026-01-18 00:15:00,Aspect,Conjunction,Mercury,Capricorn,"0°50'40.27""",Mars,Capricorn,"1°22'01.75""",0,0.5226,0.5226
-2026-01-18 00:30:00,Aspect,Sextitle,Sun,Capricorn,"3°23'25.46""",Saturn,Pisces,"3°07'28.77""",60,59.7343,0.2657
-2026-01-18 00:30:00,Aspect,Conjunction,Mercury,Capricorn,"0°51'41.91""",Mars,Capricorn,"1°22'30.87""",0,0.5136,0.5136
-2026-01-18 00:45:00,Aspect,Sextitle,Sun,Capricorn,"3°24'03.66""",Saturn,Pisces,"3°07'31.85""",60,59.7245,0.2755
-2026-01-18 00:45:00,Aspect,Conjunction,Mercury,Capricorn,"0°52'43.55""",Mars,Capricorn,"1°23'00.00""",0,0.5046,0.5046
-2026-01-18 01:00:00,Aspect,Sextitle,Sun,Capricorn,"3°24'41.85""",Saturn,Pisces,"3°07'34.93""",60,59.7147,0.2853
-2026-01-18 01:00:00,Aspect,Conjunction,Mercury,Capricorn,"0°53'45.20""",Mars,Capricorn,"1°23'29.12""",0,0.4955,0.4955
-2026-01-18 01:15:00,Aspect,Sextitle,Sun,Capricorn,"3°25'20.05""",Saturn,Pisces,"3°07'38.00""",60,59.705,0.295
-2026-01-18 01:15:00,Aspect,Conjunction,Mercury,Capricorn,"0°54'46.84""",Mars,Capricorn,"1°23'58.25""",0,0.4865,0.4865
-2026-01-18 01:30:00,Aspect,Sextitle,Sun,Capricorn,"3°25'58.24""",Saturn,Pisces,"3°07'41.08""",60,59.6952,0.3048
-2026-01-18 01:30:00,Aspect,Conjunction,Mercury,Capricorn,"0°55'48.50""",Mars,Capricorn,"1°24'27.37""",0,0.4775,0.4775
-2026-01-18 01:45:00,Aspect,Sextitle,Sun,Capricorn,"3°26'36.43""",Saturn,Pisces,"3°07'44.16""",60,59.6855,0.3145
-2026-01-18 01:45:00,Aspect,Conjunction,Mercury,Capricorn,"0°56'50.15""",Mars,Capricorn,"1°24'56.50""",0,0.4684,0.4684
-2026-01-18 02:00:00,Aspect,Sextitle,Sun,Capricorn,"3°27'14.63""",Saturn,Pisces,"3°07'47.24""",60,59.6757,0.3243
-2026-01-18 02:00:00,Aspect,Conjunction,Mercury,Capricorn,"0°57'51.81""",Mars,Capricorn,"1°25'25.62""",0,0.4594,0.4594
-2026-01-18 02:15:00,Aspect,Sextitle,Sun,Capricorn,"3°27'52.82""",Saturn,Pisces,"3°07'50.32""",60,59.666,0.334
-2026-01-18 02:15:00,Aspect,Conjunction,Mercury,Capricorn,"0°58'53.47""",Mars,Capricorn,"1°25'54.75""",0,0.4504,0.4504
-2026-01-18 02:30:00,Aspect,Sextitle,Sun,Capricorn,"3°28'31.01""",Saturn,Pisces,"3°07'53.40""",60,59.6562,0.3438
-2026-01-18 02:30:00,Aspect,Conjunction,Mercury,Capricorn,"0°59'55.14""",Mars,Capricorn,"1°26'23.87""",0,0.4413,0.4413
-2026-01-18 02:45:00,Aspect,Sextitle,Sun,Capricorn,"3°29'09.21""",Saturn,Pisces,"3°07'56.48""",60,59.6465,0.3535
-2026-01-18 02:45:00,Aspect,Conjunction,Mercury,Capricorn,"1°00'56.81""",Mars,Capricorn,"1°26'53.00""",0,0.4323,0.4323
-2026-01-18 03:00:00,Aspect,Sextitle,Sun,Capricorn,"3°29'47.40""",Saturn,Pisces,"3°07'59.56""",60,59.6367,0.3633
-2026-01-18 03:00:00,Aspect,Conjunction,Mercury,Capricorn,"1°01'58.48""",Mars,Capricorn,"1°27'22.13""",0,0.4232,0.4232
-2026-01-18 03:15:00,Aspect,Sextitle,Sun,Capricorn,"3°30'25.59""",Saturn,Pisces,"3°08'02.65""",60,59.627,0.373
-2026-01-18 03:15:00,Aspect,Conjunction,Mercury,Capricorn,"1°03'00.16""",Mars,Capricorn,"1°27'51.25""",0,0.4142,0.4142
-2026-01-18 03:30:00,Aspect,Sextitle,Sun,Capricorn,"3°31'03.79""",Saturn,Pisces,"3°08'05.73""",60,59.6172,0.3828
-2026-01-18 03:30:00,Aspect,Conjunction,Mercury,Capricorn,"1°04'01.84""",Mars,Capricorn,"1°28'20.38""",0,0.4051,0.4051
-2026-01-18 03:45:00,Aspect,Sextitle,Sun,Capricorn,"3°31'41.98""",Saturn,Pisces,"3°08'08.81""",60,59.6075,0.3925
-2026-01-18 03:45:00,Aspect,Conjunction,Mercury,Capricorn,"1°05'03.52""",Mars,Capricorn,"1°28'49.51""",0,0.3961,0.3961
-2026-01-18 04:00:00,Aspect,Sextitle,Sun,Capricorn,"3°32'20.17""",Saturn,Pisces,"3°08'11.89""",60,59.5977,0.4023
-2026-01-18 04:00:00,Aspect,Conjunction,Mercury,Capricorn,"1°06'05.21""",Mars,Capricorn,"1°29'18.63""",0,0.3871,0.3871
-2026-01-18 04:15:00,Aspect,Sextitle,Sun,Capricorn,"3°32'58.37""",Saturn,Pisces,"3°08'14.98""",60,59.5879,0.4121
-2026-01-18 04:15:00,Aspect,Conjunction,Mercury,Capricorn,"1°07'06.90""",Mars,Capricorn,"1°29'47.76""",0,0.378,0.378
-2026-01-18 04:30:00,Aspect,Sextitle,Sun,Capricorn,"3°33'36.56""",Saturn,Pisces,"3°08'18.06""",60,59.5782,0.4218
-2026-01-18 04:30:00,Aspect,Conjunction,Mercury,Capricorn,"1°08'08.59""",Mars,Capricorn,"1°30'16.89""",0,0.369,0.369
-2026-01-18 04:45:00,Aspect,Sextitle,Sun,Capricorn,"3°34'14.75""",Saturn,Pisces,"3°08'21.15""",60,59.5684,0.4316
-2026-01-18 04:45:00,Aspect,Conjunction,Mercury,Capricorn,"1°09'10.29""",Mars,Capricorn,"1°30'46.02""",0,0.3599,0.3599
-2026-01-18 05:00:00,Aspect,Sextitle,Sun,Capricorn,"3°34'52.95""",Saturn,Pisces,"3°08'24.23""",60,59.5587,0.4413
-2026-01-18 05:00:00,Aspect,Conjunction,Mercury,Capricorn,"1°10'11.99""",Mars,Capricorn,"1°31'15.14""",0,0.3509,0.3509
-2026-01-18 05:15:00,Aspect,Sextitle,Sun,Capricorn,"3°35'31.14""",Saturn,Pisces,"3°08'27.32""",60,59.5489,0.4511
-2026-01-18 05:15:00,Aspect,Conjunction,Mercury,Capricorn,"1°11'13.70""",Mars,Capricorn,"1°31'44.27""",0,0.3418,0.3418
-2026-01-18 05:30:00,Aspect,Sextitle,Sun,Capricorn,"3°36'09.33""",Saturn,Pisces,"3°08'30.40""",60,59.5392,0.4608
-2026-01-18 05:30:00,Aspect,Conjunction,Mercury,Capricorn,"1°12'15.41""",Mars,Capricorn,"1°32'13.40""",0,0.3328,0.3328
-2026-01-18 05:45:00,Aspect,Sextitle,Sun,Capricorn,"3°36'47.53""",Saturn,Pisces,"3°08'33.49""",60,59.5294,0.4706
-2026-01-18 05:45:00,Aspect,Conjunction,Mercury,Capricorn,"1°13'17.12""",Mars,Capricorn,"1°32'42.53""",0,0.3237,0.3237
-2026-01-18 06:00:00,Aspect,Sextitle,Sun,Capricorn,"3°37'25.72""",Saturn,Pisces,"3°08'36.58""",60,59.5197,0.4803
-2026-01-18 06:00:00,Aspect,Conjunction,Mercury,Capricorn,"1°14'18.83""",Mars,Capricorn,"1°33'11.66""",0,0.3147,0.3147
-2026-01-18 06:15:00,Aspect,Sextitle,Sun,Capricorn,"3°38'03.91""",Saturn,Pisces,"3°08'39.67""",60,59.5099,0.4901
-2026-01-18 06:15:00,Aspect,Conjunction,Mercury,Capricorn,"1°15'20.55""",Mars,Capricorn,"1°33'40.79""",0,0.3056,0.3056
-2026-01-18 06:30:00,Aspect,Sextitle,Sun,Capricorn,"3°38'42.10""",Saturn,Pisces,"3°08'42.76""",60,59.5002,0.4998
-2026-01-18 06:30:00,Aspect,Opposition,Moon,Sagittarius,"23°57'58.84""",Jupiter,Gemini,"24°51'53.30""",180,179.1015,0.8985
-2026-01-18 06:30:00,Aspect,Conjunction,Mercury,Capricorn,"1°16'22.27""",Mars,Capricorn,"1°34'09.91""",0,0.2966,0.2966
-2026-01-18 06:45:00,Aspect,Sextitle,Sun,Capricorn,"3°39'20.30""",Saturn,Pisces,"3°08'45.84""",60,59.4904,0.5096
-2026-01-18 06:45:00,Aspect,Opposition,Moon,Sagittarius,"24°05'41.93""",Jupiter,Gemini,"24°51'48.35""",180,179.2316,0.7684
-2026-01-18 06:45:00,Aspect,Conjunction,Mercury,Capricorn,"1°17'24.00""",Mars,Capricorn,"1°34'39.04""",0,0.2875,0.2875
-2026-01-18 07:00:00,Aspect,Sextitle,Sun,Capricorn,"3°39'58.49""",Saturn,Pisces,"3°08'48.93""",60,59.4807,0.5193
-2026-01-18 07:00:00,Aspect,Opposition,Moon,Sagittarius,"24°13'25.09""",Jupiter,Gemini,"24°51'43.40""",180,179.3616,0.6384
-2026-01-18 07:00:00,Aspect,Conjunction,Mercury,Capricorn,"1°18'25.73""",Mars,Capricorn,"1°35'08.17""",0,0.2785,0.2785
-2026-01-18 07:15:00,Aspect,Sextitle,Sun,Capricorn,"3°40'36.68""",Saturn,Pisces,"3°08'52.02""",60,59.4709,0.5291
-2026-01-18 07:15:00,Aspect,Opposition,Moon,Sagittarius,"24°21'08.31""",Jupiter,Gemini,"24°51'38.45""",180,179.4916,0.5084
-2026-01-18 07:15:00,Aspect,Conjunction,Mercury,Capricorn,"1°19'27.46""",Mars,Capricorn,"1°35'37.30""",0,0.2694,0.2694
-2026-01-18 07:30:00,Aspect,Sextitle,Sun,Capricorn,"3°41'14.87""",Saturn,Pisces,"3°08'55.11""",60,59.4612,0.5388
-2026-01-18 07:30:00,Aspect,Opposition,Moon,Sagittarius,"24°28'51.60""",Jupiter,Gemini,"24°51'33.50""",180,179.6217,0.3783
-2026-01-18 07:30:00,Aspect,Conjunction,Mercury,Capricorn,"1°20'29.19""",Mars,Capricorn,"1°36'06.43""",0,0.2603,0.2603
-2026-01-18 07:45:00,Aspect,Sextitle,Sun,Capricorn,"3°41'53.07""",Saturn,Pisces,"3°08'58.21""",60,59.4514,0.5486
-2026-01-18 07:45:00,Aspect,Opposition,Moon,Sagittarius,"24°36'34.96""",Jupiter,Gemini,"24°51'28.55""",180,179.7518,0.2482
-2026-01-18 07:45:00,Aspect,Conjunction,Mercury,Capricorn,"1°21'30.93""",Mars,Capricorn,"1°36'35.56""",0,0.2513,0.2513
-2026-01-18 08:00:00,Aspect,Sextitle,Sun,Capricorn,"3°42'31.26""",Saturn,Pisces,"3°09'01.30""",60,59.4417,0.5583
-2026-01-18 08:00:00,Aspect,Opposition,Moon,Sagittarius,"24°44'18.39""",Jupiter,Gemini,"24°51'23.60""",180,179.8819,0.1181
-2026-01-18 08:00:00,Aspect,Conjunction,Mercury,Capricorn,"1°22'32.68""",Mars,Capricorn,"1°37'04.69""",0,0.2422,0.2422
-2026-01-18 08:15:00,Aspect,Sextitle,Sun,Capricorn,"3°43'09.45""",Saturn,Pisces,"3°09'04.39""",60,59.4319,0.5681
-2026-01-18 08:15:00,Aspect,Opposition,Moon,Sagittarius,"24°52'01.89""",Jupiter,Gemini,"24°51'18.65""",180,179.988,0.012
-2026-01-18 08:15:00,Aspect,Conjunction,Mercury,Capricorn,"1°23'34.42""",Mars,Capricorn,"1°37'33.82""",0,0.2332,0.2332
-2026-01-18 08:30:00,Aspect,Sextitle,Sun,Capricorn,"3°43'47.64""",Saturn,Pisces,"3°09'07.48""",60,59.4222,0.5778
-2026-01-18 08:30:00,Aspect,Opposition,Moon,Sagittarius,"24°59'45.46""",Jupiter,Gemini,"24°51'13.71""",180,179.8578,0.1422
-2026-01-18 08:30:00,Aspect,Conjunction,Mercury,Capricorn,"1°24'36.17""",Mars,Capricorn,"1°38'02.95""",0,0.2241,0.2241
-2026-01-18 08:45:00,Aspect,Sextitle,Sun,Capricorn,"3°44'25.84""",Saturn,Pisces,"3°09'10.57""",60,59.4124,0.5876
-2026-01-18 08:45:00,Aspect,Opposition,Moon,Sagittarius,"25°07'29.09""",Jupiter,Gemini,"24°51'08.76""",180,179.7277,0.2723
-2026-01-18 08:45:00,Aspect,Conjunction,Mercury,Capricorn,"1°25'37.93""",Mars,Capricorn,"1°38'32.09""",0,0.215,0.215
-2026-01-18 09:00:00,Aspect,Sextitle,Sun,Capricorn,"3°45'04.03""",Saturn,Pisces,"3°09'13.67""",60,59.4027,0.5973
-2026-01-18 09:00:00,Aspect,Opposition,Moon,Sagittarius,"25°15'12.79""",Jupiter,Gemini,"24°51'03.81""",180,179.5975,0.4025
-2026-01-18 09:00:00,Aspect,Conjunction,Mercury,Capricorn,"1°26'39.68""",Mars,Capricorn,"1°39'01.22""",0,0.206,0.206
-2026-01-18 09:15:00,Aspect,Sextitle,Sun,Capricorn,"3°45'42.22""",Saturn,Pisces,"3°09'16.76""",60,59.3929,0.6071
-2026-01-18 09:15:00,Aspect,Opposition,Moon,Sagittarius,"25°22'56.57""",Jupiter,Gemini,"24°50'58.86""",180,179.4673,0.5327
-2026-01-18 09:15:00,Aspect,Conjunction,Mercury,Capricorn,"1°27'41.44""",Mars,Capricorn,"1°39'30.35""",0,0.1969,0.1969
-2026-01-18 09:30:00,Aspect,Sextitle,Sun,Capricorn,"3°46'20.41""",Saturn,Pisces,"3°09'19.86""",60,59.3832,0.6168
-2026-01-18 09:30:00,Aspect,Opposition,Moon,Sagittarius,"25°30'40.41""",Jupiter,Gemini,"24°50'53.92""",180,179.3371,0.6629
-2026-01-18 09:30:00,Aspect,Conjunction,Mercury,Capricorn,"1°28'43.21""",Mars,Capricorn,"1°39'59.48""",0,0.1879,0.1879
-2026-01-18 09:45:00,Aspect,Sextitle,Sun,Capricorn,"3°46'58.60""",Saturn,Pisces,"3°09'22.95""",60,59.3734,0.6266
-2026-01-18 09:45:00,Aspect,Opposition,Moon,Sagittarius,"25°38'24.32""",Jupiter,Gemini,"24°50'48.97""",180,179.2068,0.7932
-2026-01-18 09:45:00,Aspect,Conjunction,Mercury,Capricorn,"1°29'44.97""",Mars,Capricorn,"1°40'28.61""",0,0.1788,0.1788
-2026-01-18 10:00:00,Aspect,Sextitle,Sun,Capricorn,"3°47'36.80""",Saturn,Pisces,"3°09'26.05""",60,59.3637,0.6363
-2026-01-18 10:00:00,Aspect,Opposition,Moon,Sagittarius,"25°46'08.30""",Jupiter,Gemini,"24°50'44.03""",180,179.0766,0.9234
-2026-01-18 10:00:00,Aspect,Conjunction,Mercury,Capricorn,"1°30'46.75""",Mars,Capricorn,"1°40'57.74""",0,0.1697,0.1697
-2026-01-18 10:15:00,Aspect,Sextitle,Sun,Capricorn,"3°48'14.99""",Saturn,Pisces,"3°09'29.14""",60,59.3539,0.6461
-2026-01-18 10:15:00,Aspect,Conjunction,Mercury,Capricorn,"1°31'48.52""",Mars,Capricorn,"1°41'26.87""",0,0.1607,0.1607
-2026-01-18 10:30:00,Aspect,Sextitle,Sun,Capricorn,"3°48'53.18""",Saturn,Pisces,"3°09'32.24""",60,59.3442,0.6558
-2026-01-18 10:30:00,Aspect,Conjunction,Mercury,Capricorn,"1°32'50.30""",Mars,Capricorn,"1°41'56.01""",0,0.1516,0.1516
-2026-01-18 10:45:00,Aspect,Sextitle,Sun,Capricorn,"3°49'31.37""",Saturn,Pisces,"3°09'35.34""",60,59.3344,0.6656
-2026-01-18 10:45:00,Aspect,Conjunction,Mercury,Capricorn,"1°33'52.08""",Mars,Capricorn,"1°42'25.14""",0,0.1425,0.1425
-2026-01-18 11:00:00,Aspect,Sextitle,Sun,Capricorn,"3°50'09.56""",Saturn,Pisces,"3°09'38.43""",60,59.3247,0.6753
-2026-01-18 11:00:00,Aspect,Conjunction,Mercury,Capricorn,"1°34'53.86""",Mars,Capricorn,"1°42'54.27""",0,0.1334,0.1334
-2026-01-18 11:15:00,Aspect,Sextitle,Sun,Capricorn,"3°50'47.76""",Saturn,Pisces,"3°09'41.53""",60,59.3149,0.6851
-2026-01-18 11:15:00,Aspect,Conjunction,Mercury,Capricorn,"1°35'55.65""",Mars,Capricorn,"1°43'23.41""",0,0.1244,0.1244
-2026-01-18 11:30:00,Aspect,Sextitle,Sun,Capricorn,"3°51'25.95""",Saturn,Pisces,"3°09'44.63""",60,59.3052,0.6948
-2026-01-18 11:30:00,Aspect,Conjunction,Mercury,Capricorn,"1°36'57.44""",Mars,Capricorn,"1°43'52.54""",0,0.1153,0.1153
-2026-01-18 11:45:00,Aspect,Sextitle,Sun,Capricorn,"3°52'04.14""",Saturn,Pisces,"3°09'47.73""",60,59.2954,0.7046
-2026-01-18 11:45:00,Aspect,Conjunction,Mercury,Capricorn,"1°37'59.24""",Mars,Capricorn,"1°44'21.67""",0,0.1062,0.1062
-2026-01-18 12:00:00,Aspect,Sextitle,Sun,Capricorn,"3°52'42.33""",Saturn,Pisces,"3°09'50.83""",60,59.2857,0.7143
-2026-01-18 12:00:00,Aspect,Conjunction,Mercury,Capricorn,"1°39'01.04""",Mars,Capricorn,"1°44'50.81""",0,0.0972,0.0972
-2026-01-18 12:15:00,Aspect,Sextitle,Sun,Capricorn,"3°53'20.52""",Saturn,Pisces,"3°09'53.93""",60,59.2759,0.7241
-2026-01-18 12:15:00,Aspect,Conjunction,Mercury,Capricorn,"1°40'02.84""",Mars,Capricorn,"1°45'19.94""",0,0.0881,0.0881
-2026-01-18 12:30:00,Aspect,Sextitle,Sun,Capricorn,"3°53'58.71""",Saturn,Pisces,"3°09'57.03""",60,59.2662,0.7338
-2026-01-18 12:30:00,Aspect,Conjunction,Mercury,Capricorn,"1°41'04.65""",Mars,Capricorn,"1°45'49.07""",0,0.079,0.079
-2026-01-18 12:45:00,Aspect,Sextitle,Sun,Capricorn,"3°54'36.90""",Saturn,Pisces,"3°10'00.13""",60,59.2565,0.7435
-2026-01-18 12:45:00,Aspect,Conjunction,Mercury,Capricorn,"1°42'06.46""",Mars,Capricorn,"1°46'18.21""",0,0.0699,0.0699
-2026-01-18 13:00:00,Aspect,Sextitle,Sun,Capricorn,"3°55'15.10""",Saturn,Pisces,"3°10'03.23""",60,59.2467,0.7533
-2026-01-18 13:00:00,Aspect,Conjunction,Mercury,Capricorn,"1°43'08.27""",Mars,Capricorn,"1°46'47.34""",0,0.0609,0.0609
-2026-01-18 13:15:00,Aspect,Sextitle,Sun,Capricorn,"3°55'53.29""",Saturn,Pisces,"3°10'06.33""",60,59.237,0.763
-2026-01-18 13:15:00,Aspect,Conjunction,Mercury,Capricorn,"1°44'10.08""",Mars,Capricorn,"1°47'16.48""",0,0.0518,0.0518
-2026-01-18 13:30:00,Aspect,Sextitle,Sun,Capricorn,"3°56'31.48""",Saturn,Pisces,"3°10'09.44""",60,59.2272,0.7728
-2026-01-18 13:30:00,Aspect,Conjunction,Mercury,Capricorn,"1°45'11.90""",Mars,Capricorn,"1°47'45.61""",0,0.0427,0.0427
-2026-01-18 13:45:00,Aspect,Sextitle,Sun,Capricorn,"3°57'09.67""",Saturn,Pisces,"3°10'12.54""",60,59.2175,0.7825
-2026-01-18 13:45:00,Aspect,Conjunction,Mercury,Capricorn,"1°46'13.73""",Mars,Capricorn,"1°48'14.75""",0,0.0336,0.0336
-2026-01-18 14:00:00,Aspect,Sextitle,Sun,Capricorn,"3°57'47.86""",Saturn,Pisces,"3°10'15.64""",60,59.2077,0.7923
-2026-01-18 14:00:00,Aspect,Conjunction,Mercury,Capricorn,"1°47'15.56""",Mars,Capricorn,"1°48'43.88""",0,0.0245,0.0245
-2026-01-18 14:15:00,Aspect,Sextitle,Sun,Capricorn,"3°58'26.05""",Saturn,Pisces,"3°10'18.75""",60,59.198,0.802
-2026-01-18 14:15:00,Aspect,Conjunction,Mercury,Capricorn,"1°48'17.39""",Mars,Capricorn,"1°49'13.02""",0,0.0155,0.0155
-2026-01-18 14:30:00,Aspect,Sextitle,Sun,Capricorn,"3°59'04.24""",Saturn,Pisces,"3°10'21.85""",60,59.1882,0.8118
-2026-01-18 14:30:00,Aspect,Conjunction,Mercury,Capricorn,"1°49'19.22""",Mars,Capricorn,"1°49'42.15""",0,0.0064,0.0064
-2026-01-18 14:45:00,Aspect,Sextitle,Sun,Capricorn,"3°59'42.43""",Saturn,Pisces,"3°10'24.95""",60,59.1785,0.8215
-2026-01-18 14:45:00,Aspect,Conjunction,Mercury,Capricorn,"1°50'21.06""",Mars,Capricorn,"1°50'11.29""",0,0.0027,0.0027
-2026-01-18 15:00:00,Aspect,Sextitle,Sun,Capricorn,"4°00'20.62""",Saturn,Pisces,"3°10'28.06""",60,59.1687,0.8313
-2026-01-18 15:00:00,Aspect,Conjunction,Mercury,Capricorn,"1°51'22.90""",Mars,Capricorn,"1°50'40.42""",0,0.0118,0.0118
-2026-01-18 15:15:00,Aspect,Sextitle,Sun,Capricorn,"4°00'58.82""",Saturn,Pisces,"3°10'31.17""",60,59.159,0.841
-2026-01-18 15:15:00,Aspect,Conjunction,Mercury,Capricorn,"1°52'24.74""",Mars,Capricorn,"1°51'09.56""",0,0.0209,0.0209
-2026-01-18 15:30:00,Aspect,Sextitle,Sun,Capricorn,"4°01'37.01""",Saturn,Pisces,"3°10'34.27""",60,59.1492,0.8508
-2026-01-18 15:30:00,Aspect,Conjunction,Mercury,Capricorn,"1°53'26.59""",Mars,Capricorn,"1°51'38.70""",0,0.03,0.03
-2026-01-18 15:45:00,Aspect,Sextitle,Sun,Capricorn,"4°02'15.20""",Saturn,Pisces,"3°10'37.38""",60,59.1395,0.8605
-2026-01-18 15:45:00,Aspect,Conjunction,Mercury,Capricorn,"1°54'28.44""",Mars,Capricorn,"1°52'07.83""",0,0.0391,0.0391
-2026-01-18 16:00:00,Aspect,Sextitle,Sun,Capricorn,"4°02'53.39""",Saturn,Pisces,"3°10'40.49""",60,59.1297,0.8703
-2026-01-18 16:00:00,Aspect,Conjunction,Mercury,Capricorn,"1°55'30.30""",Mars,Capricorn,"1°52'36.97""",0,0.0481,0.0481
-2026-01-18 16:15:00,Aspect,Sextitle,Sun,Capricorn,"4°03'31.58""",Saturn,Pisces,"3°10'43.60""",60,59.12,0.88
-2026-01-18 16:15:00,Aspect,Conjunction,Mercury,Capricorn,"1°56'32.16""",Mars,Capricorn,"1°53'06.11""",0,0.0572,0.0572
-2026-01-18 16:30:00,Aspect,Sextitle,Sun,Capricorn,"4°04'09.77""",Saturn,Pisces,"3°10'46.70""",60,59.1103,0.8897
-2026-01-18 16:30:00,Aspect,Conjunction,Mercury,Capricorn,"1°57'34.02""",Mars,Capricorn,"1°53'35.24""",0,0.0663,0.0663
-2026-01-18 16:45:00,Aspect,Sextitle,Sun,Capricorn,"4°04'47.96""",Saturn,Pisces,"3°10'49.81""",60,59.1005,0.8995
-2026-01-18 16:45:00,Aspect,Conjunction,Mercury,Capricorn,"1°58'35.88""",Mars,Capricorn,"1°54'04.38""",0,0.0754,0.0754
-2026-01-18 17:00:00,Aspect,Sextitle,Sun,Capricorn,"4°05'26.15""",Saturn,Pisces,"3°10'52.92""",60,59.0908,0.9092
-2026-01-18 17:00:00,Aspect,Conjunction,Mercury,Capricorn,"1°59'37.75""",Mars,Capricorn,"1°54'33.52""",0,0.0845,0.0845
-2026-01-18 17:15:00,Aspect,Sextitle,Sun,Capricorn,"4°06'04.34""",Saturn,Pisces,"3°10'56.03""",60,59.081,0.919
-2026-01-18 17:15:00,Aspect,Conjunction,Mercury,Capricorn,"2°00'39.63""",Mars,Capricorn,"1°55'02.66""",0,0.0936,0.0936
-2026-01-18 17:30:00,Aspect,Sextitle,Sun,Capricorn,"4°06'42.53""",Saturn,Pisces,"3°10'59.14""",60,59.0713,0.9287
-2026-01-18 17:30:00,Aspect,Conjunction,Mercury,Capricorn,"2°01'41.50""",Mars,Capricorn,"1°55'31.79""",0,0.1027,0.1027
-2026-01-18 17:45:00,Aspect,Sextitle,Sun,Capricorn,"4°07'20.72""",Saturn,Pisces,"3°11'02.25""",60,59.0615,0.9385
-2026-01-18 17:45:00,Aspect,Conjunction,Mercury,Capricorn,"2°02'43.38""",Mars,Capricorn,"1°56'00.93""",0,0.1118,0.1118
-2026-01-18 18:00:00,Aspect,Sextitle,Sun,Capricorn,"4°07'58.91""",Saturn,Pisces,"3°11'05.36""",60,59.0518,0.9482
-2026-01-18 18:00:00,Aspect,Conjunction,Mercury,Capricorn,"2°03'45.26""",Mars,Capricorn,"1°56'30.07""",0,0.1209,0.1209
-2026-01-18 18:15:00,Aspect,Sextitle,Sun,Capricorn,"4°08'37.10""",Saturn,Pisces,"3°11'08.48""",60,59.042,0.958
-2026-01-18 18:15:00,Aspect,Conjunction,Mercury,Capricorn,"2°04'47.15""",Mars,Capricorn,"1°56'59.21""",0,0.13,0.13
-2026-01-18 18:30:00,Aspect,Sextitle,Sun,Capricorn,"4°09'15.29""",Saturn,Pisces,"3°11'11.59""",60,59.0323,0.9677
-2026-01-18 18:30:00,Aspect,Conjunction,Mercury,Capricorn,"2°05'49.04""",Mars,Capricorn,"1°57'28.35""",0,0.1391,0.1391
-2026-01-18 18:45:00,Aspect,Sextitle,Sun,Capricorn,"4°09'53.48""",Saturn,Pisces,"3°11'14.70""",60,59.0226,0.9774
-2026-01-18 18:45:00,Aspect,Conjunction,Mercury,Capricorn,"2°06'50.94""",Mars,Capricorn,"1°57'57.49""",0,0.1482,0.1482
-2026-01-18 19:00:00,Aspect,Sextitle,Sun,Capricorn,"4°10'31.67""",Saturn,Pisces,"3°11'17.82""",60,59.0128,0.9872
-2026-01-18 19:00:00,Aspect,Conjunction,Mercury,Capricorn,"2°07'52.83""",Mars,Capricorn,"1°58'26.63""",0,0.1573,0.1573
-2026-01-18 19:15:00,Aspect,Sextitle,Sun,Capricorn,"4°11'09.86""",Saturn,Pisces,"3°11'20.93""",60,59.0031,0.9969
-2026-01-18 19:15:00,Aspect,Conjunction,Mercury,Capricorn,"2°08'54.73""",Mars,Capricorn,"1°58'55.77""",0,0.1664,0.1664
-2026-01-18 19:30:00,Aspect,Conjunction,Mercury,Capricorn,"2°09'56.64""",Mars,Capricorn,"1°59'24.91""",0,0.1755,0.1755
-2026-01-18 19:45:00,Aspect,Conjunction,Mercury,Capricorn,"2°10'58.55""",Mars,Capricorn,"1°59'54.04""",0,0.1846,0.1846
-2026-01-18 20:00:00,Aspect,Conjunction,Mercury,Capricorn,"2°12'00.46""",Mars,Capricorn,"2°00'23.18""",0,0.1937,0.1937
-2026-01-18 20:00:00,Aspect,Sextitle,Mercury,Capricorn,"2°12'00.46""",Saturn,Pisces,"3°11'30.27""",60,60.9916,0.9916
-2026-01-18 20:15:00,Aspect,Conjunction,Moon,Capricorn,"1°04'11.27""",Mars,Capricorn,"2°00'52.33""",0,0.9447,0.9447
-2026-01-18 20:15:00,Aspect,Conjunction,Mercury,Capricorn,"2°13'02.37""",Mars,Capricorn,"2°00'52.33""",0,0.2028,0.2028
-2026-01-18 20:15:00,Aspect,Sextitle,Mercury,Capricorn,"2°13'02.37""",Saturn,Pisces,"3°11'33.39""",60,60.9753,0.9753
-2026-01-18 20:30:00,Aspect,Conjunction,Moon,Capricorn,"1°11'58.18""",Mars,Capricorn,"2°01'21.47""",0,0.8231,0.8231
-2026-01-18 20:30:00,Aspect,Conjunction,Mercury,Capricorn,"2°14'04.29""",Mars,Capricorn,"2°01'21.47""",0,0.2119,0.2119
-2026-01-18 20:30:00,Aspect,Sextitle,Mercury,Capricorn,"2°14'04.29""",Saturn,Pisces,"3°11'36.51""",60,60.9589,0.9589
-2026-01-18 20:45:00,Aspect,Conjunction,Moon,Capricorn,"1°19'45.15""",Mercury,Capricorn,"2°15'06.21""",0,0.9225,0.9225
-2026-01-18 20:45:00,Aspect,Conjunction,Moon,Capricorn,"1°19'45.15""",Mars,Capricorn,"2°01'50.61""",0,0.7015,0.7015
-2026-01-18 20:45:00,Aspect,Conjunction,Mercury,Capricorn,"2°15'06.21""",Mars,Capricorn,"2°01'50.61""",0,0.221,0.221
-2026-01-18 20:45:00,Aspect,Sextitle,Mercury,Capricorn,"2°15'06.21""",Saturn,Pisces,"3°11'39.62""",60,60.9426,0.9426
-2026-01-18 21:00:00,Aspect,Conjunction,Moon,Capricorn,"1°27'32.20""",Mercury,Capricorn,"2°16'08.14""",0,0.81,0.81
-2026-01-18 21:00:00,Aspect,Conjunction,Moon,Capricorn,"1°27'32.20""",Mars,Capricorn,"2°02'19.75""",0,0.5799,0.5799
-2026-01-18 21:00:00,Aspect,Conjunction,Mercury,Capricorn,"2°16'08.14""",Mars,Capricorn,"2°02'19.75""",0,0.2301,0.2301
-2026-01-18 21:00:00,Aspect,Sextitle,Mercury,Capricorn,"2°16'08.14""",Saturn,Pisces,"3°11'42.74""",60,60.9263,0.9263
-2026-01-18 21:15:00,Aspect,Conjunction,Moon,Capricorn,"1°35'19.32""",Mercury,Capricorn,"2°17'10.07""",0,0.6974,0.6974
-2026-01-18 21:15:00,Aspect,Conjunction,Moon,Capricorn,"1°35'19.32""",Mars,Capricorn,"2°02'48.89""",0,0.4582,0.4582
-2026-01-18 21:15:00,Aspect,Conjunction,Mercury,Capricorn,"2°17'10.07""",Mars,Capricorn,"2°02'48.89""",0,0.2392,0.2392
-2026-01-18 21:15:00,Aspect,Sextitle,Mercury,Capricorn,"2°17'10.07""",Saturn,Pisces,"3°11'45.86""",60,60.9099,0.9099
-2026-01-18 21:30:00,Aspect,Conjunction,Moon,Capricorn,"1°43'06.51""",Mercury,Capricorn,"2°18'12.00""",0,0.5849,0.5849
-2026-01-18 21:30:00,Aspect,Conjunction,Moon,Capricorn,"1°43'06.51""",Mars,Capricorn,"2°03'18.03""",0,0.3365,0.3365
-2026-01-18 21:30:00,Aspect,Conjunction,Mercury,Capricorn,"2°18'12.00""",Mars,Capricorn,"2°03'18.03""",0,0.2483,0.2483
-2026-01-18 21:30:00,Aspect,Sextitle,Mercury,Capricorn,"2°18'12.00""",Saturn,Pisces,"3°11'48.98""",60,60.8936,0.8936
-2026-01-18 21:45:00,Aspect,Conjunction,Moon,Capricorn,"1°50'53.77""",Mercury,Capricorn,"2°19'13.94""",0,0.4723,0.4723
-2026-01-18 21:45:00,Aspect,Conjunction,Moon,Capricorn,"1°50'53.77""",Mars,Capricorn,"2°03'47.17""",0,0.2148,0.2148
-2026-01-18 21:45:00,Aspect,Conjunction,Mercury,Capricorn,"2°19'13.94""",Mars,Capricorn,"2°03'47.17""",0,0.2574,0.2574
-2026-01-18 21:45:00,Aspect,Sextitle,Mercury,Capricorn,"2°19'13.94""",Saturn,Pisces,"3°11'52.10""",60,60.8773,0.8773
-2026-01-18 22:00:00,Aspect,Conjunction,Moon,Capricorn,"1°58'41.10""",Mercury,Capricorn,"2°20'15.88""",0,0.3597,0.3597
-2026-01-18 22:00:00,Aspect,Conjunction,Moon,Capricorn,"1°58'41.10""",Mars,Capricorn,"2°04'16.31""",0,0.0931,0.0931
-2026-01-18 22:00:00,Aspect,Conjunction,Mercury,Capricorn,"2°20'15.88""",Mars,Capricorn,"2°04'16.31""",0,0.2665,0.2665
-2026-01-18 22:00:00,Aspect,Sextitle,Mercury,Capricorn,"2°20'15.88""",Saturn,Pisces,"3°11'55.22""",60,60.8609,0.8609
-2026-01-18 22:15:00,Aspect,Conjunction,Moon,Capricorn,"2°06'28.50""",Mercury,Capricorn,"2°21'17.82""",0,0.247,0.247
-2026-01-18 22:15:00,Aspect,Conjunction,Moon,Capricorn,"2°06'28.50""",Mars,Capricorn,"2°04'45.45""",0,0.0286,0.0286
-2026-01-18 22:15:00,Aspect,Conjunction,Mercury,Capricorn,"2°21'17.82""",Mars,Capricorn,"2°04'45.45""",0,0.2757,0.2757
-2026-01-18 22:15:00,Aspect,Sextitle,Mercury,Capricorn,"2°21'17.82""",Saturn,Pisces,"3°11'58.34""",60,60.8446,0.8446
-2026-01-18 22:30:00,Aspect,Conjunction,Moon,Capricorn,"2°14'15.97""",Mercury,Capricorn,"2°22'19.77""",0,0.1344,0.1344
-2026-01-18 22:30:00,Aspect,Conjunction,Moon,Capricorn,"2°14'15.97""",Mars,Capricorn,"2°05'14.60""",0,0.1504,0.1504
-2026-01-18 22:30:00,Aspect,Sextitle,Moon,Capricorn,"2°14'15.97""",Saturn,Pisces,"3°12'01.46""",60,60.9626,0.9626
-2026-01-18 22:30:00,Aspect,Conjunction,Mercury,Capricorn,"2°22'19.77""",Mars,Capricorn,"2°05'14.60""",0,0.2848,0.2848
-2026-01-18 22:30:00,Aspect,Sextitle,Mercury,Capricorn,"2°22'19.77""",Saturn,Pisces,"3°12'01.46""",60,60.8282,0.8282
-2026-01-18 22:45:00,Aspect,Conjunction,Moon,Capricorn,"2°22'03.52""",Mercury,Capricorn,"2°23'21.72""",0,0.0217,0.0217
-2026-01-18 22:45:00,Aspect,Conjunction,Moon,Capricorn,"2°22'03.52""",Mars,Capricorn,"2°05'43.74""",0,0.2722,0.2722
-2026-01-18 22:45:00,Aspect,Sextitle,Moon,Capricorn,"2°22'03.52""",Saturn,Pisces,"3°12'04.58""",60,60.8336,0.8336
-2026-01-18 22:45:00,Aspect,Conjunction,Mercury,Capricorn,"2°23'21.72""",Mars,Capricorn,"2°05'43.74""",0,0.2939,0.2939
-2026-01-18 22:45:00,Aspect,Sextitle,Mercury,Capricorn,"2°23'21.72""",Saturn,Pisces,"3°12'04.58""",60,60.8119,0.8119
-2026-01-18 23:00:00,Aspect,Conjunction,Moon,Capricorn,"2°29'51.13""",Mercury,Capricorn,"2°24'23.67""",0,0.091,0.091
-2026-01-18 23:00:00,Aspect,Conjunction,Moon,Capricorn,"2°29'51.13""",Mars,Capricorn,"2°06'12.88""",0,0.394,0.394
-2026-01-18 23:00:00,Aspect,Sextitle,Moon,Capricorn,"2°29'51.13""",Saturn,Pisces,"3°12'07.70""",60,60.7046,0.7046
-2026-01-18 23:00:00,Aspect,Conjunction,Mercury,Capricorn,"2°24'23.67""",Mars,Capricorn,"2°06'12.88""",0,0.303,0.303
-2026-01-18 23:00:00,Aspect,Sextitle,Mercury,Capricorn,"2°24'23.67""",Saturn,Pisces,"3°12'07.70""",60,60.7956,0.7956
-2026-01-18 23:15:00,Aspect,Conjunction,Moon,Capricorn,"2°37'38.81""",Mercury,Capricorn,"2°25'25.63""",0,0.2037,0.2037
-2026-01-18 23:15:00,Aspect,Conjunction,Moon,Capricorn,"2°37'38.81""",Mars,Capricorn,"2°06'42.02""",0,0.5158,0.5158
-2026-01-18 23:15:00,Aspect,Sextitle,Moon,Capricorn,"2°37'38.81""",Saturn,Pisces,"3°12'10.82""",60,60.5756,0.5756
-2026-01-18 23:15:00,Aspect,Conjunction,Mercury,Capricorn,"2°25'25.63""",Mars,Capricorn,"2°06'42.02""",0,0.3121,0.3121
-2026-01-18 23:15:00,Aspect,Sextitle,Mercury,Capricorn,"2°25'25.63""",Saturn,Pisces,"3°12'10.82""",60,60.7792,0.7792
-2026-01-18 23:30:00,Aspect,Conjunction,Moon,Capricorn,"2°45'26.57""",Mercury,Capricorn,"2°26'27.59""",0,0.3164,0.3164
-2026-01-18 23:30:00,Aspect,Conjunction,Moon,Capricorn,"2°45'26.57""",Mars,Capricorn,"2°07'11.17""",0,0.6376,0.6376
-2026-01-18 23:30:00,Aspect,Sextitle,Moon,Capricorn,"2°45'26.57""",Saturn,Pisces,"3°12'13.94""",60,60.4465,0.4465
-2026-01-18 23:30:00,Aspect,Conjunction,Mercury,Capricorn,"2°26'27.59""",Mars,Capricorn,"2°07'11.17""",0,0.3212,0.3212
-2026-01-18 23:30:00,Aspect,Sextitle,Mercury,Capricorn,"2°26'27.59""",Saturn,Pisces,"3°12'13.94""",60,60.7629,0.7629
-2026-01-18 23:45:00,Aspect,Conjunction,Moon,Capricorn,"2°53'14.39""",Mercury,Capricorn,"2°27'29.56""",0,0.4291,0.4291
-2026-01-18 23:45:00,Aspect,Conjunction,Moon,Capricorn,"2°53'14.39""",Mars,Capricorn,"2°07'40.31""",0,0.7595,0.7595
-2026-01-18 23:45:00,Aspect,Sextitle,Moon,Capricorn,"2°53'14.39""",Saturn,Pisces,"3°12'17.07""",60,60.3174,0.3174
-2026-01-18 23:45:00,Aspect,Conjunction,Mercury,Capricorn,"2°27'29.56""",Mars,Capricorn,"2°07'40.31""",0,0.3303,0.3303
-2026-01-18 23:45:00,Aspect,Sextitle,Mercury,Capricorn,"2°27'29.56""",Saturn,Pisces,"3°12'17.07""",60,60.7465,0.7465
+﻿datetime,event,aspecting_planet,aspecting_sign,aspecting_sign_vi,aspecting_degree,aspecting_nakshatra,aspecting_nakshatra_lord,aspecting_pada,aspected_planet,aspected_sign,aspected_sign_vi,aspected_degree,aspected_nakshatra,aspected_nakshatra_lord,aspected_pada,aspect_type,aspect_house,target_angle,actual_angle,orb,strength
+2026-01-18 06:30:00,Parashara_Drishti,Moon,Sagittarius,Nhân Mã,"23°57'58.84""",Purva Ashadha,Venus,4,Jupiter,Gemini,Song Tử,"24°51'53.30""",Punarvasu,Jupiter,2,7th House,7,180,180.8985,0.8985,Standard
+2026-01-18 06:30:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"24°51'53.30""",Punarvasu,Jupiter,2,Moon,Sagittarius,Nhân Mã,"23°57'58.84""",Purva Ashadha,Venus,4,7th House,7,180,179.1015,0.8985,Weak
+2026-01-18 06:45:00,Parashara_Drishti,Moon,Sagittarius,Nhân Mã,"24°05'41.93""",Purva Ashadha,Venus,4,Jupiter,Gemini,Song Tử,"24°51'48.35""",Punarvasu,Jupiter,2,7th House,7,180,180.7684,0.7684,Standard
+2026-01-18 06:45:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"24°51'48.35""",Punarvasu,Jupiter,2,Moon,Sagittarius,Nhân Mã,"24°05'41.93""",Purva Ashadha,Venus,4,7th House,7,180,179.2316,0.7684,Weak
+2026-01-18 07:00:00,Parashara_Drishti,Moon,Sagittarius,Nhân Mã,"24°13'25.09""",Purva Ashadha,Venus,4,Jupiter,Gemini,Song Tử,"24°51'43.40""",Punarvasu,Jupiter,2,7th House,7,180,180.6384,0.6384,Standard
+2026-01-18 07:00:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"24°51'43.40""",Punarvasu,Jupiter,2,Moon,Sagittarius,Nhân Mã,"24°13'25.09""",Purva Ashadha,Venus,4,7th House,7,180,179.3616,0.6384,Weak
+2026-01-18 07:15:00,Parashara_Drishti,Moon,Sagittarius,Nhân Mã,"24°21'08.31""",Purva Ashadha,Venus,4,Jupiter,Gemini,Song Tử,"24°51'38.45""",Punarvasu,Jupiter,2,7th House,7,180,180.5084,0.5084,Standard
+2026-01-18 07:15:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"24°51'38.45""",Punarvasu,Jupiter,2,Moon,Sagittarius,Nhân Mã,"24°21'08.31""",Purva Ashadha,Venus,4,7th House,7,180,179.4916,0.5084,Weak
+2026-01-18 07:30:00,Parashara_Drishti,Moon,Sagittarius,Nhân Mã,"24°28'51.60""",Purva Ashadha,Venus,4,Jupiter,Gemini,Song Tử,"24°51'33.50""",Punarvasu,Jupiter,2,7th House,7,180,180.3783,0.3783,Standard
+2026-01-18 07:30:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"24°51'33.50""",Punarvasu,Jupiter,2,Moon,Sagittarius,Nhân Mã,"24°28'51.60""",Purva Ashadha,Venus,4,7th House,7,180,179.6217,0.3783,Weak
+2026-01-18 07:45:00,Parashara_Drishti,Moon,Sagittarius,Nhân Mã,"24°36'34.96""",Purva Ashadha,Venus,4,Jupiter,Gemini,Song Tử,"24°51'28.55""",Punarvasu,Jupiter,2,7th House,7,180,180.2482,0.2482,Standard
+2026-01-18 07:45:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"24°51'28.55""",Punarvasu,Jupiter,2,Moon,Sagittarius,Nhân Mã,"24°36'34.96""",Purva Ashadha,Venus,4,7th House,7,180,179.7518,0.2482,Weak
+2026-01-18 08:00:00,Parashara_Drishti,Moon,Sagittarius,Nhân Mã,"24°44'18.39""",Purva Ashadha,Venus,4,Jupiter,Gemini,Song Tử,"24°51'23.60""",Punarvasu,Jupiter,2,7th House,7,180,180.1181,0.1181,Standard
+2026-01-18 08:00:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"24°51'23.60""",Punarvasu,Jupiter,2,Moon,Sagittarius,Nhân Mã,"24°44'18.39""",Purva Ashadha,Venus,4,7th House,7,180,179.8819,0.1181,Weak
+2026-01-18 08:15:00,Parashara_Drishti,Moon,Sagittarius,Nhân Mã,"24°52'01.89""",Purva Ashadha,Venus,4,Jupiter,Gemini,Song Tử,"24°51'18.65""",Punarvasu,Jupiter,2,7th House,7,180,179.988,0.012,Standard
+2026-01-18 08:15:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"24°51'18.65""",Punarvasu,Jupiter,2,Moon,Sagittarius,Nhân Mã,"24°52'01.89""",Purva Ashadha,Venus,4,7th House,7,180,180.012,0.012,Weak
+2026-01-18 08:30:00,Parashara_Drishti,Moon,Sagittarius,Nhân Mã,"24°59'45.46""",Purva Ashadha,Venus,4,Jupiter,Gemini,Song Tử,"24°51'13.71""",Punarvasu,Jupiter,2,7th House,7,180,179.8578,0.1422,Standard
+2026-01-18 08:30:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"24°51'13.71""",Punarvasu,Jupiter,2,Moon,Sagittarius,Nhân Mã,"24°59'45.46""",Purva Ashadha,Venus,4,7th House,7,180,180.1422,0.1422,Weak
+2026-01-18 08:45:00,Parashara_Drishti,Moon,Sagittarius,Nhân Mã,"25°07'29.09""",Purva Ashadha,Venus,4,Jupiter,Gemini,Song Tử,"24°51'08.76""",Punarvasu,Jupiter,2,7th House,7,180,179.7277,0.2723,Standard
+2026-01-18 08:45:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"24°51'08.76""",Punarvasu,Jupiter,2,Moon,Sagittarius,Nhân Mã,"25°07'29.09""",Purva Ashadha,Venus,4,7th House,7,180,180.2723,0.2723,Weak
+2026-01-18 09:00:00,Parashara_Drishti,Moon,Sagittarius,Nhân Mã,"25°15'12.79""",Purva Ashadha,Venus,4,Jupiter,Gemini,Song Tử,"24°51'03.81""",Punarvasu,Jupiter,2,7th House,7,180,179.5975,0.4025,Standard
+2026-01-18 09:00:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"24°51'03.81""",Punarvasu,Jupiter,2,Moon,Sagittarius,Nhân Mã,"25°15'12.79""",Purva Ashadha,Venus,4,7th House,7,180,180.4025,0.4025,Weak
+2026-01-18 09:15:00,Parashara_Drishti,Moon,Sagittarius,Nhân Mã,"25°22'56.57""",Purva Ashadha,Venus,4,Jupiter,Gemini,Song Tử,"24°50'58.86""",Punarvasu,Jupiter,2,7th House,7,180,179.4673,0.5327,Standard
+2026-01-18 09:15:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"24°50'58.86""",Punarvasu,Jupiter,2,Moon,Sagittarius,Nhân Mã,"25°22'56.57""",Purva Ashadha,Venus,4,7th House,7,180,180.5327,0.5327,Weak
+2026-01-18 09:30:00,Parashara_Drishti,Moon,Sagittarius,Nhân Mã,"25°30'40.41""",Purva Ashadha,Venus,4,Jupiter,Gemini,Song Tử,"24°50'53.92""",Punarvasu,Jupiter,2,7th House,7,180,179.3371,0.6629,Standard
+2026-01-18 09:30:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"24°50'53.92""",Punarvasu,Jupiter,2,Moon,Sagittarius,Nhân Mã,"25°30'40.41""",Purva Ashadha,Venus,4,7th House,7,180,180.6629,0.6629,Weak
+2026-01-18 09:45:00,Parashara_Drishti,Moon,Sagittarius,Nhân Mã,"25°38'24.32""",Purva Ashadha,Venus,4,Jupiter,Gemini,Song Tử,"24°50'48.97""",Punarvasu,Jupiter,2,7th House,7,180,179.2068,0.7932,Standard
+2026-01-18 09:45:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"24°50'48.97""",Punarvasu,Jupiter,2,Moon,Sagittarius,Nhân Mã,"25°38'24.32""",Purva Ashadha,Venus,4,7th House,7,180,180.7932,0.7932,Weak
+2026-01-18 10:00:00,Parashara_Drishti,Moon,Sagittarius,Nhân Mã,"25°46'08.30""",Purva Ashadha,Venus,4,Jupiter,Gemini,Song Tử,"24°50'44.03""",Punarvasu,Jupiter,2,7th House,7,180,179.0766,0.9234,Standard
+2026-01-18 10:00:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"24°50'44.03""",Punarvasu,Jupiter,2,Moon,Sagittarius,Nhân Mã,"25°46'08.30""",Purva Ashadha,Venus,4,7th House,7,180,180.9234,0.9234,Weak

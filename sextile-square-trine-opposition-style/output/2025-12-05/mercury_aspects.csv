@@ -1,0 +1,23 @@
+﻿datetime,event,type,planet1,planet1_sign,planet1_degree,planet1_nakshatra,planet1_nakshatra_lord,planet1_pada,planet2,planet2_sign,planet2_degree,planet2_nakshatra,planet2_nakshatra_lord,planet2_pada,exact_angle,difference,orb
+2025-12-05 18:30:00,Aspect,Trine,Mercury,Libra,"29°00'37.54""",Vishakha,Jupiter,3,Jupiter,Cancer,"0°00'04.95""",Punarvasu,Jupiter,4,120,119.0091,0.9909
+2025-12-05 18:45:00,Aspect,Trine,Mercury,Libra,"29°01'07.59""",Vishakha,Jupiter,3,Jupiter,Cancer,"0°00'02.08""",Punarvasu,Jupiter,4,120,119.0182,0.9818
+2025-12-05 19:00:00,Aspect,Trine,Mercury,Libra,"29°01'37.68""",Vishakha,Jupiter,3,Jupiter,Gemini,"29°59'59.21""",Punarvasu,Jupiter,3,120,119.0274,0.9726
+2025-12-05 19:15:00,Aspect,Trine,Mercury,Libra,"29°02'07.81""",Vishakha,Jupiter,3,Jupiter,Gemini,"29°59'56.34""",Punarvasu,Jupiter,3,120,119.0365,0.9635
+2025-12-05 19:30:00,Aspect,Trine,Mercury,Libra,"29°02'37.98""",Vishakha,Jupiter,3,Jupiter,Gemini,"29°59'53.46""",Punarvasu,Jupiter,3,120,119.0457,0.9543
+2025-12-05 19:45:00,Aspect,Trine,Mercury,Libra,"29°03'08.19""",Vishakha,Jupiter,3,Jupiter,Gemini,"29°59'50.59""",Punarvasu,Jupiter,3,120,119.0549,0.9451
+2025-12-05 20:00:00,Aspect,Trine,Mercury,Libra,"29°03'38.43""",Vishakha,Jupiter,3,Jupiter,Gemini,"29°59'47.72""",Punarvasu,Jupiter,3,120,119.0641,0.9359
+2025-12-05 20:15:00,Aspect,Trine,Mercury,Libra,"29°04'08.71""",Vishakha,Jupiter,3,Jupiter,Gemini,"29°59'44.84""",Punarvasu,Jupiter,3,120,119.0733,0.9267
+2025-12-05 20:30:00,Aspect,Trine,Mercury,Libra,"29°04'39.03""",Vishakha,Jupiter,3,Jupiter,Gemini,"29°59'41.96""",Punarvasu,Jupiter,3,120,119.0825,0.9175
+2025-12-05 20:45:00,Aspect,Trine,Mercury,Libra,"29°05'09.40""",Vishakha,Jupiter,3,Jupiter,Gemini,"29°59'39.09""",Punarvasu,Jupiter,3,120,119.0918,0.9082
+2025-12-05 21:00:00,Aspect,Trine,Mercury,Libra,"29°05'39.79""",Vishakha,Jupiter,3,Jupiter,Gemini,"29°59'36.21""",Punarvasu,Jupiter,3,120,119.101,0.899
+2025-12-05 21:15:00,Aspect,Trine,Mercury,Libra,"29°06'10.23""",Vishakha,Jupiter,3,Jupiter,Gemini,"29°59'33.33""",Punarvasu,Jupiter,3,120,119.1103,0.8897
+2025-12-05 21:30:00,Aspect,Trine,Mercury,Libra,"29°06'40.71""",Vishakha,Jupiter,3,Jupiter,Gemini,"29°59'30.44""",Punarvasu,Jupiter,3,120,119.1195,0.8805
+2025-12-05 21:45:00,Aspect,Trine,Mercury,Libra,"29°07'11.22""",Vishakha,Jupiter,3,Jupiter,Gemini,"29°59'27.56""",Punarvasu,Jupiter,3,120,119.1288,0.8712
+2025-12-05 22:00:00,Aspect,Trine,Mercury,Libra,"29°07'41.77""",Vishakha,Jupiter,3,Jupiter,Gemini,"29°59'24.68""",Punarvasu,Jupiter,3,120,119.1381,0.8619
+2025-12-05 22:15:00,Aspect,Trine,Mercury,Libra,"29°08'12.36""",Vishakha,Jupiter,3,Jupiter,Gemini,"29°59'21.79""",Punarvasu,Jupiter,3,120,119.1474,0.8526
+2025-12-05 22:30:00,Aspect,Trine,Mercury,Libra,"29°08'42.99""",Vishakha,Jupiter,3,Jupiter,Gemini,"29°59'18.91""",Punarvasu,Jupiter,3,120,119.1567,0.8433
+2025-12-05 22:45:00,Aspect,Trine,Mercury,Libra,"29°09'13.65""",Vishakha,Jupiter,3,Jupiter,Gemini,"29°59'16.02""",Punarvasu,Jupiter,3,120,119.166,0.834
+2025-12-05 23:00:00,Aspect,Trine,Mercury,Libra,"29°09'44.36""",Vishakha,Jupiter,3,Jupiter,Gemini,"29°59'13.13""",Punarvasu,Jupiter,3,120,119.1753,0.8247
+2025-12-05 23:15:00,Aspect,Trine,Mercury,Libra,"29°10'15.10""",Vishakha,Jupiter,3,Jupiter,Gemini,"29°59'10.24""",Punarvasu,Jupiter,3,120,119.1847,0.8153
+2025-12-05 23:30:00,Aspect,Trine,Mercury,Libra,"29°10'45.88""",Vishakha,Jupiter,3,Jupiter,Gemini,"29°59'07.35""",Punarvasu,Jupiter,3,120,119.194,0.806
+2025-12-05 23:45:00,Aspect,Trine,Mercury,Libra,"29°11'16.70""",Vishakha,Jupiter,3,Jupiter,Gemini,"29°59'04.46""",Punarvasu,Jupiter,3,120,119.2034,0.7966

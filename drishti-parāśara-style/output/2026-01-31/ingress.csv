@@ -1,2 +1,2 @@
-﻿datetime,event,planet,from_sign,to_sign,degree,longitude
-2026-01-31 21:45:00,Ingress,Moon,Gemini,Cancer,"0°08'14.40""",90.137334
+﻿datetime,event,planet,from_sign,from_sign_vi,to_sign,to_sign_vi,degree,longitude,nakshatra,nakshatra_lord,pada
+2026-01-31 21:45:00,Ingress,Moon,Gemini,Song Tử,Cancer,Cự Giải,"0°08'14.40""",90.137334,Punarvasu,Jupiter,4

@@ -1,0 +1,27 @@
+﻿datetime,event,type,planet1,planet1_sign,planet1_degree,planet1_nakshatra,planet1_nakshatra_lord,planet1_pada,planet2,planet2_sign,planet2_degree,planet2_nakshatra,planet2_nakshatra_lord,planet2_pada,exact_angle,difference,orb
+2025-12-31 05:00:00,Aspect,Sextitle,Moon,Aries,"26°22'27.81""",Bharani,Venus,4,Jupiter,Gemini,"27°16'36.62""",Punarvasu,Jupiter,3,60,60.9024,0.9024
+2025-12-31 05:15:00,Aspect,Sextitle,Moon,Aries,"26°31'40.89""",Bharani,Venus,4,Jupiter,Gemini,"27°16'31.76""",Punarvasu,Jupiter,3,60,60.7475,0.7475
+2025-12-31 05:30:00,Aspect,Sextitle,Moon,Aries,"26°40'54.08""",Krittika,Sun,1,Jupiter,Gemini,"27°16'26.89""",Punarvasu,Jupiter,3,60,60.5924,0.5924
+2025-12-31 05:45:00,Aspect,Sextitle,Moon,Aries,"26°50'07.39""",Krittika,Sun,1,Jupiter,Gemini,"27°16'22.03""",Punarvasu,Jupiter,3,60,60.4374,0.4374
+2025-12-31 06:00:00,Aspect,Sextitle,Moon,Aries,"26°59'20.80""",Krittika,Sun,1,Jupiter,Gemini,"27°16'17.17""",Punarvasu,Jupiter,3,60,60.2823,0.2823
+2025-12-31 06:15:00,Aspect,Sextitle,Moon,Aries,"27°08'34.33""",Krittika,Sun,1,Jupiter,Gemini,"27°16'12.31""",Punarvasu,Jupiter,3,60,60.1272,0.1272
+2025-12-31 06:30:00,Aspect,Sextitle,Moon,Aries,"27°17'47.96""",Krittika,Sun,1,Jupiter,Gemini,"27°16'07.45""",Punarvasu,Jupiter,3,60,59.9721,0.0279
+2025-12-31 06:45:00,Aspect,Sextitle,Moon,Aries,"27°27'01.70""",Krittika,Sun,1,Jupiter,Gemini,"27°16'02.59""",Punarvasu,Jupiter,3,60,59.8169,0.1831
+2025-12-31 07:00:00,Aspect,Sextitle,Moon,Aries,"27°36'15.55""",Krittika,Sun,1,Jupiter,Gemini,"27°15'57.72""",Punarvasu,Jupiter,3,60,59.6617,0.3383
+2025-12-31 07:15:00,Aspect,Sextitle,Moon,Aries,"27°45'29.50""",Krittika,Sun,1,Jupiter,Gemini,"27°15'52.86""",Punarvasu,Jupiter,3,60,59.5065,0.4935
+2025-12-31 07:30:00,Aspect,Sextitle,Moon,Aries,"27°54'43.57""",Krittika,Sun,1,Jupiter,Gemini,"27°15'48.00""",Punarvasu,Jupiter,3,60,59.3512,0.6488
+2025-12-31 07:45:00,Aspect,Sextitle,Moon,Aries,"28°03'57.74""",Krittika,Sun,1,Jupiter,Gemini,"27°15'43.13""",Punarvasu,Jupiter,3,60,59.1959,0.8041
+2025-12-31 08:00:00,Aspect,Sextitle,Moon,Aries,"28°13'12.01""",Krittika,Sun,1,Jupiter,Gemini,"27°15'38.27""",Punarvasu,Jupiter,3,60,59.0406,0.9594
+2025-12-31 12:30:00,Aspect,Sextitle,Moon,Taurus,"0°59'46.71""",Krittika,Sun,2,Saturn,Pisces,"1°54'03.68""",Purva Bhadrapada,Jupiter,4,60,59.0953,0.9047
+2025-12-31 12:45:00,Aspect,Sextitle,Moon,Taurus,"1°09'02.92""",Krittika,Sun,2,Saturn,Pisces,"1°54'05.82""",Purva Bhadrapada,Jupiter,4,60,59.2492,0.7508
+2025-12-31 13:00:00,Aspect,Sextitle,Moon,Taurus,"1°18'19.24""",Krittika,Sun,2,Saturn,Pisces,"1°54'07.96""",Purva Bhadrapada,Jupiter,4,60,59.4031,0.5969
+2025-12-31 13:15:00,Aspect,Sextitle,Moon,Taurus,"1°27'35.65""",Krittika,Sun,2,Saturn,Pisces,"1°54'10.10""",Purva Bhadrapada,Jupiter,4,60,59.5571,0.4429
+2025-12-31 13:30:00,Aspect,Sextitle,Moon,Taurus,"1°36'52.16""",Krittika,Sun,2,Saturn,Pisces,"1°54'12.25""",Purva Bhadrapada,Jupiter,4,60,59.7111,0.2889
+2025-12-31 13:45:00,Aspect,Sextitle,Moon,Taurus,"1°46'08.76""",Krittika,Sun,2,Saturn,Pisces,"1°54'14.39""",Purva Bhadrapada,Jupiter,4,60,59.8651,0.1349
+2025-12-31 14:00:00,Aspect,Sextitle,Moon,Taurus,"1°55'25.46""",Krittika,Sun,2,Saturn,Pisces,"1°54'16.53""",Purva Bhadrapada,Jupiter,4,60,60.0191,0.0191
+2025-12-31 14:15:00,Aspect,Sextitle,Moon,Taurus,"2°04'42.26""",Krittika,Sun,2,Saturn,Pisces,"1°54'18.67""",Purva Bhadrapada,Jupiter,4,60,60.1732,0.1732
+2025-12-31 14:30:00,Aspect,Sextitle,Moon,Taurus,"2°13'59.15""",Krittika,Sun,2,Saturn,Pisces,"1°54'20.82""",Purva Bhadrapada,Jupiter,4,60,60.3273,0.3273
+2025-12-31 14:45:00,Aspect,Sextitle,Moon,Taurus,"2°23'16.13""",Krittika,Sun,2,Saturn,Pisces,"1°54'22.96""",Purva Bhadrapada,Jupiter,4,60,60.4814,0.4814
+2025-12-31 15:00:00,Aspect,Sextitle,Moon,Taurus,"2°32'33.21""",Krittika,Sun,2,Saturn,Pisces,"1°54'25.10""",Purva Bhadrapada,Jupiter,4,60,60.6356,0.6356
+2025-12-31 15:15:00,Aspect,Sextitle,Moon,Taurus,"2°41'50.38""",Krittika,Sun,2,Saturn,Pisces,"1°54'27.25""",Purva Bhadrapada,Jupiter,4,60,60.7898,0.7898
+2025-12-31 15:30:00,Aspect,Sextitle,Moon,Taurus,"2°51'07.65""",Krittika,Sun,2,Saturn,Pisces,"1°54'29.40""",Purva Bhadrapada,Jupiter,4,60,60.944,0.944

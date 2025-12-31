@@ -1,17 +1,17 @@
-﻿datetime,event,type,planet1,planet1_sign,planet1_degree,planet2,planet2_sign,planet2_degree,exact_angle,difference,orb
-2026-01-16 11:30:00,Aspect,Square,Moon,Sagittarius,"2°06'33.06""",Saturn,Pisces,"2°59'58.99""",90,90.8905,0.8905
-2026-01-16 11:45:00,Aspect,Square,Moon,Sagittarius,"2°14'05.38""",Saturn,Pisces,"3°00'01.99""",90,90.7657,0.7657
-2026-01-16 12:00:00,Aspect,Square,Moon,Sagittarius,"2°21'37.76""",Saturn,Pisces,"3°00'04.99""",90,90.6409,0.6409
-2026-01-16 12:15:00,Aspect,Square,Moon,Sagittarius,"2°29'10.19""",Saturn,Pisces,"3°00'08.00""",90,90.5161,0.5161
-2026-01-16 12:30:00,Aspect,Square,Moon,Sagittarius,"2°36'42.67""",Saturn,Pisces,"3°00'11.00""",90,90.3912,0.3912
-2026-01-16 12:45:00,Aspect,Square,Moon,Sagittarius,"2°44'15.21""",Saturn,Pisces,"3°00'14.00""",90,90.2663,0.2663
-2026-01-16 13:00:00,Aspect,Square,Moon,Sagittarius,"2°51'47.81""",Saturn,Pisces,"3°00'17.01""",90,90.1414,0.1414
-2026-01-16 13:15:00,Aspect,Square,Moon,Sagittarius,"2°59'20.46""",Saturn,Pisces,"3°00'20.01""",90,90.0165,0.0165
-2026-01-16 13:30:00,Aspect,Square,Moon,Sagittarius,"3°06'53.17""",Saturn,Pisces,"3°00'23.02""",90,89.8916,0.1084
-2026-01-16 13:45:00,Aspect,Square,Moon,Sagittarius,"3°14'25.93""",Saturn,Pisces,"3°00'26.02""",90,89.7667,0.2333
-2026-01-16 14:00:00,Aspect,Square,Moon,Sagittarius,"3°21'58.75""",Saturn,Pisces,"3°00'29.03""",90,89.6417,0.3583
-2026-01-16 14:15:00,Aspect,Square,Moon,Sagittarius,"3°29'31.62""",Saturn,Pisces,"3°00'32.04""",90,89.5168,0.4832
-2026-01-16 14:30:00,Aspect,Square,Moon,Sagittarius,"3°37'04.55""",Saturn,Pisces,"3°00'35.04""",90,89.3918,0.6082
-2026-01-16 14:45:00,Aspect,Square,Moon,Sagittarius,"3°44'37.54""",Saturn,Pisces,"3°00'38.05""",90,89.2668,0.7332
-2026-01-16 15:00:00,Aspect,Square,Moon,Sagittarius,"3°52'10.58""",Saturn,Pisces,"3°00'41.06""",90,89.1418,0.8582
-2026-01-16 15:15:00,Aspect,Square,Moon,Sagittarius,"3°59'43.67""",Saturn,Pisces,"3°00'44.07""",90,89.0168,0.9832
+﻿datetime,event,aspecting_planet,aspecting_sign,aspecting_sign_vi,aspecting_degree,aspecting_nakshatra,aspecting_nakshatra_lord,aspecting_pada,aspected_planet,aspected_sign,aspected_sign_vi,aspected_degree,aspected_nakshatra,aspected_nakshatra_lord,aspected_pada,aspect_type,aspect_house,target_angle,actual_angle,orb,strength
+2026-01-16 11:30:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"2°59'58.99""",Purva Bhadrapada,Jupiter,4,Moon,Sagittarius,Nhân Mã,"2°06'33.06""",Mula,Ketu,1,10th House,10,270,269.1095,0.8905,Strong
+2026-01-16 11:45:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"3°00'01.99""",Purva Bhadrapada,Jupiter,4,Moon,Sagittarius,Nhân Mã,"2°14'05.38""",Mula,Ketu,1,10th House,10,270,269.2343,0.7657,Strong
+2026-01-16 12:00:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"3°00'04.99""",Purva Bhadrapada,Jupiter,4,Moon,Sagittarius,Nhân Mã,"2°21'37.76""",Mula,Ketu,1,10th House,10,270,269.3591,0.6409,Strong
+2026-01-16 12:15:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"3°00'08.00""",Purva Bhadrapada,Jupiter,4,Moon,Sagittarius,Nhân Mã,"2°29'10.19""",Mula,Ketu,1,10th House,10,270,269.4839,0.5161,Strong
+2026-01-16 12:30:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"3°00'11.00""",Purva Bhadrapada,Jupiter,4,Moon,Sagittarius,Nhân Mã,"2°36'42.67""",Mula,Ketu,1,10th House,10,270,269.6088,0.3912,Strong
+2026-01-16 12:45:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"3°00'14.00""",Purva Bhadrapada,Jupiter,4,Moon,Sagittarius,Nhân Mã,"2°44'15.21""",Mula,Ketu,1,10th House,10,270,269.7337,0.2663,Strong
+2026-01-16 13:00:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"3°00'17.01""",Purva Bhadrapada,Jupiter,4,Moon,Sagittarius,Nhân Mã,"2°51'47.81""",Mula,Ketu,1,10th House,10,270,269.8586,0.1414,Strong
+2026-01-16 13:15:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"3°00'20.01""",Purva Bhadrapada,Jupiter,4,Moon,Sagittarius,Nhân Mã,"2°59'20.46""",Mula,Ketu,1,10th House,10,270,269.9835,0.0165,Strong
+2026-01-16 13:30:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"3°00'23.02""",Purva Bhadrapada,Jupiter,4,Moon,Sagittarius,Nhân Mã,"3°06'53.17""",Mula,Ketu,1,10th House,10,270,270.1084,0.1084,Strong
+2026-01-16 13:45:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"3°00'26.02""",Purva Bhadrapada,Jupiter,4,Moon,Sagittarius,Nhân Mã,"3°14'25.93""",Mula,Ketu,1,10th House,10,270,270.2333,0.2333,Strong
+2026-01-16 14:00:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"3°00'29.03""",Purva Bhadrapada,Jupiter,4,Moon,Sagittarius,Nhân Mã,"3°21'58.75""",Mula,Ketu,2,10th House,10,270,270.3583,0.3583,Strong
+2026-01-16 14:15:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"3°00'32.04""",Purva Bhadrapada,Jupiter,4,Moon,Sagittarius,Nhân Mã,"3°29'31.62""",Mula,Ketu,2,10th House,10,270,270.4832,0.4832,Strong
+2026-01-16 14:30:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"3°00'35.04""",Purva Bhadrapada,Jupiter,4,Moon,Sagittarius,Nhân Mã,"3°37'04.55""",Mula,Ketu,2,10th House,10,270,270.6082,0.6082,Strong
+2026-01-16 14:45:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"3°00'38.05""",Purva Bhadrapada,Jupiter,4,Moon,Sagittarius,Nhân Mã,"3°44'37.54""",Mula,Ketu,2,10th House,10,270,270.7332,0.7332,Strong
+2026-01-16 15:00:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"3°00'41.06""",Purva Bhadrapada,Jupiter,4,Moon,Sagittarius,Nhân Mã,"3°52'10.58""",Mula,Ketu,2,10th House,10,270,270.8582,0.8582,Strong
+2026-01-16 15:15:00,Parashara_Drishti,Saturn,Pisces,Song Ngư,"3°00'44.07""",Purva Bhadrapada,Jupiter,4,Moon,Sagittarius,Nhân Mã,"3°59'43.67""",Mula,Ketu,2,10th House,10,270,270.9832,0.9832,Strong

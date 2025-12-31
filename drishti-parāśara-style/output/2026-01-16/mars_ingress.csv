@@ -1,2 +1,2 @@
-﻿datetime,event,planet,from_sign,to_sign,degree,longitude
-2026-01-16 06:00:00,Ingress,Mars,Sagittarius,Capricorn,"0°00'02.77""",270.000768
+﻿datetime,event,planet,from_sign,from_sign_vi,to_sign,to_sign_vi,degree,longitude,nakshatra,nakshatra_lord,pada
+2026-01-16 06:00:00,Ingress,Mars,Sagittarius,Nhân Mã,Capricorn,Ma Kết,"0°00'02.77""",270.000768,Uttara Ashadha,Sun,2

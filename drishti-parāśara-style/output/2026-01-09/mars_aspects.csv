@@ -1,41 +1,41 @@
-﻿datetime,event,aspecting_planet,aspecting_sign,aspecting_degree,aspected_planet,aspected_sign,aspected_degree,aspect_type,aspect_house,target_angle,actual_angle,orb,strength
-2026-01-09 19:00:00,Parashara_Drishti,Mars,Sagittarius,"25°00'12.01""",Jupiter,Gemini,"26°00'07.22""",7th House,7,180,180.9987,0.9987,Weak
-2026-01-09 19:00:00,Parashara_Drishti,Jupiter,Gemini,"26°00'07.22""",Mars,Sagittarius,"25°00'12.01""",7th House,7,180,179.0013,0.9987,Weak
-2026-01-09 19:15:00,Parashara_Drishti,Mars,Sagittarius,"25°00'40.95""",Jupiter,Gemini,"26°00'02.16""",7th House,7,180,180.9892,0.9892,Weak
-2026-01-09 19:15:00,Parashara_Drishti,Jupiter,Gemini,"26°00'02.16""",Mars,Sagittarius,"25°00'40.95""",7th House,7,180,179.0108,0.9892,Weak
-2026-01-09 19:30:00,Parashara_Drishti,Mars,Sagittarius,"25°01'09.89""",Jupiter,Gemini,"25°59'57.10""",7th House,7,180,180.9798,0.9798,Weak
-2026-01-09 19:30:00,Parashara_Drishti,Jupiter,Gemini,"25°59'57.10""",Mars,Sagittarius,"25°01'09.89""",7th House,7,180,179.0202,0.9798,Weak
-2026-01-09 19:45:00,Parashara_Drishti,Mars,Sagittarius,"25°01'38.84""",Jupiter,Gemini,"25°59'52.03""",7th House,7,180,180.9703,0.9703,Weak
-2026-01-09 19:45:00,Parashara_Drishti,Jupiter,Gemini,"25°59'52.03""",Mars,Sagittarius,"25°01'38.84""",7th House,7,180,179.0297,0.9703,Weak
-2026-01-09 20:00:00,Parashara_Drishti,Mars,Sagittarius,"25°02'07.78""",Jupiter,Gemini,"25°59'46.97""",7th House,7,180,180.9609,0.9609,Weak
-2026-01-09 20:00:00,Parashara_Drishti,Jupiter,Gemini,"25°59'46.97""",Mars,Sagittarius,"25°02'07.78""",7th House,7,180,179.0391,0.9609,Weak
-2026-01-09 20:15:00,Parashara_Drishti,Mars,Sagittarius,"25°02'36.72""",Jupiter,Gemini,"25°59'41.91""",7th House,7,180,180.9514,0.9514,Weak
-2026-01-09 20:15:00,Parashara_Drishti,Jupiter,Gemini,"25°59'41.91""",Mars,Sagittarius,"25°02'36.72""",7th House,7,180,179.0486,0.9514,Weak
-2026-01-09 20:30:00,Parashara_Drishti,Mars,Sagittarius,"25°03'05.67""",Jupiter,Gemini,"25°59'36.85""",7th House,7,180,180.942,0.942,Weak
-2026-01-09 20:30:00,Parashara_Drishti,Jupiter,Gemini,"25°59'36.85""",Mars,Sagittarius,"25°03'05.67""",7th House,7,180,179.058,0.942,Weak
-2026-01-09 20:45:00,Parashara_Drishti,Mars,Sagittarius,"25°03'34.61""",Jupiter,Gemini,"25°59'31.79""",7th House,7,180,180.9325,0.9325,Weak
-2026-01-09 20:45:00,Parashara_Drishti,Jupiter,Gemini,"25°59'31.79""",Mars,Sagittarius,"25°03'34.61""",7th House,7,180,179.0675,0.9325,Weak
-2026-01-09 21:00:00,Parashara_Drishti,Mars,Sagittarius,"25°04'03.56""",Jupiter,Gemini,"25°59'26.72""",7th House,7,180,180.9231,0.9231,Weak
-2026-01-09 21:00:00,Parashara_Drishti,Jupiter,Gemini,"25°59'26.72""",Mars,Sagittarius,"25°04'03.56""",7th House,7,180,179.0769,0.9231,Weak
-2026-01-09 21:15:00,Parashara_Drishti,Mars,Sagittarius,"25°04'32.50""",Jupiter,Gemini,"25°59'21.66""",7th House,7,180,180.9137,0.9137,Weak
-2026-01-09 21:15:00,Parashara_Drishti,Jupiter,Gemini,"25°59'21.66""",Mars,Sagittarius,"25°04'32.50""",7th House,7,180,179.0863,0.9137,Weak
-2026-01-09 21:30:00,Parashara_Drishti,Mars,Sagittarius,"25°05'01.45""",Jupiter,Gemini,"25°59'16.60""",7th House,7,180,180.9042,0.9042,Weak
-2026-01-09 21:30:00,Parashara_Drishti,Jupiter,Gemini,"25°59'16.60""",Mars,Sagittarius,"25°05'01.45""",7th House,7,180,179.0958,0.9042,Weak
-2026-01-09 21:45:00,Parashara_Drishti,Mars,Sagittarius,"25°05'30.39""",Jupiter,Gemini,"25°59'11.54""",7th House,7,180,180.8948,0.8948,Weak
-2026-01-09 21:45:00,Parashara_Drishti,Jupiter,Gemini,"25°59'11.54""",Mars,Sagittarius,"25°05'30.39""",7th House,7,180,179.1052,0.8948,Weak
-2026-01-09 22:00:00,Parashara_Drishti,Mars,Sagittarius,"25°05'59.34""",Jupiter,Gemini,"25°59'06.48""",7th House,7,180,180.8853,0.8853,Weak
-2026-01-09 22:00:00,Parashara_Drishti,Jupiter,Gemini,"25°59'06.48""",Mars,Sagittarius,"25°05'59.34""",7th House,7,180,179.1147,0.8853,Weak
-2026-01-09 22:15:00,Parashara_Drishti,Mars,Sagittarius,"25°06'28.28""",Jupiter,Gemini,"25°59'01.41""",7th House,7,180,180.8759,0.8759,Weak
-2026-01-09 22:15:00,Parashara_Drishti,Jupiter,Gemini,"25°59'01.41""",Mars,Sagittarius,"25°06'28.28""",7th House,7,180,179.1241,0.8759,Weak
-2026-01-09 22:30:00,Parashara_Drishti,Mars,Sagittarius,"25°06'57.23""",Jupiter,Gemini,"25°58'56.35""",7th House,7,180,180.8664,0.8664,Weak
-2026-01-09 22:30:00,Parashara_Drishti,Jupiter,Gemini,"25°58'56.35""",Mars,Sagittarius,"25°06'57.23""",7th House,7,180,179.1336,0.8664,Weak
-2026-01-09 22:45:00,Parashara_Drishti,Mars,Sagittarius,"25°07'26.18""",Jupiter,Gemini,"25°58'51.29""",7th House,7,180,180.857,0.857,Weak
-2026-01-09 22:45:00,Parashara_Drishti,Jupiter,Gemini,"25°58'51.29""",Mars,Sagittarius,"25°07'26.18""",7th House,7,180,179.143,0.857,Weak
-2026-01-09 23:00:00,Parashara_Drishti,Mars,Sagittarius,"25°07'55.12""",Jupiter,Gemini,"25°58'46.23""",7th House,7,180,180.8475,0.8475,Weak
-2026-01-09 23:00:00,Parashara_Drishti,Jupiter,Gemini,"25°58'46.23""",Mars,Sagittarius,"25°07'55.12""",7th House,7,180,179.1525,0.8475,Weak
-2026-01-09 23:15:00,Parashara_Drishti,Mars,Sagittarius,"25°08'24.07""",Jupiter,Gemini,"25°58'41.17""",7th House,7,180,180.8381,0.8381,Weak
-2026-01-09 23:15:00,Parashara_Drishti,Jupiter,Gemini,"25°58'41.17""",Mars,Sagittarius,"25°08'24.07""",7th House,7,180,179.1619,0.8381,Weak
-2026-01-09 23:30:00,Parashara_Drishti,Mars,Sagittarius,"25°08'53.02""",Jupiter,Gemini,"25°58'36.10""",7th House,7,180,180.8286,0.8286,Weak
-2026-01-09 23:30:00,Parashara_Drishti,Jupiter,Gemini,"25°58'36.10""",Mars,Sagittarius,"25°08'53.02""",7th House,7,180,179.1714,0.8286,Weak
-2026-01-09 23:45:00,Parashara_Drishti,Mars,Sagittarius,"25°09'21.96""",Jupiter,Gemini,"25°58'31.04""",7th House,7,180,180.8192,0.8192,Weak
-2026-01-09 23:45:00,Parashara_Drishti,Jupiter,Gemini,"25°58'31.04""",Mars,Sagittarius,"25°09'21.96""",7th House,7,180,179.1808,0.8192,Weak
+﻿datetime,event,aspecting_planet,aspecting_sign,aspecting_sign_vi,aspecting_degree,aspecting_nakshatra,aspecting_nakshatra_lord,aspecting_pada,aspected_planet,aspected_sign,aspected_sign_vi,aspected_degree,aspected_nakshatra,aspected_nakshatra_lord,aspected_pada,aspect_type,aspect_house,target_angle,actual_angle,orb,strength
+2026-01-09 19:00:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"25°00'12.01""",Purva Ashadha,Venus,4,Jupiter,Gemini,Song Tử,"26°00'07.22""",Punarvasu,Jupiter,2,7th House,7,180,180.9987,0.9987,Weak
+2026-01-09 19:00:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"26°00'07.22""",Punarvasu,Jupiter,2,Mars,Sagittarius,Nhân Mã,"25°00'12.01""",Purva Ashadha,Venus,4,7th House,7,180,179.0013,0.9987,Weak
+2026-01-09 19:15:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"25°00'40.95""",Purva Ashadha,Venus,4,Jupiter,Gemini,Song Tử,"26°00'02.16""",Punarvasu,Jupiter,2,7th House,7,180,180.9892,0.9892,Weak
+2026-01-09 19:15:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"26°00'02.16""",Punarvasu,Jupiter,2,Mars,Sagittarius,Nhân Mã,"25°00'40.95""",Purva Ashadha,Venus,4,7th House,7,180,179.0108,0.9892,Weak
+2026-01-09 19:30:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"25°01'09.89""",Purva Ashadha,Venus,4,Jupiter,Gemini,Song Tử,"25°59'57.10""",Punarvasu,Jupiter,2,7th House,7,180,180.9798,0.9798,Weak
+2026-01-09 19:30:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"25°59'57.10""",Punarvasu,Jupiter,2,Mars,Sagittarius,Nhân Mã,"25°01'09.89""",Purva Ashadha,Venus,4,7th House,7,180,179.0202,0.9798,Weak
+2026-01-09 19:45:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"25°01'38.84""",Purva Ashadha,Venus,4,Jupiter,Gemini,Song Tử,"25°59'52.03""",Punarvasu,Jupiter,2,7th House,7,180,180.9703,0.9703,Weak
+2026-01-09 19:45:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"25°59'52.03""",Punarvasu,Jupiter,2,Mars,Sagittarius,Nhân Mã,"25°01'38.84""",Purva Ashadha,Venus,4,7th House,7,180,179.0297,0.9703,Weak
+2026-01-09 20:00:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"25°02'07.78""",Purva Ashadha,Venus,4,Jupiter,Gemini,Song Tử,"25°59'46.97""",Punarvasu,Jupiter,2,7th House,7,180,180.9609,0.9609,Weak
+2026-01-09 20:00:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"25°59'46.97""",Punarvasu,Jupiter,2,Mars,Sagittarius,Nhân Mã,"25°02'07.78""",Purva Ashadha,Venus,4,7th House,7,180,179.0391,0.9609,Weak
+2026-01-09 20:15:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"25°02'36.72""",Purva Ashadha,Venus,4,Jupiter,Gemini,Song Tử,"25°59'41.91""",Punarvasu,Jupiter,2,7th House,7,180,180.9514,0.9514,Weak
+2026-01-09 20:15:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"25°59'41.91""",Punarvasu,Jupiter,2,Mars,Sagittarius,Nhân Mã,"25°02'36.72""",Purva Ashadha,Venus,4,7th House,7,180,179.0486,0.9514,Weak
+2026-01-09 20:30:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"25°03'05.67""",Purva Ashadha,Venus,4,Jupiter,Gemini,Song Tử,"25°59'36.85""",Punarvasu,Jupiter,2,7th House,7,180,180.942,0.942,Weak
+2026-01-09 20:30:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"25°59'36.85""",Punarvasu,Jupiter,2,Mars,Sagittarius,Nhân Mã,"25°03'05.67""",Purva Ashadha,Venus,4,7th House,7,180,179.058,0.942,Weak
+2026-01-09 20:45:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"25°03'34.61""",Purva Ashadha,Venus,4,Jupiter,Gemini,Song Tử,"25°59'31.79""",Punarvasu,Jupiter,2,7th House,7,180,180.9325,0.9325,Weak
+2026-01-09 20:45:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"25°59'31.79""",Punarvasu,Jupiter,2,Mars,Sagittarius,Nhân Mã,"25°03'34.61""",Purva Ashadha,Venus,4,7th House,7,180,179.0675,0.9325,Weak
+2026-01-09 21:00:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"25°04'03.56""",Purva Ashadha,Venus,4,Jupiter,Gemini,Song Tử,"25°59'26.72""",Punarvasu,Jupiter,2,7th House,7,180,180.9231,0.9231,Weak
+2026-01-09 21:00:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"25°59'26.72""",Punarvasu,Jupiter,2,Mars,Sagittarius,Nhân Mã,"25°04'03.56""",Purva Ashadha,Venus,4,7th House,7,180,179.0769,0.9231,Weak
+2026-01-09 21:15:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"25°04'32.50""",Purva Ashadha,Venus,4,Jupiter,Gemini,Song Tử,"25°59'21.66""",Punarvasu,Jupiter,2,7th House,7,180,180.9137,0.9137,Weak
+2026-01-09 21:15:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"25°59'21.66""",Punarvasu,Jupiter,2,Mars,Sagittarius,Nhân Mã,"25°04'32.50""",Purva Ashadha,Venus,4,7th House,7,180,179.0863,0.9137,Weak
+2026-01-09 21:30:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"25°05'01.45""",Purva Ashadha,Venus,4,Jupiter,Gemini,Song Tử,"25°59'16.60""",Punarvasu,Jupiter,2,7th House,7,180,180.9042,0.9042,Weak
+2026-01-09 21:30:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"25°59'16.60""",Punarvasu,Jupiter,2,Mars,Sagittarius,Nhân Mã,"25°05'01.45""",Purva Ashadha,Venus,4,7th House,7,180,179.0958,0.9042,Weak
+2026-01-09 21:45:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"25°05'30.39""",Purva Ashadha,Venus,4,Jupiter,Gemini,Song Tử,"25°59'11.54""",Punarvasu,Jupiter,2,7th House,7,180,180.8948,0.8948,Weak
+2026-01-09 21:45:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"25°59'11.54""",Punarvasu,Jupiter,2,Mars,Sagittarius,Nhân Mã,"25°05'30.39""",Purva Ashadha,Venus,4,7th House,7,180,179.1052,0.8948,Weak
+2026-01-09 22:00:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"25°05'59.34""",Purva Ashadha,Venus,4,Jupiter,Gemini,Song Tử,"25°59'06.48""",Punarvasu,Jupiter,2,7th House,7,180,180.8853,0.8853,Weak
+2026-01-09 22:00:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"25°59'06.48""",Punarvasu,Jupiter,2,Mars,Sagittarius,Nhân Mã,"25°05'59.34""",Purva Ashadha,Venus,4,7th House,7,180,179.1147,0.8853,Weak
+2026-01-09 22:15:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"25°06'28.28""",Purva Ashadha,Venus,4,Jupiter,Gemini,Song Tử,"25°59'01.41""",Punarvasu,Jupiter,2,7th House,7,180,180.8759,0.8759,Weak
+2026-01-09 22:15:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"25°59'01.41""",Punarvasu,Jupiter,2,Mars,Sagittarius,Nhân Mã,"25°06'28.28""",Purva Ashadha,Venus,4,7th House,7,180,179.1241,0.8759,Weak
+2026-01-09 22:30:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"25°06'57.23""",Purva Ashadha,Venus,4,Jupiter,Gemini,Song Tử,"25°58'56.35""",Punarvasu,Jupiter,2,7th House,7,180,180.8664,0.8664,Weak
+2026-01-09 22:30:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"25°58'56.35""",Punarvasu,Jupiter,2,Mars,Sagittarius,Nhân Mã,"25°06'57.23""",Purva Ashadha,Venus,4,7th House,7,180,179.1336,0.8664,Weak
+2026-01-09 22:45:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"25°07'26.18""",Purva Ashadha,Venus,4,Jupiter,Gemini,Song Tử,"25°58'51.29""",Punarvasu,Jupiter,2,7th House,7,180,180.857,0.857,Weak
+2026-01-09 22:45:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"25°58'51.29""",Punarvasu,Jupiter,2,Mars,Sagittarius,Nhân Mã,"25°07'26.18""",Purva Ashadha,Venus,4,7th House,7,180,179.143,0.857,Weak
+2026-01-09 23:00:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"25°07'55.12""",Purva Ashadha,Venus,4,Jupiter,Gemini,Song Tử,"25°58'46.23""",Punarvasu,Jupiter,2,7th House,7,180,180.8475,0.8475,Weak
+2026-01-09 23:00:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"25°58'46.23""",Punarvasu,Jupiter,2,Mars,Sagittarius,Nhân Mã,"25°07'55.12""",Purva Ashadha,Venus,4,7th House,7,180,179.1525,0.8475,Weak
+2026-01-09 23:15:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"25°08'24.07""",Purva Ashadha,Venus,4,Jupiter,Gemini,Song Tử,"25°58'41.17""",Punarvasu,Jupiter,2,7th House,7,180,180.8381,0.8381,Weak
+2026-01-09 23:15:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"25°58'41.17""",Punarvasu,Jupiter,2,Mars,Sagittarius,Nhân Mã,"25°08'24.07""",Purva Ashadha,Venus,4,7th House,7,180,179.1619,0.8381,Weak
+2026-01-09 23:30:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"25°08'53.02""",Purva Ashadha,Venus,4,Jupiter,Gemini,Song Tử,"25°58'36.10""",Punarvasu,Jupiter,2,7th House,7,180,180.8286,0.8286,Weak
+2026-01-09 23:30:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"25°58'36.10""",Punarvasu,Jupiter,2,Mars,Sagittarius,Nhân Mã,"25°08'53.02""",Purva Ashadha,Venus,4,7th House,7,180,179.1714,0.8286,Weak
+2026-01-09 23:45:00,Parashara_Drishti,Mars,Sagittarius,Nhân Mã,"25°09'21.96""",Purva Ashadha,Venus,4,Jupiter,Gemini,Song Tử,"25°58'31.04""",Punarvasu,Jupiter,2,7th House,7,180,180.8192,0.8192,Weak
+2026-01-09 23:45:00,Parashara_Drishti,Jupiter,Gemini,Song Tử,"25°58'31.04""",Punarvasu,Jupiter,2,Mars,Sagittarius,Nhân Mã,"25°09'21.96""",Purva Ashadha,Venus,4,7th House,7,180,179.1808,0.8192,Weak

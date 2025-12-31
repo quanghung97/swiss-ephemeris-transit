@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "year": 2025,
+    "month": 12,
+    "timezone_offset": 7.0,
+    "calculation_time": "2025-12-31T17:14:42.500990",
+    "ephemeris_type": "Swiss Ephemeris",
+    "coordinate_system": "Sidereal Zodiac (Lahiri)",
+    "node_type": "Mean Node",
+    "description": "Hourly planetary positions calculated using Swiss Ephemeris"
+  },
+  "total_records": 1,
+  "data": [
+    {
+      "datetime": "2025-12-16 06:00:00",
+      "event": "Ingress",
+      "planet": "Sun",
+      "from_sign": "Scorpio",
+      "from_sign_vi": "Bọ Cạp",
+      "to_sign": "Sagittarius",
+      "to_sign_vi": "Nhân Mã",
+      "degree": "0°00'25.18\"",
+      "longitude": 240.006995,
+      "nakshatra": "Mula",
+      "nakshatra_lord": "Ketu",
+      "pada": 1
+    }
+  ]
+}

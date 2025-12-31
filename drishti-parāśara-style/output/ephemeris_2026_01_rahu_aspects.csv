@@ -1,73 +1,73 @@
-﻿datetime,event,aspecting_planet,aspecting_sign,aspecting_degree,aspected_planet,aspected_sign,aspected_degree,aspect_type,aspect_house,target_angle,actual_angle,orb,strength
-2026-01-03 14:00:00,Parashara_Drishti,Rahu,Aquarius,"17°49'38.88""",Moon,Gemini,"16°55'06.92""",9th House (Reverse),9,-240,119.09110000000001,0.9089,Strong
-2026-01-03 14:15:00,Parashara_Drishti,Rahu,Aquarius,"17°49'36.89""",Moon,Gemini,"17°04'26.06""",9th House (Reverse),9,-240,119.24700000000001,0.753,Strong
-2026-01-03 14:30:00,Parashara_Drishti,Rahu,Aquarius,"17°49'34.91""",Moon,Gemini,"17°13'45.11""",9th House (Reverse),9,-240,119.40280000000001,0.5972,Strong
-2026-01-03 14:45:00,Parashara_Drishti,Rahu,Aquarius,"17°49'32.92""",Moon,Gemini,"17°23'04.08""",9th House (Reverse),9,-240,119.55869999999999,0.4413,Strong
-2026-01-03 15:00:00,Parashara_Drishti,Rahu,Aquarius,"17°49'30.93""",Moon,Gemini,"17°32'22.95""",9th House (Reverse),9,-240,119.71449999999999,0.2855,Strong
-2026-01-03 15:15:00,Parashara_Drishti,Rahu,Aquarius,"17°49'28.94""",Moon,Gemini,"17°41'41.74""",9th House (Reverse),9,-240,119.87020000000001,0.1298,Strong
-2026-01-03 15:30:00,Parashara_Drishti,Rahu,Aquarius,"17°49'26.96""",Moon,Gemini,"17°51'00.44""",9th House (Reverse),9,-240,120.02600000000001,0.026,Strong
-2026-01-03 15:45:00,Parashara_Drishti,Rahu,Aquarius,"17°49'24.97""",Moon,Gemini,"18°00'19.05""",9th House (Reverse),9,-240,120.1817,0.1817,Strong
-2026-01-03 16:00:00,Parashara_Drishti,Rahu,Aquarius,"17°49'22.98""",Moon,Gemini,"18°09'37.57""",9th House (Reverse),9,-240,120.3374,0.3374,Strong
-2026-01-03 16:15:00,Parashara_Drishti,Rahu,Aquarius,"17°49'21.00""",Moon,Gemini,"18°18'56.00""",9th House (Reverse),9,-240,120.4931,0.4931,Strong
-2026-01-03 16:30:00,Parashara_Drishti,Rahu,Aquarius,"17°49'19.01""",Moon,Gemini,"18°28'14.33""",9th House (Reverse),9,-240,120.64869999999999,0.6487,Strong
-2026-01-03 16:45:00,Parashara_Drishti,Rahu,Aquarius,"17°49'17.02""",Moon,Gemini,"18°37'32.58""",9th House (Reverse),9,-240,120.80430000000001,0.8043,Strong
-2026-01-03 17:00:00,Parashara_Drishti,Rahu,Aquarius,"17°49'15.03""",Moon,Gemini,"18°46'50.73""",9th House (Reverse),9,-240,120.9599,0.9599,Strong
-2026-01-07 19:30:00,Parashara_Drishti,Moon,Leo,"16°40'31.76""",Rahu,Aquarius,"17°36'12.08""",7th House,7,180,180.9279,0.9279,Standard
-2026-01-07 19:30:00,Parashara_Drishti,Rahu,Aquarius,"17°36'12.08""",Moon,Leo,"16°40'31.76""",7th House (Reverse),7,-180,179.0721,0.9279,Weak
-2026-01-07 19:45:00,Parashara_Drishti,Moon,Leo,"16°48'46.31""",Rahu,Aquarius,"17°36'10.09""",7th House,7,180,180.7899,0.7899,Standard
-2026-01-07 19:45:00,Parashara_Drishti,Rahu,Aquarius,"17°36'10.09""",Moon,Leo,"16°48'46.31""",7th House (Reverse),7,-180,179.2101,0.7899,Weak
-2026-01-07 20:00:00,Parashara_Drishti,Moon,Leo,"16°57'00.68""",Rahu,Aquarius,"17°36'08.10""",7th House,7,180,180.6521,0.6521,Standard
-2026-01-07 20:00:00,Parashara_Drishti,Rahu,Aquarius,"17°36'08.10""",Moon,Leo,"16°57'00.68""",7th House (Reverse),7,-180,179.3479,0.6521,Weak
-2026-01-07 20:15:00,Parashara_Drishti,Moon,Leo,"17°05'14.88""",Rahu,Aquarius,"17°36'06.12""",7th House,7,180,180.5142,0.5142,Standard
-2026-01-07 20:15:00,Parashara_Drishti,Rahu,Aquarius,"17°36'06.12""",Moon,Leo,"17°05'14.88""",7th House (Reverse),7,-180,179.4858,0.5142,Weak
-2026-01-07 20:30:00,Parashara_Drishti,Moon,Leo,"17°13'28.90""",Rahu,Aquarius,"17°36'04.13""",7th House,7,180,180.3765,0.3765,Standard
-2026-01-07 20:30:00,Parashara_Drishti,Rahu,Aquarius,"17°36'04.13""",Moon,Leo,"17°13'28.90""",7th House (Reverse),7,-180,179.6235,0.3765,Weak
-2026-01-07 20:45:00,Parashara_Drishti,Moon,Leo,"17°21'42.75""",Rahu,Aquarius,"17°36'02.14""",7th House,7,180,180.2387,0.2387,Standard
-2026-01-07 20:45:00,Parashara_Drishti,Rahu,Aquarius,"17°36'02.14""",Moon,Leo,"17°21'42.75""",7th House (Reverse),7,-180,179.7613,0.2387,Weak
-2026-01-07 21:00:00,Parashara_Drishti,Moon,Leo,"17°29'56.42""",Rahu,Aquarius,"17°36'00.15""",7th House,7,180,180.101,0.101,Standard
-2026-01-07 21:00:00,Parashara_Drishti,Rahu,Aquarius,"17°36'00.15""",Moon,Leo,"17°29'56.42""",7th House (Reverse),7,-180,179.899,0.101,Weak
-2026-01-07 21:15:00,Parashara_Drishti,Moon,Leo,"17°38'09.92""",Rahu,Aquarius,"17°35'58.17""",7th House,7,180,179.9634,0.0366,Standard
-2026-01-07 21:15:00,Parashara_Drishti,Rahu,Aquarius,"17°35'58.17""",Moon,Leo,"17°38'09.92""",7th House (Reverse),7,-180,180.0366,0.0366,Weak
-2026-01-07 21:30:00,Parashara_Drishti,Moon,Leo,"17°46'23.25""",Rahu,Aquarius,"17°35'56.18""",7th House,7,180,179.8258,0.1742,Standard
-2026-01-07 21:30:00,Parashara_Drishti,Rahu,Aquarius,"17°35'56.18""",Moon,Leo,"17°46'23.25""",7th House (Reverse),7,-180,180.1742,0.1742,Weak
-2026-01-07 21:45:00,Parashara_Drishti,Moon,Leo,"17°54'36.41""",Rahu,Aquarius,"17°35'54.19""",7th House,7,180,179.6883,0.3117,Standard
-2026-01-07 21:45:00,Parashara_Drishti,Rahu,Aquarius,"17°35'54.19""",Moon,Leo,"17°54'36.41""",7th House (Reverse),7,-180,180.3117,0.3117,Weak
-2026-01-07 22:00:00,Parashara_Drishti,Moon,Leo,"18°02'49.40""",Rahu,Aquarius,"17°35'52.21""",7th House,7,180,179.5508,0.4492,Standard
-2026-01-07 22:00:00,Parashara_Drishti,Rahu,Aquarius,"17°35'52.21""",Moon,Leo,"18°02'49.40""",7th House (Reverse),7,-180,180.4492,0.4492,Weak
-2026-01-07 22:15:00,Parashara_Drishti,Moon,Leo,"18°11'02.21""",Rahu,Aquarius,"17°35'50.22""",7th House,7,180,179.4133,0.5867,Standard
-2026-01-07 22:15:00,Parashara_Drishti,Rahu,Aquarius,"17°35'50.22""",Moon,Leo,"18°11'02.21""",7th House (Reverse),7,-180,180.5867,0.5867,Weak
-2026-01-07 22:30:00,Parashara_Drishti,Moon,Leo,"18°19'14.85""",Rahu,Aquarius,"17°35'48.23""",7th House,7,180,179.2759,0.7241,Standard
-2026-01-07 22:30:00,Parashara_Drishti,Rahu,Aquarius,"17°35'48.23""",Moon,Leo,"18°19'14.85""",7th House (Reverse),7,-180,180.7241,0.7241,Weak
-2026-01-07 22:45:00,Parashara_Drishti,Moon,Leo,"18°27'27.31""",Rahu,Aquarius,"17°35'46.24""",7th House,7,180,179.1386,0.8614,Standard
-2026-01-07 22:45:00,Parashara_Drishti,Rahu,Aquarius,"17°35'46.24""",Moon,Leo,"18°27'27.31""",7th House (Reverse),7,-180,180.8614,0.8614,Weak
-2026-01-07 23:00:00,Parashara_Drishti,Moon,Leo,"18°35'39.61""",Rahu,Aquarius,"17°35'44.26""",7th House,7,180,179.0013,0.9987,Standard
-2026-01-07 23:00:00,Parashara_Drishti,Rahu,Aquarius,"17°35'44.26""",Moon,Leo,"18°35'39.61""",7th House (Reverse),7,-180,180.9987,0.9987,Weak
-2026-01-12 15:15:00,Parashara_Drishti,Rahu,Aquarius,"17°20'52.00""",Moon,Libra,"16°22'11.36""",5th House (Reverse),5,-120,239.022,0.978,Medium
-2026-01-12 15:30:00,Parashara_Drishti,Rahu,Aquarius,"17°20'50.02""",Moon,Libra,"16°29'36.69""",5th House (Reverse),5,-120,239.1463,0.8537,Medium
-2026-01-12 15:45:00,Parashara_Drishti,Rahu,Aquarius,"17°20'48.03""",Moon,Libra,"16°37'01.98""",5th House (Reverse),5,-120,239.2705,0.7295,Medium
-2026-01-12 16:00:00,Parashara_Drishti,Rahu,Aquarius,"17°20'46.04""",Moon,Libra,"16°44'27.25""",5th House (Reverse),5,-120,239.3948,0.6052,Medium
-2026-01-12 16:15:00,Parashara_Drishti,Rahu,Aquarius,"17°20'44.06""",Moon,Libra,"16°51'52.49""",5th House (Reverse),5,-120,239.519,0.481,Medium
-2026-01-12 16:30:00,Parashara_Drishti,Rahu,Aquarius,"17°20'42.07""",Moon,Libra,"16°59'17.70""",5th House (Reverse),5,-120,239.64319999999998,0.3568,Medium
-2026-01-12 16:45:00,Parashara_Drishti,Rahu,Aquarius,"17°20'40.08""",Moon,Libra,"17°06'42.88""",5th House (Reverse),5,-120,239.7674,0.2326,Medium
-2026-01-12 17:00:00,Parashara_Drishti,Rahu,Aquarius,"17°20'38.09""",Moon,Libra,"17°14'08.03""",5th House (Reverse),5,-120,239.89159999999998,0.1084,Medium
-2026-01-12 17:15:00,Parashara_Drishti,Rahu,Aquarius,"17°20'36.11""",Moon,Libra,"17°21'33.16""",5th House (Reverse),5,-120,240.0158,0.0158,Medium
-2026-01-12 17:30:00,Parashara_Drishti,Rahu,Aquarius,"17°20'34.12""",Moon,Libra,"17°28'58.27""",5th House (Reverse),5,-120,240.14,0.14,Medium
-2026-01-12 17:45:00,Parashara_Drishti,Rahu,Aquarius,"17°20'32.13""",Moon,Libra,"17°36'23.34""",5th House (Reverse),5,-120,240.26420000000002,0.2642,Medium
-2026-01-12 18:00:00,Parashara_Drishti,Rahu,Aquarius,"17°20'30.15""",Moon,Libra,"17°43'48.39""",5th House (Reverse),5,-120,240.3884,0.3884,Medium
-2026-01-12 18:15:00,Parashara_Drishti,Rahu,Aquarius,"17°20'28.16""",Moon,Libra,"17°51'13.42""",5th House (Reverse),5,-120,240.51260000000002,0.5126,Medium
-2026-01-12 18:30:00,Parashara_Drishti,Rahu,Aquarius,"17°20'26.17""",Moon,Libra,"17°58'38.42""",5th House (Reverse),5,-120,240.63670000000002,0.6367,Medium
-2026-01-12 18:45:00,Parashara_Drishti,Rahu,Aquarius,"17°20'24.18""",Moon,Libra,"18°06'03.39""",5th House (Reverse),5,-120,240.7609,0.7609,Medium
-2026-01-12 19:00:00,Parashara_Drishti,Rahu,Aquarius,"17°20'22.20""",Moon,Libra,"18°13'28.34""",5th House (Reverse),5,-120,240.885,0.885,Medium
-2026-01-30 21:30:00,Parashara_Drishti,Rahu,Aquarius,"16°22'48.44""",Moon,Gemini,"15°28'39.02""",9th House (Reverse),9,-240,119.0974,0.9026,Strong
-2026-01-30 21:45:00,Parashara_Drishti,Rahu,Aquarius,"16°22'46.46""",Moon,Gemini,"15°37'45.09""",9th House (Reverse),9,-240,119.24959999999999,0.7504,Strong
-2026-01-30 22:00:00,Parashara_Drishti,Rahu,Aquarius,"16°22'44.47""",Moon,Gemini,"15°46'51.13""",9th House (Reverse),9,-240,119.40190000000001,0.5981,Strong
-2026-01-30 22:15:00,Parashara_Drishti,Rahu,Aquarius,"16°22'42.48""",Moon,Gemini,"15°55'57.15""",9th House (Reverse),9,-240,119.5541,0.4459,Strong
-2026-01-30 22:30:00,Parashara_Drishti,Rahu,Aquarius,"16°22'40.49""",Moon,Gemini,"16°05'03.13""",9th House (Reverse),9,-240,119.7063,0.2937,Strong
-2026-01-30 22:45:00,Parashara_Drishti,Rahu,Aquarius,"16°22'38.51""",Moon,Gemini,"16°14'09.09""",9th House (Reverse),9,-240,119.85849999999999,0.1415,Strong
-2026-01-30 23:00:00,Parashara_Drishti,Rahu,Aquarius,"16°22'36.52""",Moon,Gemini,"16°23'15.02""",9th House (Reverse),9,-240,120.01070000000001,0.0107,Strong
-2026-01-30 23:15:00,Parashara_Drishti,Rahu,Aquarius,"16°22'34.53""",Moon,Gemini,"16°32'20.92""",9th House (Reverse),9,-240,120.16290000000001,0.1629,Strong
-2026-01-30 23:30:00,Parashara_Drishti,Rahu,Aquarius,"16°22'32.55""",Moon,Gemini,"16°41'26.79""",9th House (Reverse),9,-240,120.3151,0.3151,Strong
-2026-01-30 23:45:00,Parashara_Drishti,Rahu,Aquarius,"16°22'30.56""",Moon,Gemini,"16°50'32.63""",9th House (Reverse),9,-240,120.46719999999999,0.4672,Strong
-2026-01-31 00:00:00,Parashara_Drishti,Rahu,Aquarius,"16°22'28.57""",Moon,Gemini,"16°59'38.44""",9th House (Reverse),9,-240,120.61940000000001,0.6194,Strong
-2026-01-31 00:15:00,Parashara_Drishti,Rahu,Aquarius,"16°22'26.58""",Moon,Gemini,"17°08'44.21""",9th House (Reverse),9,-240,120.7716,0.7716,Strong
-2026-01-31 00:30:00,Parashara_Drishti,Rahu,Aquarius,"16°22'24.60""",Moon,Gemini,"17°17'49.96""",9th House (Reverse),9,-240,120.9237,0.9237,Strong
+﻿datetime,event,aspecting_planet,aspecting_sign,aspecting_sign_vi,aspecting_degree,aspecting_nakshatra,aspecting_nakshatra_lord,aspecting_pada,aspected_planet,aspected_sign,aspected_sign_vi,aspected_degree,aspected_nakshatra,aspected_nakshatra_lord,aspected_pada,aspect_type,aspect_house,target_angle,actual_angle,orb,strength
+2026-01-03 14:00:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"17°49'38.88""",Shatabhisha,Rahu,4,Moon,Gemini,Song Tử,"16°55'06.92""",Ardra,Rahu,4,9th House (Reverse),9,-240,119.09110000000001,0.9089,Strong
+2026-01-03 14:15:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"17°49'36.89""",Shatabhisha,Rahu,4,Moon,Gemini,Song Tử,"17°04'26.06""",Ardra,Rahu,4,9th House (Reverse),9,-240,119.24700000000001,0.753,Strong
+2026-01-03 14:30:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"17°49'34.91""",Shatabhisha,Rahu,4,Moon,Gemini,Song Tử,"17°13'45.11""",Ardra,Rahu,4,9th House (Reverse),9,-240,119.40280000000001,0.5972,Strong
+2026-01-03 14:45:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"17°49'32.92""",Shatabhisha,Rahu,4,Moon,Gemini,Song Tử,"17°23'04.08""",Ardra,Rahu,4,9th House (Reverse),9,-240,119.55869999999999,0.4413,Strong
+2026-01-03 15:00:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"17°49'30.93""",Shatabhisha,Rahu,4,Moon,Gemini,Song Tử,"17°32'22.95""",Ardra,Rahu,4,9th House (Reverse),9,-240,119.71449999999999,0.2855,Strong
+2026-01-03 15:15:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"17°49'28.94""",Shatabhisha,Rahu,4,Moon,Gemini,Song Tử,"17°41'41.74""",Ardra,Rahu,4,9th House (Reverse),9,-240,119.87020000000001,0.1298,Strong
+2026-01-03 15:30:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"17°49'26.96""",Shatabhisha,Rahu,4,Moon,Gemini,Song Tử,"17°51'00.44""",Ardra,Rahu,4,9th House (Reverse),9,-240,120.02600000000001,0.026,Strong
+2026-01-03 15:45:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"17°49'24.97""",Shatabhisha,Rahu,4,Moon,Gemini,Song Tử,"18°00'19.05""",Ardra,Rahu,4,9th House (Reverse),9,-240,120.1817,0.1817,Strong
+2026-01-03 16:00:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"17°49'22.98""",Shatabhisha,Rahu,4,Moon,Gemini,Song Tử,"18°09'37.57""",Ardra,Rahu,4,9th House (Reverse),9,-240,120.3374,0.3374,Strong
+2026-01-03 16:15:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"17°49'21.00""",Shatabhisha,Rahu,4,Moon,Gemini,Song Tử,"18°18'56.00""",Ardra,Rahu,4,9th House (Reverse),9,-240,120.4931,0.4931,Strong
+2026-01-03 16:30:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"17°49'19.01""",Shatabhisha,Rahu,4,Moon,Gemini,Song Tử,"18°28'14.33""",Ardra,Rahu,4,9th House (Reverse),9,-240,120.64869999999999,0.6487,Strong
+2026-01-03 16:45:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"17°49'17.02""",Shatabhisha,Rahu,4,Moon,Gemini,Song Tử,"18°37'32.58""",Ardra,Rahu,4,9th House (Reverse),9,-240,120.80430000000001,0.8043,Strong
+2026-01-03 17:00:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"17°49'15.03""",Shatabhisha,Rahu,4,Moon,Gemini,Song Tử,"18°46'50.73""",Ardra,Rahu,4,9th House (Reverse),9,-240,120.9599,0.9599,Strong
+2026-01-07 19:30:00,Parashara_Drishti,Moon,Leo,Sư Tử,"16°40'31.76""",Purva Phalguni,Venus,2,Rahu,Aquarius,Bảo Bình,"17°36'12.08""",Shatabhisha,Rahu,4,7th House,7,180,180.9279,0.9279,Standard
+2026-01-07 19:30:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"17°36'12.08""",Shatabhisha,Rahu,4,Moon,Leo,Sư Tử,"16°40'31.76""",Purva Phalguni,Venus,2,7th House (Reverse),7,-180,179.0721,0.9279,Weak
+2026-01-07 19:45:00,Parashara_Drishti,Moon,Leo,Sư Tử,"16°48'46.31""",Purva Phalguni,Venus,2,Rahu,Aquarius,Bảo Bình,"17°36'10.09""",Shatabhisha,Rahu,4,7th House,7,180,180.7899,0.7899,Standard
+2026-01-07 19:45:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"17°36'10.09""",Shatabhisha,Rahu,4,Moon,Leo,Sư Tử,"16°48'46.31""",Purva Phalguni,Venus,2,7th House (Reverse),7,-180,179.2101,0.7899,Weak
+2026-01-07 20:00:00,Parashara_Drishti,Moon,Leo,Sư Tử,"16°57'00.68""",Purva Phalguni,Venus,2,Rahu,Aquarius,Bảo Bình,"17°36'08.10""",Shatabhisha,Rahu,4,7th House,7,180,180.6521,0.6521,Standard
+2026-01-07 20:00:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"17°36'08.10""",Shatabhisha,Rahu,4,Moon,Leo,Sư Tử,"16°57'00.68""",Purva Phalguni,Venus,2,7th House (Reverse),7,-180,179.3479,0.6521,Weak
+2026-01-07 20:15:00,Parashara_Drishti,Moon,Leo,Sư Tử,"17°05'14.88""",Purva Phalguni,Venus,2,Rahu,Aquarius,Bảo Bình,"17°36'06.12""",Shatabhisha,Rahu,4,7th House,7,180,180.5142,0.5142,Standard
+2026-01-07 20:15:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"17°36'06.12""",Shatabhisha,Rahu,4,Moon,Leo,Sư Tử,"17°05'14.88""",Purva Phalguni,Venus,2,7th House (Reverse),7,-180,179.4858,0.5142,Weak
+2026-01-07 20:30:00,Parashara_Drishti,Moon,Leo,Sư Tử,"17°13'28.90""",Purva Phalguni,Venus,2,Rahu,Aquarius,Bảo Bình,"17°36'04.13""",Shatabhisha,Rahu,4,7th House,7,180,180.3765,0.3765,Standard
+2026-01-07 20:30:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"17°36'04.13""",Shatabhisha,Rahu,4,Moon,Leo,Sư Tử,"17°13'28.90""",Purva Phalguni,Venus,2,7th House (Reverse),7,-180,179.6235,0.3765,Weak
+2026-01-07 20:45:00,Parashara_Drishti,Moon,Leo,Sư Tử,"17°21'42.75""",Purva Phalguni,Venus,2,Rahu,Aquarius,Bảo Bình,"17°36'02.14""",Shatabhisha,Rahu,4,7th House,7,180,180.2387,0.2387,Standard
+2026-01-07 20:45:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"17°36'02.14""",Shatabhisha,Rahu,4,Moon,Leo,Sư Tử,"17°21'42.75""",Purva Phalguni,Venus,2,7th House (Reverse),7,-180,179.7613,0.2387,Weak
+2026-01-07 21:00:00,Parashara_Drishti,Moon,Leo,Sư Tử,"17°29'56.42""",Purva Phalguni,Venus,2,Rahu,Aquarius,Bảo Bình,"17°36'00.15""",Shatabhisha,Rahu,4,7th House,7,180,180.101,0.101,Standard
+2026-01-07 21:00:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"17°36'00.15""",Shatabhisha,Rahu,4,Moon,Leo,Sư Tử,"17°29'56.42""",Purva Phalguni,Venus,2,7th House (Reverse),7,-180,179.899,0.101,Weak
+2026-01-07 21:15:00,Parashara_Drishti,Moon,Leo,Sư Tử,"17°38'09.92""",Purva Phalguni,Venus,2,Rahu,Aquarius,Bảo Bình,"17°35'58.17""",Shatabhisha,Rahu,4,7th House,7,180,179.9634,0.0366,Standard
+2026-01-07 21:15:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"17°35'58.17""",Shatabhisha,Rahu,4,Moon,Leo,Sư Tử,"17°38'09.92""",Purva Phalguni,Venus,2,7th House (Reverse),7,-180,180.0366,0.0366,Weak
+2026-01-07 21:30:00,Parashara_Drishti,Moon,Leo,Sư Tử,"17°46'23.25""",Purva Phalguni,Venus,2,Rahu,Aquarius,Bảo Bình,"17°35'56.18""",Shatabhisha,Rahu,4,7th House,7,180,179.8258,0.1742,Standard
+2026-01-07 21:30:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"17°35'56.18""",Shatabhisha,Rahu,4,Moon,Leo,Sư Tử,"17°46'23.25""",Purva Phalguni,Venus,2,7th House (Reverse),7,-180,180.1742,0.1742,Weak
+2026-01-07 21:45:00,Parashara_Drishti,Moon,Leo,Sư Tử,"17°54'36.41""",Purva Phalguni,Venus,2,Rahu,Aquarius,Bảo Bình,"17°35'54.19""",Shatabhisha,Rahu,4,7th House,7,180,179.6883,0.3117,Standard
+2026-01-07 21:45:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"17°35'54.19""",Shatabhisha,Rahu,4,Moon,Leo,Sư Tử,"17°54'36.41""",Purva Phalguni,Venus,2,7th House (Reverse),7,-180,180.3117,0.3117,Weak
+2026-01-07 22:00:00,Parashara_Drishti,Moon,Leo,Sư Tử,"18°02'49.40""",Purva Phalguni,Venus,2,Rahu,Aquarius,Bảo Bình,"17°35'52.21""",Shatabhisha,Rahu,4,7th House,7,180,179.5508,0.4492,Standard
+2026-01-07 22:00:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"17°35'52.21""",Shatabhisha,Rahu,4,Moon,Leo,Sư Tử,"18°02'49.40""",Purva Phalguni,Venus,2,7th House (Reverse),7,-180,180.4492,0.4492,Weak
+2026-01-07 22:15:00,Parashara_Drishti,Moon,Leo,Sư Tử,"18°11'02.21""",Purva Phalguni,Venus,2,Rahu,Aquarius,Bảo Bình,"17°35'50.22""",Shatabhisha,Rahu,4,7th House,7,180,179.4133,0.5867,Standard
+2026-01-07 22:15:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"17°35'50.22""",Shatabhisha,Rahu,4,Moon,Leo,Sư Tử,"18°11'02.21""",Purva Phalguni,Venus,2,7th House (Reverse),7,-180,180.5867,0.5867,Weak
+2026-01-07 22:30:00,Parashara_Drishti,Moon,Leo,Sư Tử,"18°19'14.85""",Purva Phalguni,Venus,2,Rahu,Aquarius,Bảo Bình,"17°35'48.23""",Shatabhisha,Rahu,4,7th House,7,180,179.2759,0.7241,Standard
+2026-01-07 22:30:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"17°35'48.23""",Shatabhisha,Rahu,4,Moon,Leo,Sư Tử,"18°19'14.85""",Purva Phalguni,Venus,2,7th House (Reverse),7,-180,180.7241,0.7241,Weak
+2026-01-07 22:45:00,Parashara_Drishti,Moon,Leo,Sư Tử,"18°27'27.31""",Purva Phalguni,Venus,2,Rahu,Aquarius,Bảo Bình,"17°35'46.24""",Shatabhisha,Rahu,4,7th House,7,180,179.1386,0.8614,Standard
+2026-01-07 22:45:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"17°35'46.24""",Shatabhisha,Rahu,4,Moon,Leo,Sư Tử,"18°27'27.31""",Purva Phalguni,Venus,2,7th House (Reverse),7,-180,180.8614,0.8614,Weak
+2026-01-07 23:00:00,Parashara_Drishti,Moon,Leo,Sư Tử,"18°35'39.61""",Purva Phalguni,Venus,2,Rahu,Aquarius,Bảo Bình,"17°35'44.26""",Shatabhisha,Rahu,4,7th House,7,180,179.0013,0.9987,Standard
+2026-01-07 23:00:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"17°35'44.26""",Shatabhisha,Rahu,4,Moon,Leo,Sư Tử,"18°35'39.61""",Purva Phalguni,Venus,2,7th House (Reverse),7,-180,180.9987,0.9987,Weak
+2026-01-12 15:15:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"17°20'52.00""",Shatabhisha,Rahu,4,Moon,Libra,Thiên Bình,"16°22'11.36""",Swati,Rahu,3,5th House (Reverse),5,-120,239.022,0.978,Medium
+2026-01-12 15:30:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"17°20'50.02""",Shatabhisha,Rahu,4,Moon,Libra,Thiên Bình,"16°29'36.69""",Swati,Rahu,3,5th House (Reverse),5,-120,239.1463,0.8537,Medium
+2026-01-12 15:45:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"17°20'48.03""",Shatabhisha,Rahu,4,Moon,Libra,Thiên Bình,"16°37'01.98""",Swati,Rahu,3,5th House (Reverse),5,-120,239.2705,0.7295,Medium
+2026-01-12 16:00:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"17°20'46.04""",Shatabhisha,Rahu,4,Moon,Libra,Thiên Bình,"16°44'27.25""",Swati,Rahu,4,5th House (Reverse),5,-120,239.3948,0.6052,Medium
+2026-01-12 16:15:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"17°20'44.06""",Shatabhisha,Rahu,4,Moon,Libra,Thiên Bình,"16°51'52.49""",Swati,Rahu,4,5th House (Reverse),5,-120,239.519,0.481,Medium
+2026-01-12 16:30:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"17°20'42.07""",Shatabhisha,Rahu,4,Moon,Libra,Thiên Bình,"16°59'17.70""",Swati,Rahu,4,5th House (Reverse),5,-120,239.64319999999998,0.3568,Medium
+2026-01-12 16:45:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"17°20'40.08""",Shatabhisha,Rahu,4,Moon,Libra,Thiên Bình,"17°06'42.88""",Swati,Rahu,4,5th House (Reverse),5,-120,239.7674,0.2326,Medium
+2026-01-12 17:00:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"17°20'38.09""",Shatabhisha,Rahu,4,Moon,Libra,Thiên Bình,"17°14'08.03""",Swati,Rahu,4,5th House (Reverse),5,-120,239.89159999999998,0.1084,Medium
+2026-01-12 17:15:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"17°20'36.11""",Shatabhisha,Rahu,4,Moon,Libra,Thiên Bình,"17°21'33.16""",Swati,Rahu,4,5th House (Reverse),5,-120,240.0158,0.0158,Medium
+2026-01-12 17:30:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"17°20'34.12""",Shatabhisha,Rahu,4,Moon,Libra,Thiên Bình,"17°28'58.27""",Swati,Rahu,4,5th House (Reverse),5,-120,240.14,0.14,Medium
+2026-01-12 17:45:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"17°20'32.13""",Shatabhisha,Rahu,4,Moon,Libra,Thiên Bình,"17°36'23.34""",Swati,Rahu,4,5th House (Reverse),5,-120,240.26420000000002,0.2642,Medium
+2026-01-12 18:00:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"17°20'30.15""",Shatabhisha,Rahu,4,Moon,Libra,Thiên Bình,"17°43'48.39""",Swati,Rahu,4,5th House (Reverse),5,-120,240.3884,0.3884,Medium
+2026-01-12 18:15:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"17°20'28.16""",Shatabhisha,Rahu,4,Moon,Libra,Thiên Bình,"17°51'13.42""",Swati,Rahu,4,5th House (Reverse),5,-120,240.51260000000002,0.5126,Medium
+2026-01-12 18:30:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"17°20'26.17""",Shatabhisha,Rahu,4,Moon,Libra,Thiên Bình,"17°58'38.42""",Swati,Rahu,4,5th House (Reverse),5,-120,240.63670000000002,0.6367,Medium
+2026-01-12 18:45:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"17°20'24.18""",Shatabhisha,Rahu,4,Moon,Libra,Thiên Bình,"18°06'03.39""",Swati,Rahu,4,5th House (Reverse),5,-120,240.7609,0.7609,Medium
+2026-01-12 19:00:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"17°20'22.20""",Shatabhisha,Rahu,4,Moon,Libra,Thiên Bình,"18°13'28.34""",Swati,Rahu,4,5th House (Reverse),5,-120,240.885,0.885,Medium
+2026-01-30 21:30:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"16°22'48.44""",Shatabhisha,Rahu,3,Moon,Gemini,Song Tử,"15°28'39.02""",Ardra,Rahu,3,9th House (Reverse),9,-240,119.0974,0.9026,Strong
+2026-01-30 21:45:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"16°22'46.46""",Shatabhisha,Rahu,3,Moon,Gemini,Song Tử,"15°37'45.09""",Ardra,Rahu,3,9th House (Reverse),9,-240,119.24959999999999,0.7504,Strong
+2026-01-30 22:00:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"16°22'44.47""",Shatabhisha,Rahu,3,Moon,Gemini,Song Tử,"15°46'51.13""",Ardra,Rahu,3,9th House (Reverse),9,-240,119.40190000000001,0.5981,Strong
+2026-01-30 22:15:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"16°22'42.48""",Shatabhisha,Rahu,3,Moon,Gemini,Song Tử,"15°55'57.15""",Ardra,Rahu,3,9th House (Reverse),9,-240,119.5541,0.4459,Strong
+2026-01-30 22:30:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"16°22'40.49""",Shatabhisha,Rahu,3,Moon,Gemini,Song Tử,"16°05'03.13""",Ardra,Rahu,3,9th House (Reverse),9,-240,119.7063,0.2937,Strong
+2026-01-30 22:45:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"16°22'38.51""",Shatabhisha,Rahu,3,Moon,Gemini,Song Tử,"16°14'09.09""",Ardra,Rahu,3,9th House (Reverse),9,-240,119.85849999999999,0.1415,Strong
+2026-01-30 23:00:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"16°22'36.52""",Shatabhisha,Rahu,3,Moon,Gemini,Song Tử,"16°23'15.02""",Ardra,Rahu,3,9th House (Reverse),9,-240,120.01070000000001,0.0107,Strong
+2026-01-30 23:15:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"16°22'34.53""",Shatabhisha,Rahu,3,Moon,Gemini,Song Tử,"16°32'20.92""",Ardra,Rahu,3,9th House (Reverse),9,-240,120.16290000000001,0.1629,Strong
+2026-01-30 23:30:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"16°22'32.55""",Shatabhisha,Rahu,3,Moon,Gemini,Song Tử,"16°41'26.79""",Ardra,Rahu,4,9th House (Reverse),9,-240,120.3151,0.3151,Strong
+2026-01-30 23:45:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"16°22'30.56""",Shatabhisha,Rahu,3,Moon,Gemini,Song Tử,"16°50'32.63""",Ardra,Rahu,4,9th House (Reverse),9,-240,120.46719999999999,0.4672,Strong
+2026-01-31 00:00:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"16°22'28.57""",Shatabhisha,Rahu,3,Moon,Gemini,Song Tử,"16°59'38.44""",Ardra,Rahu,4,9th House (Reverse),9,-240,120.61940000000001,0.6194,Strong
+2026-01-31 00:15:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"16°22'26.58""",Shatabhisha,Rahu,3,Moon,Gemini,Song Tử,"17°08'44.21""",Ardra,Rahu,4,9th House (Reverse),9,-240,120.7716,0.7716,Strong
+2026-01-31 00:30:00,Parashara_Drishti,Rahu,Aquarius,Bảo Bình,"16°22'24.60""",Shatabhisha,Rahu,3,Moon,Gemini,Song Tử,"17°17'49.96""",Ardra,Rahu,4,9th House (Reverse),9,-240,120.9237,0.9237,Strong

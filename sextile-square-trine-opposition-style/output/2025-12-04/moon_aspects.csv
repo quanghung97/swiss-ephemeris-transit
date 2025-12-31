@@ -1,0 +1,39 @@
+﻿datetime,event,type,planet1,planet1_sign,planet1_degree,planet1_nakshatra,planet1_nakshatra_lord,planet1_pada,planet2,planet2_sign,planet2_degree,planet2_nakshatra,planet2_nakshatra_lord,planet2_pada,exact_angle,difference,orb
+2025-12-04 00:00:00,Aspect,Sextitle,Moon,Aries,"29°31'39.94""",Krittika,Sun,1,Jupiter,Cancer,"0°07'56.14""",Punarvasu,Jupiter,4,60,60.6045,0.6045
+2025-12-04 00:15:00,Aspect,Sextitle,Moon,Aries,"29°41'12.96""",Krittika,Sun,1,Jupiter,Cancer,"0°07'53.47""",Punarvasu,Jupiter,4,60,60.4446,0.4446
+2025-12-04 00:30:00,Aspect,Sextitle,Moon,Aries,"29°50'46.04""",Krittika,Sun,1,Jupiter,Cancer,"0°07'50.79""",Punarvasu,Jupiter,4,60,60.2847,0.2847
+2025-12-04 00:45:00,Aspect,Sextitle,Moon,Taurus,"0°00'19.19""",Krittika,Sun,2,Jupiter,Cancer,"0°07'48.11""",Punarvasu,Jupiter,4,60,60.1247,0.1247
+2025-12-04 00:45:00,Aspect,Sextitle,Moon,Taurus,"0°00'19.19""",Krittika,Sun,2,Saturn,Pisces,"0°57'55.32""",Purva Bhadrapada,Jupiter,4,60,59.04,0.96
+2025-12-04 01:00:00,Aspect,Sextitle,Moon,Taurus,"0°09'52.39""",Krittika,Sun,2,Jupiter,Cancer,"0°07'45.44""",Punarvasu,Jupiter,4,60,59.9647,0.0353
+2025-12-04 01:00:00,Aspect,Sextitle,Moon,Taurus,"0°09'52.39""",Krittika,Sun,2,Saturn,Pisces,"0°57'55.69""",Purva Bhadrapada,Jupiter,4,60,59.1991,0.8009
+2025-12-04 01:15:00,Aspect,Sextitle,Moon,Taurus,"0°19'25.66""",Krittika,Sun,2,Jupiter,Cancer,"0°07'42.76""",Punarvasu,Jupiter,4,60,59.8047,0.1953
+2025-12-04 01:15:00,Aspect,Sextitle,Moon,Taurus,"0°19'25.66""",Krittika,Sun,2,Saturn,Pisces,"0°57'56.07""",Purva Bhadrapada,Jupiter,4,60,59.3582,0.6418
+2025-12-04 01:30:00,Aspect,Sextitle,Moon,Taurus,"0°28'58.99""",Krittika,Sun,2,Jupiter,Cancer,"0°07'40.08""",Punarvasu,Jupiter,4,60,59.6447,0.3553
+2025-12-04 01:30:00,Aspect,Sextitle,Moon,Taurus,"0°28'58.99""",Krittika,Sun,2,Saturn,Pisces,"0°57'56.45""",Purva Bhadrapada,Jupiter,4,60,59.5174,0.4826
+2025-12-04 01:45:00,Aspect,Sextitle,Moon,Taurus,"0°38'32.37""",Krittika,Sun,2,Jupiter,Cancer,"0°07'37.39""",Punarvasu,Jupiter,4,60,59.4847,0.5153
+2025-12-04 01:45:00,Aspect,Sextitle,Moon,Taurus,"0°38'32.37""",Krittika,Sun,2,Saturn,Pisces,"0°57'56.82""",Purva Bhadrapada,Jupiter,4,60,59.6765,0.3235
+2025-12-04 02:00:00,Aspect,Sextitle,Moon,Taurus,"0°48'05.81""",Krittika,Sun,2,Jupiter,Cancer,"0°07'34.71""",Punarvasu,Jupiter,4,60,59.3247,0.6753
+2025-12-04 02:00:00,Aspect,Sextitle,Moon,Taurus,"0°48'05.81""",Krittika,Sun,2,Saturn,Pisces,"0°57'57.20""",Purva Bhadrapada,Jupiter,4,60,59.8357,0.1643
+2025-12-04 02:15:00,Aspect,Sextitle,Moon,Taurus,"0°57'39.31""",Krittika,Sun,2,Jupiter,Cancer,"0°07'32.03""",Punarvasu,Jupiter,4,60,59.1646,0.8354
+2025-12-04 02:15:00,Aspect,Sextitle,Moon,Taurus,"0°57'39.31""",Krittika,Sun,2,Saturn,Pisces,"0°57'57.58""",Purva Bhadrapada,Jupiter,4,60,59.9949,0.0051
+2025-12-04 02:30:00,Aspect,Sextitle,Moon,Taurus,"1°07'12.87""",Krittika,Sun,2,Jupiter,Cancer,"0°07'29.34""",Punarvasu,Jupiter,4,60,59.0046,0.9954
+2025-12-04 02:30:00,Aspect,Sextitle,Moon,Taurus,"1°07'12.87""",Krittika,Sun,2,Saturn,Pisces,"0°57'57.96""",Purva Bhadrapada,Jupiter,4,60,60.1541,0.1541
+2025-12-04 02:45:00,Aspect,Sextitle,Moon,Taurus,"1°16'46.48""",Krittika,Sun,2,Saturn,Pisces,"0°57'58.34""",Purva Bhadrapada,Jupiter,4,60,60.3134,0.3134
+2025-12-04 03:00:00,Aspect,Sextitle,Moon,Taurus,"1°26'20.15""",Krittika,Sun,2,Saturn,Pisces,"0°57'58.72""",Purva Bhadrapada,Jupiter,4,60,60.4726,0.4726
+2025-12-04 03:15:00,Aspect,Sextitle,Moon,Taurus,"1°35'53.87""",Krittika,Sun,2,Saturn,Pisces,"0°57'59.10""",Purva Bhadrapada,Jupiter,4,60,60.6319,0.6319
+2025-12-04 03:30:00,Aspect,Sextitle,Moon,Taurus,"1°45'27.64""",Krittika,Sun,2,Saturn,Pisces,"0°57'59.48""",Purva Bhadrapada,Jupiter,4,60,60.7912,0.7912
+2025-12-04 03:45:00,Aspect,Sextitle,Moon,Taurus,"1°55'01.47""",Krittika,Sun,2,Saturn,Pisces,"0°57'59.87""",Purva Bhadrapada,Jupiter,4,60,60.9504,0.9504
+2025-12-04 15:15:00,Aspect,Opposition,Moon,Taurus,"9°15'41.07""",Krittika,Sun,4,Venus,Scorpio,"10°10'54.57""",Anuradha,Saturn,3,180,179.0796,0.9204
+2025-12-04 15:30:00,Aspect,Opposition,Moon,Taurus,"9°25'16.49""",Krittika,Sun,4,Venus,Scorpio,"10°11'41.72""",Anuradha,Saturn,3,180,179.2263,0.7737
+2025-12-04 15:45:00,Aspect,Opposition,Moon,Taurus,"9°34'51.92""",Krittika,Sun,4,Venus,Scorpio,"10°12'28.88""",Anuradha,Saturn,3,180,179.3731,0.6269
+2025-12-04 16:00:00,Aspect,Opposition,Moon,Taurus,"9°44'27.37""",Krittika,Sun,4,Venus,Scorpio,"10°13'16.04""",Anuradha,Saturn,3,180,179.5198,0.4802
+2025-12-04 16:15:00,Aspect,Opposition,Moon,Taurus,"9°54'02.84""",Krittika,Sun,4,Venus,Scorpio,"10°14'03.19""",Anuradha,Saturn,3,180,179.6666,0.3334
+2025-12-04 16:30:00,Aspect,Opposition,Moon,Taurus,"10°03'38.31""",Rohini,Moon,1,Venus,Scorpio,"10°14'50.35""",Anuradha,Saturn,3,180,179.8133,0.1867
+2025-12-04 16:45:00,Aspect,Opposition,Moon,Taurus,"10°13'13.80""",Rohini,Moon,1,Venus,Scorpio,"10°15'37.51""",Anuradha,Saturn,3,180,179.9601,0.0399
+2025-12-04 17:00:00,Aspect,Opposition,Moon,Taurus,"10°22'49.30""",Rohini,Moon,1,Venus,Scorpio,"10°16'24.66""",Anuradha,Saturn,3,180,179.8932,0.1068
+2025-12-04 17:15:00,Aspect,Opposition,Moon,Taurus,"10°32'24.81""",Rohini,Moon,1,Venus,Scorpio,"10°17'11.82""",Anuradha,Saturn,3,180,179.7464,0.2536
+2025-12-04 17:30:00,Aspect,Opposition,Moon,Taurus,"10°42'00.32""",Rohini,Moon,1,Venus,Scorpio,"10°17'58.98""",Anuradha,Saturn,3,180,179.5996,0.4004
+2025-12-04 17:45:00,Aspect,Opposition,Moon,Taurus,"10°51'35.85""",Rohini,Moon,1,Venus,Scorpio,"10°18'46.13""",Anuradha,Saturn,3,180,179.4529,0.5471
+2025-12-04 18:00:00,Aspect,Opposition,Moon,Taurus,"11°01'11.38""",Rohini,Moon,1,Venus,Scorpio,"10°19'33.29""",Anuradha,Saturn,3,180,179.3061,0.6939
+2025-12-04 18:15:00,Aspect,Opposition,Moon,Taurus,"11°10'46.92""",Rohini,Moon,1,Venus,Scorpio,"10°20'20.45""",Anuradha,Saturn,3,180,179.1593,0.8407
+2025-12-04 18:30:00,Aspect,Opposition,Moon,Taurus,"11°20'22.46""",Rohini,Moon,1,Venus,Scorpio,"10°21'07.60""",Anuradha,Saturn,3,180,179.0125,0.9875

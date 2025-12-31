@@ -1,15 +1,15 @@
-﻿datetime,event,planet,from_sign,to_sign,degree,longitude
-2026-01-02 11:00:00,Ingress,Moon,Taurus,Gemini,"0°02'29.57""",60.041547
-2026-01-04 11:15:00,Ingress,Moon,Gemini,Cancer,"0°01'05.99""",90.01833
-2026-01-06 14:00:00,Ingress,Moon,Cancer,Leo,"0°06'56.05""",120.115569
-2026-01-08 20:15:00,Ingress,Moon,Leo,Virgo,"0°02'59.83""",150.049954
-2026-01-11 06:30:00,Ingress,Moon,Virgo,Libra,"0°03'39.63""",180.061008
-2026-01-13 19:00:00,Ingress,Moon,Libra,Scorpio,"0°04'15.01""",210.070836
-2026-01-16 07:30:00,Ingress,Moon,Scorpio,Sagittarius,"0°06'03.22""",240.100894
-2026-01-18 18:15:00,Ingress,Moon,Sagittarius,Capricorn,"0°01'58.54""",270.032928
-2026-01-21 03:15:00,Ingress,Moon,Capricorn,Aquarius,"0°05'02.34""",300.083984
-2026-01-23 10:15:00,Ingress,Moon,Aquarius,Pisces,"0°06'13.01""",330.103613
-2026-01-25 15:15:00,Ingress,Moon,Pisces,Aries,"0°05'13.37""",0.087046
-2026-01-27 18:30:00,Ingress,Moon,Aries,Taurus,"0°08'52.14""",30.147817
-2026-01-29 20:15:00,Ingress,Moon,Taurus,Gemini,"0°08'23.25""",60.139791
-2026-01-31 21:45:00,Ingress,Moon,Gemini,Cancer,"0°08'14.40""",90.137334
+﻿datetime,event,planet,from_sign,from_sign_vi,to_sign,to_sign_vi,degree,longitude,nakshatra,nakshatra_lord,pada
+2026-01-02 11:00:00,Ingress,Moon,Taurus,Kim Ngưu,Gemini,Song Tử,"0°02'29.57""",60.041547,Mrigashira,Mars,3
+2026-01-04 11:15:00,Ingress,Moon,Gemini,Song Tử,Cancer,Cự Giải,"0°01'05.99""",90.01833,Punarvasu,Jupiter,4
+2026-01-06 14:00:00,Ingress,Moon,Cancer,Cự Giải,Leo,Sư Tử,"0°06'56.05""",120.115569,Magha,Ketu,1
+2026-01-08 20:15:00,Ingress,Moon,Leo,Sư Tử,Virgo,Xử Nữ,"0°02'59.83""",150.049954,Uttara Phalguni,Sun,2
+2026-01-11 06:30:00,Ingress,Moon,Virgo,Xử Nữ,Libra,Thiên Bình,"0°03'39.63""",180.061008,Chitra,Mars,3
+2026-01-13 19:00:00,Ingress,Moon,Libra,Thiên Bình,Scorpio,Bọ Cạp,"0°04'15.01""",210.070836,Vishakha,Jupiter,4
+2026-01-16 07:30:00,Ingress,Moon,Scorpio,Bọ Cạp,Sagittarius,Nhân Mã,"0°06'03.22""",240.100894,Mula,Ketu,1
+2026-01-18 18:15:00,Ingress,Moon,Sagittarius,Nhân Mã,Capricorn,Ma Kết,"0°01'58.54""",270.032928,Uttara Ashadha,Sun,2
+2026-01-21 03:15:00,Ingress,Moon,Capricorn,Ma Kết,Aquarius,Bảo Bình,"0°05'02.34""",300.083984,Dhanishta,Mars,3
+2026-01-23 10:15:00,Ingress,Moon,Aquarius,Bảo Bình,Pisces,Song Ngư,"0°06'13.01""",330.103613,Purva Bhadrapada,Jupiter,4
+2026-01-25 15:15:00,Ingress,Moon,Pisces,Song Ngư,Aries,Bạch Dương,"0°05'13.37""",0.087046,Ashwini,Ketu,1
+2026-01-27 18:30:00,Ingress,Moon,Aries,Bạch Dương,Taurus,Kim Ngưu,"0°08'52.14""",30.147817,Krittika,Sun,2
+2026-01-29 20:15:00,Ingress,Moon,Taurus,Kim Ngưu,Gemini,Song Tử,"0°08'23.25""",60.139791,Mrigashira,Mars,3
+2026-01-31 21:45:00,Ingress,Moon,Gemini,Song Tử,Cancer,Cự Giải,"0°08'14.40""",90.137334,Punarvasu,Jupiter,4

@@ -1,2 +1,2 @@
-﻿datetime,event,planet,from_sign,to_sign,degree,longitude
-2026-01-25 15:15:00,Ingress,Moon,Pisces,Aries,"0°05'13.37""",0.087046
+﻿datetime,event,planet,from_sign,from_sign_vi,to_sign,to_sign_vi,degree,longitude,nakshatra,nakshatra_lord,pada
+2026-01-25 15:15:00,Ingress,Moon,Pisces,Song Ngư,Aries,Bạch Dương,"0°05'13.37""",0.087046,Ashwini,Ketu,1

@@ -4,17 +4,27 @@
     "event": "Ingress",
     "planet": "Venus",
     "from_sign": "Sagittarius",
+    "from_sign_vi": "Nhân Mã",
     "to_sign": "Capricorn",
+    "to_sign_vi": "Ma Kết",
     "degree": "0°00'06.08\"",
-    "longitude": 270.00169
+    "longitude": 270.00169,
+    "nakshatra": "Uttara Ashadha",
+    "nakshatra_lord": "Sun",
+    "pada": 2
   },
   {
     "datetime": "2026-01-13 19:00:00",
     "event": "Ingress",
     "planet": "Moon",
     "from_sign": "Libra",
+    "from_sign_vi": "Thiên Bình",
     "to_sign": "Scorpio",
+    "to_sign_vi": "Bọ Cạp",
     "degree": "0°04'15.01\"",
-    "longitude": 210.070836
+    "longitude": 210.070836,
+    "nakshatra": "Vishakha",
+    "nakshatra_lord": "Jupiter",
+    "pada": 4
   }
 ]

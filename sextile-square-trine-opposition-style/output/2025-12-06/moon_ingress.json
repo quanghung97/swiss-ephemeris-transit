@@ -1,0 +1,16 @@
+[
+  {
+    "datetime": "2025-12-06 00:00:00",
+    "event": "Ingress",
+    "planet": "Moon",
+    "from_sign": "Taurus",
+    "from_sign_vi": "Kim Ngưu",
+    "to_sign": "Gemini",
+    "to_sign_vi": "Song Tử",
+    "degree": "0°09'08.29\"",
+    "longitude": 60.152303,
+    "nakshatra": "Mrigashira",
+    "nakshatra_lord": "Mars",
+    "pada": 3
+  }
+]

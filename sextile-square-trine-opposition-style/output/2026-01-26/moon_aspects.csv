@@ -1,90 +1,16 @@
-﻿datetime,event,type,planet1,planet1_sign,planet1_degree,planet2,planet2_sign,planet2_degree,exact_angle,difference,orb
-2026-01-26 02:45:00,Aspect,Square,Moon,Aries,"6°44'29.91""",Mars,Capricorn,"7°40'36.85""",90,89.0647,0.9353
-2026-01-26 03:00:00,Aspect,Square,Moon,Aries,"6°53'12.86""",Mars,Capricorn,"7°41'06.12""",90,89.2019,0.7981
-2026-01-26 03:15:00,Aspect,Square,Moon,Aries,"7°01'55.91""",Mars,Capricorn,"7°41'35.38""",90,89.339,0.661
-2026-01-26 03:30:00,Aspect,Square,Moon,Aries,"7°10'39.04""",Mars,Capricorn,"7°42'04.64""",90,89.4762,0.5238
-2026-01-26 03:45:00,Aspect,Square,Moon,Aries,"7°19'22.27""",Mars,Capricorn,"7°42'33.91""",90,89.6134,0.3866
-2026-01-26 04:00:00,Aspect,Square,Moon,Aries,"7°28'05.59""",Mars,Capricorn,"7°43'03.17""",90,89.7507,0.2493
-2026-01-26 04:15:00,Aspect,Square,Moon,Aries,"7°36'49.00""",Mars,Capricorn,"7°43'32.43""",90,89.8879,0.1121
-2026-01-26 04:30:00,Aspect,Square,Moon,Aries,"7°45'32.50""",Mars,Capricorn,"7°44'01.70""",90,90.0252,0.0252
-2026-01-26 04:45:00,Aspect,Square,Moon,Aries,"7°54'16.10""",Mars,Capricorn,"7°44'30.96""",90,90.1625,0.1625
-2026-01-26 05:00:00,Aspect,Square,Moon,Aries,"8°02'59.78""",Mars,Capricorn,"7°45'00.22""",90,90.2999,0.2999
-2026-01-26 05:15:00,Aspect,Square,Moon,Aries,"8°11'43.56""",Mars,Capricorn,"7°45'29.49""",90,90.4372,0.4372
-2026-01-26 05:30:00,Aspect,Square,Moon,Aries,"8°20'27.43""",Mars,Capricorn,"7°45'58.75""",90,90.5746,0.5746
-2026-01-26 05:45:00,Aspect,Square,Moon,Aries,"8°29'11.39""",Mars,Capricorn,"7°46'28.02""",90,90.712,0.712
-2026-01-26 06:00:00,Aspect,Square,Moon,Aries,"8°37'55.44""",Mars,Capricorn,"7°46'57.28""",90,90.8495,0.8495
-2026-01-26 06:15:00,Aspect,Square,Moon,Aries,"8°46'39.58""",Mars,Capricorn,"7°47'26.55""",90,90.987,0.987
-2026-01-26 10:00:00,Aspect,Square,Sun,Capricorn,"11°56'04.41""",Moon,Aries,"10°57'52.65""",90,89.0301,0.9699
-2026-01-26 10:15:00,Aspect,Square,Sun,Capricorn,"11°56'42.53""",Moon,Aries,"11°06'38.25""",90,89.1655,0.8345
-2026-01-26 10:30:00,Aspect,Square,Sun,Capricorn,"11°57'20.65""",Moon,Aries,"11°15'23.94""",90,89.3009,0.6991
-2026-01-26 10:45:00,Aspect,Square,Sun,Capricorn,"11°57'58.77""",Moon,Aries,"11°24'09.72""",90,89.4364,0.5636
-2026-01-26 11:00:00,Aspect,Square,Sun,Capricorn,"11°58'36.89""",Moon,Aries,"11°32'55.59""",90,89.5719,0.4281
-2026-01-26 11:15:00,Aspect,Square,Sun,Capricorn,"11°59'15.01""",Moon,Aries,"11°41'41.55""",90,89.7074,0.2926
-2026-01-26 11:30:00,Aspect,Square,Sun,Capricorn,"11°59'53.13""",Moon,Aries,"11°50'27.60""",90,89.8429,0.1571
-2026-01-26 11:45:00,Aspect,Square,Sun,Capricorn,"12°00'31.25""",Moon,Aries,"11°59'13.74""",90,89.9785,0.0215
-2026-01-26 12:00:00,Aspect,Square,Sun,Capricorn,"12°01'09.37""",Moon,Aries,"12°07'59.97""",90,90.1141,0.1141
-2026-01-26 12:15:00,Aspect,Square,Sun,Capricorn,"12°01'47.49""",Moon,Aries,"12°16'46.29""",90,90.2497,0.2497
-2026-01-26 12:30:00,Aspect,Square,Sun,Capricorn,"12°02'25.61""",Moon,Aries,"12°25'32.70""",90,90.3853,0.3853
-2026-01-26 12:45:00,Aspect,Square,Sun,Capricorn,"12°03'03.73""",Moon,Aries,"12°34'19.20""",90,90.521,0.521
-2026-01-26 13:00:00,Aspect,Square,Sun,Capricorn,"12°03'41.85""",Moon,Aries,"12°43'05.80""",90,90.6567,0.6567
-2026-01-26 13:15:00,Aspect,Square,Sun,Capricorn,"12°04'19.97""",Moon,Aries,"12°51'52.48""",90,90.7924,0.7924
-2026-01-26 13:30:00,Aspect,Square,Sun,Capricorn,"12°04'58.09""",Moon,Aries,"13°00'39.25""",90,90.9281,0.9281
-2026-01-26 16:00:00,Aspect,Square,Moon,Aries,"14°28'31.90""",Mercury,Capricorn,"15°25'13.15""",90,89.0552,0.9448
-2026-01-26 16:15:00,Aspect,Square,Moon,Aries,"14°37'19.66""",Mercury,Capricorn,"15°26'17.83""",90,89.1838,0.8162
-2026-01-26 16:30:00,Aspect,Square,Moon,Aries,"14°46'07.51""",Mercury,Capricorn,"15°27'22.50""",90,89.3125,0.6875
-2026-01-26 16:45:00,Aspect,Square,Moon,Aries,"14°54'55.44""",Mercury,Capricorn,"15°28'27.18""",90,89.4412,0.5588
-2026-01-26 17:00:00,Aspect,Square,Moon,Aries,"15°03'43.47""",Mercury,Capricorn,"15°29'31.87""",90,89.5699,0.4301
-2026-01-26 17:15:00,Aspect,Square,Moon,Aries,"15°12'31.58""",Mercury,Capricorn,"15°30'36.55""",90,89.6986,0.3014
-2026-01-26 17:30:00,Aspect,Square,Moon,Aries,"15°21'19.78""",Mercury,Capricorn,"15°31'41.24""",90,89.8274,0.1726
-2026-01-26 17:45:00,Aspect,Square,Moon,Aries,"15°30'08.07""",Mercury,Capricorn,"15°32'45.94""",90,89.9561,0.0439
-2026-01-26 18:00:00,Aspect,Square,Moon,Aries,"15°38'56.45""",Mercury,Capricorn,"15°33'50.63""",90,90.0849,0.0849
-2026-01-26 18:00:00,Aspect,Sextitle,Moon,Aries,"15°38'56.45""",Rahu,Aquarius,"16°35'59.35""",60,59.0492,0.9508
-2026-01-26 18:00:00,Aspect,Trine,Moon,Aries,"15°38'56.45""",Ketu,Leo,"16°35'59.35""",120,120.9508,0.9508
-2026-01-26 18:15:00,Aspect,Square,Moon,Aries,"15°47'44.92""",Mercury,Capricorn,"15°34'55.33""",90,90.2138,0.2138
-2026-01-26 18:15:00,Aspect,Sextitle,Moon,Aries,"15°47'44.92""",Rahu,Aquarius,"16°35'57.36""",60,59.1965,0.8035
-2026-01-26 18:15:00,Aspect,Trine,Moon,Aries,"15°47'44.92""",Ketu,Leo,"16°35'57.36""",120,120.8035,0.8035
-2026-01-26 18:30:00,Aspect,Square,Moon,Aries,"15°56'33.48""",Mercury,Capricorn,"15°36'00.04""",90,90.3426,0.3426
-2026-01-26 18:30:00,Aspect,Sextitle,Moon,Aries,"15°56'33.48""",Rahu,Aquarius,"16°35'55.37""",60,59.3439,0.6561
-2026-01-26 18:30:00,Aspect,Trine,Moon,Aries,"15°56'33.48""",Ketu,Leo,"16°35'55.37""",120,120.6561,0.6561
-2026-01-26 18:45:00,Aspect,Square,Moon,Aries,"16°05'22.13""",Mercury,Capricorn,"15°37'04.75""",90,90.4715,0.4715
-2026-01-26 18:45:00,Aspect,Square,Moon,Aries,"16°05'22.13""",Venus,Capricorn,"17°02'12.49""",90,89.0527,0.9473
-2026-01-26 18:45:00,Aspect,Sextitle,Moon,Aries,"16°05'22.13""",Rahu,Aquarius,"16°35'53.39""",60,59.4913,0.5087
-2026-01-26 18:45:00,Aspect,Trine,Moon,Aries,"16°05'22.13""",Ketu,Leo,"16°35'53.39""",120,120.5087,0.5087
-2026-01-26 19:00:00,Aspect,Square,Moon,Aries,"16°14'10.86""",Mercury,Capricorn,"15°38'09.46""",90,90.6004,0.6004
-2026-01-26 19:00:00,Aspect,Square,Moon,Aries,"16°14'10.86""",Venus,Capricorn,"17°02'59.58""",90,89.1865,0.8135
-2026-01-26 19:00:00,Aspect,Sextitle,Moon,Aries,"16°14'10.86""",Rahu,Aquarius,"16°35'51.40""",60,59.6387,0.3613
-2026-01-26 19:00:00,Aspect,Trine,Moon,Aries,"16°14'10.86""",Ketu,Leo,"16°35'51.40""",120,120.3613,0.3613
-2026-01-26 19:15:00,Aspect,Square,Moon,Aries,"16°22'59.68""",Mercury,Capricorn,"15°39'14.17""",90,90.7293,0.7293
-2026-01-26 19:15:00,Aspect,Square,Moon,Aries,"16°22'59.68""",Venus,Capricorn,"17°03'46.68""",90,89.3203,0.6797
-2026-01-26 19:15:00,Aspect,Sextitle,Moon,Aries,"16°22'59.68""",Rahu,Aquarius,"16°35'49.41""",60,59.7862,0.2138
-2026-01-26 19:15:00,Aspect,Trine,Moon,Aries,"16°22'59.68""",Ketu,Leo,"16°35'49.41""",120,120.2138,0.2138
-2026-01-26 19:30:00,Aspect,Square,Moon,Aries,"16°31'48.59""",Mercury,Capricorn,"15°40'18.89""",90,90.8583,0.8583
-2026-01-26 19:30:00,Aspect,Square,Moon,Aries,"16°31'48.59""",Venus,Capricorn,"17°04'33.78""",90,89.4541,0.5459
-2026-01-26 19:30:00,Aspect,Sextitle,Moon,Aries,"16°31'48.59""",Rahu,Aquarius,"16°35'47.43""",60,59.9337,0.0663
-2026-01-26 19:30:00,Aspect,Trine,Moon,Aries,"16°31'48.59""",Ketu,Leo,"16°35'47.43""",120,120.0663,0.0663
-2026-01-26 19:45:00,Aspect,Square,Moon,Aries,"16°40'37.59""",Mercury,Capricorn,"15°41'23.61""",90,90.9872,0.9872
-2026-01-26 19:45:00,Aspect,Square,Moon,Aries,"16°40'37.59""",Venus,Capricorn,"17°05'20.87""",90,89.588,0.412
-2026-01-26 19:45:00,Aspect,Sextitle,Moon,Aries,"16°40'37.59""",Rahu,Aquarius,"16°35'45.44""",60,60.0812,0.0812
-2026-01-26 19:45:00,Aspect,Trine,Moon,Aries,"16°40'37.59""",Ketu,Leo,"16°35'45.44""",120,119.9188,0.0812
-2026-01-26 20:00:00,Aspect,Square,Moon,Aries,"16°49'26.68""",Venus,Capricorn,"17°06'07.97""",90,89.7219,0.2781
-2026-01-26 20:00:00,Aspect,Sextitle,Moon,Aries,"16°49'26.68""",Rahu,Aquarius,"16°35'43.45""",60,60.2287,0.2287
-2026-01-26 20:00:00,Aspect,Trine,Moon,Aries,"16°49'26.68""",Ketu,Leo,"16°35'43.45""",120,119.7713,0.2287
-2026-01-26 20:15:00,Aspect,Square,Moon,Aries,"16°58'15.86""",Venus,Capricorn,"17°06'55.06""",90,89.8558,0.1442
-2026-01-26 20:15:00,Aspect,Sextitle,Moon,Aries,"16°58'15.86""",Rahu,Aquarius,"16°35'41.46""",60,60.3762,0.3762
-2026-01-26 20:15:00,Aspect,Trine,Moon,Aries,"16°58'15.86""",Ketu,Leo,"16°35'41.46""",120,119.6238,0.3762
-2026-01-26 20:30:00,Aspect,Square,Moon,Aries,"17°07'05.12""",Venus,Capricorn,"17°07'42.16""",90,89.9897,0.0103
-2026-01-26 20:30:00,Aspect,Sextitle,Moon,Aries,"17°07'05.12""",Rahu,Aquarius,"16°35'39.48""",60,60.5238,0.5238
-2026-01-26 20:30:00,Aspect,Trine,Moon,Aries,"17°07'05.12""",Ketu,Leo,"16°35'39.48""",120,119.4762,0.5238
-2026-01-26 20:45:00,Aspect,Square,Moon,Aries,"17°15'54.47""",Venus,Capricorn,"17°08'29.26""",90,90.1237,0.1237
-2026-01-26 20:45:00,Aspect,Sextitle,Moon,Aries,"17°15'54.47""",Rahu,Aquarius,"16°35'37.49""",60,60.6714,0.6714
-2026-01-26 20:45:00,Aspect,Trine,Moon,Aries,"17°15'54.47""",Ketu,Leo,"16°35'37.49""",120,119.3286,0.6714
-2026-01-26 21:00:00,Aspect,Square,Moon,Aries,"17°24'43.91""",Venus,Capricorn,"17°09'16.35""",90,90.2577,0.2577
-2026-01-26 21:00:00,Aspect,Sextitle,Moon,Aries,"17°24'43.91""",Rahu,Aquarius,"16°35'35.50""",60,60.819,0.819
-2026-01-26 21:00:00,Aspect,Trine,Moon,Aries,"17°24'43.91""",Ketu,Leo,"16°35'35.50""",120,119.181,0.819
-2026-01-26 21:15:00,Aspect,Square,Moon,Aries,"17°33'33.44""",Venus,Capricorn,"17°10'03.45""",90,90.3917,0.3917
-2026-01-26 21:15:00,Aspect,Sextitle,Moon,Aries,"17°33'33.44""",Rahu,Aquarius,"16°35'33.52""",60,60.9666,0.9666
-2026-01-26 21:15:00,Aspect,Trine,Moon,Aries,"17°33'33.44""",Ketu,Leo,"16°35'33.52""",120,119.0334,0.9666
-2026-01-26 21:30:00,Aspect,Square,Moon,Aries,"17°42'23.05""",Venus,Capricorn,"17°10'50.54""",90,90.5257,0.5257
-2026-01-26 21:45:00,Aspect,Square,Moon,Aries,"17°51'12.76""",Venus,Capricorn,"17°11'37.64""",90,90.6598,0.6598
-2026-01-26 22:00:00,Aspect,Square,Moon,Aries,"18°00'02.54""",Venus,Capricorn,"17°12'24.73""",90,90.7938,0.7938
-2026-01-26 22:15:00,Aspect,Square,Moon,Aries,"18°08'52.42""",Venus,Capricorn,"17°13'11.83""",90,90.9279,0.9279
+﻿datetime,event,aspecting_planet,aspecting_sign,aspecting_sign_vi,aspecting_degree,aspecting_nakshatra,aspecting_nakshatra_lord,aspecting_pada,aspected_planet,aspected_sign,aspected_sign_vi,aspected_degree,aspected_nakshatra,aspected_nakshatra_lord,aspected_pada,aspect_type,aspect_house,target_angle,actual_angle,orb,strength
+2026-01-26 02:45:00,Parashara_Drishti,Mars,Capricorn,Ma Kết,"7°40'36.85""",Uttara Ashadha,Sun,4,Moon,Aries,Bạch Dương,"6°44'29.91""",Ashwini,Ketu,3,4th House,4,90,89.06470000000002,0.9353,Medium
+2026-01-26 03:00:00,Parashara_Drishti,Mars,Capricorn,Ma Kết,"7°41'06.12""",Uttara Ashadha,Sun,4,Moon,Aries,Bạch Dương,"6°53'12.86""",Ashwini,Ketu,3,4th House,4,90,89.20190000000002,0.7981,Medium
+2026-01-26 03:15:00,Parashara_Drishti,Mars,Capricorn,Ma Kết,"7°41'35.38""",Uttara Ashadha,Sun,4,Moon,Aries,Bạch Dương,"7°01'55.91""",Ashwini,Ketu,3,4th House,4,90,89.339,0.661,Medium
+2026-01-26 03:30:00,Parashara_Drishti,Mars,Capricorn,Ma Kết,"7°42'04.64""",Uttara Ashadha,Sun,4,Moon,Aries,Bạch Dương,"7°10'39.04""",Ashwini,Ketu,3,4th House,4,90,89.4762,0.5238,Medium
+2026-01-26 03:45:00,Parashara_Drishti,Mars,Capricorn,Ma Kết,"7°42'33.91""",Uttara Ashadha,Sun,4,Moon,Aries,Bạch Dương,"7°19'22.27""",Ashwini,Ketu,3,4th House,4,90,89.61340000000001,0.3866,Medium
+2026-01-26 04:00:00,Parashara_Drishti,Mars,Capricorn,Ma Kết,"7°43'03.17""",Uttara Ashadha,Sun,4,Moon,Aries,Bạch Dương,"7°28'05.59""",Ashwini,Ketu,3,4th House,4,90,89.7507,0.2493,Medium
+2026-01-26 04:15:00,Parashara_Drishti,Mars,Capricorn,Ma Kết,"7°43'32.43""",Uttara Ashadha,Sun,4,Moon,Aries,Bạch Dương,"7°36'49.00""",Ashwini,Ketu,3,4th House,4,90,89.8879,0.1121,Medium
+2026-01-26 04:30:00,Parashara_Drishti,Mars,Capricorn,Ma Kết,"7°44'01.70""",Uttara Ashadha,Sun,4,Moon,Aries,Bạch Dương,"7°45'32.50""",Ashwini,Ketu,3,4th House,4,90,90.02519999999998,0.0252,Medium
+2026-01-26 04:45:00,Parashara_Drishti,Mars,Capricorn,Ma Kết,"7°44'30.96""",Uttara Ashadha,Sun,4,Moon,Aries,Bạch Dương,"7°54'16.10""",Ashwini,Ketu,3,4th House,4,90,90.16250000000002,0.1625,Medium
+2026-01-26 05:00:00,Parashara_Drishti,Mars,Capricorn,Ma Kết,"7°45'00.22""",Uttara Ashadha,Sun,4,Moon,Aries,Bạch Dương,"8°02'59.78""",Ashwini,Ketu,3,4th House,4,90,90.29989999999998,0.2999,Medium
+2026-01-26 05:15:00,Parashara_Drishti,Mars,Capricorn,Ma Kết,"7°45'29.49""",Uttara Ashadha,Sun,4,Moon,Aries,Bạch Dương,"8°11'43.56""",Ashwini,Ketu,3,4th House,4,90,90.43720000000002,0.4372,Medium
+2026-01-26 05:30:00,Parashara_Drishti,Mars,Capricorn,Ma Kết,"7°45'58.75""",Uttara Ashadha,Sun,4,Moon,Aries,Bạch Dương,"8°20'27.43""",Ashwini,Ketu,3,4th House,4,90,90.57459999999998,0.5746,Medium
+2026-01-26 05:45:00,Parashara_Drishti,Mars,Capricorn,Ma Kết,"7°46'28.02""",Uttara Ashadha,Sun,4,Moon,Aries,Bạch Dương,"8°29'11.39""",Ashwini,Ketu,3,4th House,4,90,90.71199999999999,0.712,Medium
+2026-01-26 06:00:00,Parashara_Drishti,Mars,Capricorn,Ma Kết,"7°46'57.28""",Uttara Ashadha,Sun,4,Moon,Aries,Bạch Dương,"8°37'55.44""",Ashwini,Ketu,3,4th House,4,90,90.84949999999998,0.8495,Medium
+2026-01-26 06:15:00,Parashara_Drishti,Mars,Capricorn,Ma Kết,"7°47'26.55""",Uttara Ashadha,Sun,4,Moon,Aries,Bạch Dương,"8°46'39.58""",Ashwini,Ketu,3,4th House,4,90,90.98700000000002,0.987,Medium

@@ -1,0 +1,34 @@
+﻿datetime,event,type,planet1,planet1_sign,planet1_degree,planet1_nakshatra,planet1_nakshatra_lord,planet1_pada,planet2,planet2_sign,planet2_degree,planet2_nakshatra,planet2_nakshatra_lord,planet2_pada,exact_angle,difference,orb
+2025-12-07 05:00:00,Aspect,Trine,Moon,Gemini,"18°19'08.66""",Ardra,Rahu,4,Rahu,Aquarius,"19°16'41.24""",Shatabhisha,Rahu,4,120,119.0409,0.9591
+2025-12-07 05:00:00,Aspect,Sextitle,Moon,Gemini,"18°19'08.66""",Ardra,Rahu,4,Ketu,Leo,"19°16'41.24""",Purva Phalguni,Venus,2,60,60.9591,0.9591
+2025-12-07 05:15:00,Aspect,Trine,Moon,Gemini,"18°28'24.29""",Ardra,Rahu,4,Rahu,Aquarius,"19°16'39.25""",Shatabhisha,Rahu,4,120,119.1958,0.8042
+2025-12-07 05:15:00,Aspect,Sextitle,Moon,Gemini,"18°28'24.29""",Ardra,Rahu,4,Ketu,Leo,"19°16'39.25""",Purva Phalguni,Venus,2,60,60.8042,0.8042
+2025-12-07 05:30:00,Aspect,Trine,Moon,Gemini,"18°37'39.77""",Ardra,Rahu,4,Rahu,Aquarius,"19°16'37.27""",Shatabhisha,Rahu,4,120,119.3507,0.6493
+2025-12-07 05:30:00,Aspect,Sextitle,Moon,Gemini,"18°37'39.77""",Ardra,Rahu,4,Ketu,Leo,"19°16'37.27""",Purva Phalguni,Venus,2,60,60.6493,0.6493
+2025-12-07 05:45:00,Aspect,Trine,Moon,Gemini,"18°46'55.08""",Ardra,Rahu,4,Rahu,Aquarius,"19°16'35.28""",Shatabhisha,Rahu,4,120,119.5055,0.4945
+2025-12-07 05:45:00,Aspect,Sextitle,Moon,Gemini,"18°46'55.08""",Ardra,Rahu,4,Ketu,Leo,"19°16'35.28""",Purva Phalguni,Venus,2,60,60.4945,0.4945
+2025-12-07 06:00:00,Aspect,Trine,Moon,Gemini,"18°56'10.23""",Ardra,Rahu,4,Rahu,Aquarius,"19°16'33.29""",Shatabhisha,Rahu,4,120,119.6603,0.3397
+2025-12-07 06:00:00,Aspect,Sextitle,Moon,Gemini,"18°56'10.23""",Ardra,Rahu,4,Ketu,Leo,"19°16'33.29""",Purva Phalguni,Venus,2,60,60.3397,0.3397
+2025-12-07 06:15:00,Aspect,Trine,Moon,Gemini,"19°05'25.22""",Ardra,Rahu,4,Rahu,Aquarius,"19°16'31.30""",Shatabhisha,Rahu,4,120,119.815,0.185
+2025-12-07 06:15:00,Aspect,Sextitle,Moon,Gemini,"19°05'25.22""",Ardra,Rahu,4,Ketu,Leo,"19°16'31.30""",Purva Phalguni,Venus,2,60,60.185,0.185
+2025-12-07 06:30:00,Aspect,Trine,Moon,Gemini,"19°14'40.05""",Ardra,Rahu,4,Rahu,Aquarius,"19°16'29.32""",Shatabhisha,Rahu,4,120,119.9696,0.0304
+2025-12-07 06:30:00,Aspect,Sextitle,Moon,Gemini,"19°14'40.05""",Ardra,Rahu,4,Ketu,Leo,"19°16'29.32""",Purva Phalguni,Venus,2,60,60.0304,0.0304
+2025-12-07 06:45:00,Aspect,Trine,Moon,Gemini,"19°23'54.71""",Ardra,Rahu,4,Rahu,Aquarius,"19°16'27.33""",Shatabhisha,Rahu,4,120,120.1243,0.1243
+2025-12-07 06:45:00,Aspect,Sextitle,Moon,Gemini,"19°23'54.71""",Ardra,Rahu,4,Ketu,Leo,"19°16'27.33""",Purva Phalguni,Venus,2,60,59.8757,0.1243
+2025-12-07 07:00:00,Aspect,Trine,Moon,Gemini,"19°33'09.21""",Ardra,Rahu,4,Rahu,Aquarius,"19°16'25.34""",Shatabhisha,Rahu,4,120,120.2789,0.2789
+2025-12-07 07:00:00,Aspect,Sextitle,Moon,Gemini,"19°33'09.21""",Ardra,Rahu,4,Ketu,Leo,"19°16'25.34""",Purva Phalguni,Venus,2,60,59.7211,0.2789
+2025-12-07 07:15:00,Aspect,Trine,Moon,Gemini,"19°42'23.54""",Ardra,Rahu,4,Rahu,Aquarius,"19°16'23.36""",Shatabhisha,Rahu,4,120,120.4334,0.4334
+2025-12-07 07:15:00,Aspect,Sextitle,Moon,Gemini,"19°42'23.54""",Ardra,Rahu,4,Ketu,Leo,"19°16'23.36""",Purva Phalguni,Venus,2,60,59.5666,0.4334
+2025-12-07 07:30:00,Aspect,Trine,Moon,Gemini,"19°51'37.71""",Ardra,Rahu,4,Rahu,Aquarius,"19°16'21.37""",Shatabhisha,Rahu,4,120,120.5879,0.5879
+2025-12-07 07:30:00,Aspect,Sextitle,Moon,Gemini,"19°51'37.71""",Ardra,Rahu,4,Ketu,Leo,"19°16'21.37""",Purva Phalguni,Venus,2,60,59.4121,0.5879
+2025-12-07 07:45:00,Aspect,Trine,Moon,Gemini,"20°00'51.72""",Punarvasu,Jupiter,1,Rahu,Aquarius,"19°16'19.38""",Shatabhisha,Rahu,4,120,120.7423,0.7423
+2025-12-07 07:45:00,Aspect,Sextitle,Moon,Gemini,"20°00'51.72""",Punarvasu,Jupiter,1,Ketu,Leo,"19°16'19.38""",Purva Phalguni,Venus,2,60,59.2577,0.7423
+2025-12-07 08:00:00,Aspect,Trine,Moon,Gemini,"20°10'05.55""",Punarvasu,Jupiter,1,Rahu,Aquarius,"19°16'17.39""",Shatabhisha,Rahu,4,120,120.8967,0.8967
+2025-12-07 08:00:00,Aspect,Sextitle,Moon,Gemini,"20°10'05.55""",Punarvasu,Jupiter,1,Ketu,Leo,"19°16'17.39""",Purva Phalguni,Venus,2,60,59.1033,0.8967
+2025-12-07 22:15:00,Aspect,Conjunction,Moon,Gemini,"28°51'27.62""",Punarvasu,Jupiter,3,Jupiter,Gemini,"29°49'47.22""",Punarvasu,Jupiter,3,0,0.9721,0.9721
+2025-12-07 22:30:00,Aspect,Conjunction,Moon,Gemini,"29°00'31.19""",Punarvasu,Jupiter,3,Jupiter,Gemini,"29°49'44.12""",Punarvasu,Jupiter,3,0,0.8203,0.8203
+2025-12-07 22:45:00,Aspect,Conjunction,Moon,Gemini,"29°09'34.58""",Punarvasu,Jupiter,3,Jupiter,Gemini,"29°49'41.02""",Punarvasu,Jupiter,3,0,0.6685,0.6685
+2025-12-07 23:00:00,Aspect,Conjunction,Moon,Gemini,"29°18'37.78""",Punarvasu,Jupiter,3,Jupiter,Gemini,"29°49'37.91""",Punarvasu,Jupiter,3,0,0.5167,0.5167
+2025-12-07 23:15:00,Aspect,Conjunction,Moon,Gemini,"29°27'40.79""",Punarvasu,Jupiter,3,Jupiter,Gemini,"29°49'34.81""",Punarvasu,Jupiter,3,0,0.365,0.365
+2025-12-07 23:30:00,Aspect,Conjunction,Moon,Gemini,"29°36'43.61""",Punarvasu,Jupiter,3,Jupiter,Gemini,"29°49'31.71""",Punarvasu,Jupiter,3,0,0.2134,0.2134
+2025-12-07 23:45:00,Aspect,Conjunction,Moon,Gemini,"29°45'46.25""",Punarvasu,Jupiter,3,Jupiter,Gemini,"29°49'28.60""",Punarvasu,Jupiter,3,0,0.0618,0.0618

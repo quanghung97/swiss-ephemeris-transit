@@ -4,8 +4,13 @@
     "event": "Ingress",
     "planet": "Moon",
     "from_sign": "Taurus",
+    "from_sign_vi": "Kim Ngưu",
     "to_sign": "Gemini",
+    "to_sign_vi": "Song Tử",
     "degree": "0°02'29.57\"",
-    "longitude": 60.041547
+    "longitude": 60.041547,
+    "nakshatra": "Mrigashira",
+    "nakshatra_lord": "Mars",
+    "pada": 3
   }
 ]

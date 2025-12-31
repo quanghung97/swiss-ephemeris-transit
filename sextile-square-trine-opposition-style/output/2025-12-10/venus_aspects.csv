@@ -1,0 +1,17 @@
+﻿datetime,event,type,planet1,planet1_sign,planet1_degree,planet1_nakshatra,planet1_nakshatra_lord,planet1_pada,planet2,planet2_sign,planet2_degree,planet2_nakshatra,planet2_nakshatra_lord,planet2_pada,exact_angle,difference,orb
+2025-12-10 22:00:00,Aspect,Square,Venus,Scorpio,"18°04'57.35""",Jyeshtha,Mercury,1,Rahu,Aquarius,"19°04'53.80""",Shatabhisha,Rahu,4,90,90.999,0.999
+2025-12-10 22:00:00,Aspect,Square,Venus,Scorpio,"18°04'57.35""",Jyeshtha,Mercury,1,Ketu,Leo,"19°04'53.80""",Purva Phalguni,Venus,2,90,89.001,0.999
+2025-12-10 22:15:00,Aspect,Square,Venus,Scorpio,"18°05'44.54""",Jyeshtha,Mercury,1,Rahu,Aquarius,"19°04'51.81""",Shatabhisha,Rahu,4,90,90.9854,0.9854
+2025-12-10 22:15:00,Aspect,Square,Venus,Scorpio,"18°05'44.54""",Jyeshtha,Mercury,1,Ketu,Leo,"19°04'51.81""",Purva Phalguni,Venus,2,90,89.0146,0.9854
+2025-12-10 22:30:00,Aspect,Square,Venus,Scorpio,"18°06'31.72""",Jyeshtha,Mercury,1,Rahu,Aquarius,"19°04'49.82""",Shatabhisha,Rahu,4,90,90.9717,0.9717
+2025-12-10 22:30:00,Aspect,Square,Venus,Scorpio,"18°06'31.72""",Jyeshtha,Mercury,1,Ketu,Leo,"19°04'49.82""",Purva Phalguni,Venus,2,90,89.0283,0.9717
+2025-12-10 22:45:00,Aspect,Square,Venus,Scorpio,"18°07'18.90""",Jyeshtha,Mercury,1,Rahu,Aquarius,"19°04'47.84""",Shatabhisha,Rahu,4,90,90.958,0.958
+2025-12-10 22:45:00,Aspect,Square,Venus,Scorpio,"18°07'18.90""",Jyeshtha,Mercury,1,Ketu,Leo,"19°04'47.84""",Purva Phalguni,Venus,2,90,89.042,0.958
+2025-12-10 23:00:00,Aspect,Square,Venus,Scorpio,"18°08'06.08""",Jyeshtha,Mercury,1,Rahu,Aquarius,"19°04'45.85""",Shatabhisha,Rahu,4,90,90.9444,0.9444
+2025-12-10 23:00:00,Aspect,Square,Venus,Scorpio,"18°08'06.08""",Jyeshtha,Mercury,1,Ketu,Leo,"19°04'45.85""",Purva Phalguni,Venus,2,90,89.0556,0.9444
+2025-12-10 23:15:00,Aspect,Square,Venus,Scorpio,"18°08'53.26""",Jyeshtha,Mercury,1,Rahu,Aquarius,"19°04'43.86""",Shatabhisha,Rahu,4,90,90.9307,0.9307
+2025-12-10 23:15:00,Aspect,Square,Venus,Scorpio,"18°08'53.26""",Jyeshtha,Mercury,1,Ketu,Leo,"19°04'43.86""",Purva Phalguni,Venus,2,90,89.0693,0.9307
+2025-12-10 23:30:00,Aspect,Square,Venus,Scorpio,"18°09'40.45""",Jyeshtha,Mercury,1,Rahu,Aquarius,"19°04'41.87""",Shatabhisha,Rahu,4,90,90.9171,0.9171
+2025-12-10 23:30:00,Aspect,Square,Venus,Scorpio,"18°09'40.45""",Jyeshtha,Mercury,1,Ketu,Leo,"19°04'41.87""",Purva Phalguni,Venus,2,90,89.0829,0.9171
+2025-12-10 23:45:00,Aspect,Square,Venus,Scorpio,"18°10'27.63""",Jyeshtha,Mercury,1,Rahu,Aquarius,"19°04'39.89""",Shatabhisha,Rahu,4,90,90.9034,0.9034
+2025-12-10 23:45:00,Aspect,Square,Venus,Scorpio,"18°10'27.63""",Jyeshtha,Mercury,1,Ketu,Leo,"19°04'39.89""",Purva Phalguni,Venus,2,90,89.0966,0.9034
