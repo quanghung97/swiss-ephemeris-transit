@@ -1,0 +1,31 @@
+﻿datetime,event,aspecting_planet,aspecting_sign,aspecting_degree,aspected_planet,aspected_sign,aspected_degree,aspect_type,aspect_house,target_angle,actual_angle,orb,strength
+2026-01-07 19:30:00,Parashara_Drishti,Moon,Leo,"16°40'31.76""",Rahu,Aquarius,"17°36'12.08""",7th House,7,180,180.9279,0.9279,Standard
+2026-01-07 19:30:00,Parashara_Drishti,Rahu,Aquarius,"17°36'12.08""",Moon,Leo,"16°40'31.76""",7th House (Reverse),7,-180,179.0721,0.9279,Weak
+2026-01-07 19:45:00,Parashara_Drishti,Moon,Leo,"16°48'46.31""",Rahu,Aquarius,"17°36'10.09""",7th House,7,180,180.7899,0.7899,Standard
+2026-01-07 19:45:00,Parashara_Drishti,Rahu,Aquarius,"17°36'10.09""",Moon,Leo,"16°48'46.31""",7th House (Reverse),7,-180,179.2101,0.7899,Weak
+2026-01-07 20:00:00,Parashara_Drishti,Moon,Leo,"16°57'00.68""",Rahu,Aquarius,"17°36'08.10""",7th House,7,180,180.6521,0.6521,Standard
+2026-01-07 20:00:00,Parashara_Drishti,Rahu,Aquarius,"17°36'08.10""",Moon,Leo,"16°57'00.68""",7th House (Reverse),7,-180,179.3479,0.6521,Weak
+2026-01-07 20:15:00,Parashara_Drishti,Moon,Leo,"17°05'14.88""",Rahu,Aquarius,"17°36'06.12""",7th House,7,180,180.5142,0.5142,Standard
+2026-01-07 20:15:00,Parashara_Drishti,Rahu,Aquarius,"17°36'06.12""",Moon,Leo,"17°05'14.88""",7th House (Reverse),7,-180,179.4858,0.5142,Weak
+2026-01-07 20:30:00,Parashara_Drishti,Moon,Leo,"17°13'28.90""",Rahu,Aquarius,"17°36'04.13""",7th House,7,180,180.3765,0.3765,Standard
+2026-01-07 20:30:00,Parashara_Drishti,Rahu,Aquarius,"17°36'04.13""",Moon,Leo,"17°13'28.90""",7th House (Reverse),7,-180,179.6235,0.3765,Weak
+2026-01-07 20:45:00,Parashara_Drishti,Moon,Leo,"17°21'42.75""",Rahu,Aquarius,"17°36'02.14""",7th House,7,180,180.2387,0.2387,Standard
+2026-01-07 20:45:00,Parashara_Drishti,Rahu,Aquarius,"17°36'02.14""",Moon,Leo,"17°21'42.75""",7th House (Reverse),7,-180,179.7613,0.2387,Weak
+2026-01-07 21:00:00,Parashara_Drishti,Moon,Leo,"17°29'56.42""",Rahu,Aquarius,"17°36'00.15""",7th House,7,180,180.101,0.101,Standard
+2026-01-07 21:00:00,Parashara_Drishti,Rahu,Aquarius,"17°36'00.15""",Moon,Leo,"17°29'56.42""",7th House (Reverse),7,-180,179.899,0.101,Weak
+2026-01-07 21:15:00,Parashara_Drishti,Moon,Leo,"17°38'09.92""",Rahu,Aquarius,"17°35'58.17""",7th House,7,180,179.9634,0.0366,Standard
+2026-01-07 21:15:00,Parashara_Drishti,Rahu,Aquarius,"17°35'58.17""",Moon,Leo,"17°38'09.92""",7th House (Reverse),7,-180,180.0366,0.0366,Weak
+2026-01-07 21:30:00,Parashara_Drishti,Moon,Leo,"17°46'23.25""",Rahu,Aquarius,"17°35'56.18""",7th House,7,180,179.8258,0.1742,Standard
+2026-01-07 21:30:00,Parashara_Drishti,Rahu,Aquarius,"17°35'56.18""",Moon,Leo,"17°46'23.25""",7th House (Reverse),7,-180,180.1742,0.1742,Weak
+2026-01-07 21:45:00,Parashara_Drishti,Moon,Leo,"17°54'36.41""",Rahu,Aquarius,"17°35'54.19""",7th House,7,180,179.6883,0.3117,Standard
+2026-01-07 21:45:00,Parashara_Drishti,Rahu,Aquarius,"17°35'54.19""",Moon,Leo,"17°54'36.41""",7th House (Reverse),7,-180,180.3117,0.3117,Weak
+2026-01-07 22:00:00,Parashara_Drishti,Moon,Leo,"18°02'49.40""",Rahu,Aquarius,"17°35'52.21""",7th House,7,180,179.5508,0.4492,Standard
+2026-01-07 22:00:00,Parashara_Drishti,Rahu,Aquarius,"17°35'52.21""",Moon,Leo,"18°02'49.40""",7th House (Reverse),7,-180,180.4492,0.4492,Weak
+2026-01-07 22:15:00,Parashara_Drishti,Moon,Leo,"18°11'02.21""",Rahu,Aquarius,"17°35'50.22""",7th House,7,180,179.4133,0.5867,Standard
+2026-01-07 22:15:00,Parashara_Drishti,Rahu,Aquarius,"17°35'50.22""",Moon,Leo,"18°11'02.21""",7th House (Reverse),7,-180,180.5867,0.5867,Weak
+2026-01-07 22:30:00,Parashara_Drishti,Moon,Leo,"18°19'14.85""",Rahu,Aquarius,"17°35'48.23""",7th House,7,180,179.2759,0.7241,Standard
+2026-01-07 22:30:00,Parashara_Drishti,Rahu,Aquarius,"17°35'48.23""",Moon,Leo,"18°19'14.85""",7th House (Reverse),7,-180,180.7241,0.7241,Weak
+2026-01-07 22:45:00,Parashara_Drishti,Moon,Leo,"18°27'27.31""",Rahu,Aquarius,"17°35'46.24""",7th House,7,180,179.1386,0.8614,Standard
+2026-01-07 22:45:00,Parashara_Drishti,Rahu,Aquarius,"17°35'46.24""",Moon,Leo,"18°27'27.31""",7th House (Reverse),7,-180,180.8614,0.8614,Weak
+2026-01-07 23:00:00,Parashara_Drishti,Moon,Leo,"18°35'39.61""",Rahu,Aquarius,"17°35'44.26""",7th House,7,180,179.0013,0.9987,Standard
+2026-01-07 23:00:00,Parashara_Drishti,Rahu,Aquarius,"17°35'44.26""",Moon,Leo,"18°35'39.61""",7th House (Reverse),7,-180,180.9987,0.9987,Weak

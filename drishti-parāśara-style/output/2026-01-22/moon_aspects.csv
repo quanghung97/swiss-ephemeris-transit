@@ -1,0 +1,23 @@
+﻿datetime,event,aspecting_planet,aspecting_sign,aspecting_degree,aspected_planet,aspected_sign,aspected_degree,aspect_type,aspect_house,target_angle,actual_angle,orb,strength
+2026-01-22 08:30:00,Parashara_Drishti,Moon,Aquarius,"15°55'07.09""",Ketu,Leo,"16°49'57.95""",7th House,7,180,180.9141,0.9141,Standard
+2026-01-22 08:45:00,Parashara_Drishti,Moon,Aquarius,"16°03'18.82""",Ketu,Leo,"16°49'55.96""",7th House,7,180,180.777,0.777,Standard
+2026-01-22 09:00:00,Parashara_Drishti,Moon,Aquarius,"16°11'30.63""",Ketu,Leo,"16°49'53.97""",7th House,7,180,180.6398,0.6398,Standard
+2026-01-22 09:15:00,Parashara_Drishti,Moon,Aquarius,"16°19'42.52""",Ketu,Leo,"16°49'51.99""",7th House,7,180,180.5026,0.5026,Standard
+2026-01-22 09:30:00,Parashara_Drishti,Moon,Aquarius,"16°27'54.49""",Ketu,Leo,"16°49'50.00""",7th House,7,180,180.3654,0.3654,Standard
+2026-01-22 09:45:00,Parashara_Drishti,Moon,Aquarius,"16°36'06.53""",Ketu,Leo,"16°49'48.01""",7th House,7,180,180.2282,0.2282,Standard
+2026-01-22 10:00:00,Parashara_Drishti,Moon,Aquarius,"16°44'18.66""",Ketu,Leo,"16°49'46.02""",7th House,7,180,180.0909,0.0909,Standard
+2026-01-22 10:15:00,Parashara_Drishti,Moon,Aquarius,"16°52'30.86""",Ketu,Leo,"16°49'44.04""",7th House,7,180,179.9537,0.0463,Standard
+2026-01-22 10:30:00,Parashara_Drishti,Moon,Aquarius,"17°00'43.14""",Ketu,Leo,"16°49'42.05""",7th House,7,180,179.8164,0.1836,Standard
+2026-01-22 10:45:00,Parashara_Drishti,Moon,Aquarius,"17°08'55.50""",Ketu,Leo,"16°49'40.06""",7th House,7,180,179.679,0.321,Standard
+2026-01-22 11:00:00,Parashara_Drishti,Moon,Aquarius,"17°17'07.93""",Ketu,Leo,"16°49'38.08""",7th House,7,180,179.5417,0.4583,Standard
+2026-01-22 11:15:00,Parashara_Drishti,Moon,Aquarius,"17°25'20.45""",Ketu,Leo,"16°49'36.09""",7th House,7,180,179.4043,0.5957,Standard
+2026-01-22 11:30:00,Parashara_Drishti,Moon,Aquarius,"17°33'33.04""",Ketu,Leo,"16°49'34.10""",7th House,7,180,179.267,0.733,Standard
+2026-01-22 11:45:00,Parashara_Drishti,Moon,Aquarius,"17°41'45.71""",Ketu,Leo,"16°49'32.11""",7th House,7,180,179.1296,0.8704,Standard
+2026-01-22 22:00:00,Parashara_Drishti,Jupiter,Gemini,"24°15'42.61""",Moon,Aquarius,"23°19'33.28""",9th House,9,240,239.0641,0.9359,Strong
+2026-01-22 22:15:00,Parashara_Drishti,Jupiter,Gemini,"24°15'37.84""",Moon,Aquarius,"23°27'49.28""",9th House,9,240,239.2032,0.7968,Strong
+2026-01-22 22:30:00,Parashara_Drishti,Jupiter,Gemini,"24°15'33.07""",Moon,Aquarius,"23°36'05.37""",9th House,9,240,239.3423,0.6577,Strong
+2026-01-22 22:45:00,Parashara_Drishti,Jupiter,Gemini,"24°15'28.30""",Moon,Aquarius,"23°44'21.53""",9th House,9,240,239.4815,0.5185,Strong
+2026-01-22 23:00:00,Parashara_Drishti,Jupiter,Gemini,"24°15'23.54""",Moon,Aquarius,"23°52'37.78""",9th House,9,240,239.6206,0.3794,Strong
+2026-01-22 23:15:00,Parashara_Drishti,Jupiter,Gemini,"24°15'18.77""",Moon,Aquarius,"24°00'54.10""",9th House,9,240,239.7598,0.2402,Strong
+2026-01-22 23:30:00,Parashara_Drishti,Jupiter,Gemini,"24°15'14.00""",Moon,Aquarius,"24°09'10.51""",9th House,9,240,239.899,0.101,Strong
+2026-01-22 23:45:00,Parashara_Drishti,Jupiter,Gemini,"24°15'09.23""",Moon,Aquarius,"24°17'27.00""",9th House,9,240,240.0383,0.0383,Strong

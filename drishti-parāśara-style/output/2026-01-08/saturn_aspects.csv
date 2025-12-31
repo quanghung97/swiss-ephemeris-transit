@@ -1,0 +1,9 @@
+﻿datetime,event,aspecting_planet,aspecting_sign,aspecting_degree,aspected_planet,aspected_sign,aspected_degree,aspect_type,aspect_house,target_angle,actual_angle,orb,strength
+2026-01-08 23:00:00,Parashara_Drishti,Moon,Virgo,"1°30'33.60""",Saturn,Pisces,"2°26'10.49""",7th House,7,180,180.9269,0.9269,Standard
+2026-01-08 23:00:00,Parashara_Drishti,Saturn,Pisces,"2°26'10.49""",Moon,Virgo,"1°30'33.60""",7th House,7,180,179.0731,0.9269,Weak
+2026-01-08 23:15:00,Parashara_Drishti,Moon,Virgo,"1°38'30.32""",Saturn,Pisces,"2°26'13.10""",7th House,7,180,180.7952,0.7952,Standard
+2026-01-08 23:15:00,Parashara_Drishti,Saturn,Pisces,"2°26'13.10""",Moon,Virgo,"1°38'30.32""",7th House,7,180,179.2048,0.7952,Weak
+2026-01-08 23:30:00,Parashara_Drishti,Moon,Virgo,"1°46'26.89""",Saturn,Pisces,"2°26'15.71""",7th House,7,180,180.6636,0.6636,Standard
+2026-01-08 23:30:00,Parashara_Drishti,Saturn,Pisces,"2°26'15.71""",Moon,Virgo,"1°46'26.89""",7th House,7,180,179.3364,0.6636,Weak
+2026-01-08 23:45:00,Parashara_Drishti,Moon,Virgo,"1°54'23.32""",Saturn,Pisces,"2°26'18.32""",7th House,7,180,180.5319,0.5319,Standard
+2026-01-08 23:45:00,Parashara_Drishti,Saturn,Pisces,"2°26'18.32""",Moon,Virgo,"1°54'23.32""",7th House,7,180,179.4681,0.5319,Weak
