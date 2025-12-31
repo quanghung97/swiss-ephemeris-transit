@@ -1,0 +1,16 @@
+[
+  {
+    "datetime": "2025-12-03 02:45:00",
+    "event": "Nakshatra_Change",
+    "planet": "Sun",
+    "from_nakshatra": "Anuradha",
+    "from_nakshatra_lord": "Saturn",
+    "to_nakshatra": "Jyeshtha",
+    "to_nakshatra_lord": "Mercury",
+    "pada": 1,
+    "sign": "Scorpio",
+    "sign_vi": "Bọ Cạp",
+    "degree": "16°40'00.63\"",
+    "longitude": 226.666843
+  }
+]

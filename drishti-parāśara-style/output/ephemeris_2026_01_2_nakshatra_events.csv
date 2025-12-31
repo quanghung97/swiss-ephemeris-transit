@@ -1,0 +1,13 @@
+﻿datetime,event,planet,from_nakshatra,from_nakshatra_lord,to_nakshatra,to_nakshatra_lord,pada,sign,sign_vi,degree,longitude
+2026-01-07 01:45:00,Nakshatra_Change,Mercury,Mula,Ketu,Purva Ashadha,Venus,1,Sagittarius,Nhân Mã,"13°20'52.57""",253.347937
+2026-01-10 14:00:00,Nakshatra_Change,Venus,Purva Ashadha,Venus,Uttara Ashadha,Sun,1,Sagittarius,Nhân Mã,"26°40'25.64""",266.673789
+2026-01-11 10:15:00,Nakshatra_Change,Sun,Purva Ashadha,Venus,Uttara Ashadha,Sun,1,Sagittarius,Nhân Mã,"26°40'22.37""",266.672879
+2026-01-11 22:45:00,Nakshatra_Change,Mars,Purva Ashadha,Venus,Uttara Ashadha,Sun,1,Sagittarius,Nhân Mã,"26°40'08.44""",266.669012
+2026-01-15 11:00:00,Nakshatra_Change,Mercury,Purva Ashadha,Venus,Uttara Ashadha,Sun,1,Sagittarius,Nhân Mã,"26°40'41.28""",266.678133
+2026-01-20 12:30:00,Nakshatra_Change,Saturn,Purva Bhadrapada,Jupiter,Uttara Bhadrapada,Saturn,1,Pisces,Song Ngư,"3°20'01.49""",333.333748
+2026-01-21 04:30:00,Nakshatra_Change,Venus,Uttara Ashadha,Sun,Shravana,Moon,1,Capricorn,Ma Kết,"10°00'30.54""",280.008484
+2026-01-23 12:00:00,Nakshatra_Change,Mercury,Uttara Ashadha,Sun,Shravana,Moon,1,Capricorn,Ma Kết,"10°00'21.76""",280.006045
+2026-01-24 12:30:00,Nakshatra_Change,Sun,Uttara Ashadha,Sun,Shravana,Moon,1,Capricorn,Ma Kết,"10°00'24.44""",280.00679
+2026-01-29 02:15:00,Nakshatra_Change,Mars,Uttara Ashadha,Sun,Shravana,Moon,1,Capricorn,Ma Kết,"10°00'12.09""",280.003358
+2026-01-31 05:00:00,Nakshatra_Change,Mercury,Shravana,Moon,Dhanishta,Mars,1,Capricorn,Ma Kết,"23°20'22.43""",293.339563
+2026-01-31 19:15:00,Nakshatra_Change,Venus,Shravana,Moon,Dhanishta,Mars,1,Capricorn,Ma Kết,"23°20'23.05""",293.339737

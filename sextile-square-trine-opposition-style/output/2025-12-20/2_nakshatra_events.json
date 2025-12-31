@@ -1,0 +1,30 @@
+[
+  {
+    "datetime": "2025-12-20 07:45:00",
+    "event": "Nakshatra_Change",
+    "planet": "Mercury",
+    "from_nakshatra": "Anuradha",
+    "from_nakshatra_lord": "Saturn",
+    "to_nakshatra": "Jyeshtha",
+    "to_nakshatra_lord": "Mercury",
+    "pada": 1,
+    "sign": "Scorpio",
+    "sign_vi": "Bọ Cạp",
+    "degree": "16°40'20.12\"",
+    "longitude": 226.672257
+  },
+  {
+    "datetime": "2025-12-20 09:30:00",
+    "event": "Nakshatra_Change",
+    "planet": "Venus",
+    "from_nakshatra": "Jyeshtha",
+    "from_nakshatra_lord": "Mercury",
+    "to_nakshatra": "Mula",
+    "to_nakshatra_lord": "Ketu",
+    "pada": 1,
+    "sign": "Sagittarius",
+    "sign_vi": "Nhân Mã",
+    "degree": "0°00'45.72\"",
+    "longitude": 240.0127
+  }
+]

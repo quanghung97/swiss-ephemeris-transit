@@ -1,0 +1,16 @@
+[
+  {
+    "datetime": "2026-01-07 01:45:00",
+    "event": "Nakshatra_Change",
+    "planet": "Mercury",
+    "from_nakshatra": "Mula",
+    "from_nakshatra_lord": "Ketu",
+    "to_nakshatra": "Purva Ashadha",
+    "to_nakshatra_lord": "Venus",
+    "pada": 1,
+    "sign": "Sagittarius",
+    "sign_vi": "Nhân Mã",
+    "degree": "13°20'52.57\"",
+    "longitude": 253.347937
+  }
+]

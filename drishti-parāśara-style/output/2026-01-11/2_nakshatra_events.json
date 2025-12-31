@@ -1,0 +1,30 @@
+[
+  {
+    "datetime": "2026-01-11 10:15:00",
+    "event": "Nakshatra_Change",
+    "planet": "Sun",
+    "from_nakshatra": "Purva Ashadha",
+    "from_nakshatra_lord": "Venus",
+    "to_nakshatra": "Uttara Ashadha",
+    "to_nakshatra_lord": "Sun",
+    "pada": 1,
+    "sign": "Sagittarius",
+    "sign_vi": "Nhân Mã",
+    "degree": "26°40'22.37\"",
+    "longitude": 266.672879
+  },
+  {
+    "datetime": "2026-01-11 22:45:00",
+    "event": "Nakshatra_Change",
+    "planet": "Mars",
+    "from_nakshatra": "Purva Ashadha",
+    "from_nakshatra_lord": "Venus",
+    "to_nakshatra": "Uttara Ashadha",
+    "to_nakshatra_lord": "Sun",
+    "pada": 1,
+    "sign": "Sagittarius",
+    "sign_vi": "Nhân Mã",
+    "degree": "26°40'08.44\"",
+    "longitude": 266.669012
+  }
+]

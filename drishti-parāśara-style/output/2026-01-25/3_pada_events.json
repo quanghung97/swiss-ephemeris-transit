@@ -1,0 +1,28 @@
+[
+  {
+    "datetime": "2026-01-25 11:45:00",
+    "event": "Pada_Change",
+    "planet": "Rahu",
+    "from_pada": 4,
+    "to_pada": 3,
+    "nakshatra": "Shatabhisha",
+    "nakshatra_lord": "Rahu",
+    "sign": "Aquarius",
+    "sign_vi": "Bảo Bình",
+    "degree": "16°39'59.80\"",
+    "longitude": 316.666611
+  },
+  {
+    "datetime": "2026-01-25 11:45:00",
+    "event": "Pada_Change",
+    "planet": "Ketu",
+    "from_pada": 2,
+    "to_pada": 1,
+    "nakshatra": "Purva Phalguni",
+    "nakshatra_lord": "Venus",
+    "sign": "Leo",
+    "sign_vi": "Sư Tử",
+    "degree": "16°39'59.80\"",
+    "longitude": 136.666611
+  }
+]

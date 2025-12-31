@@ -1,0 +1,16 @@
+[
+  {
+    "datetime": "2026-01-20 12:30:00",
+    "event": "Nakshatra_Change",
+    "planet": "Saturn",
+    "from_nakshatra": "Purva Bhadrapada",
+    "from_nakshatra_lord": "Jupiter",
+    "to_nakshatra": "Uttara Bhadrapada",
+    "to_nakshatra_lord": "Saturn",
+    "pada": 1,
+    "sign": "Pisces",
+    "sign_vi": "Song Ngư",
+    "degree": "3°20'01.49\"",
+    "longitude": 333.333748
+  }
+]

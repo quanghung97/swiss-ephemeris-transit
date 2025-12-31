@@ -1,0 +1,16 @@
+[
+  {
+    "datetime": "2026-01-10 14:00:00",
+    "event": "Nakshatra_Change",
+    "planet": "Venus",
+    "from_nakshatra": "Purva Ashadha",
+    "from_nakshatra_lord": "Venus",
+    "to_nakshatra": "Uttara Ashadha",
+    "to_nakshatra_lord": "Sun",
+    "pada": 1,
+    "sign": "Sagittarius",
+    "sign_vi": "Nhân Mã",
+    "degree": "26°40'25.64\"",
+    "longitude": 266.673789
+  }
+]

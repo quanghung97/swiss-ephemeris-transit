@@ -1,0 +1,15 @@
+[
+  {
+    "datetime": "2026-01-30 13:30:00",
+    "event": "Pada_Change",
+    "planet": "Jupiter",
+    "from_pada": 2,
+    "to_pada": 1,
+    "nakshatra": "Punarvasu",
+    "nakshatra_lord": "Jupiter",
+    "sign": "Gemini",
+    "sign_vi": "Song Tử",
+    "degree": "23°19'58.56\"",
+    "longitude": 83.332932
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "datetime": "2026-01-24 12:30:00",
+    "event": "Nakshatra_Change",
+    "planet": "Sun",
+    "from_nakshatra": "Uttara Ashadha",
+    "from_nakshatra_lord": "Sun",
+    "to_nakshatra": "Shravana",
+    "to_nakshatra_lord": "Moon",
+    "pada": 1,
+    "sign": "Capricorn",
+    "sign_vi": "Ma Kết",
+    "degree": "10°00'24.44\"",
+    "longitude": 280.00679
+  }
+]

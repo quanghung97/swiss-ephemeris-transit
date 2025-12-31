@@ -1,0 +1,16 @@
+[
+  {
+    "datetime": "2025-12-10 04:15:00",
+    "event": "Nakshatra_Change",
+    "planet": "Mercury",
+    "from_nakshatra": "Vishakha",
+    "from_nakshatra_lord": "Jupiter",
+    "to_nakshatra": "Anuradha",
+    "to_nakshatra_lord": "Saturn",
+    "pada": 1,
+    "sign": "Scorpio",
+    "sign_vi": "Bọ Cạp",
+    "degree": "3°20'31.75\"",
+    "longitude": 213.342152
+  }
+]

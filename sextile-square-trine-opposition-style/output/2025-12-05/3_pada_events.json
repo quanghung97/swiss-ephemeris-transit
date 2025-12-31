@@ -1,0 +1,15 @@
+[
+  {
+    "datetime": "2025-12-05 19:00:00",
+    "event": "Pada_Change",
+    "planet": "Jupiter",
+    "from_pada": 4,
+    "to_pada": 3,
+    "nakshatra": "Punarvasu",
+    "nakshatra_lord": "Jupiter",
+    "sign": "Gemini",
+    "sign_vi": "Song Tử",
+    "degree": "29°59'59.21\"",
+    "longitude": 89.99978
+  }
+]

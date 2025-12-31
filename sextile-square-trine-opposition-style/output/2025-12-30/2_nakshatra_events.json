@@ -1,0 +1,16 @@
+[
+  {
+    "datetime": "2025-12-30 23:45:00",
+    "event": "Nakshatra_Change",
+    "planet": "Venus",
+    "from_nakshatra": "Mula",
+    "from_nakshatra_lord": "Ketu",
+    "to_nakshatra": "Purva Ashadha",
+    "to_nakshatra_lord": "Venus",
+    "pada": 1,
+    "sign": "Sagittarius",
+    "sign_vi": "Nhân Mã",
+    "degree": "13°20'46.70\"",
+    "longitude": 253.346306
+  }
+]

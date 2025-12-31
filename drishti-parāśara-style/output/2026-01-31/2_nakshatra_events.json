@@ -1,0 +1,30 @@
+[
+  {
+    "datetime": "2026-01-31 05:00:00",
+    "event": "Nakshatra_Change",
+    "planet": "Mercury",
+    "from_nakshatra": "Shravana",
+    "from_nakshatra_lord": "Moon",
+    "to_nakshatra": "Dhanishta",
+    "to_nakshatra_lord": "Mars",
+    "pada": 1,
+    "sign": "Capricorn",
+    "sign_vi": "Ma Kết",
+    "degree": "23°20'22.43\"",
+    "longitude": 293.339563
+  },
+  {
+    "datetime": "2026-01-31 19:15:00",
+    "event": "Nakshatra_Change",
+    "planet": "Venus",
+    "from_nakshatra": "Shravana",
+    "from_nakshatra_lord": "Moon",
+    "to_nakshatra": "Dhanishta",
+    "to_nakshatra_lord": "Mars",
+    "pada": 1,
+    "sign": "Capricorn",
+    "sign_vi": "Ma Kết",
+    "degree": "23°20'23.05\"",
+    "longitude": 293.339737
+  }
+]

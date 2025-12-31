@@ -1,0 +1,30 @@
+[
+  {
+    "datetime": "2025-12-29 08:15:00",
+    "event": "Nakshatra_Change",
+    "planet": "Sun",
+    "from_nakshatra": "Mula",
+    "from_nakshatra_lord": "Ketu",
+    "to_nakshatra": "Purva Ashadha",
+    "to_nakshatra_lord": "Venus",
+    "pada": 1,
+    "sign": "Sagittarius",
+    "sign_vi": "Nhân Mã",
+    "degree": "13°20'36.18\"",
+    "longitude": 253.343383
+  },
+  {
+    "datetime": "2025-12-29 09:00:00",
+    "event": "Nakshatra_Change",
+    "planet": "Mercury",
+    "from_nakshatra": "Jyeshtha",
+    "from_nakshatra_lord": "Mercury",
+    "to_nakshatra": "Mula",
+    "to_nakshatra_lord": "Ketu",
+    "pada": 1,
+    "sign": "Sagittarius",
+    "sign_vi": "Nhân Mã",
+    "degree": "0°00'22.82\"",
+    "longitude": 240.006339
+  }
+]

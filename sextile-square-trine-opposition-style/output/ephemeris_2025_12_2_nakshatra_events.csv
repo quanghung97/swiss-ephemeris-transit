@@ -1,0 +1,12 @@
+﻿datetime,event,planet,from_nakshatra,from_nakshatra_lord,to_nakshatra,to_nakshatra_lord,pada,sign,sign_vi,degree,longitude
+2025-12-03 02:45:00,Nakshatra_Change,Sun,Anuradha,Saturn,Jyeshtha,Mercury,1,Scorpio,Bọ Cạp,"16°40'00.63""",226.666843
+2025-12-07 22:00:00,Nakshatra_Change,Mars,Jyeshtha,Mercury,Mula,Ketu,1,Sagittarius,Nhân Mã,"0°00'22.77""",240.006325
+2025-12-09 19:00:00,Nakshatra_Change,Venus,Anuradha,Saturn,Jyeshtha,Mercury,1,Scorpio,Bọ Cạp,"16°40'01.96""",226.667212
+2025-12-10 04:15:00,Nakshatra_Change,Mercury,Vishakha,Jupiter,Anuradha,Saturn,1,Scorpio,Bọ Cạp,"3°20'31.75""",213.342152
+2025-12-16 06:00:00,Nakshatra_Change,Sun,Jyeshtha,Mercury,Mula,Ketu,1,Sagittarius,Nhân Mã,"0°00'25.18""",240.006995
+2025-12-20 07:45:00,Nakshatra_Change,Mercury,Anuradha,Saturn,Jyeshtha,Mercury,1,Scorpio,Bọ Cạp,"16°40'20.12""",226.672257
+2025-12-20 09:30:00,Nakshatra_Change,Venus,Jyeshtha,Mercury,Mula,Ketu,1,Sagittarius,Nhân Mã,"0°00'45.72""",240.0127
+2025-12-25 14:00:00,Nakshatra_Change,Mars,Mula,Ketu,Purva Ashadha,Venus,1,Sagittarius,Nhân Mã,"13°20'27.52""",253.340977
+2025-12-29 08:15:00,Nakshatra_Change,Sun,Mula,Ketu,Purva Ashadha,Venus,1,Sagittarius,Nhân Mã,"13°20'36.18""",253.343383
+2025-12-29 09:00:00,Nakshatra_Change,Mercury,Jyeshtha,Mercury,Mula,Ketu,1,Sagittarius,Nhân Mã,"0°00'22.82""",240.006339
+2025-12-30 23:45:00,Nakshatra_Change,Venus,Mula,Ketu,Purva Ashadha,Venus,1,Sagittarius,Nhân Mã,"13°20'46.70""",253.346306

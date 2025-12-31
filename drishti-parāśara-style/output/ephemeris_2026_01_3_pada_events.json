@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "year": 2026,
+    "month": 1,
+    "timezone_offset": 7.0,
+    "calculation_time": "2025-12-31T22:07:55.308506",
+    "ephemeris_type": "Swiss Ephemeris",
+    "coordinate_system": "Sidereal Zodiac (Lahiri)",
+    "node_type": "Mean Node",
+    "description": "Hourly planetary positions calculated using Swiss Ephemeris"
+  },
+  "total_records": 5,
+  "data": [
+    {
+      "datetime": "2026-01-04 20:30:00",
+      "event": "Pada_Change",
+      "planet": "Jupiter",
+      "from_pada": 3,
+      "to_pada": 2,
+      "nakshatra": "Punarvasu",
+      "nakshatra_lord": "Jupiter",
+      "sign": "Gemini",
+      "sign_vi": "Song Tử",
+      "degree": "26°39'55.20\"",
+      "longitude": 86.665334
+    },
+    {
+      "datetime": "2026-01-20 12:30:00",
+      "event": "Pada_Change",
+      "planet": "Saturn",
+      "from_pada": 4,
+      "to_pada": 1,
+      "nakshatra": "Uttara Bhadrapada",
+      "nakshatra_lord": "Saturn",
+      "sign": "Pisces",
+      "sign_vi": "Song Ngư",
+      "degree": "3°20'01.49\"",
+      "longitude": 333.333748
+    },
+    {
+      "datetime": "2026-01-25 11:45:00",
+      "event": "Pada_Change",
+      "planet": "Rahu",
+      "from_pada": 4,
+      "to_pada": 3,
+      "nakshatra": "Shatabhisha",
+      "nakshatra_lord": "Rahu",
+      "sign": "Aquarius",
+      "sign_vi": "Bảo Bình",
+      "degree": "16°39'59.80\"",
+      "longitude": 316.666611
+    },
+    {
+      "datetime": "2026-01-25 11:45:00",
+      "event": "Pada_Change",
+      "planet": "Ketu",
+      "from_pada": 2,
+      "to_pada": 1,
+      "nakshatra": "Purva Phalguni",
+      "nakshatra_lord": "Venus",
+      "sign": "Leo",
+      "sign_vi": "Sư Tử",
+      "degree": "16°39'59.80\"",
+      "longitude": 136.666611
+    },
+    {
+      "datetime": "2026-01-30 13:30:00",
+      "event": "Pada_Change",
+      "planet": "Jupiter",
+      "from_pada": 2,
+      "to_pada": 1,
+      "nakshatra": "Punarvasu",
+      "nakshatra_lord": "Jupiter",
+      "sign": "Gemini",
+      "sign_vi": "Song Tử",
+      "degree": "23°19'58.56\"",
+      "longitude": 83.332932
+    }
+  ]
+}
